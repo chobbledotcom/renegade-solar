@@ -5,8 +5,8 @@
   --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
-$page_width: 1200px;
-$mobile_width: 768px;
+$page-width: 1200px;
+$mobile-width: 768px;
 
 * {
   box-sizing: border-box;
@@ -24,7 +24,7 @@ body {
   gap: 2rem;
   line-height: 2;
 
-  @media (max-width: $mobile_width) {
+  @media (max-width: $mobile-width) {
     padding-top: 60px;
     gap: 1rem;
   }
@@ -59,17 +59,17 @@ hr {
 }
 
 .container {
-  max-width: $page_width;
+  max-width: $page-width;
   margin: 0 auto;
 
-  @media (max-width: $page_width) {
+  @media (max-width: $page-width) {
     &>.row {
       padding-left: 0.5rem;
       padding-right: 0.5rem;
     }
   }
 
-  @media (max-width: $mobile_width) {
+  @media (max-width: $mobile-width) {
     &>.row {
       padding-left: 1rem;
       padding-right: 1rem;
@@ -120,7 +120,7 @@ header {
     }
   }
 
-  @media (max-width: $mobile_width) {
+  @media (max-width: $mobile-width) {
     position: fixed;
     top: 0;
     width: 100%;
@@ -217,7 +217,7 @@ article {
       border-radius: 8px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
       transition: transform 0.2s ease;
-      max-width: 20%;
+      width: 20%;
 
       &:hover {
         transform: translateY(-2px);
@@ -229,13 +229,12 @@ article {
         object-fit: contain;
       }
 
-      @media (min-width: 900px) {
-        max-width: 180px;
+      @media (min-width: $mobile-width) {
+        width: calc((100% - 5rem) / 6);
         padding: 1rem;
       }
 
-      @media (min-width: 1200px) {
-        max-width: 180px;
+      @media (min-width: $page-width) {
         padding: 1rem 2rem;
 
         img {
@@ -291,7 +290,7 @@ article {
     margin-bottom: 1rem;
   }
 
-  @media (max-width: $mobile_width) {
+  @media (max-width: $mobile-width) {
     min-width: 100%;
   }
 }
