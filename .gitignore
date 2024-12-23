@@ -1,0 +1,9 @@
+.aider*
+.direnv
+.env
+.nix-gems
+.sass-cache
+_site
+node_modules
+package.json
+result

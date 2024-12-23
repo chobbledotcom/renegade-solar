@@ -1,0 +1,13 @@
+---
+layout: base.html
+---
+
+<article>
+  <div class="card">
+    <img class="accreditation-logo" src="/assets/accreditation-logos/{{ logo }}" alt="{{ title }}">
+  </div>
+  <div class="card">
+    {{ content }}
+  </div>
+  {% include "contact-form.html" %}
+</article>

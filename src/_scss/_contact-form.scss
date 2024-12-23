@@ -1,0 +1,13 @@
+.contact-form {
+  border-radius: 8px;
+  border: none;
+  margin: 2rem auto;
+  display: block;
+  width: 616px;
+  max-width: 100%;
+  height: 496px;
+
+  @media (min-width: 686px) {
+    height: 444px;
+  }
+}

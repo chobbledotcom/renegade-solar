@@ -1,0 +1,15 @@
+<div class="accreditations-container">
+  <div class="scroll">
+    {% assign sorted_accreditations = collections.accreditation | sort: 'data.order' %}
+    {% for acc in sorted_accreditations %}
+    <a class="item" href="{{ acc.url }}" title="{{ acc.data.tooltip }}">
+      {% if acc.data.logo contains ".svg" or acc.data.logo contains ".png" %}
+      <img src="/assets/accreditation-logos/{{ acc.data.logo }}" alt="{{ acc.data.title }}">
+      {% else %}
+      {% capture logo %}./src/assets/accreditation-logos/{{ acc.data.logo }}{% endcapture %}
+      {% image logo, acc.data.title, "150px" %}
+      {% endif %}
+    </a>
+    {% endfor %}
+  </div>
+</div>

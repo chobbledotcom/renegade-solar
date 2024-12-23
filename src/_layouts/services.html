@@ -1,0 +1,24 @@
+---
+layout: base.html
+---
+
+<article>
+  <div class="card">
+    {{ content }}
+  </div>
+  <div class="row">
+    {% assign sorted_services = collections.service | sort: 'data.order' %}
+    {% for service in sorted_services %}
+    <div class="card">
+      <h2>
+        <a href="{{ service.url }}">
+          {{ service.data.title }}
+        </a>
+      </h2>
+      <p>{{ service.data.snippet }}</p>
+    </div>
+    {%- endfor -%}
+  </div>
+  {% include "contact-form.html" %}
+  {% include "accreditations.html" %}
+</article>

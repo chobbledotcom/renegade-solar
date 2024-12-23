@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} | Renegade Solar</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="preconnect" href="https://fonts.bunny.net">
+  <link href="https://fonts.bunny.net/css?family=abel:400" rel="stylesheet" />
+  <meta name="robots" content="noindex, follow">
+</head>
+
+<body>
+  <header>
+    <div class="container">
+      <a href="/" class="logo">
+        <img src="/assets/renegade-solar-logo.png" alt="Renegade Solar Logo">
+      </a>
+      {% include "navbar.html" %}
+    </div>
+  </header>
+
+  {{ content }}
+
+  <footer>
+    <div class="container">
+      {% include "footer.html" %}
+    </div>
+  </footer>
+</body>
+
+</html>
