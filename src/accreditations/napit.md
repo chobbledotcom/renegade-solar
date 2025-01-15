@@ -1,14 +1,24 @@
 ---
 title: NAPIT
 logo: napit.png
-tooltip: TODO
+tooltip: A governing body that promotes safe and high-quality work while ensuring installers meet strict industry standards
+url: https://search.napit.org.uk/member/66870/renegade-electrical-ltd
 ---
 
-# NAPIT
+# What is NAPIT?
 
-[**See our listing on the NAPIT website here**](https://search.napit.org.uk/member/66870/renegade-electrical-ltd)
+NAPIT (National Association of Professional Inspectors and Testers) is a governing body that promotes safe and high-quality work while ensuring installers meet strict industry standards.
 
-<!-- What is Napit and why is it important ? 
-Napit ( National Assosiation of Proprty and indipendant trades) is a body that promotes safe and high quality work and ensures that installers meet strict standards. That covers things like :
-Safety - Napit registered installers are able to work safely and to the latest standards.
-Certificates - Napit registered installers can provide certificates that demonstrate there work meets regulatory compliance. Essential when selling , renting or building a propperty. 
+## Why Choose a NAPIT Registered Installer?
+
+### Safety
+
+NAPIT registered installers are qualified to work safely and comply with the latest industry standards.
+
+### Certification
+
+NAPIT registered installers can provide essential certificates that demonstrate regulatory compliance - crucial documentation when:
+
+- Selling a property
+- Renting a property
+- Building works

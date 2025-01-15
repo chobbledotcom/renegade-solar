@@ -1,13 +1,12 @@
 ---
 title: Checkatrade
 logo: checkatrade.svg
-tooltip: We have a 9.96 out of 10 rating on Checkatrade.com after 88 reviews
+tooltip: We have a 9.96 out of 10 rating on Checkatrade.com after 80+ reviews
+url: https://www.checkatrade.com/trades/renegadeelectrical
 ---
 
-# Checkatrade
+## Why Choose a Checkatrade Member?
 
-[**Our listing on Checkatrade with a 9.96 out of 10 rating**](https://www.checkatrade.com/trades/renegadeelectrical)
-
-Checked - we have passed checkatrades 12 rigourous checks 
-reviewed - we have over 80 reviews you can read anytime by clicking the link above. 
-Guaranteed - checkatrade gurantee our work if booked through them. 
+- **Checked** - We have passed Checkatrade's 12 rigorous verification checks
+- **Reviewed** - Read our 80+ verified customer reviews by visiting our [Checkatrade profile](https://www.checkatrade.com/trades/renegadeelectrical)
+- **Guaranteed** - All work booked through Checkatrade comes with their workmanship guarantee

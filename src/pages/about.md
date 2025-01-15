@@ -8,17 +8,22 @@ link_title: About
 order: 1
 ---
 
-## We are Renegade Solar
+## About Renegade Solar
 
-My name is Ashley Merritt and i am the owner of Renegade Solar, I'm from North Manchester. I have over 15 years experience working as an electrician, with 10 years experience working on commercial projects.
+My name is Ashley Merritt, owner of Renegade Solar. Based in North Manchester, I have over 15 years' experience as an electrician, including 10 years in commercial projects.
 
-In 2016 I went to the Channel Islands and worked on high end mansions and apartments, supplying power and lighting to loft conversions, kitchens, extensions and all other types of domestic & commercial services, even industrial properties like the Jersey Recycling Centre.
+In 2016, I worked in the Channel Islands on high-end mansions and apartments, providing electrical services for:
 
-I moved back to Manchester and in 2018 I decided to go out on my own and started Renegade Electrical.
+- Loft conversions
+- Kitchens
+- Extensions
+- Domestic and commercial properties
+- Industrial sites, including the Jersey Recycling Centre
 
-Like most people in todays world, I am genuinely concerned about the effects of climate change, but at the same time i  understand the need for renewable solutions that suit eveybodys needs , that may be  a commercial business trying to cut down energy costs or a family trying to save money just the same, either way at renegade so,lar we have a solution for you.  
+After returning to Manchester, I established Renegade Electrical in 2018.
 
+Like most people today, I am genuinely concerned about climate change. I understand the need for renewable solutions that suit everybody's needs - whether that's a commercial business trying to cut energy costs or a family trying to save money. At Renegade Solar, we have a solution for you.
 
-I am amazed at how much power these new modern panels can generate on a rooftop in the North of England, and together with batterry storage you will be amazed at how much money you will save!
+I am continually amazed at how much power these modern solar panels can generate on a rooftop in the North of England. Together with battery storage, you will be amazed at how much money you can save!
 
 **[Contact us](/contact/) for a quotation for solar panel installation.**

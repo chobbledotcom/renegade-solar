@@ -1,12 +1,13 @@
 ---
 title: Home Battery Installations
-snippet: No solar required or roof not suitable why not go battery and inverter only. 
-description: TODO
+snippet: No solar required, or your roof is not suitable? Why not go battery and inverter only.
+description: With our home battery-only installations, you can benefit from cheap energy by charging your home battery during off-peak times.
 icon: battery.svg
+order: 2
 ---
 
 # Home Battery Installation
 
-With out home battery only installations you can get the benifit of cheap energy by charging your home battery during off peak times.Get in touch for more information. 
+With our home battery-only installations, you can benefit from cheap energy by charging your home battery during off-peak times.
 
-To contact us about example service, [click here](/contact/)
+To contact us about home battery installations, [click here](/contact/)

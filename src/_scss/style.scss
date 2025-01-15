@@ -2,7 +2,8 @@
 @import "_contact-form.scss";
 
 :root {
-  --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 $page-width: 1200px;
@@ -36,11 +37,11 @@ h3,
 h4 {
   color: #4caf50;
   line-height: 1.4;
-  font-family: 'Abel', var(--system-ui);
+  font-family: "Abel", var(--system-ui);
 }
 
 nav {
-  font-family: 'Abel', var(--system-ui);
+  font-family: "Abel", var(--system-ui);
 }
 
 a {
@@ -63,14 +64,14 @@ hr {
   margin: 0 auto;
 
   @media (max-width: $page-width) {
-    &>.row {
+    & > .row {
       padding-left: 0.5rem;
       padding-right: 0.5rem;
     }
   }
 
   @media (max-width: $mobile-width) {
-    &>.row {
+    & > .row {
       padding-left: 1rem;
       padding-right: 1rem;
     }
@@ -111,7 +112,6 @@ header {
 
       &:hover {
         color: yellow;
-
       }
 
       &.active {
@@ -166,7 +166,7 @@ article {
 }
 
 .hero {
-  background: url("/assets/ashley.jpg");
+  background: url("/assets/photos/ashley.jpg");
   background-position: center;
   background-size: cover;
   color: white;
@@ -319,6 +319,11 @@ article {
       }
     }
   }
+}
+
+.accreditation-url {
+  text-align: center;
+  font-weight: bold;
 }
 
 footer {

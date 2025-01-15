@@ -1,14 +1,16 @@
 ---
 title: Octopus Trusted Partner
 logo: octopus-trusted-partner.jpg
-tooltip: TODO
+tooltip: We are a trusted parter of Octopus Energy
+url: https://octopus.energy
 ---
 
 # Octopus Trusted Partner
-We have teamed up with Octopus Energy as one of there trusted partners, which means we sometimes get referals from Octopus to install some of there ev chargers or solar and battery installations. 
-Working to achive the same goal of carbon neutal for the country as one. 
-[**Check out the Octopus Energy 'Trusted Partners' Website**](https://octopus.energy/Octopus-Trusted-Partners/)
 
+We are proud to be an [official trusted partner of Octopus Energy](https://octopus.energy/Octopus-Trusted-Partners/). This partnership means we receive direct referrals from Octopus Energy for installations of:
 
+- EV chargers
+- Solar panels
+- Battery storage systems
 
-
+Together, we share the mission of helping the UK achieve carbon neutrality through renewable energy solutions and sustainable technology.

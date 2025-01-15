@@ -8,6 +8,6 @@ layout: services.html
 permalink: /services/index.html
 ---
 
-# Services
+# Renegade Solar's Services
 
-As EXAMPLE and EXAMPLE qualified electricians we are able to offer the following services:
+We're proud to offer the following services to customers across Greater Manchester and the wider North West UK:
