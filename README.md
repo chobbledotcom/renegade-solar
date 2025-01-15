@@ -8,6 +8,7 @@ The website for Renegade Solar - solar panel installers in Manchester
 - [Pages to edit](src/pages)
 - [Accreditations to edit](src/accreditations)
 - [Services to edit](src/services)
+- [Upload images](src/assets)
 - [Credits](CREDITS.md)
 
 [renegade-solar.co.uk](https://renegade-solar.co.uk)
