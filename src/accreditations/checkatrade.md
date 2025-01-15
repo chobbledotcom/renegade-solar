@@ -8,6 +8,6 @@ tooltip: We have a 9.96 out of 10 rating on Checkatrade.com after 88 reviews
 
 [**Our listing on Checkatrade with a 9.96 out of 10 rating**](https://www.checkatrade.com/trades/renegadeelectrical)
 
-Sociosqu habitant adipiscing venenatis laoreet, convallis cursus. Cursus platea sem dignissim imperdiet primis duis curae senectus tortor.
-
-Mi consequat mus rutrum egestas nisi maecenas rhoncus.
+Checked - we have passed checkatrades 12 rigourous checks 
+reviewed - we have over 80 reviews you can read anytime by clicking the link above. 
+Guaranteed - checkatrade gurantee our work if booked through them. 
