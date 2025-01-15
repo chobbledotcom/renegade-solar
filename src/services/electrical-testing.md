@@ -1,12 +1,12 @@
 ---
 title: Electrical Testing
-snippet: Cursus platea sem dignissim imperdiet primis duis curae senectus tortor.
+snippet: Testing inspecting and Commisioning, 
 description: TODO
 icon: plug.svg
 ---
 
 # Electrical Testing
 
-We are experts in example service, because reasons
+We are experts in Electrical testing as we have over 15 years experance and are goverened by the countrys leading bodys. 
 
-To contact us about example service, [click here](/contact/)
+To contact us about Testing and inspection. , [click here](/contact/)
