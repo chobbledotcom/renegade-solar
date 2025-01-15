@@ -8,6 +8,7 @@ tooltip: TODO
 
 [**See our listing on the NAPIT website here**](https://search.napit.org.uk/member/66870/renegade-electrical-ltd)
 
-Porttitor sagittis tempus porttitor sagittis aenean gravida laoreet tristique. Netus consectetur sodales sed phasellus commodo pretium. Conubia curae aenean pellentesque ligula taciti maecenas ut.
-
-**Mattis duis nam mus suscipit senectus nunc rhoncus rutrum himenaeos.**
+<!-- What is Napit and why is it important ? 
+Napit ( National Assosiation of Proprty and indipendant trades) is a body that promotes safe and high quality work and ensures that installers meet strict standards. That covers things like :
+Safety - Napit registered installers are able to work safely and to the latest standards.
+Certificates - Napit registered installers can provide certificates that demonstrate there work meets regulatory compliance. Essential when selling , renting or building a propperty. 
