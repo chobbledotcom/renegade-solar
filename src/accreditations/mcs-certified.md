@@ -1,6 +1,6 @@
 ---
 title: MCS Certified
-logo: mcs-certified.svg
+logo: mcs-certified.png
 tooltip: Our MCS Certification Number is NAP-66870
 url: https://mcscertified.com
 ---

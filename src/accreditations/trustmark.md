@@ -1,6 +1,6 @@
 ---
 title: TrustMark
-logo: trustmark.svg
+logo: trustmark.png
 tooltip: The only government-endorsed quality scheme for trades operating in and around the home
 url: https://www.trustmark.org.uk
 ---

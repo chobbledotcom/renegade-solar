@@ -3,12 +3,8 @@ layout: base.html
 ---
 
 <article>
-  <div class="card">
-    <img
-      class="accreditation-logo"
-      src="/assets/accreditation-logos/{{ logo }}"
-      alt="{{ title }}"
-    />
+  <div class="card accreditation-logo-card">
+    <img class="accreditation-logo" src="/assets/accreditation-logos/{{ logo }}" alt="{{ title }}" />
   </div>
   {% if url %}
   <div class="card accreditation-url">

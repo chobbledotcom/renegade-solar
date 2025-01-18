@@ -1,6 +1,6 @@
 ---
 title: Octopus Trusted Partner
-logo: octopus-trusted-partner.jpg
+logo: octopus-trusted-partner.png
 tooltip: We are a trusted parter of Octopus Energy
 url: https://octopus.energy
 ---
