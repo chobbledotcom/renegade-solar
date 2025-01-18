@@ -9,9 +9,10 @@ layout: "contact.html"
 
 # Contact Renegade Solar
 
-- **Registered Company Number:** [11368812](https://find-and-update.company-information.service.gov.uk/company/11368812)
+Our business hours are 9am to 5pm, Monday to Friday, but if you drop us a message we'll get back to you as soon as we can.
+
 - **Email:** [renegadeelectrical99@gmail.com](mailto:renegadeelectrical99@gmail.com)
-- **Phone:** [07868 643 147](tel:07868643147) 
+- **Phone or WhatsApp:** [07868 643 147](tel:07868643147) 
 - **Facebook:** [@RenSolarManchester](https://www.facebook.com/RenSolarManchester)
 
 Or send us a message through the contact form below.
