@@ -1,6 +1,6 @@
 ---
 layout: home.html
-title: Home
+title: Solar Panel & Battery Installs in Manchester
 description: Renegade Solar - Solar panel and battery installations in Manchester
 permalink: /
 tags: top_link
