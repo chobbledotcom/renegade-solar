@@ -6,6 +6,16 @@ icon: solar-panel.svg
 order: 1
 ---
 
+# Solar and Battery Installations in Manchester
+
+When it comes to solar and battery installations you need an electrician who combines technical expertise with attention to detail and outstanding customer service.
+
+Renegade Solar is here to guide you through every step of your solar and battery installation journey.
+
+Our commitment to providing honest advice, competitive pricing, and exceptional workmanship means you can rely on us to deliver a solar solution that maximizes your energy independence while ensuring the highest safety standards.
+
+With our proven track record of reliability and customer satisfaction, you can rest assured your solar installation is in capable hands.
+
 ## Design and Planning
 
 From start to finish, you will have a personal design specialist going through the different types of installation: on roof, in roof, ground mounted or flat roof. While tailoring a design and quote to suit you, your home or property and your energy needs, every project is different but large or small will all get the same attention to detail.
@@ -24,4 +34,4 @@ Always available to provide further assistance with your new installation with 2
 
 All equipment comes with at least a 5 year warranty and some panels come with warranty of up to 30 years!
 
-To contact us about solar and battery installs, [click here](/contact/)
+**To contact us about solar and battery installs, [click here](/contact/)**
