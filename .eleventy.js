@@ -1,3 +1,4 @@
+const fs = require("node:fs/promises");
 const path = require("path");
 const Image = require("@11ty/eleventy-img");
 

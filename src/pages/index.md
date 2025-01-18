@@ -26,4 +26,4 @@ We can help homeowners and businesses make smart choices that not only benefit t
 
 Whether you’re looking to go completely off the grid or just want to significantly reduce your energy bills, Renegade Solar is here to guide you every step of the way.
 
-**[Click here](/contact/) to contact us.**
+**[Click here to contact us.](/contact/)**
