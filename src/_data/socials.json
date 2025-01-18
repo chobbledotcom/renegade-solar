@@ -1,0 +1,22 @@
+{
+  "facebook": {
+    "text": "Follow Renegade Solar on Facebook",
+    "url": "https://www.facebook.com/RenSolarManchester"
+  },
+  "linkedin": {
+    "text": "Add Renegade Solar on LinkedIn",
+    "url": "https://uk.linkedin.com/in/ashley-merritt-344898214"
+  },
+  "instagram": {
+    "text": "Follow Renegade Solar on Instagram",
+    "url": "https://www.instagram.com/renegadeelectrical"
+  },
+  "youtube": {
+    "text": "Watch Renegade Solar's videos on YouTube",
+    "url": "https://www.youtube.com/channel/UC2uDgA4RQ4iDLqUMnZzIL8Q"
+  },
+  "google": {
+    "text": "Check out Renegade Solar on Google Maps",
+    "url": "https://maps.app.goo.gl/8j3vvkz4uCafyRPN7"
+  }
+}

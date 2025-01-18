@@ -64,14 +64,14 @@ hr {
   margin: 0 auto;
 
   @media (max-width: $page-width) {
-    & > .row {
+    &>.row {
       padding-left: 0.5rem;
       padding-right: 0.5rem;
     }
   }
 
   @media (max-width: $mobile-width) {
-    & > .row {
+    &>.row {
       padding-left: 1rem;
       padding-right: 1rem;
     }
@@ -331,4 +331,21 @@ footer {
   color: white;
   text-align: center;
   padding: 2rem;
+
+  .social-links {
+    list-style-type: none;
+    padding: 1rem 0;
+
+    li {
+      display: inline-block;
+
+      img {
+        filter: invert(100%);
+
+        &:hover {
+          transform: scale(120%);
+        }
+      }
+    }
+  }
 }
