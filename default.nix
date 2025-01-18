@@ -29,6 +29,7 @@ pkgs.stdenv.mkDerivation {
 
   configurePhase = ''
     export HOME=$TMPDIR
+    rm -rf _site
     mkdir -p _site/style
 
     cp -r ${nodeModules}/node_modules .
