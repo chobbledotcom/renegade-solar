@@ -4,14 +4,14 @@
     <span></span>
   </label>
   <ul class="nav-links">
-    {% assign sorted_links = collections.top_link | sort: 'data.order' %}
-    {% for item in sorted_links %}
+    {%- assign sorted_links = collections.top_link | sort: 'data.order' -%}
+    {%- for item in sorted_links -%}
     <li>
-      <a href="{{ item.url }}" {% if page.url contains item.data.section or page.url==item.url %} class="active" {%
-        endif %}>
+      <a href="{{ item.url }}" {%- if page.url contains item.data.section or page.url==item.url -%} class="active" {%-
+        endif -%}>
         {{ item.data.link_title }}
       </a>
     </li>
-    {% endfor %}
+    {%- endfor -%}
   </ul>
 </nav>

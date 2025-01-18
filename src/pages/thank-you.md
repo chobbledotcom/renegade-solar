@@ -1,7 +1,8 @@
 ---
 title: Contact Renegade Solar
 permalink: /thank-you/index.html
-layout: thank-you.html
+layout: empty.html
+noindex: true
 ---
 
 # Contact Renegade Solar

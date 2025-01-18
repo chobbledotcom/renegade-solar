@@ -7,9 +7,12 @@
   <title>{{ title }} | Renegade Solar</title>
   <link rel="stylesheet" href="/css/style.css">
   <link rel="canonical" href="https://renegade-solar.co.uk{{ page.url }}">
-  {% if description %}
+  {%- if description -%}
   <meta name="description" content="{{ description }}">
-  {% endif %}
+  {%- endif -%}
+  {%- if noindex -%}
+  <meta name="robots" value="noindex, nofollow">
+  {%- endif %}
 </head>
 
 <body>
