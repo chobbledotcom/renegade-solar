@@ -24,6 +24,6 @@ We are certified professionals, and provide the highest quality solar panel inst
 
 We can help homeowners and businesses make smart choices that not only benefit the environment but also their Finances. 
 
-Whether you’re looking to go completely off the grid or just want to significantly reduce your energy bills, Renegade Solar is here to guide you every step of the way.
+Whether you want to become totally self-sufficient or you just want to significantly reduce your energy bills, Renegade Solar is here to guide you every step of the way.
 
 **[Click here to contact us.](/contact/)**
