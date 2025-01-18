@@ -1,5 +1,4 @@
 {
   "layout": "page.html",
-  "permalink": "/{{ page.filePathStem }}/index.html",
-  "tags": "top_link"
+  "permalink": "/{{ page.filePathStem }}/index.html"
 }

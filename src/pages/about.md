@@ -3,7 +3,7 @@ layout: page.html
 title: Home
 description: About Ashley Merritt, electrician from Manchester
 permalink: /about/index.html
-tags: top-link
+tags: top_link
 link_title: About
 order: 1
 ---
