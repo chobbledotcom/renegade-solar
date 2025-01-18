@@ -11,3 +11,53 @@
     height: 444px;
   }
 }
+
+.contact-form-form {
+  width: 100%;
+  max-width: 500px;
+  padding: 1rem;
+  margin: 1rem auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background: #fff;
+
+  label,
+  input,
+  textarea {
+    display: block;
+    width: 100%;
+    margin: 0 0 1rem 0;
+  }
+
+  label {
+    color: #4caf50;
+    font-family: "Abel", var(--system-ui);
+  }
+
+  input,
+  textarea,
+  button {
+    padding: 0.3rem 0.5rem;
+    font-family: "Abel", var(--system-ui);
+    border-radius: 3px;
+    border: 1px solid #CCC;
+    font-size: 1.2rem;
+  }
+
+  textarea {
+    height: 6rem;
+  }
+
+  button {
+    color: white;
+    font-size: 1.2rem;
+    background: #4caf50;
+    border: 1px solid darken(#4caf50, 20%);
+    font-family: "Abel", var(--system-ui);
+    cursor: pointer;
+
+    &:hover {
+      color: yellow;
+    }
+  }
+}
