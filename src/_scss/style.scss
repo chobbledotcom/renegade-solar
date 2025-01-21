@@ -1,13 +1,16 @@
 @import "_navbar";
 
 @font-face {
-  font-family: 'Abel';
+  font-family: "Abel";
   font-style: normal;
-  font-weight: 400;
-  src: url(/assets/font/abel-latin-400-normal.woff2) format('woff2'), url(/assets/font/abel-latin-400-normal.woff) format('woff');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-weight: normal;
+  src:
+    url("/assets/font/abel-latin-400-normal.woff2") format("woff2"),
+    url("/assets/font/abel-latin-400-normal.woff") format("woff");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
 }
-
 :root {
   --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -15,11 +18,9 @@
 
 $page-width: 1200px;
 $mobile-width: 768px;
-
 * {
   box-sizing: border-box;
 }
-
 body {
   margin: 0;
   padding: 0;
@@ -37,90 +38,75 @@ body {
     gap: 1rem;
   }
 }
-
 h1,
 h2,
 h3,
 h4 {
-  color: #2E7531;
+  color: #2e7531;
   line-height: 1.4;
   font-family: "Abel", var(--system-ui);
 }
-
 nav {
   font-family: "Abel", var(--system-ui);
 }
-
 a {
-  color: #2E7531;
+  color: #2e7531;
 }
-
 .margin-top {
   margin-top: 1rem;
 }
-
 hr {
   color: #388e3c;
   opacity: 0.2;
   height: 1px;
   margin: 2rem 0;
 }
-
 .container {
   max-width: $page-width;
   margin: 0 auto;
 
   @media (max-width: $page-width) {
-    &>.row {
+    & > .row {
       padding-left: 0.5rem;
       padding-right: 0.5rem;
     }
   }
 
   @media (max-width: $mobile-width) {
-    &>.row {
+    & > .row {
       padding-left: 1rem;
       padding-right: 1rem;
     }
   }
 }
-
 header {
   padding: 0 1rem;
   background: #1a1a1a;
-
   .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
   }
-
   .logo {
     display: flex;
-
     img {
       height: 40px;
       width: auto;
     }
   }
-
   nav {
     background: #1a1a1a;
     padding: 1rem;
     position: relative;
   }
-
   .nav-links {
     background: #1a1a1a;
     font-size: larger;
-
     a {
       color: white;
-
       &:hover {
         color: yellow;
       }
-
       &.active {
         color: #4caf50;
       }
@@ -134,17 +120,14 @@ header {
     z-index: 1000;
     background: #1a1a1a;
     padding: 5px;
-
     .logo {
       padding: 0.5rem 1rem;
-
       img {
         height: 30px;
       }
     }
   }
 }
-
 article {
   width: $page-width;
   max-width: 100%;
@@ -162,16 +145,13 @@ article {
   @media (max-width: $page-width) {
     padding: 0 0.5rem;
   }
-
   a {
     transition: color 0.3s ease;
-
     &:hover {
       color: black;
     }
   }
 }
-
 .hero {
   background: url("/assets/photos/ashley.jpg");
   background-position: center;
@@ -184,10 +164,9 @@ article {
   margin: 0 auto;
   position: relative;
   margin-top: -2rem;
-
   h1 {
     background: rgba(0, 0, 0, 0.8);
-    color: #1D8B25;
+    color: #1d8b25;
     padding: 1rem;
     position: absolute;
     margin: 0;
@@ -200,10 +179,8 @@ article {
     }
   }
 }
-
 .accreditations-container {
   overflow: hidden;
-
   .scroll {
     display: flex;
     gap: 1rem;
@@ -213,11 +190,9 @@ article {
     scrollbar-width: none;
     -ms-overflow-style: none;
     align-items: center;
-
     &::-webkit-scrollbar {
       display: none;
     }
-
     .item {
       flex: 0 0 auto;
       padding: 0.5rem;
@@ -226,11 +201,9 @@ article {
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
       transition: transform 0.2s ease;
       width: 20%;
-
       &:hover {
         transform: translateY(-2px);
       }
-
       img {
         height: 80px;
         width: 100%;
@@ -244,7 +217,6 @@ article {
 
       @media (min-width: $page-width) {
         padding: 1rem 2rem;
-
         img {
           height: 150px;
         }
@@ -252,7 +224,6 @@ article {
     }
   }
 }
-
 .card {
   background: #f9f9f9;
   min-width: 50%;
@@ -270,12 +241,10 @@ article {
     padding: 1.5rem;
   }
 }
-
 .row {
   display: flex;
   gap: 2rem;
   flex-wrap: wrap;
-
   &.v-padding {
     padding-left: 0.5rem;
     padding-right: 0.5rem;
@@ -285,7 +254,6 @@ article {
     gap: 1rem;
   }
 }
-
 .highlight {
   background: white;
   flex: 1;
@@ -293,7 +261,6 @@ article {
   padding: 1.5rem;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-
   h3 {
     margin-bottom: 1rem;
   }
@@ -302,27 +269,21 @@ article {
     min-width: 100%;
   }
 }
-
 .accreditation-logo-card {
   margin-top: 1rem;
 }
-
 .accreditation-logo {
   display: block;
   margin: 0 auto;
   max-width: 40%;
 }
-
 .services-list {
   list-style-type: square;
   padding-left: 30px;
-
   li {
     position: relative;
-
     &:has(img) {
       list-style-type: none;
-
       img {
         position: absolute;
         left: -25px;
@@ -332,32 +293,25 @@ article {
     }
   }
 }
-
 .accreditation-url {
   text-align: center;
   font-weight: bold;
 }
-
 footer {
   background: #1a1a1a;
   color: white;
   text-align: center;
   padding: 2rem;
-
   a {
-    color: #22A02A;
+    color: #22a02a;
   }
-
   .social-links {
     list-style-type: none;
     padding: 1rem 0;
-
     li {
       display: inline-block;
-
       img {
         filter: invert(100%);
-
         &:hover {
           transform: scale(120%);
         }
@@ -365,7 +319,6 @@ footer {
     }
   }
 }
-
 .contact-form-form {
   width: 100%;
   max-width: 500px;
@@ -373,8 +326,7 @@ footer {
   margin: 1rem auto;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  background: #fff;
-
+  background: #ffffff;
   label,
   input,
   textarea {
@@ -382,34 +334,29 @@ footer {
     width: 100%;
     margin: 0 0 1rem 0;
   }
-
   label {
-    color: #2E7531;
+    color: #2e7531;
     font-family: "Abel", var(--system-ui);
   }
-
   input,
   textarea,
   button {
     padding: 0.3rem 0.5rem;
     font-family: "Abel", var(--system-ui);
     border-radius: 3px;
-    border: 1px solid #CCC;
+    border: 1px solid #cccccc;
     font-size: 1.2rem;
   }
-
   textarea {
     height: 6rem;
   }
-
   button {
     color: white;
     font-size: 1.2rem;
-    background: #2E7531;
+    background: #2e7531;
     border: 1px solid darken(#388e3c, 20%);
     font-family: "Abel", var(--system-ui);
     cursor: pointer;
-
     &:hover {
       color: yellow;
     }

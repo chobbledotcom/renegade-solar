@@ -22,7 +22,7 @@ We are certified professionals, and provide the highest quality solar panel inst
 
 ### Great Savings & Return on Investment
 
-We can help homeowners and businesses make smart choices that not only benefit the environment but also their Finances. 
+We can help homeowners and businesses make smart choices that not only benefit the environment but also their Finances.
 
 Whether you want to become totally self-sufficient or you just want to significantly reduce your energy bills, Renegade Solar is here to guide you every step of the way.
 
