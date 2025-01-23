@@ -367,6 +367,7 @@ footer {
     &[disabled] {
       background: #666;
       border: black;
+      cursor: wait;
     }
   }
 }
