@@ -357,11 +357,16 @@ footer {
     color: white;
     font-size: 1.2rem;
     background: #2e7531;
+    transition: 0.3s background ease-in;
     border: 1px solid darken(#388e3c, 20%);
     font-family: "Abel", var(--system-ui);
     cursor: pointer;
     &:hover {
       color: yellow;
+    }
+    &[disabled] {
+      background: #666;
+      border: black;
     }
   }
 }
