@@ -13,13 +13,14 @@ module.exports = async function (eleventyConfig) {
 	});
 
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+		formats: ["auto"],
 		widths: ["auto"],
+		svgShortCircuit: "size",
 		htmlOptions: {
 			imgAttributes: {
 				loading: "lazy",
 				decoding: "async",
 			},
-			pictureAttributes: {},
 		},
 	});
 
