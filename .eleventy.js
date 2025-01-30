@@ -1,6 +1,6 @@
 const fs = require("node:fs/promises");
 const path = require("path");
-const Image = require("@11ty/eleventy-img");
+const { Image, eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
 module.exports = async function (eleventyConfig) {
 	const { EleventyRenderPlugin } = await import("@11ty/eleventy");
@@ -10,6 +10,10 @@ module.exports = async function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("src/assets");
 	eleventyConfig.addPassthroughCopy({
 		"src/assets/favicon.ico": "/favicon.ico",
+	});
+
+	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+		widths: ["auto"],
 	});
 
 	eleventyConfig.addShortcode("image", async (src, alt, sizes) => {

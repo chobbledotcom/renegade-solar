@@ -7,10 +7,10 @@ let
     name = "package.json";
     text = builtins.toJSON {
       name = "renegade-solar-co-uk";
-      version = "1.0.0";
+      version = "1.0.1";
       dependencies = {
         "@11ty/eleventy" = "^3.0.0";
-        "@11ty/eleventy-img" = "^5.0.0";
+        "@11ty/eleventy-img" = "^6.0.0";
         "fast-glob" = "^3.3.2";
       };
     };

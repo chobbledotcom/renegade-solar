@@ -153,17 +153,17 @@ article {
   }
 }
 .hero {
-  background: url("/assets/photos/ashley.jpg");
-  background-position: center;
-  background-size: cover;
   color: white;
   text-align: center;
-  aspect-ratio: 16/9;
   width: 100%;
   max-width: $page-width;
   margin: 0 auto;
   position: relative;
   margin-top: -2rem;
+  img {
+    display: block;
+    width: 100%;
+  }
   h1 {
     background: rgba(0, 0, 0, 0.8);
     color: #1d8b25;
