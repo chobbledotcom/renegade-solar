@@ -14,6 +14,13 @@ module.exports = async function (eleventyConfig) {
 
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
 		widths: ["auto"],
+		htmlOptions: {
+			imgAttributes: {
+				loading: "lazy",
+				decoding: "async",
+			},
+			pictureAttributes: {},
+		},
 	});
 
 	eleventyConfig.addShortcode("image", async (src, alt, sizes) => {

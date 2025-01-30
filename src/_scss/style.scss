@@ -163,10 +163,12 @@ article {
   img {
     display: block;
     width: 100%;
+    aspect-ratio: 4624/2084;
+    height: auto;
   }
   h1 {
-    background: rgba(0, 0, 0, 0.8);
-    color: #1d8b25;
+    background: rgba(0, 0, 0, 0.6);
+    color: #4bcc54;
     padding: 1rem;
     position: absolute;
     margin: 0;
