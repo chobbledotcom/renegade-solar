@@ -61,6 +61,9 @@ hr {
   height: 1px;
   margin: 2rem 0;
 }
+blockquote {
+  font-style: italic;
+}
 .container {
   max-width: $page-width;
   margin: 0 auto;
@@ -370,6 +373,17 @@ footer {
       background: #666;
       border: black;
       cursor: wait;
+    }
+  }
+}
+.image-row {
+  p {
+    display: flex;
+    gap: 1em;
+    img {
+      height: auto;
+      max-width: 100%;
+      min-width: 0;
     }
   }
 }
