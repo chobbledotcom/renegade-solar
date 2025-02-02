@@ -1,13 +1,13 @@
-<ul class="services-list">
+<div class="services-list">
   {% assign sorted_services = collections.service | sort: 'data.order' %}
   {% for service in sorted_services %}
-  <li>
-    <a href="{{ service.url }}">
-      {% if service.data.icon %}
-      <img src="/assets/icons/{{ service.data.icon }}" alt="">
-      {% endif %}
+  <a href="{{ service.url }}">
+    {% if service.data.icon %}
+    <img src="/assets/icons/{{ service.data.icon }}" alt="">
+    {% endif %}
+    <span>
       {{ service.data.title }}
-    </a>
-  </li>
+    </span>
+  </a>
   {%- endfor -%}
-</ul>
+</div>

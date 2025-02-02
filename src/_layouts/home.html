@@ -9,13 +9,14 @@ layout: base.html
 </div>
 
 <article>
-  {% include "accreditations.html" %}
-
   <div class="card">
-    <h2>Services We Offer</h2>
-    <p>Click through for more details:</p>
+    <div class="services-heading">
+      <h2>Services We Offer</h2>
+    </div>
     {% include "services-list.html" %}
   </div>
+
+  {% include "accreditations.html" %}
 
   <div class="card">
     {{ content }}
