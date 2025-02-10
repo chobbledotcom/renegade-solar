@@ -24,7 +24,7 @@ One might assume that the near-constant drizzle here in Manchester will make you
 
 ## A Prestwich Testimonial
 
-We fitted [solar panels and a battery](services/solar-and-battery-installations/), a new circuit board, outdoor lighting, and a "positive input ventilation" system to a house in Prestwich facing St Mary's Park. Here's what that customer has to say about our work:
+We fitted [solar panels and a battery](/services/solar-and-battery-installations/), a new circuit board, outdoor lighting, and a "positive input ventilation" system to a house in Prestwich facing St Mary's Park. Here's what that customer has to say about our work:
 
 > "I bought a stereotypical Victorian end terrace in Prestwich, which came with all of the usual problems - single-glazed windows, a sagging roof, and an outdated electricity board which didn't meet current standards. After worrying that I might need a full house re-wire (and getting some very expensive quotes from local electricians) I consulted Ashley, who inspected the full supply and let me know that a much cheaper circuit board upgrade would make our electricity safe.
 
