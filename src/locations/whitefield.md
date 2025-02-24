@@ -50,7 +50,7 @@ I'm also regularly passing through, which means arranging an appointment should 
 
 ## Whitefield Coverage Areas
 
-We serve every part of Whitefield and other towns in North Manchester - from Besse's up to Sunnybank, or down towards Radcliffe. We'll cover anywhere in Manchester, really - but we prefer to work close to home, in Prestwich, Whitefield, Middleton and Bury.
+We serve every part of Whitefield and other towns in North Manchester - from Besse's up to Sunnybank, down towards Radcliffe, or across to Hollins and Heywood. We'll cover anywhere in Manchester, really - but we prefer to work close to home, in Prestwich, Whitefield, Middleton and Bury.
 
 ## Okay, I'm Interested!
 
