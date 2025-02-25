@@ -11,4 +11,5 @@ The website for Renegade Solar - solar panel installers in Manchester
 - [Upload images](src/assets)
 - [Credits](CREDITS.md)
 
-[kevinburkeservices.com](https://kevinburkeservices.com/)
+[renegade-solar.co.uk](https://renegade-solar.co.uk)
+
