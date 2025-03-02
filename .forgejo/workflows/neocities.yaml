@@ -3,11 +3,12 @@ env:
   NIX_PATH: nixpkgs=/nix/var/nix/profiles/per-user/root/channels/nixos
   NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
 jobs:
-  ls:
+  build:
     runs-on: native
     steps:
-      - uses: actions/checkout@v4
-      - run: |
-          cd ${{ github.workspace }}
-          nix-build
-          neocities push --prune result
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build
+        run: nix-build
+      - name: Deploy
+        run: neocities push --prune result
