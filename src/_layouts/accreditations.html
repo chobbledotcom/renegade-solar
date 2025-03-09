@@ -1,0 +1,15 @@
+---
+layout: base.html
+---
+
+{% assign accs = collections.accreditation %}
+
+<article>
+  <div class="card">{{ content }}</div>
+  {% for acc in accs %}
+  <div class="card">
+    <h2><a href="{{ acc.url }}">{{ acc.data.title }}</a></h2>
+    <p>{{ acc.data.snippet }}</p>
+  </div>
+  {%- endfor -%} {% include "contact-form.html" %}
+</article>

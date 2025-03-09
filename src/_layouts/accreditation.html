@@ -4,13 +4,22 @@ layout: base.html
 
 <article>
   <div class="card accreditation-logo-card">
-    <img class="accreditation-logo" src="/assets/accreditation-logos/{{ logo }}" alt="{{ title }}" />
+    <img
+      class="accreditation-logo"
+      src="/assets/accreditation-logos/{{ logo }}"
+      alt="{{ title }}"
+    />
   </div>
   {% if url %}
   <div class="card accreditation-url">
     <a href="{{ url }}"> {{ url | replace: "https://", "" }} </a>
   </div>
   {% endif %}
-  <div class="card">{{ content }}</div>
+  <div class="card">
+    <p>
+      <a href="/accreditations/"> &#8592; <strong>Accreditations</strong> </a>
+    </p>
+    {{ content }}
+  </div>
   {% include "contact-form.html" %}
 </article>
