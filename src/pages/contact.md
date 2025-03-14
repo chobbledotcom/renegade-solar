@@ -2,7 +2,7 @@
 title: Contact Renegade Solar
 link_title: Contact
 tags: top_link
-order: 3
+order: 4
 permalink: /contact/index.html
 layout: "contact.html"
 ---
@@ -12,7 +12,8 @@ layout: "contact.html"
 Our business hours are 9am to 5pm, Monday to Friday, but if you drop us a message we'll get back to you as soon as we can.
 
 - **Email:** [renegadeelectrical99@gmail.com](mailto:renegadeelectrical99@gmail.com)
-- **Phone or WhatsApp:** [07868 643 147](tel:07868643147) 
+- **Phone:** [07868 643 147](tel:07868643147)
+- **WhatsApp:** [Click here](https://wa.me/447868643147)
 - **Facebook:** [@RenSolarManchester](https://www.facebook.com/RenSolarManchester)
 
 Or send us a message through the contact form below.

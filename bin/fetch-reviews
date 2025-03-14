@@ -1,0 +1,71 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+# Script to fetch reviews from Checkatrade API and save them to individual files
+# Usage: nix-shell -p jq curl --run "bin/fetch-reviews"
+
+# Ensure the reviews directory exists
+mkdir -p src/_data/reviews
+
+# Base URL for the API
+BASE_URL="https://api.checkatrade.com/v1/consumer-public/reviews/1110420"
+PAGE_SIZE=25
+page=1
+total_reviews=0
+fetched_reviews=0
+
+echo "Fetching reviews from Checkatrade API..."
+
+# First request to get the total number of reviews
+response=$(curl -s "$BASE_URL?size=$PAGE_SIZE&page=$page&orderDesc=createdAt")
+total_reviews=$(echo "$response" | jq -r '.total')
+
+echo "Total reviews to fetch: $total_reviews"
+
+# Process the first page
+echo "$response" | jq -c '.data[]' | while read -r review; do
+  id=$(echo "$review" | jq -r '.id')
+  echo "$review" > "src/_data/reviews/$id.json"
+  fetched_reviews=$((fetched_reviews + 1))
+  echo "Saved review $id ($fetched_reviews of $total_reviews)"
+done
+
+# Calculate total pages
+total_pages=$(( (total_reviews + PAGE_SIZE - 1) / PAGE_SIZE ))
+
+# Fetch remaining pages
+while [ $page -lt $total_pages ]; do
+  page=$((page + 1))
+  echo "Fetching page $page of $total_pages..."
+  
+  response=$(curl -s "$BASE_URL?size=$PAGE_SIZE&page=$page&orderDesc=createdAt")
+  
+  echo "$response" | jq -c '.data[]' | while read -r review; do
+    id=$(echo "$review" | jq -r '.id')
+    echo "$review" > "src/_data/reviews/$id.json"
+    fetched_reviews=$((fetched_reviews + 1))
+    echo "Saved review $id ($fetched_reviews of $total_reviews)"
+  done
+  
+  # Small delay to avoid hitting rate limits
+  sleep 1
+done
+
+echo "All reviews fetched successfully!"
+
+# Create a summary file with all reviews
+echo "Creating reviews summary file..."
+
+# Create a more structured summary with sorted reviews by date
+jq -s '
+  sort_by(.createdAt) | 
+  reverse | 
+  {
+    total: length,
+    averageRating: (map(.rating.rating) | add / length),
+    reviews: .
+  }
+' src/_data/reviews/*.json > src/_data/reviews.json
+
+echo "Reviews summary file created at src/_data/reviews.json"

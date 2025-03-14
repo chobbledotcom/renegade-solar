@@ -10,7 +10,7 @@ order: 0
 
 # Top-Rated Local Solar Installation
 
-With an exceptional **9.6/10 rating from 80+ verified reviews on Checkatrade**, I provide expert solar panel and battery storage installation across North Manchester. As an [MCS-certified](/accreditations/mcs-certified/), [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), I deliver quality renewable energy systems that can slash your energy bills and reduce your carbon emissions.
+With an exceptional **{{ reviews.averageRating | round: 2 }}/10 rating from 80+ verified reviews on Checkatrade**, I provide expert solar panel and battery storage installation across North Manchester. As an [MCS-certified](/accreditations/mcs-certified/), [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), I deliver quality renewable energy systems that can slash your energy bills and reduce your carbon emissions.
 
 ## Professional, Personal Service
 

@@ -3,8 +3,11 @@ layout: base.html
 ---
 
 <div class="hero">
-  <img eleventy:widths="1200,900,600,400,200" src="/assets/photos/panels.jpg"
-    alt="Solar panels on a roof in Manchester">
+  <img
+    eleventy:widths="1200,900,600,400,200"
+    src="/assets/photos/panels.jpg"
+    alt="Solar panels on a roof in Manchester"
+  />
   <h1>Solar panel installations in Manchester</h1>
 </div>
 
@@ -18,24 +21,30 @@ layout: base.html
 
   {% include "accreditations.html" %}
 
-  <div class="card">
-    {{ content }}
-  </div>
+  <div class="card">{{ content }}</div>
 
   <div class="row">
     <div class="highlight">
       <h3>Top Rated</h3>
-      <p>9.96 / 10 on <a href="https://www.checkatrade.com/trades/renegadeelectrical">Checkatrade</a>!</p>
+      <p>
+        {{ reviews.averageRating | round: 2 }}/10 on
+        <a href="/reviews/">Checkatrade</a>!
+      </p>
     </div>
     <div class="highlight">
       <h3>Experience</h3>
-      <p>15+ years experience as an Electrician - Residential &amp; Commercial</p>
+      <p>
+        15+ years experience as an Electrician - Residential &amp; Commercial
+      </p>
     </div>
     <div class="highlight">
       <h3>Personalised Solutions</h3>
-      <p>Every home and business is unique, and so are the solar solutions we provide.</p>
+      <p>
+        Every home and business is unique, and so are the solar solutions we
+        provide.
+      </p>
     </div>
   </div>
 
-  {% include "contact-form.html" %}
+  {% include "homepage-reviews.html" %} {% include "contact-form.html" %}
 </article>

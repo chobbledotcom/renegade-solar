@@ -1,0 +1,21 @@
+<div class="customer-reviews__grid">
+  {% for review in reviews %}
+  <div class="customer-reviews__card">
+    <div class="customer-reviews__card-header">
+      <h3>{{ review.title }}</h3>
+      <div class="rating">
+        {{ review.rating.rating | round: 1 }}
+        <span>★</span>
+      </div>
+    </div>
+    <div class="customer-reviews__card-body">
+      <p>{{ review.review }}</p>
+    </div>
+    <div class="customer-reviews__card-footer">
+      <p>
+        {{ review.location.postcode }} - {{ review.createdAt | date: "%b %Y" }}
+      </p>
+    </div>
+  </div>
+  {% endfor %}
+</div>

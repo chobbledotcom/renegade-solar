@@ -1,0 +1,27 @@
+<!-- Customer Reviews Section -->
+<section class="customer-reviews">
+  <div class="container">
+    <div class="customer-reviews__header">
+      <h2>Customer Reviews</h2>
+      <p>
+        We're proud of our
+        <a href="/reviews/">{{ reviews.total }} reviews</a> with an average
+        rating of <strong>{{ reviews.averageRating | round: 2 }}/10</strong>
+      </p>
+    </div>
+
+    {% assign some_reviews = reviews.reviews | slice: 0, 8 %} {% render
+    "review-list.html", reviews: some_reviews %}
+
+    <div class="customer-reviews__cta">
+      <a href="/reviews" class="btn primary-btn"> View All Reviews </a>
+      <a
+        href="https://www.checkatrade.com/trades/RenegadeElectricalLtd"
+        target="_blank"
+        class="btn secondary-btn"
+      >
+        View on Checkatrade
+      </a>
+    </div>
+  </div>
+</section>

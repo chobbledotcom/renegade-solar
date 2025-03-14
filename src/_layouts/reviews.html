@@ -1,0 +1,48 @@
+---
+layout: base.html
+---
+
+<article>
+  <div class="card">
+    <div class="page-header">
+      <h1>{{ title }}</h1>
+    </div>
+    {{ content }}
+  </div>
+
+  <section class="customer-reviews">
+    <div class="container">
+      <div class="customer-reviews__header">
+        <h2>Our Checkatrade Reviews</h2>
+        <p>
+          We're proud of our {{ reviews.total }} reviews with an average rating
+          of {{ reviews.averageRating | round: 2 }}/10
+        </p>
+      </div>
+
+      <div class="customer-reviews__cta">
+        <a
+          href="https://www.checkatrade.com/trades/renegadeelectrical/"
+          target="_blank"
+          class="btn primary-btn"
+        >
+          View on Checkatrade
+        </a>
+      </div>
+
+      <hr />
+
+      {% render "review-list.html", reviews: reviews.reviews %}
+
+      <div class="customer-reviews__cta">
+        <a
+          href="https://www.checkatrade.com/trades/renegadeelectrical/"
+          target="_blank"
+          class="btn primary-btn"
+        >
+          View on Checkatrade
+        </a>
+      </div>
+    </div>
+  </section>
+</article>
