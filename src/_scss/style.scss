@@ -142,6 +142,9 @@ article {
   display: flex;
   flex-direction: column;
   gap: 2rem;
+  opacity: 0;
+  transform: translateY(15px);
+  animation: articleFadeIn 0.6s ease-out 0.1s forwards;
 
   @media (max-width: $mobile-width) {
     gap: 1rem;
@@ -166,6 +169,8 @@ article {
   margin: 0 auto;
   position: relative;
   margin-top: -2rem;
+  opacity: 0;
+  animation: heroFadeIn 0.6s ease-out forwards;
   img {
     display: block;
     width: 100%;
@@ -187,6 +192,37 @@ article {
     }
   }
 }
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes articleFadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes heroFadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
 .accreditations-container {
   overflow: hidden;
   .scroll {
@@ -209,6 +245,17 @@ article {
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
       transition: transform 0.2s ease;
       width: 20%;
+      opacity: 0;
+      animation: fadeIn 0.7s ease-in-out forwards;
+      
+      &:nth-child(1) { animation-delay: 0.1s; }
+      &:nth-child(2) { animation-delay: 0.2s; }
+      &:nth-child(3) { animation-delay: 0.3s; }
+      &:nth-child(4) { animation-delay: 0.4s; }
+      &:nth-child(5) { animation-delay: 0.5s; }
+      &:nth-child(6) { animation-delay: 0.6s; }
+      &:nth-child(n+7) { animation-delay: 0.7s; }
+      
       &:hover {
         transform: translateY(-2px);
       }
