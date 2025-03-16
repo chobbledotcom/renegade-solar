@@ -26,6 +26,8 @@
   Location: Manchester, North West England
 </p>
 
-<p>
-  <a rel="nofollow" href="https://chobble.com">website by chobble.com</a>
-</p>
+{% if page.url == "/" %}
+  <p>
+    <a rel="nofollow" href="https://chobble.com">website by chobble.com</a>
+  </p>
+{% endif %}
