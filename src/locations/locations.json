@@ -1,4 +1,4 @@
 {
-	"layout": "service.html",
-	"tags": "location"
+  "layout": "location.html",
+  "tags": "location"
 }
