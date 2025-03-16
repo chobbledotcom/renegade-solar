@@ -1,6 +1,6 @@
 ---
 title: Solar and Battery Installations
-snippet: Providing the highest standards in the country.
+snippet: Save money on your bills and cut CO2 with a solar and battery combo.
 description: We are regulated by MCS, NICEIC and HIES, ensuring every system we install is completed to the highest standard.
 icon: solar-panel.svg
 order: 1

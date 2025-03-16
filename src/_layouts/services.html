@@ -9,7 +9,8 @@ layout: base.html
   <div class="row">
     {% assign sorted_services = collections.service | sort: 'data.order' %}
     {% for service in sorted_services %}
-    <div class="card">
+    <div class="card service-card">
+      <img class="header-icon" src="/assets/icons/{{ service.data.icon }}" alt="">
       <h2>
         <a href="{{ service.url }}">
           {{ service.data.title }}

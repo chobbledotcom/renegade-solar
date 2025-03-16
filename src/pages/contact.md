@@ -9,7 +9,7 @@ layout: "contact.html"
 
 # Contact Renegade Solar
 
-Our business hours are 9am to 5pm, Monday to Friday, but if you drop us a message we'll get back to you as soon as we can.
+Our business hours are **9am to 5pm**, **Monday to Friday**, but if you drop us a message we'll get back to you as soon as we can.
 
 - **Email:** [renegadeelectrical99@gmail.com](mailto:renegadeelectrical99@gmail.com)
 - **Phone:** [07868 643 147](tel:07868643147)
