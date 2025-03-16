@@ -15,22 +15,11 @@ We install solar panels on all Trafford property types - Victorian villas in Bow
 
 ## Premium Solar and Battery Systems
 
-We offer:
-- [Solar and battery installations](/services/solar-and-battery-installations/) with premium panels
-- All-black panels and in-roof systems for aesthetic appeal
-- Battery storage for energy independence
-- EV charging integration
-- Smart home energy management
-
-Modern solar panels perform excellently in Manchester's climate, generating significant power even on overcast days and operating more efficiently in cooler temperatures.
+We offer comprehensive energy solutions tailored to your needs. Our **premium [solar and battery installations](/services/solar-and-battery-installations/)** include sleek all-black panels and in-roof systems for enhanced aesthetic appeal. We provide battery storage for true energy independence, along with EV charging integration and smart home energy management. Modern solar panels thrive in Manchester's climate, generating impressive power even on overcast days and working more efficiently in our cooler temperatures.
 
 ## Local Expertise Benefits
 
-- Planning knowledge for conservation areas
-- Experience with local architectural styles
-- Accurate performance predictions based on local data
-- Direct contact with Ashley, our founder and installer
-- Custom designs that respect your property's character
+Our local knowledge gives you significant advantages. We understand planning requirements for conservation areas and have extensive experience with architectural styles across Trafford. You'll benefit from **accurate performance predictions** based on local data and enjoy direct contact with Ashley, our founder and installer. Every system we design respects your property's unique character while maximizing energy production.
 
 ## Areas Covered
 

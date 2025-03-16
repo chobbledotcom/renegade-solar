@@ -11,41 +11,19 @@ MCS-certified solar panel and battery installations throughout Altrincham. Our N
 
 ## Solar Solutions for Altrincham Properties
 
-We install solar panels on:
-- Victorian and Edwardian properties in conservation areas
-- Modern detached and semi-detached homes
-- Contemporary new-build developments
-- Converted apartments in historic buildings
-- Commercial properties
-
-We work with slate roofs on period homes and tile roofs on newer properties, maximizing energy generation while complementing architectural aesthetics.
+We install solar panels on a wide range of Altrincham properties. From **Victorian and Edwardian homes in conservation areas** to **modern detached and semi-detached properties**, we've got you covered. Our experience extends to contemporary new-builds, converted apartments in historic buildings, and commercial properties too. We skillfully work with slate roofs on period homes and tile roofs on newer properties, maximizing energy generation while complementing your home's architectural style.
 
 ## Solar Performance in Manchester's Climate
 
-Solar panels perform excellently in Manchester despite our reputation for rain:
-- Modern panels generate electricity from daylight, not just direct sunshine
-- Panels operate more efficiently in cooler Manchester temperatures
-- Rain helps keep panels clean for peak efficiency
-- Systems generate significant electricity even during winter months
+Don't let Manchester's rainy reputation fool you! Solar panels perform excellently in our local climate. Modern panels generate electricity from daylight, not just direct sunshine, and actually operate **more efficiently in our cooler temperatures**. That famous Manchester rain? It helps keep your panels clean for peak efficiency. You'll be surprised how much electricity your system generates, even during the winter months.
 
 ## Local Installer Advantages
 
-- Direct contact with Ashley throughout your entire project
-- No pushy salespeople or confusing quotes
-- Quick response for site visits and aftercare
-- Deep understanding of Altrincham properties and planning considerations
-- Premium components with comprehensive warranties
-- 9.61/10 Checkatrade rating from 80+ verified reviews
+Working with us means direct contact with Ashley throughout your entire project – no pushy salespeople or confusing quotes here! You'll enjoy **quick response times** for site visits and aftercare, backed by our deep understanding of Altrincham properties and planning considerations. We only use premium components with comprehensive warranties, and our **9.61/10 Checkatrade rating** from over 80 verified reviews speaks for itself.
 
 ## Battery Solutions
 
-We offer standalone battery systems ideal for:
-- Properties in conservation areas with planning restrictions
-- Apartments with limited roof access
-- Homes affected by shading
-- Properties where aesthetics are a primary concern
-
-These battery systems work with time-of-use tariffs, charging during cheaper off-peak periods and powering your home during expensive peak times.
+Our standalone battery systems are perfect for properties with specific needs. Whether you're in a conservation area with planning restrictions, an apartment with limited roof access, a home affected by shading, or simply concerned about aesthetics, we have solutions. These clever systems work with time-of-use tariffs, **charging during cheaper off-peak periods** and powering your home when electricity costs more.
 
 ## Areas Covered
 

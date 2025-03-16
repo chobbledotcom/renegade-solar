@@ -277,7 +277,7 @@ article {
       }
       img {
         height: 80%;
-        width: 80%;
+        aspect-ratio: 1;
         position: absolute;
         left: 50%;
         top: 50%;
@@ -287,13 +287,10 @@ article {
 
       @media (min-width: $mobile-width) {
         width: calc((100% - 5rem) / 6);
-        padding: 1rem;
-      }
+        padding-top: calc((100% - 5rem) / 6);
 
-      @media (min-width: $page-width) {
-        padding: 1rem 2rem;
         img {
-          height: 150px;
+          width: 60%;
         }
       }
     }
