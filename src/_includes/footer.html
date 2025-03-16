@@ -1,5 +1,8 @@
 {% include "social-media-links.html" %}
-{% include "areas-we-cover.html" %}
+
+{% if page.url == "/" %}
+  {% include "areas-we-cover.html" %}
+{% endif %}
 
 <p>© 2025 Renegade Electrical</p>
 

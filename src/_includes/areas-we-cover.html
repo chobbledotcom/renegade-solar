@@ -1,11 +1,6 @@
 <div class="areas-covered">
   <strong>We cover:</strong>
-  {% for area in areas_covered -%}
-  {%- if forloop.first != true -%}, {% endif -%}
-  {{- area -}}
-  {%- endfor -%}
-  {%- for location in collections.location -%},
-  <a href="{{ location.url }}">{{ location.data.link_title }}</a>
-  {%- endfor %}
+  {% for location in collections.location -%}
+  <a href="{{ location.url }}">{{ location.data.link_title }}</a>, {% endfor %}
   and the whole North West UK
 </div>
