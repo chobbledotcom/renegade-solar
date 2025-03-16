@@ -1,2435 +1,2404 @@
 {
-  "total": 87,
-  "averageRating": 9.839080459770114,
-  "reviews": [
-    {
-      "id": "019579a0-622f-7300-bc54-df2d2aff03e6",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Removed my EV charger from old house and reinstalled at new house",
-      "review": "Ashley was amazing! He removed my EV charger from my old house and came back at reinstalled at my new house. He even helped climbed on my roof to move some garden furniture over a one storey extension for me😂would highly recommend and wouldn’t use anybody else now for any electrical work, lovely guy! Thank you!",
-      "createdAt": "2025-03-09T06:38:28.909Z",
-      "updatedAt": "2025-03-09T06:38:45.983Z",
-      "legacyId": "",
-      "consumerId": "",
-      "categoryId": 1547,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL8"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "publishedAt": "2025-03-09T06:38:32.147Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "0194668c-408a-7152-94c8-4e06bc3ac102",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Extra sockets",
-      "review": "Lovely young bloke. Told us exactly what he would do and got on with the job. One hundred percent trustworthy.",
-      "createdAt": "2025-01-14T20:40:55.176Z",
-      "updatedAt": "2025-01-17T13:21:09.986Z",
-      "legacyId": "",
-      "consumerId": "06783df9-a8ec-73f2-9920-07945b89d642",
-      "jobId": "01945b21-7a14-7c96-9699-0b65b3b6defb",
-      "categoryId": 78,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 9,
-        "reliabilityAndTimekeeping": 9,
-        "communication": 10,
-        "rating": 9.33
-      },
-      "publishedAt": "2025-01-14T20:40:55.761Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "019432a3-9658-7ec4-bcb9-0f9455fa7865",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Light fitting with dimmer",
-      "review": "Ashley was great. Did a really good job. Was early and friendly. Fitted a ceiling light and dimmer switch and put in a new light bulb fitting for me. Left everything tidy and I couldnt be happoer with his work. Definitely recommend and will go to him in future ",
-      "createdAt": "2025-01-04T18:46:09.237Z",
-      "updatedAt": "2025-01-17T13:18:20.860Z",
-      "legacyId": "",
-      "consumerId": "067681c5-0c28-7194-9920-e05134032f5c",
-      "categoryId": 1665,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 9,
-        "rating": 9.67
-      },
-      "publishedAt": "2025-01-04T18:46:10.637Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "b5a17a8c-1212-4c29-80bf-ef630a87c07a",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Sockets and light switches",
-      "review": "Ashley added new sockets, updated light switches and moved a ceiling light. Good job, not over priced.  Very friendly. Would recommend",
-      "createdAt": "2024-09-24T18:27:30.017Z",
-      "updatedAt": "2024-09-25T02:30:05.481Z",
-      "legacyId": "kgLrk9eFMYBbeb0brFRo",
-      "consumerId": "066ca046-e220-7c6f-b120-6eb0d082a48d",
-      "categoryId": 2031,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M22"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-09-25T02:30:05.481Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "3ab129e1-4147-420c-ac6a-fbe6c3d9df77",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Solar installation",
-      "review": "Excellent experience from start to finish, great communication and punctuality,\nAshley and his team were very friendly and professional would highly recommend them",
-      "createdAt": "2024-09-18T07:53:15.659Z",
-      "updatedAt": "2024-09-19T03:54:43.276Z",
-      "legacyId": "hOkHZhig5KpH5vGEgNir",
-      "consumerId": "066c2f6e-abd0-7033-9120-267d781010f5",
-      "categoryId": 1174,
-      "topLevelCategoryId": 1172,
-      "location": {
-        "postcode": "WA14"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-09-18T15:55:06.153Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "fb3ff1e5-ff27-4878-aa47-c0c10aea380f",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Disconnecting Burglar Alarm",
-      "review": "Ashely turned up on time, was very knowledgeable and completed the job quickly and too a high standard. I asked him a lot of questions and he happily answered them all giving me some good advice. I would definitely use him again and recommend him to anybody. Definitely a 5-star service.",
-      "createdAt": "2024-09-04T14:05:39.484Z",
-      "updatedAt": "2024-09-05T10:06:36.200Z",
-      "legacyId": "xVofj0ymO6oCBUKG3BCD",
-      "consumerId": "066c21ba-6edf-7926-8220-9c906b3f1828",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL9"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-09-04T22:10:00.531Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "27ec422c-eb09-422a-b004-b51b911759f8",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "fitting electric car charger",
-      "review": "Ashley was very knowledgeable polite and helpful. his workmanship was second to none i would definitely recommend him. excellent work.",
-      "createdAt": "2024-09-03T18:56:53.589Z",
-      "updatedAt": "2024-09-04T03:00:00.703Z",
-      "legacyId": "a9K8esrrAlFvlBN1zKUx",
-      "consumerId": "066c36cf-bc56-768a-a420-2259daa9d11c",
-      "categoryId": 1547,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL9"
-      },
-      "verified": "PENDING",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-09-04T03:00:00.703Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "e2021556-603d-42cd-b264-be5aa7729264",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Solar installation",
-      "review": "Excellent friendly informed advice, very tidy work and great value\nWould recommend Ashley to anyone considering a new solar installation",
-      "createdAt": "2024-09-03T07:10:25.590Z",
-      "updatedAt": "2024-09-04T03:11:43.251Z",
-      "legacyId": "8KGJVVnI4ll6NUQkAPat",
-      "consumerId": "066c2f6e-abd0-7033-9120-267d781010f5",
-      "categoryId": 1174,
-      "topLevelCategoryId": 1172,
-      "location": {
-        "postcode": "WA14"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-09-03T15:15:00.524Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "cc0b7cea-cd81-44e9-9990-c2c74b5bc541",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Shower fitment",
-      "review": "We had a previous short on our shower unit that burnt out the wiring and melted some of the cover. This meant we needed to get someone in to fit a new cable and shower system. Ashley from renegade electrical thankfully quoted for the job with a good price and availability. Ashley was knowledgeable and courteous including checking some details to make sure the job was done and there was no hold ups. He did the job well and checked the system was working well and we were happy with the job. I would definitely recommend Ashley if we need any other electrical work done.",
-      "createdAt": "2024-08-23T17:53:02.442Z",
-      "updatedAt": "2024-08-24T13:54:43.280Z",
-      "legacyId": "rga07tVQ9ByR10XVSak7",
-      "consumerId": "066be469-2bca-7fcc-b620-d427723afadf",
-      "categoryId": 87,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL9"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 9,
-        "tidiness": 8,
-        "reliabilityAndTimekeeping": 9,
-        "courtesy": 10,
-        "rating": 9
-      },
-      "publishedAt": "2024-08-24T01:55:00.519Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "191ddf6f-85ba-4094-9a5b-a56edc6b5c7c",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Supply and fit new lights in kitchen, Bathroom & loft",
-      "review": "They are extremely efficient courteous, and cannot do enough to help,",
-      "createdAt": "2024-08-14T14:15:50.259Z",
-      "updatedAt": "2024-08-15T10:23:03.712Z",
-      "legacyId": "EvQxBNgXjYIvg3zuM7Ds",
-      "consumerId": "066ba21f-d621-7814-9808-846eca7ea8cf",
-      "categoryId": 1475,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-08-14T22:20:00.958Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "5130c1f4-0679-4431-9d22-416786f93245",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Electric Shower Cord Repair",
-      "review": "Within 20 minutes of submitting my job through checkatrade, Ashley had rang me, understood what was required and had booked me in for the following day. He showed up on time and completed the job to a high standard. He even made recommendations for future work to make our homes wiring safer. Will definitely be using Ashley again when the time comes.",
-      "createdAt": "2024-08-06T08:52:58.646Z",
-      "updatedAt": "2024-08-06T16:55:00.687Z",
-      "legacyId": "jALyTEpl7k3SDsqE4eeK",
-      "consumerId": "",
-      "categoryId": 87,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "PENDING",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-08-06T16:55:00.687Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "1d2d2a5d-ecb7-452c-927f-453b50ba66e2",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Old thermostat and switch removal.",
-      "review": "Very happy with work done and help given.\nThanks.",
-      "createdAt": "2024-08-05T19:35:17.653Z",
-      "updatedAt": "2024-08-06T15:39:03.532Z",
-      "legacyId": "KtFVrxuUJf2QQYgi8M2r",
-      "consumerId": "066a9ff9-1491-79d1-8d20-6caabea8d181",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "BL9"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-08-06T03:40:00.332Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "8859750e-59cf-4292-a8a1-b1f12c113c10",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Solar + Battery storage",
-      "review": "Ashley did an excellent job installing the solar panels on my roof, the batteries next to my driveway, and the ground-mounted solar setup in my garden. As someone who likes everything to be perfect, I can say he did it exactly how I would have done it (if I had the experience). I highly recommend him to anyone interested in installing solar panels and battery storage.",
-      "createdAt": "2024-08-01T12:02:54.513Z",
-      "updatedAt": "2024-08-02T08:04:15.330Z",
-      "legacyId": "PEO4JJC0EG7nmylE6IAa",
-      "consumerId": "066ac04b-5d7f-767f-ae20-126508ff1b31",
-      "categoryId": 1174,
-      "topLevelCategoryId": 1172,
-      "location": {
-        "postcode": "M43"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-08-01T20:05:00.998Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "10996dfd-e98b-4ac9-8369-f118305e3c8a",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "External plug socket",
-      "review": "Ashley fitted an external plug socket for me. He sourced the socket at a good price and quality of the workmanship was great. He communicated well and provided an excellent service.",
-      "createdAt": "2024-07-26T18:29:15.044Z",
-      "updatedAt": "2024-07-27T14:30:15.285Z",
-      "legacyId": "PmvVmfhhDWpM3XUV2On5",
-      "consumerId": "",
-      "categoryId": 2031,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-07-27T02:30:00.783Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "841ca8da-1a72-4003-9be9-2d24bbe01a6d",
-      "companyId": 1110420,
-      "type": "WORK_NOT_CARRIED",
-      "status": "PUBLISHED",
-      "title": "To install hybrid inverter & solar battery storage",
-      "review": "Initial interactions were good and on first meeting for site survey, Ashley was friendly and polite. It soon became obvious of his limitations in energy storage setups. Despite his limitations he was very keen to take on the project and because of this I decided to offer him the job and agreed do the leg work by getting him all relevant information to make things easier. Having done the legwork Ashley then pulled out without any explanations beside that  it’s best to look for somebody else to do the job and then blocked me from making any further contact. Very unprofessional and discourteous",
-      "createdAt": "2024-07-16T04:09:10.046Z",
-      "updatedAt": "2024-07-25T09:10:15.467Z",
-      "legacyId": "dZvRDq3yNQrE7cu5JWXS",
-      "consumerId": "06700393-8d79-7f6d-b120-eb068d876a68",
-      "location": {
-        "postcode": "M29"
-      },
-      "reply": {
-        "id": "be1efa71-511c-4127-a8aa-55ae846c4b15",
-        "reply": "This is my one negative review out of 70 please read them for yourself . No work was carried out for this chap and there's a very good reason why , I can't say too much on here but he wanted me to do something that is against my values and morals while also protecting my excellent reputation and conduct as a professional tradesman . Please read the police reviews and you will understand . Thanks \n",
-        "status": "PUBLISHED",
-        "createdAt": "2024-07-16T04:09:10.046Z",
-        "updatedAt": "2024-07-25T09:10:15.467Z"
-      },
-      "isComplaint": true,
-      "notRecommendReason": "OTHER",
-      "verified": "VERIFIED",
-      "rating": {
-        "rating": 1
-      },
-      "publishedAt": "2024-07-25T09:10:15.467Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "2b1576ac-0738-4c4e-b528-495a48753367",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "replacing defective solar edge inverter",
-      "review": "We found Ashley to be a thoroughly competent and effecient electrician. He was a pleasure to deal with and went out of his way to ensure we were kept informed of all that was happening during the replacement process. We can without hesitation recommend him to anyone and we will most certainly use hin again in the future.",
-      "createdAt": "2024-07-05T15:32:00.337Z",
-      "updatedAt": "2024-07-06T11:33:43.361Z",
-      "legacyId": "JONENqxpMKHCHfuw0dp2",
-      "consumerId": "06673cf4-d915-7586-8b20-d83b69caeea5",
-      "categoryId": 1683,
-      "topLevelCategoryId": 1172,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-07-05T23:35:00.274Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "9496f1f9-7fdf-4c16-9448-36025bdedd4e",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "EV Charger",
-      "review": "Excellent work, on time and did what he said was needed. Wouldn’t go with anyone else. Top work",
-      "createdAt": "2024-06-28T20:38:51.332Z",
-      "updatedAt": "2024-06-29T04:40:00.238Z",
-      "legacyId": "L72Cf39pzezuZwD4TzWt",
-      "consumerId": "066792c2-a8e9-77ce-b120-76aa599adc80",
-      "categoryId": 1547,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-06-29T04:40:00.238Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "f38fb995-7e24-4ceb-98cb-fc017cd9b88a",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fitting an EV charger at home",
-      "review": "Fantastic communication, fantastic workmanship and a genuinely nice chap.  Would not hesitate to recommend and will be using again.",
-      "createdAt": "2024-06-25T06:21:42.551Z",
-      "updatedAt": "2024-06-26T02:22:43.321Z",
-      "legacyId": "zqz2pNV5wmFQLwGXttr6",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "BB4"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-06-25T14:25:01.999Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "6dcc58f9-c716-45b2-b409-570aa67561c2",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Our go-to electrician",
-      "review": "We first hired Ashley for a second opinion on a whole house rewire, which another electrician convinced us we needed. After inspecting, he let us know that it was fully unnecessary and that we just needed a new fuse board. He saved us thousands of pounds with that first visit and he immediately became our go-to electrician.\n\nSince then Ashley has fitted solar panels and a battery, a doorbell, new light sockets, outdoor lighting & power, a bathroom extractor fan, removed old ariels, and probably more stuff I can't remember. I can't fault him at all and have recommended him to my friends.",
-      "createdAt": "2024-06-16T16:51:11.951Z",
-      "updatedAt": "2024-06-17T12:52:17.997Z",
-      "legacyId": "a5EaSDgK12TVfL4wnK2B",
-      "consumerId": "",
-      "categoryId": 1174,
-      "topLevelCategoryId": 1172,
-      "location": {
-        "postcode": "M25"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-06-17T00:55:00.645Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "e7cbee6d-c3f1-4be0-b52e-1fb57320c3b9",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fantastic work, reasonable prices",
-      "review": "Ashley got in touch quickly and was patient when I wasn’t available to discuss the job initially. Talked it through, came and sized it up and completed the initial job and a few others within days. Would recommend highly and would definitely use again.",
-      "createdAt": "2024-06-12T18:28:29.496Z",
-      "updatedAt": "2024-06-13T14:29:03.864Z",
-      "legacyId": "g9rHkPoYVfCc0P7M74wb",
-      "consumerId": "066c9c3b-f5a0-7679-bd20-0a705341b7e4",
-      "categoryId": 2031,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M9"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-06-13T02:30:00.524Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "166f9a7d-2162-4740-a9fb-20765ddc682c",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Wiring in an electric cooker",
-      "review": "Super friendly, very efficient and very well priced for the job in hand. There was an issue with the existing wiring in the property, but he went above and beyond to ensure the work was safe, and gave me detailed advice on next steps.\nWonderful experience for a first time homeowner like myself - can highly recommend!",
-      "createdAt": "2024-06-08T10:11:26.088Z",
-      "updatedAt": "2024-06-09T06:13:18.018Z",
-      "legacyId": "6dbuOXa9zJ9bcB6XqLpa",
-      "consumerId": "06662ed7-a50a-754f-8e20-c6d15d41be54",
-      "categoryId": 114,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M5"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 9,
-        "courtesy": 10,
-        "rating": 9.75
-      },
-      "publishedAt": "2024-06-08T18:15:01.110Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "27165b70-9f63-4ed7-9749-5a8786d50a78",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Kitchen lights",
-      "review": "We contacted Ashley due to a fault with our kitchen lights. He came to the house and fixed the problem straight away. He was friendly and very polite. We would definitely recommend him",
-      "createdAt": "2024-06-03T19:54:03.556Z",
-      "updatedAt": "2024-06-04T15:55:18.000Z",
-      "legacyId": "w590740VM2dd0BlTzS9U",
-      "consumerId": "",
-      "categoryId": 1436,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-06-04T03:55:01.105Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "a5b413ec-db4c-4974-8403-17ca3c97243f",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Electrical safety check",
-      "review": "Ashley came out at short notice to do a electrical safety check on my new property, put in a bathroom extractor fan and has also fitted new light fittings and plug sockets throughout. Absolutely brilliant job, cannot recommend enough!",
-      "createdAt": "2024-05-30T18:50:03.594Z",
-      "updatedAt": "2024-05-31T02:55:01.006Z",
-      "legacyId": "lyfd2kZi4JeZ55GIx9Kk",
-      "consumerId": "0664b80d-5b35-798e-bb20-e345fb7f4480",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-05-31T02:55:01.006Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "e67e2c64-71fd-4218-b969-3b246c7c7bfe",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "EICR remedial work & certificate",
-      "review": "Ashley was super responsive and did an amazing job, will definitely use his services again in the future.",
-      "createdAt": "2024-05-22T15:43:57.760Z",
-      "updatedAt": "2024-05-23T11:45:00.134Z",
-      "legacyId": "2xRBLzQiWRt96bfhL3To",
-      "consumerId": "0664e116-f103-72ca-8220-90e0b91229d9",
-      "categoryId": 205,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M50"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-05-22T23:45:00.591Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "61956920-0480-4ad8-af57-469e1e330d62",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Remove defunct EV charger and fit solar and battery compatible replacement.",
-      "review": "Ashley was friendly, knowledgeable and did a great job. He ensured that our new GivEnergy charger was properly integrated with the solar and battery system. \nDuring the job he found an earthing fault from previous work - and fixed this small job at no extra cost.\nHe took pride in his work and charged a fair price. \nWe'd be happy to have him back next time we need a sparky.",
-      "createdAt": "2024-05-17T16:45:32.890Z",
-      "updatedAt": "2024-05-18T13:28:15.332Z",
-      "legacyId": "eSy9x6EMIyzSWMlfqEi7",
-      "consumerId": "",
-      "categoryId": 1547,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL13"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-05-18T00:50:00.949Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "ba357e1c-19d4-4107-b733-354c536d39b9",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "EV charger fitting",
-      "review": "Ashley fitted an EV charger for me and provided lots of brilliant advice prior to doing so, as I was clueless on the whole thing. His advice even allowed me to keep costs down and his prices were the best quotes I had, with nothing reduced on the quality of his work. An extremely tidy, friendly and reliable tradesman who will not rip you off! All quotes and works were completed within days of contacting him - highly recommend !",
-      "createdAt": "2024-05-14T08:17:55.501Z",
-      "updatedAt": "2024-05-15T04:18:15.375Z",
-      "legacyId": "pFNNwxSmzkJUvT9n6zWz",
-      "consumerId": "",
-      "categoryId": 1547,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-05-14T16:20:00.808Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "751858c6-712f-45c3-9ae2-ad2d5e60a904",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Shower switch repair and replace",
-      "review": "Ashley arrived today to fit a new shower switch and I couldn’t have asked for better knowledge and service. Work completed to an exceptional standard and an excellent friendly personality, I would have no hesitation in recommending him to anyone",
-      "createdAt": "2024-05-13T19:29:20.756Z",
-      "updatedAt": "2024-05-14T15:32:15.209Z",
-      "legacyId": "0MqlEzhsuKeDioDCKZLd",
-      "consumerId": "",
-      "categoryId": 87,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "SK3"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-05-14T03:30:01.150Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "e31c23af-0e3f-456b-9f65-a5fc51f86fbb",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Electric car charger fitted",
-      "review": "Ashley fitted me a car charger great price, really professional job would highly recommend",
-      "createdAt": "2024-05-11T07:44:32.734Z",
-      "updatedAt": "2024-05-12T03:47:15.158Z",
-      "legacyId": "AoXYvse4wzLwR1seGq1A",
-      "consumerId": "",
-      "categoryId": 1547,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-05-11T15:45:00.987Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "2a79c545-1cc1-44c1-9f83-4f41f7b9e3be",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Remove and refit of Solar Panels",
-      "review": "We needed the Solar Panels removing and refitting to allow roofers to replace roof.  I Posted on CHECKATRADE and received a call from a very kowledgeable gentleman From RENEGADE ELECTRIC.  He said he would need to see the job to enable him to work out a job plan and price.  The job required working with a team RENEGADE hadnt met before.  He came the next day and spent quite some time looking at the job.  He left promising to call that pm with a price.  RENEGADES was half of quotes from other trades had been.  RENÈGADES work rate, ethic and quality.  Were excellent.  Will reccommend.  Thank You",
-      "createdAt": "2024-01-24T10:04:57.229Z",
-      "updatedAt": "2024-01-24T10:06:06.000Z",
-      "legacyId": "h69ubRo935x28ePzcpZ0",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M29"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2024-01-24T10:06:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "9b6cd85a-9607-4555-8c17-8aa8d98185b0",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Extra plug sockets installed, security light swapped",
-      "review": "Ashleigh gave me a prompt quote and kept to it.  He was very friendly and professional.  He did a good job.  We’re really pleased and would happily recommend him.",
-      "createdAt": "2023-11-29T11:24:14.473Z",
-      "updatedAt": "2023-11-29T11:30:07.000Z",
-      "legacyId": "B8bQMjZDlP3Bllellv0x",
-      "consumerId": "",
-      "categoryId": 2031,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL8"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 9,
-        "tidiness": 8,
-        "reliabilityAndTimekeeping": 8,
-        "courtesy": 10,
-        "rating": 8.75
-      },
-      "publishedAt": "2023-11-29T11:30:07.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "c09d2d69-4e01-4ea2-a8e7-e30f598ba214",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Light fitted",
-      "review": "Absolutely first class brilliant person wonderful job done",
-      "createdAt": "2023-11-01T18:15:09.920Z",
-      "updatedAt": "2023-11-01T18:16:07.000Z",
-      "legacyId": "kW3ljqt0UfwpVcBz2Jer",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-11-01T18:16:07.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "8331fff7-bb26-47ef-87b3-1de8a1a0a6ff",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Electrical Installation Condition Report",
-      "review": "Friendly and chatty, job completed efficiently.  Phoned ahead of visit to let us know he was running late - which is why I rated 10 for reliability and timekeeping as he had informed us he would be a tad late.",
-      "createdAt": "2023-11-01T13:17:49.443Z",
-      "updatedAt": "2023-11-01T13:20:08.000Z",
-      "legacyId": "jPspE3eGlDyWy8seITC5",
-      "consumerId": "",
-      "categoryId": 205,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL1"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-11-01T13:20:08.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "e65a7c8e-25ee-4a67-bd70-7bbb925ee968",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Electrical car charger fitted",
-      "review": "Ashley was very professional on time, great price and excellent work would recommend",
-      "createdAt": "2023-10-23T17:18:36.569Z",
-      "updatedAt": "2024-05-01T12:18:51.000Z",
-      "legacyId": "3DjHE2RcYieMpzMC7NKn",
-      "consumerId": "",
-      "categoryId": 1547,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-10-23T17:20:10.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "16be81a5-96a5-4a3c-b1c7-f9f0df3f5554",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fitted new sockets in living room and conservatory.",
-      "review": "The company is very good at communication and turned up promptly on the agreed date.  Work carried out as agreed with efficiency and very tidy.",
-      "createdAt": "2023-10-19T16:26:25.329Z",
-      "updatedAt": "2024-05-01T12:18:51.000Z",
-      "legacyId": "WfsFPGiljf6rngZXO4gC",
-      "consumerId": "",
-      "categoryId": 2031,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M19"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-10-19T16:28:07.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "b21e003c-7aa6-4b64-906b-3fb590622bfa",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Great service and price",
-      "review": "This is the 2nd time Ashley had completed a job for us.  2 ceiling lights and two security lights.  Ashley was lovely and we are happy would definitely recommend",
-      "createdAt": "2023-10-07T19:44:30.575Z",
-      "updatedAt": "2023-10-07T19:46:05.000Z",
-      "legacyId": "qO7syGJe0tWaMchb3yCr",
-      "consumerId": "",
-      "categoryId": 1642,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M40"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-10-07T19:46:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "003b9658-0bc6-40be-8222-f71037c47182",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "12 spotlights fitted",
-      "review": "Ashley gave us a very competitive quote, and complete the work to a very high standard.  Great guy as well.  Highly recommend",
-      "createdAt": "2023-09-19T19:37:24.938Z",
-      "updatedAt": "2024-05-01T12:18:51.000Z",
-      "legacyId": "CSQaIiOtAZ0gdKB1yXss",
-      "consumerId": "",
-      "categoryId": 1665,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL8"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-09-19T19:38:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "c9967d53-a96b-4a15-991d-f360c5b1b939",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Rewiring and remove of old wiring",
-      "review": "He was a through and through professional.  Knew all the different wire types and how to best work around moving sockets and removing old wiring.  Was courteous and patient, even with my on the fly extra requests.  Will be reaching out in future for any electrical jobs needed.",
-      "createdAt": "2023-09-19T12:35:24.682Z",
-      "updatedAt": "2023-09-19T13:05:08.000Z",
-      "legacyId": "V8kMLEHruKkhubmrdmPq",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M38"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-09-19T12:36:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "c8d4d930-00bf-4e61-9962-1a29d115892a",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fault finding",
-      "review": "Extremely helpful and friendly service.  The issue was resolved very quickly.  I would recommend Renegade Electrical to anyone looking for an electrician and would definitely use them again in the future.",
-      "createdAt": "2023-08-07T19:34:02.507Z",
-      "updatedAt": "2023-08-07T19:36:05.000Z",
-      "legacyId": "6UD0IG3GMNDy4MseazE3",
-      "consumerId": "",
-      "categoryId": 2031,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL8"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-08-07T19:36:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "0ae46981-24a6-433b-8968-2ee52229fa9f",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Lights and outdoor socket",
-      "review": "Great job clean and tidy very knowledgeable",
-      "createdAt": "2023-06-22T19:45:41.418Z",
-      "updatedAt": "2023-06-22T19:46:26.000Z",
-      "legacyId": "Jmh0J7IywswoUMEFaGbD",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-06-22T19:46:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "48eab0b8-df24-4b28-9b19-72497122b142",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Changing faces of socket outlets, replacing single sockets into doubles and installing new sockets.",
-      "review": "Ashley has been a pleasure to meet, he’s been professional from the start and communicative also.  Any issues that may have propped up I was made aware straight away, very clean job minimal damage to walls when installing new sockets and upgrading the singles to doubles, much appreciated and will keep him in my contacts for future work.",
-      "createdAt": "2023-06-22T15:29:45.351Z",
-      "updatedAt": "2023-06-22T15:30:08.000Z",
-      "legacyId": "sZxukWYNxiy1fxk2uRRv",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "SK16"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-06-22T15:30:08.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "6287c9c2-d87c-407c-9e61-99c00ed87bbd",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Electrical connection to garden cabin plus fitting fuse board, sockets, interior/outside lights.",
-      "review": "All work carried out professionally, cleanly and timely.  Provided certificates and guarantee.  Ashley is also well mannered and a really nice guy.  Highly recommend.",
-      "createdAt": "2023-05-26T19:24:13.825Z",
-      "updatedAt": "2023-05-26T19:26:06.000Z",
-      "legacyId": "4twHhmg1bDhxuQmrU8Z3",
-      "consumerId": "0672a4a5-568a-7c51-be20-8b5a2b291d63",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-05-26T19:26:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "0ae32490-8efb-4161-964e-bf47dc25015e",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Change of socket",
-      "review": "Great service",
-      "createdAt": "2023-05-25T09:32:44.108Z",
-      "updatedAt": "2023-05-25T09:34:06.000Z",
-      "legacyId": "I8d0l5OoPVGiUD5T1Tk5",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "BL9"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-05-25T09:34:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "8319a84b-ab82-4fb6-917c-59bc40dbc291",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fixing a outdoor socket and installing LED LIGHTS INTO SLEEPERS",
-      "review": "Ash was a lovely guy.  Came and gave me a quote and advice what socket we needed for the outside garden.  He supplied and fitted.  Very nice gentleman.  I highly recommend him.  And I will saving his number for future electric jobs .",
-      "createdAt": "2023-05-21T10:21:08.879Z",
-      "updatedAt": "2023-05-21T10:22:06.000Z",
-      "legacyId": "4dMT1mkTXLIiUU2PoPCj",
-      "consumerId": "066ebf5c-482e-7343-8820-d5e412deb3e5",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL8"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-05-21T10:22:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "5271823d-002f-4d9e-baa7-36801b74a12c",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Light fittings and light switches fitted",
-      "review": "Very professional and efficient really helpful will definitely use for future electrical work",
-      "createdAt": "2023-05-11T09:09:17.199Z",
-      "updatedAt": "2023-05-11T09:10:05.000Z",
-      "legacyId": "uK7NsRS9thxjS5g4vSlc",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M9"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-05-11T09:10:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "235cec99-d7b6-486b-9182-b8e398f3535e",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Adding additional sockets to 2 Attic bedrooms",
-      "review": "The work was done to a really good standard, came to quote really quickly, communication throughout was fab.  Great work done for a really fair price.  Would use again and would recommend.",
-      "createdAt": "2023-04-30T11:39:32.892Z",
-      "updatedAt": "2023-04-30T11:40:05.000Z",
-      "legacyId": "og4lSw9lcq8G7GhGoApA",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "BB4"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-04-30T11:40:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "365a42f9-293e-4e0b-af38-68288a1dd914",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Security Cameras",
-      "review": "Ashley was very efficient and professional.  Great price and would highly recommend",
-      "createdAt": "2023-04-29T09:09:04.523Z",
-      "updatedAt": "2023-04-29T09:10:05.000Z",
-      "legacyId": "QYjU18SfsFH7clz0ccCb",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL1"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-04-29T09:10:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "47e84a6f-7852-457c-9f3c-766b2bea15db",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fitting a electric car charger and outside light",
-      "review": "Ash is a great person to deal with reliable good communication, friendly and good workmanship, wouldn’t hesitate to recommend him",
-      "createdAt": "2023-04-26T17:59:25.707Z",
-      "updatedAt": "2023-04-26T18:00:11.000Z",
-      "legacyId": "WicdZz0xyhpe8SGOiCfZ",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-04-26T18:00:11.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "2b67d920-fa99-4084-98f5-d1b9c2562a04",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "New light fittings",
-      "review": "Excellent service.  Clean",
-      "createdAt": "2023-04-26T15:55:35.394Z",
-      "updatedAt": "2023-04-26T15:56:07.000Z",
-      "legacyId": "iMgxaL2CscjJIYSY7P2I",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M40"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-04-26T15:56:07.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "6ca3e96f-4756-4e67-b57d-56a38a65002a",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Moving a light switch and adding a plug socket",
-      "review": "Amazing service, very quick and reliable to fit the job in and complete it.  Highly recommend this company for all your electrical needs.  We have already booked in our next job",
-      "createdAt": "2023-04-21T17:22:42.451Z",
-      "updatedAt": "2023-04-21T17:24:06.000Z",
-      "legacyId": "HN5hYEm1j3UQErwP8jse",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-04-21T17:24:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "d58c356b-2278-4132-85e8-6f04ec4e3ea9",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Replace and test multiple sockets and light switches in the kitchen",
-      "review": "Ashley completed the works in my kitchen to a good standard and at the price agreed.  He also went the extra mile to put a new back box on one of my sockets which was not in good condition.  Friendly and reliable service",
-      "createdAt": "2023-04-18T14:37:19.472Z",
-      "updatedAt": "2023-04-18T14:38:07.000Z",
-      "legacyId": "DayO5zIUVvNDHA4AVBfN",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "SK6"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-04-18T14:38:07.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "f0a55aca-ae1f-4877-981f-04e7058b2c8a",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Change some sockets and rewiring.",
-      "review": "Ashley was very friendly and professional.  His work was a very high standard.  Definitely recommend to friends and family.",
-      "createdAt": "2023-04-01T20:17:42.498Z",
-      "updatedAt": "2023-04-01T20:18:05.000Z",
-      "legacyId": "Mjgmuos7YvHkwbl7wibB",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL1"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-04-01T20:18:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "656d041b-8516-46c3-86dd-d04f2fd1e55d",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Investigate and fix faulty electrics causing fuse switch to flip intermittently",
-      "review": "Ashley was great - turned up on time, quickly diagnosed what the problem was and fixed it whilst there.  Took a couple of hours but really professional job done.  Gave some good advice re future electrical checking needed but didn’t try to upsell - genuinely felt like he was telling me for my own benefit, not his.  Would definitely recommend for any electrical jobs needed.",
-      "createdAt": "2023-03-28T17:57:33.406Z",
-      "updatedAt": "2023-03-28T17:58:07.000Z",
-      "legacyId": "bw3Wle8FAm2jpm5A1pzV",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL9"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-03-28T17:58:07.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "b1e773da-0682-4e8c-a022-1dd9516e6505",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Switching some outside lights and installing two additional outside lights.",
-      "review": "Ashley was great.  Really clear about what was being done and where the cabling would be.  Everything completed exactly as agreed and it all looks great.",
-      "createdAt": "2023-03-27T10:46:39.736Z",
-      "updatedAt": "2023-03-27T10:48:05.000Z",
-      "legacyId": "ZoOcy0D0iFLw1glg1BgK",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M25"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-03-27T10:48:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "0bc3b1b0-a31b-4634-a6c2-8be8f8126751",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "New security light fitted",
-      "review": "I would really recommend using Ashley.  He communication was very good which is a breath of fresh air.  The new light has been fitted and is working well.  Wouldnt hesitate to us again.  Friendly quick and efficient.",
-      "createdAt": "2023-03-26T20:29:57.591Z",
-      "updatedAt": "2023-03-26T20:30:06.000Z",
-      "legacyId": "4AadraCo3Jz9kbBYXsZz",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-03-26T20:30:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "3eede249-0642-48ec-b7c8-22a6356b9541",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Wire up a shower and replace a fuse with another.",
-      "review": "Fantastically prompt.  Within half an hour of requesting a quote, Ashley had been in touch to arrange a time to come a view the work that needed doing.  Very honest and open about how he was going to approach it.  He also offered some professional advice on other bits.  Fantatsic will definitely use again for any further work.",
-      "createdAt": "2023-03-09T23:16:28.317Z",
-      "updatedAt": "2023-03-09T23:18:04.000Z",
-      "legacyId": "eGhYlTzlXVmVJY9HNSM0",
-      "consumerId": "06713d58-8939-76ef-bd20-a389d5eeb00a",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL2"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-03-09T23:18:04.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "1a9c6162-70a4-44a8-9140-646cafe68f0f",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Cat 5e internet cable laid from house to outside office.",
-      "review": "Communicative, friendly and work completed to a good standard.",
-      "createdAt": "2023-03-09T21:17:44.661Z",
-      "updatedAt": "2023-03-09T21:18:06.000Z",
-      "legacyId": "68gb7Ivbh9gjf2eEozhm",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M25"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-03-09T21:18:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "2c7c9de3-a61b-4d22-a68c-ac76f183fc11",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "He Fitted a switch for a ceiling light, two sockets and two ceiling roses",
-      "review": "Very Good job , on time and very professional .  He discussed the job in detail and showed us alternative ways of achieving our results.  He advised us when he was turning off the mains with plenty of time to be prepared.  He cleaned up and left us with a tidy job.  He took a matter of a few hours and his price was very reasonable.",
-      "createdAt": "2023-02-10T10:34:03.878Z",
-      "updatedAt": "2023-02-10T10:36:05.000Z",
-      "legacyId": "u91tuVMjyHIkxJzUB9sE",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-02-10T10:36:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "b0908b8f-983f-4825-8163-ad1eafc167a9",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fitting 2 electric wall heaters and 2 new double sockets",
-      "review": "Very pleased with the work done,professional,reliable electrician and very pleasant",
-      "createdAt": "2023-01-25T21:03:06.102Z",
-      "updatedAt": "2023-01-25T21:04:06.000Z",
-      "legacyId": "PmcnswMYgaPbyopgvbdS",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-01-25T21:04:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "8fc397b0-bade-44d3-81e3-614d217e063a",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fireplace not working",
-      "review": "Ash came out to fix the electric fire.  Came out really fast.  Changed a plug socket and fixed other issues with the fire.  Really friendly and professional.  Highly recommend.",
-      "createdAt": "2023-01-24T12:29:57.976Z",
-      "updatedAt": "2023-01-24T12:30:06.000Z",
-      "legacyId": "Aw32xxCrCFWaemYpeeZ1",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M9"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-01-24T12:30:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "9d4c6870-f1a0-46c5-9e60-14329539e44b",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Sorting out a broken plug for a cooker",
-      "review": "Came on time, did the work quite and well, decent price.",
-      "createdAt": "2023-01-23T07:49:33.247Z",
-      "updatedAt": "2023-01-23T07:50:05.000Z",
-      "legacyId": "u9ZNTYRr0S7b1wvUrc5H",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M20"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-01-23T07:50:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "e1a896da-d496-4a85-9c14-883fb904e4ff",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fitting a cooker",
-      "review": "Cooker fitted professionally.  A neat and tidy job.  Reasonable price too.  Ashley went out of his way to do the job on a Saturday morning which was much appreciated.  Would recommend.",
-      "createdAt": "2023-01-21T20:05:03.153Z",
-      "updatedAt": "2023-01-21T20:06:06.000Z",
-      "legacyId": "uyoCWU6h0zMPZm7jchFS",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-01-21T20:06:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "9847462a-46da-4133-a300-aece27d42fcd",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Full rewire, circuit board, new sockets and switches and all new light fittings and outside lights.",
-      "review": "Absolutely fantastic work carried out by Ashley.  Very reliable and friendly, would highly recommend and definitely use again.",
-      "createdAt": "2023-01-20T08:38:11.537Z",
-      "updatedAt": "2023-01-20T08:40:05.000Z",
-      "legacyId": "RJZ8rWOf1ziEbmOSlJ6D",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M9"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-01-20T08:40:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "ff018d98-f594-4f3b-862f-2dd5ce512a32",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "14 double sockets, two light fittings, four light switches",
-      "review": "Ashley replied quickly to our enquiry and came to our house to see the works we wanted.  A quote was provided the same day and we agreed the price.  We opted to provide the sockets, light fittings and switches and Ashley provided everything else e.G.  All the cables and back boxes etc.  We were kept informed with the progress of the works and we agreed on the positions of everything beforehand.  All the sockets have been tested by Ashley and he showed this to us after fitting.  This is a friendly and easy company to deal with and we would recommend it to others who are looking for similar works.",
-      "createdAt": "2023-01-19T17:35:08.698Z",
-      "updatedAt": "2023-01-19T17:36:07.000Z",
-      "legacyId": "rjZ1cvEARjRHoOXxvvR7",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-01-19T17:36:07.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "6055475b-2a4a-4d49-97ab-2f6e5c3b7a8a",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Replacing an old ceiling light with a new one.",
-      "review": "I booked a visit for my parents and they were extremely happy with the service provided.  Not only did the person replace the ceiling light, but they also helped with the odd jobs around the house that my parents were unable to complete themselves.  A great person with a great heart.",
-      "createdAt": "2023-01-10T23:51:33.149Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "Q8hBs2oPqz1bM6JfqpfV",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL9"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-01-10T23:52:04.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "2847d5fa-bcb9-4170-abda-af279808b1e4",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fuse Board",
-      "review": "Would recommend",
-      "createdAt": "2023-01-07T13:23:32.590Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "0Xwq7j7v1OeJvbq0SqDb",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL9"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2023-01-07T13:24:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "2b467301-ae2f-420f-aecb-71a064ff739c",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "To fit 2 ceiling lights in my hallway",
-      "review": "Ashley was lovely and friendly.  His quote matched the end price.  He was very professional.  He completed the job and I was really happy.  If I need anything else doing he would be the 1st person I’d call",
-      "createdAt": "2022-12-11T20:00:31.950Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "4fqICOtamVXoNuly6UmI",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M40"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-12-11T20:02:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "ae9b8dfc-1443-41e2-865b-b0bf315f8e6f",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fitting radiators",
-      "review": "Excellent service, very reasonable price highly recommend",
-      "createdAt": "2022-12-09T19:40:06.789Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "odc3nxB2o9udj6ECGbXa",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-12-09T19:42:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "3e65782f-7376-49bf-948f-05f09bd6c63d",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Restore lights to house.  Mains were repeatedly tripping",
-      "review": "5 star!  Excellent service.  Very polite, understanding and helpful.  Will definitely be recommending to all",
-      "createdAt": "2022-10-28T15:56:24.907Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "aIe66Q7CGPStjhqdGgBT",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "NOT_VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-10-28T15:58:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "5d454e72-7527-4155-ba00-46b4cee5e34a",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fit multiple Sockets, Switches and Light fittings, EICR.",
-      "review": "All work done to an excellent standard.  Ashley was polite and very professional.  Thank you!",
-      "createdAt": "2022-09-25T17:37:52.131Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "0tz6UKE6hxYoS1saJA4k",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL11"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-09-25T17:38:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "c29ac283-fffb-4698-ac33-6490f844194e",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "New fuse box, outside plugs and lighting",
-      "review": "Had a bunch of work done by Ashley.  New fuse box, outside plugs and lighting.  He was really friendly, communicative, explained everything he was doing throughly and did the work to a high standard.  We will absolutely be giving him a call next time we need anything electrical done.",
-      "createdAt": "2022-08-11T12:42:23.935Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "XopyaaMt9Onw8ZAmRBSr",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M25"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-08-11T12:44:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "15633a4d-f268-4640-b718-54722f66e76f",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Install outside light",
-      "review": "Ashley did an excellent job of fitting a light outside my front door, even though it was a bit problematic, due to my ineptitude on buying the correct light ??.  Nevertheless he provided the switch that it needed, so I could turn it off.  Real friendly guy.  Left no mess.  Recommend.",
-      "createdAt": "2022-08-05T15:43:14.008Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "n05UniV7OaddYOVWZANg",
-      "consumerId": "0664cd75-e456-7157-9f20-5698a2d751e3",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-08-08T08:33:26.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "4e16962b-7dc7-470f-8abd-77a393b9b94f",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fitted electric cooker",
-      "review": "Booked this chap to fit an electric cooker in my flat, turned up on time, was friendly, polite and professional.  Completed the job and sent me invoice via email.  Would recommended and use again.",
-      "createdAt": "2022-07-24T07:52:03.733Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "JsTTTIyijxQ1GxG7cJm0",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-07-24T07:54:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "492cdc89-006b-4e49-927c-02016f236b3d",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fitting and supplying outside lights",
-      "review": "He was efficient, tidy and reliable.  Came to do the job when he said he would.  A really nice person.  Thank you very much Ashley.",
-      "createdAt": "2022-07-03T13:15:57.897Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "CKcyGolpyhMfTy1M9MOv",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-07-03T13:16:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "a58756cb-1509-45e7-983a-ddd6f35f691d",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fitting an extra plug.",
-      "review": "As a first time buyer, Ash was very approachable, Friendly and professional.  He came to view and discuss the job ahead and offered a whole range of ideas and knowledge.  I can not thank Ash enough for his time and effort as the finished product and finer details are brilliant.  I highly recommend Renegade Electrical LTD to anyone based in the Manchester region.   Customer service 10/10\nAffordability 10/10\nJob satisfaction 10/10\nOverall rating 10/10",
-      "createdAt": "2022-06-25T18:19:38.573Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "lMmD52bAvgqCF2xTtpU4",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-06-25T18:20:09.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "30082592-ea0d-4f0a-965c-f4d5d4ebfc60",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "No electricity on one side of the kitchen",
-      "review": "Would totally recommend Ash .  Brilliant job in finding fault.  Reasonably priced.  Customer service next to none",
-      "createdAt": "2022-06-17T13:08:17.976Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "lP9HDwgdIV3HOofyResn",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M40"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-06-17T13:10:08.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "37c7aee0-d240-40d0-b7d5-951d141859bd",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Replacing and Fitting a new Ceiling Light in the Bedroom",
-      "review": "I'm over the moon with the service received through Checkatrade.  The Electrician, Ashley, was prompt in picking up my request, we agreed a date and time.  He was punctual, polite and helpful.  His work was to a high standard, no mess, no fuss and advice on suitable lightbulbs.  He asked questions I hadn't thought about, i.E.  The \"drop\" from the ceiling (which is high) so that he could adjust the length of chain to suit MY needs.  Very good value for a job well done.  Will definitely recommend to friends and neighbours.  Thank you CheckaTrade, will use again.",
-      "createdAt": "2022-06-13T08:56:45.391Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "OR6lfHcPlgkw8Mw7BwKH",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL15"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-06-13T08:58:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "221fb525-8791-4d59-ac12-ae2897023d6c",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "New fuse box",
-      "review": "He was efficient, friendly, reliable, turned up when he said he would",
-      "createdAt": "2022-05-24T18:25:15.884Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "HwFDytvx26ufNfVHmHva",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-05-24T18:26:07.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "e9f63a51-c741-4ae6-a085-fe769ae05544",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Removal of existing and Fitting of Ceiling lights.  Replacement of and Fitting of new plug sockets.  Fitting of cooker, Hob and extractor.",
-      "review": "All as expected, came when he said that he would and finished within the time frame",
-      "createdAt": "2022-05-17T22:09:05.000Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "fuEdOVmVxybPrUftniAb",
-      "consumerId": "",
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M28"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-05-18T07:54:41.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "08700a1b-bd9a-40e2-ac09-cd656e23cc7e",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Kitchen electrics, various lughting",
-      "review": "I have used this company several times as I was impressed with his work and reliability Hevwent out of his way to assist my elderly father as well in an emergency!",
-      "createdAt": "2022-05-17T19:53:13.000Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "UPwRZff9eX61kmzlChRP",
-      "consumerId": "",
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-05-17T19:54:07.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "6bcfc680-bca8-4627-9fb1-55d79eda2eb9",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "To replace to smoke alarms",
-      "review": "Definitely recommend, efficient, very friendly, clean and good value.  Very happy with you service, thank you.",
-      "createdAt": "2022-05-17T16:45:35.055Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "qlcsTJP1beSM8QKMRs1x",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M5"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-05-17T16:46:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "28eeac83-c21e-4b13-9dd8-6057463a003f",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Fit interior light front room\nreplace security light outside\nfit loft light",
-      "review": "Very pleased with Ashley and his work.  The work was of very neat and of a high standard He arrived on time as promised and worked hard to get the job done and checked all was safe before he left, I will certainly use Ashley again",
-      "createdAt": "2022-05-16T19:26:19.423Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "ifcrJfCGr7tzk5lTJoV9",
-      "consumerId": "",
-      "categoryId": 12,
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-05-16T19:28:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "50983106-c794-4d74-b0a3-95d00fbf58c2",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Electrics",
-      "review": "Kind polite \r\nWell spoken\r\nJob completed earlier than expected\r\nWell recommend",
-      "createdAt": "2022-05-12T06:54:20.000Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "bszXUGyMDqFb5k67HTcT",
-      "consumerId": "",
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "NOT_VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-05-12T07:22:52.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "921b1bd7-1e78-490f-9f51-7c30fe1bdda4",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "New plug sockets in bedroom and outside security light",
-      "review": "Very happy with the work undertaken, would recommend and use again",
-      "createdAt": "2022-05-09T18:48:38.000Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "eWSDcto4HMF5BoTBG9rE",
-      "consumerId": "",
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "PENDING",
-      "rating": {
-        "qualityOfWorkmanship": 9,
-        "tidiness": 9,
-        "reliabilityAndTimekeeping": 9,
-        "courtesy": 9,
-        "rating": 9
-      },
-      "publishedAt": "2022-05-09T18:50:07.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "4693e271-8942-4e09-bd9a-7e19cb5a56d7",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Light fittings put in and troubleshoot and fix of existing lights",
-      "review": "Arrived on time, completed the tasks and a couple of additional things as well.  Happy with the price and even fully cleaned up afterwards.   Thanks again Ash",
-      "createdAt": "2022-05-09T14:38:34.000Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "SqKgAyVuIRxhyfpylkLS",
-      "consumerId": "066d1aa3-c6c1-77c4-9f20-d6074ab19b16",
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M27"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 9,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 9,
-        "courtesy": 10,
-        "rating": 9.5
-      },
-      "publishedAt": "2022-05-09T14:40:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "2f02af2f-f56b-4131-ad97-8eb5325702fd",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "New fuse box lights and new feed to cooker",
-      "review": "Very satisfied with all the work very pleasant and helpful would definitely recommend and would use again",
-      "createdAt": "2022-05-08T17:12:36.000Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "ogyOsZfeFFGKKUFuDNPh",
-      "consumerId": "",
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL10"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-05-08T17:14:05.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "efb624d8-ca8d-40a0-af6f-9e826aa008a5",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Outside security light fitted",
-      "review": "Ashley made a good job of fitting the light and getting it working for me.  Setting it up correctly.  Very pleased.",
-      "createdAt": "2022-05-05T20:01:51.000Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "IzsH9lR1olSdYsjo07Ty",
-      "consumerId": "",
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "OL9"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-05-05T20:02:09.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    },
-    {
-      "id": "dbf0c920-323f-4874-8abd-8514828f62a3",
-      "companyId": 1110420,
-      "type": "WORK_CARRIED",
-      "status": "PUBLISHED",
-      "title": "Electical wiring installation to the garden building",
-      "review": "Ashley done a great job turned up on time\r\nAnd did a great tidy job and everything was great ????",
-      "createdAt": "2022-05-05T19:55:40.000Z",
-      "updatedAt": "2023-01-18T11:37:05.000Z",
-      "legacyId": "9pPSKW46YLdyzYvCajst",
-      "consumerId": "",
-      "topLevelCategoryId": 12,
-      "location": {
-        "postcode": "M24"
-      },
-      "verified": "NOT_VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "tidiness": 10,
-        "reliabilityAndTimekeeping": 10,
-        "courtesy": 10,
-        "rating": 10
-      },
-      "publishedAt": "2022-05-05T19:56:06.000Z",
-      "name": "Renegade Electrical Ltd",
-      "uniqueName": "renegadeelectrical"
-    }
-  ]
+	"total": 87,
+	"averageRating": 9.839080459770114,
+	"reviews": [
+		{
+			"id": "019579a0-622f-7300-bc54-df2d2aff03e6",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Removed my EV charger from old house and reinstalled at new house",
+			"review": "Ashley was amazing! He removed my EV charger from my old house and came back at reinstalled at my new house. He even helped climbed on my roof to move some garden furniture over a one storey extension for me😂would highly recommend and wouldn’t use anybody else now for any electrical work, lovely guy! Thank you!",
+			"createdAt": "2025-03-09T06:38:28.909Z",
+			"updatedAt": "2025-03-09T06:38:45.983Z",
+			"legacyId": "",
+			"consumerId": "",
+			"categoryId": 1547,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL8"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"reliabilityAndTimekeeping": 10,
+				"communication": 10,
+				"rating": 10
+			},
+			"publishedAt": "2025-03-09T06:38:32.147Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "0194668c-408a-7152-94c8-4e06bc3ac102",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Extra sockets",
+			"review": "Lovely young bloke. Told us exactly what he would do and got on with the job. One hundred percent trustworthy.",
+			"createdAt": "2025-01-14T20:40:55.176Z",
+			"updatedAt": "2025-01-17T13:21:09.986Z",
+			"legacyId": "",
+			"consumerId": "06783df9-a8ec-73f2-9920-07945b89d642",
+			"jobId": "01945b21-7a14-7c96-9699-0b65b3b6defb",
+			"categoryId": 78,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 9,
+				"reliabilityAndTimekeeping": 9,
+				"communication": 10,
+				"rating": 9.33
+			},
+			"publishedAt": "2025-01-14T20:40:55.761Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "019432a3-9658-7ec4-bcb9-0f9455fa7865",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Light fitting with dimmer",
+			"review": "Ashley was great. Did a really good job. Was early and friendly. Fitted a ceiling light and dimmer switch and put in a new light bulb fitting for me. Left everything tidy and I couldnt be happoer with his work. Definitely recommend and will go to him in future ",
+			"createdAt": "2025-01-04T18:46:09.237Z",
+			"updatedAt": "2025-01-17T13:18:20.860Z",
+			"legacyId": "",
+			"consumerId": "067681c5-0c28-7194-9920-e05134032f5c",
+			"categoryId": 1665,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"reliabilityAndTimekeeping": 10,
+				"communication": 9,
+				"rating": 9.67
+			},
+			"publishedAt": "2025-01-04T18:46:10.637Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "b5a17a8c-1212-4c29-80bf-ef630a87c07a",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Sockets and light switches",
+			"review": "Ashley added new sockets, updated light switches and moved a ceiling light. Good job, not over priced.  Very friendly. Would recommend",
+			"createdAt": "2024-09-24T18:27:30.017Z",
+			"updatedAt": "2024-09-25T02:30:05.481Z",
+			"legacyId": "kgLrk9eFMYBbeb0brFRo",
+			"consumerId": "066ca046-e220-7c6f-b120-6eb0d082a48d",
+			"categoryId": 2031,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M22"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-09-25T02:30:05.481Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "3ab129e1-4147-420c-ac6a-fbe6c3d9df77",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Solar installation",
+			"review": "Excellent experience from start to finish, great communication and punctuality,\nAshley and his team were very friendly and professional would highly recommend them",
+			"createdAt": "2024-09-18T07:53:15.659Z",
+			"updatedAt": "2024-09-19T03:54:43.276Z",
+			"legacyId": "hOkHZhig5KpH5vGEgNir",
+			"consumerId": "066c2f6e-abd0-7033-9120-267d781010f5",
+			"categoryId": 1174,
+			"topLevelCategoryId": 1172,
+			"location": {
+				"postcode": "WA14"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-09-18T15:55:06.153Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "fb3ff1e5-ff27-4878-aa47-c0c10aea380f",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Disconnecting Burglar Alarm",
+			"review": "Ashely turned up on time, was very knowledgeable and completed the job quickly and too a high standard. I asked him a lot of questions and he happily answered them all giving me some good advice. I would definitely use him again and recommend him to anybody. Definitely a 5-star service.",
+			"createdAt": "2024-09-04T14:05:39.484Z",
+			"updatedAt": "2024-09-05T10:06:36.200Z",
+			"legacyId": "xVofj0ymO6oCBUKG3BCD",
+			"consumerId": "066c21ba-6edf-7926-8220-9c906b3f1828",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL9"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-09-04T22:10:00.531Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "27ec422c-eb09-422a-b004-b51b911759f8",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "fitting electric car charger",
+			"review": "Ashley was very knowledgeable polite and helpful. his workmanship was second to none i would definitely recommend him. excellent work.",
+			"createdAt": "2024-09-03T18:56:53.589Z",
+			"updatedAt": "2024-09-04T03:00:00.703Z",
+			"legacyId": "a9K8esrrAlFvlBN1zKUx",
+			"consumerId": "066c36cf-bc56-768a-a420-2259daa9d11c",
+			"categoryId": 1547,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL9"
+			},
+			"verified": "PENDING",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-09-04T03:00:00.703Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "e2021556-603d-42cd-b264-be5aa7729264",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Solar installation",
+			"review": "Excellent friendly informed advice, very tidy work and great value\nWould recommend Ashley to anyone considering a new solar installation",
+			"createdAt": "2024-09-03T07:10:25.590Z",
+			"updatedAt": "2024-09-04T03:11:43.251Z",
+			"legacyId": "8KGJVVnI4ll6NUQkAPat",
+			"consumerId": "066c2f6e-abd0-7033-9120-267d781010f5",
+			"categoryId": 1174,
+			"topLevelCategoryId": 1172,
+			"location": {
+				"postcode": "WA14"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-09-03T15:15:00.524Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "cc0b7cea-cd81-44e9-9990-c2c74b5bc541",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Shower fitment",
+			"review": "We had a previous short on our shower unit that burnt out the wiring and melted some of the cover. This meant we needed to get someone in to fit a new cable and shower system. Ashley from renegade electrical thankfully quoted for the job with a good price and availability. Ashley was knowledgeable and courteous including checking some details to make sure the job was done and there was no hold ups. He did the job well and checked the system was working well and we were happy with the job. I would definitely recommend Ashley if we need any other electrical work done.",
+			"createdAt": "2024-08-23T17:53:02.442Z",
+			"updatedAt": "2024-08-24T13:54:43.280Z",
+			"legacyId": "rga07tVQ9ByR10XVSak7",
+			"consumerId": "066be469-2bca-7fcc-b620-d427723afadf",
+			"categoryId": 87,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL9"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 9,
+				"tidiness": 8,
+				"reliabilityAndTimekeeping": 9,
+				"courtesy": 10,
+				"rating": 9
+			},
+			"publishedAt": "2024-08-24T01:55:00.519Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "191ddf6f-85ba-4094-9a5b-a56edc6b5c7c",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Supply and fit new lights in kitchen, Bathroom & loft",
+			"review": "They are extremely efficient courteous, and cannot do enough to help,",
+			"createdAt": "2024-08-14T14:15:50.259Z",
+			"updatedAt": "2024-08-15T10:23:03.712Z",
+			"legacyId": "EvQxBNgXjYIvg3zuM7Ds",
+			"consumerId": "066ba21f-d621-7814-9808-846eca7ea8cf",
+			"categoryId": 1475,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-08-14T22:20:00.958Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "5130c1f4-0679-4431-9d22-416786f93245",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Electric Shower Cord Repair",
+			"review": "Within 20 minutes of submitting my job through checkatrade, Ashley had rang me, understood what was required and had booked me in for the following day. He showed up on time and completed the job to a high standard. He even made recommendations for future work to make our homes wiring safer. Will definitely be using Ashley again when the time comes.",
+			"createdAt": "2024-08-06T08:52:58.646Z",
+			"updatedAt": "2024-08-06T16:55:00.687Z",
+			"legacyId": "jALyTEpl7k3SDsqE4eeK",
+			"consumerId": "",
+			"categoryId": 87,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "PENDING",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-08-06T16:55:00.687Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "1d2d2a5d-ecb7-452c-927f-453b50ba66e2",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Old thermostat and switch removal.",
+			"review": "Very happy with work done and help given.\nThanks.",
+			"createdAt": "2024-08-05T19:35:17.653Z",
+			"updatedAt": "2024-08-06T15:39:03.532Z",
+			"legacyId": "KtFVrxuUJf2QQYgi8M2r",
+			"consumerId": "066a9ff9-1491-79d1-8d20-6caabea8d181",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "BL9"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-08-06T03:40:00.332Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "8859750e-59cf-4292-a8a1-b1f12c113c10",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Solar + Battery storage",
+			"review": "Ashley did an excellent job installing the solar panels on my roof, the batteries next to my driveway, and the ground-mounted solar setup in my garden. As someone who likes everything to be perfect, I can say he did it exactly how I would have done it (if I had the experience). I highly recommend him to anyone interested in installing solar panels and battery storage.",
+			"createdAt": "2024-08-01T12:02:54.513Z",
+			"updatedAt": "2024-08-02T08:04:15.330Z",
+			"legacyId": "PEO4JJC0EG7nmylE6IAa",
+			"consumerId": "066ac04b-5d7f-767f-ae20-126508ff1b31",
+			"categoryId": 1174,
+			"topLevelCategoryId": 1172,
+			"location": {
+				"postcode": "M43"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-08-01T20:05:00.998Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "10996dfd-e98b-4ac9-8369-f118305e3c8a",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "External plug socket",
+			"review": "Ashley fitted an external plug socket for me. He sourced the socket at a good price and quality of the workmanship was great. He communicated well and provided an excellent service.",
+			"createdAt": "2024-07-26T18:29:15.044Z",
+			"updatedAt": "2024-07-27T14:30:15.285Z",
+			"legacyId": "PmvVmfhhDWpM3XUV2On5",
+			"consumerId": "",
+			"categoryId": 2031,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-07-27T02:30:00.783Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "2b1576ac-0738-4c4e-b528-495a48753367",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "replacing defective solar edge inverter",
+			"review": "We found Ashley to be a thoroughly competent and effecient electrician. He was a pleasure to deal with and went out of his way to ensure we were kept informed of all that was happening during the replacement process. We can without hesitation recommend him to anyone and we will most certainly use hin again in the future.",
+			"createdAt": "2024-07-05T15:32:00.337Z",
+			"updatedAt": "2024-07-06T11:33:43.361Z",
+			"legacyId": "JONENqxpMKHCHfuw0dp2",
+			"consumerId": "06673cf4-d915-7586-8b20-d83b69caeea5",
+			"categoryId": 1683,
+			"topLevelCategoryId": 1172,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-07-05T23:35:00.274Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "9496f1f9-7fdf-4c16-9448-36025bdedd4e",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "EV Charger",
+			"review": "Excellent work, on time and did what he said was needed. Wouldn’t go with anyone else. Top work",
+			"createdAt": "2024-06-28T20:38:51.332Z",
+			"updatedAt": "2024-06-29T04:40:00.238Z",
+			"legacyId": "L72Cf39pzezuZwD4TzWt",
+			"consumerId": "066792c2-a8e9-77ce-b120-76aa599adc80",
+			"categoryId": 1547,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-06-29T04:40:00.238Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "f38fb995-7e24-4ceb-98cb-fc017cd9b88a",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fitting an EV charger at home",
+			"review": "Fantastic communication, fantastic workmanship and a genuinely nice chap.  Would not hesitate to recommend and will be using again.",
+			"createdAt": "2024-06-25T06:21:42.551Z",
+			"updatedAt": "2024-06-26T02:22:43.321Z",
+			"legacyId": "zqz2pNV5wmFQLwGXttr6",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "BB4"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-06-25T14:25:01.999Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "6dcc58f9-c716-45b2-b409-570aa67561c2",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Our go-to electrician",
+			"review": "We first hired Ashley for a second opinion on a whole house rewire, which another electrician convinced us we needed. After inspecting, he let us know that it was fully unnecessary and that we just needed a new fuse board. He saved us thousands of pounds with that first visit and he immediately became our go-to electrician.\n\nSince then Ashley has fitted solar panels and a battery, a doorbell, new light sockets, outdoor lighting & power, a bathroom extractor fan, removed old ariels, and probably more stuff I can't remember. I can't fault him at all and have recommended him to my friends.",
+			"createdAt": "2024-06-16T16:51:11.951Z",
+			"updatedAt": "2024-06-17T12:52:17.997Z",
+			"legacyId": "a5EaSDgK12TVfL4wnK2B",
+			"consumerId": "",
+			"categoryId": 1174,
+			"topLevelCategoryId": 1172,
+			"location": {
+				"postcode": "M25"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-06-17T00:55:00.645Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "e7cbee6d-c3f1-4be0-b52e-1fb57320c3b9",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fantastic work, reasonable prices",
+			"review": "Ashley got in touch quickly and was patient when I wasn’t available to discuss the job initially. Talked it through, came and sized it up and completed the initial job and a few others within days. Would recommend highly and would definitely use again.",
+			"createdAt": "2024-06-12T18:28:29.496Z",
+			"updatedAt": "2024-06-13T14:29:03.864Z",
+			"legacyId": "g9rHkPoYVfCc0P7M74wb",
+			"consumerId": "066c9c3b-f5a0-7679-bd20-0a705341b7e4",
+			"categoryId": 2031,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M9"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-06-13T02:30:00.524Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "166f9a7d-2162-4740-a9fb-20765ddc682c",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Wiring in an electric cooker",
+			"review": "Super friendly, very efficient and very well priced for the job in hand. There was an issue with the existing wiring in the property, but he went above and beyond to ensure the work was safe, and gave me detailed advice on next steps.\nWonderful experience for a first time homeowner like myself - can highly recommend!",
+			"createdAt": "2024-06-08T10:11:26.088Z",
+			"updatedAt": "2024-06-09T06:13:18.018Z",
+			"legacyId": "6dbuOXa9zJ9bcB6XqLpa",
+			"consumerId": "06662ed7-a50a-754f-8e20-c6d15d41be54",
+			"categoryId": 114,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M5"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 9,
+				"courtesy": 10,
+				"rating": 9.75
+			},
+			"publishedAt": "2024-06-08T18:15:01.110Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "27165b70-9f63-4ed7-9749-5a8786d50a78",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Kitchen lights",
+			"review": "We contacted Ashley due to a fault with our kitchen lights. He came to the house and fixed the problem straight away. He was friendly and very polite. We would definitely recommend him",
+			"createdAt": "2024-06-03T19:54:03.556Z",
+			"updatedAt": "2024-06-04T15:55:18.000Z",
+			"legacyId": "w590740VM2dd0BlTzS9U",
+			"consumerId": "",
+			"categoryId": 1436,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-06-04T03:55:01.105Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "a5b413ec-db4c-4974-8403-17ca3c97243f",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Electrical safety check",
+			"review": "Ashley came out at short notice to do a electrical safety check on my new property, put in a bathroom extractor fan and has also fitted new light fittings and plug sockets throughout. Absolutely brilliant job, cannot recommend enough!",
+			"createdAt": "2024-05-30T18:50:03.594Z",
+			"updatedAt": "2024-05-31T02:55:01.006Z",
+			"legacyId": "lyfd2kZi4JeZ55GIx9Kk",
+			"consumerId": "0664b80d-5b35-798e-bb20-e345fb7f4480",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-05-31T02:55:01.006Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "e67e2c64-71fd-4218-b969-3b246c7c7bfe",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "EICR remedial work & certificate",
+			"review": "Ashley was super responsive and did an amazing job, will definitely use his services again in the future.",
+			"createdAt": "2024-05-22T15:43:57.760Z",
+			"updatedAt": "2024-05-23T11:45:00.134Z",
+			"legacyId": "2xRBLzQiWRt96bfhL3To",
+			"consumerId": "0664e116-f103-72ca-8220-90e0b91229d9",
+			"categoryId": 205,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M50"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-05-22T23:45:00.591Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "61956920-0480-4ad8-af57-469e1e330d62",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Remove defunct EV charger and fit solar and battery compatible replacement.",
+			"review": "Ashley was friendly, knowledgeable and did a great job. He ensured that our new GivEnergy charger was properly integrated with the solar and battery system. \nDuring the job he found an earthing fault from previous work - and fixed this small job at no extra cost.\nHe took pride in his work and charged a fair price. \nWe'd be happy to have him back next time we need a sparky.",
+			"createdAt": "2024-05-17T16:45:32.890Z",
+			"updatedAt": "2024-05-18T13:28:15.332Z",
+			"legacyId": "eSy9x6EMIyzSWMlfqEi7",
+			"consumerId": "",
+			"categoryId": 1547,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL13"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-05-18T00:50:00.949Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "ba357e1c-19d4-4107-b733-354c536d39b9",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "EV charger fitting",
+			"review": "Ashley fitted an EV charger for me and provided lots of brilliant advice prior to doing so, as I was clueless on the whole thing. His advice even allowed me to keep costs down and his prices were the best quotes I had, with nothing reduced on the quality of his work. An extremely tidy, friendly and reliable tradesman who will not rip you off! All quotes and works were completed within days of contacting him - highly recommend !",
+			"createdAt": "2024-05-14T08:17:55.501Z",
+			"updatedAt": "2024-05-15T04:18:15.375Z",
+			"legacyId": "pFNNwxSmzkJUvT9n6zWz",
+			"consumerId": "",
+			"categoryId": 1547,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-05-14T16:20:00.808Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "751858c6-712f-45c3-9ae2-ad2d5e60a904",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Shower switch repair and replace",
+			"review": "Ashley arrived today to fit a new shower switch and I couldn’t have asked for better knowledge and service. Work completed to an exceptional standard and an excellent friendly personality, I would have no hesitation in recommending him to anyone",
+			"createdAt": "2024-05-13T19:29:20.756Z",
+			"updatedAt": "2024-05-14T15:32:15.209Z",
+			"legacyId": "0MqlEzhsuKeDioDCKZLd",
+			"consumerId": "",
+			"categoryId": 87,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "SK3"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-05-14T03:30:01.150Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "e31c23af-0e3f-456b-9f65-a5fc51f86fbb",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Electric car charger fitted",
+			"review": "Ashley fitted me a car charger great price, really professional job would highly recommend",
+			"createdAt": "2024-05-11T07:44:32.734Z",
+			"updatedAt": "2024-05-12T03:47:15.158Z",
+			"legacyId": "AoXYvse4wzLwR1seGq1A",
+			"consumerId": "",
+			"categoryId": 1547,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-05-11T15:45:00.987Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "2a79c545-1cc1-44c1-9f83-4f41f7b9e3be",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Remove and refit of Solar Panels",
+			"review": "We needed the Solar Panels removing and refitting to allow roofers to replace roof.  I Posted on CHECKATRADE and received a call from a very kowledgeable gentleman From RENEGADE ELECTRIC.  He said he would need to see the job to enable him to work out a job plan and price.  The job required working with a team RENEGADE hadnt met before.  He came the next day and spent quite some time looking at the job.  He left promising to call that pm with a price.  RENEGADES was half of quotes from other trades had been.  RENÈGADES work rate, ethic and quality.  Were excellent.  Will reccommend.  Thank You",
+			"createdAt": "2024-01-24T10:04:57.229Z",
+			"updatedAt": "2024-01-24T10:06:06.000Z",
+			"legacyId": "h69ubRo935x28ePzcpZ0",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M29"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2024-01-24T10:06:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "9b6cd85a-9607-4555-8c17-8aa8d98185b0",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Extra plug sockets installed, security light swapped",
+			"review": "Ashleigh gave me a prompt quote and kept to it.  He was very friendly and professional.  He did a good job.  We’re really pleased and would happily recommend him.",
+			"createdAt": "2023-11-29T11:24:14.473Z",
+			"updatedAt": "2023-11-29T11:30:07.000Z",
+			"legacyId": "B8bQMjZDlP3Bllellv0x",
+			"consumerId": "",
+			"categoryId": 2031,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL8"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 9,
+				"tidiness": 8,
+				"reliabilityAndTimekeeping": 8,
+				"courtesy": 10,
+				"rating": 8.75
+			},
+			"publishedAt": "2023-11-29T11:30:07.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "c09d2d69-4e01-4ea2-a8e7-e30f598ba214",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Light fitted",
+			"review": "Absolutely first class brilliant person wonderful job done",
+			"createdAt": "2023-11-01T18:15:09.920Z",
+			"updatedAt": "2023-11-01T18:16:07.000Z",
+			"legacyId": "kW3ljqt0UfwpVcBz2Jer",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-11-01T18:16:07.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "8331fff7-bb26-47ef-87b3-1de8a1a0a6ff",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Electrical Installation Condition Report",
+			"review": "Friendly and chatty, job completed efficiently.  Phoned ahead of visit to let us know he was running late - which is why I rated 10 for reliability and timekeeping as he had informed us he would be a tad late.",
+			"createdAt": "2023-11-01T13:17:49.443Z",
+			"updatedAt": "2023-11-01T13:20:08.000Z",
+			"legacyId": "jPspE3eGlDyWy8seITC5",
+			"consumerId": "",
+			"categoryId": 205,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL1"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-11-01T13:20:08.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "e65a7c8e-25ee-4a67-bd70-7bbb925ee968",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Electrical car charger fitted",
+			"review": "Ashley was very professional on time, great price and excellent work would recommend",
+			"createdAt": "2023-10-23T17:18:36.569Z",
+			"updatedAt": "2024-05-01T12:18:51.000Z",
+			"legacyId": "3DjHE2RcYieMpzMC7NKn",
+			"consumerId": "",
+			"categoryId": 1547,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-10-23T17:20:10.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "16be81a5-96a5-4a3c-b1c7-f9f0df3f5554",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fitted new sockets in living room and conservatory.",
+			"review": "The company is very good at communication and turned up promptly on the agreed date.  Work carried out as agreed with efficiency and very tidy.",
+			"createdAt": "2023-10-19T16:26:25.329Z",
+			"updatedAt": "2024-05-01T12:18:51.000Z",
+			"legacyId": "WfsFPGiljf6rngZXO4gC",
+			"consumerId": "",
+			"categoryId": 2031,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M19"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-10-19T16:28:07.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "b21e003c-7aa6-4b64-906b-3fb590622bfa",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Great service and price",
+			"review": "This is the 2nd time Ashley had completed a job for us.  2 ceiling lights and two security lights.  Ashley was lovely and we are happy would definitely recommend",
+			"createdAt": "2023-10-07T19:44:30.575Z",
+			"updatedAt": "2023-10-07T19:46:05.000Z",
+			"legacyId": "qO7syGJe0tWaMchb3yCr",
+			"consumerId": "",
+			"categoryId": 1642,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M40"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-10-07T19:46:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "003b9658-0bc6-40be-8222-f71037c47182",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "12 spotlights fitted",
+			"review": "Ashley gave us a very competitive quote, and complete the work to a very high standard.  Great guy as well.  Highly recommend",
+			"createdAt": "2023-09-19T19:37:24.938Z",
+			"updatedAt": "2024-05-01T12:18:51.000Z",
+			"legacyId": "CSQaIiOtAZ0gdKB1yXss",
+			"consumerId": "",
+			"categoryId": 1665,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL8"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-09-19T19:38:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "c9967d53-a96b-4a15-991d-f360c5b1b939",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Rewiring and remove of old wiring",
+			"review": "He was a through and through professional.  Knew all the different wire types and how to best work around moving sockets and removing old wiring.  Was courteous and patient, even with my on the fly extra requests.  Will be reaching out in future for any electrical jobs needed.",
+			"createdAt": "2023-09-19T12:35:24.682Z",
+			"updatedAt": "2023-09-19T13:05:08.000Z",
+			"legacyId": "V8kMLEHruKkhubmrdmPq",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M38"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-09-19T12:36:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "c8d4d930-00bf-4e61-9962-1a29d115892a",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fault finding",
+			"review": "Extremely helpful and friendly service.  The issue was resolved very quickly.  I would recommend Renegade Electrical to anyone looking for an electrician and would definitely use them again in the future.",
+			"createdAt": "2023-08-07T19:34:02.507Z",
+			"updatedAt": "2023-08-07T19:36:05.000Z",
+			"legacyId": "6UD0IG3GMNDy4MseazE3",
+			"consumerId": "",
+			"categoryId": 2031,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL8"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-08-07T19:36:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "0ae46981-24a6-433b-8968-2ee52229fa9f",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Lights and outdoor socket",
+			"review": "Great job clean and tidy very knowledgeable",
+			"createdAt": "2023-06-22T19:45:41.418Z",
+			"updatedAt": "2023-06-22T19:46:26.000Z",
+			"legacyId": "Jmh0J7IywswoUMEFaGbD",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-06-22T19:46:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "48eab0b8-df24-4b28-9b19-72497122b142",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Changing faces of socket outlets, replacing single sockets into doubles and installing new sockets.",
+			"review": "Ashley has been a pleasure to meet, he’s been professional from the start and communicative also.  Any issues that may have propped up I was made aware straight away, very clean job minimal damage to walls when installing new sockets and upgrading the singles to doubles, much appreciated and will keep him in my contacts for future work.",
+			"createdAt": "2023-06-22T15:29:45.351Z",
+			"updatedAt": "2023-06-22T15:30:08.000Z",
+			"legacyId": "sZxukWYNxiy1fxk2uRRv",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "SK16"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-06-22T15:30:08.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "6287c9c2-d87c-407c-9e61-99c00ed87bbd",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Electrical connection to garden cabin plus fitting fuse board, sockets, interior/outside lights.",
+			"review": "All work carried out professionally, cleanly and timely.  Provided certificates and guarantee.  Ashley is also well mannered and a really nice guy.  Highly recommend.",
+			"createdAt": "2023-05-26T19:24:13.825Z",
+			"updatedAt": "2023-05-26T19:26:06.000Z",
+			"legacyId": "4twHhmg1bDhxuQmrU8Z3",
+			"consumerId": "0672a4a5-568a-7c51-be20-8b5a2b291d63",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-05-26T19:26:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "0ae32490-8efb-4161-964e-bf47dc25015e",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Change of socket",
+			"review": "Great service",
+			"createdAt": "2023-05-25T09:32:44.108Z",
+			"updatedAt": "2023-05-25T09:34:06.000Z",
+			"legacyId": "I8d0l5OoPVGiUD5T1Tk5",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "BL9"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-05-25T09:34:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "8319a84b-ab82-4fb6-917c-59bc40dbc291",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fixing a outdoor socket and installing LED LIGHTS INTO SLEEPERS",
+			"review": "Ash was a lovely guy.  Came and gave me a quote and advice what socket we needed for the outside garden.  He supplied and fitted.  Very nice gentleman.  I highly recommend him.  And I will saving his number for future electric jobs .",
+			"createdAt": "2023-05-21T10:21:08.879Z",
+			"updatedAt": "2023-05-21T10:22:06.000Z",
+			"legacyId": "4dMT1mkTXLIiUU2PoPCj",
+			"consumerId": "066ebf5c-482e-7343-8820-d5e412deb3e5",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL8"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-05-21T10:22:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "5271823d-002f-4d9e-baa7-36801b74a12c",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Light fittings and light switches fitted",
+			"review": "Very professional and efficient really helpful will definitely use for future electrical work",
+			"createdAt": "2023-05-11T09:09:17.199Z",
+			"updatedAt": "2023-05-11T09:10:05.000Z",
+			"legacyId": "uK7NsRS9thxjS5g4vSlc",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M9"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-05-11T09:10:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "235cec99-d7b6-486b-9182-b8e398f3535e",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Adding additional sockets to 2 Attic bedrooms",
+			"review": "The work was done to a really good standard, came to quote really quickly, communication throughout was fab.  Great work done for a really fair price.  Would use again and would recommend.",
+			"createdAt": "2023-04-30T11:39:32.892Z",
+			"updatedAt": "2023-04-30T11:40:05.000Z",
+			"legacyId": "og4lSw9lcq8G7GhGoApA",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "BB4"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-04-30T11:40:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "365a42f9-293e-4e0b-af38-68288a1dd914",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Security Cameras",
+			"review": "Ashley was very efficient and professional.  Great price and would highly recommend",
+			"createdAt": "2023-04-29T09:09:04.523Z",
+			"updatedAt": "2023-04-29T09:10:05.000Z",
+			"legacyId": "QYjU18SfsFH7clz0ccCb",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL1"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-04-29T09:10:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "47e84a6f-7852-457c-9f3c-766b2bea15db",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fitting a electric car charger and outside light",
+			"review": "Ash is a great person to deal with reliable good communication, friendly and good workmanship, wouldn’t hesitate to recommend him",
+			"createdAt": "2023-04-26T17:59:25.707Z",
+			"updatedAt": "2023-04-26T18:00:11.000Z",
+			"legacyId": "WicdZz0xyhpe8SGOiCfZ",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-04-26T18:00:11.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "2b67d920-fa99-4084-98f5-d1b9c2562a04",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "New light fittings",
+			"review": "Excellent service.  Clean",
+			"createdAt": "2023-04-26T15:55:35.394Z",
+			"updatedAt": "2023-04-26T15:56:07.000Z",
+			"legacyId": "iMgxaL2CscjJIYSY7P2I",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M40"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-04-26T15:56:07.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "6ca3e96f-4756-4e67-b57d-56a38a65002a",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Moving a light switch and adding a plug socket",
+			"review": "Amazing service, very quick and reliable to fit the job in and complete it.  Highly recommend this company for all your electrical needs.  We have already booked in our next job",
+			"createdAt": "2023-04-21T17:22:42.451Z",
+			"updatedAt": "2023-04-21T17:24:06.000Z",
+			"legacyId": "HN5hYEm1j3UQErwP8jse",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-04-21T17:24:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "d58c356b-2278-4132-85e8-6f04ec4e3ea9",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Replace and test multiple sockets and light switches in the kitchen",
+			"review": "Ashley completed the works in my kitchen to a good standard and at the price agreed.  He also went the extra mile to put a new back box on one of my sockets which was not in good condition.  Friendly and reliable service",
+			"createdAt": "2023-04-18T14:37:19.472Z",
+			"updatedAt": "2023-04-18T14:38:07.000Z",
+			"legacyId": "DayO5zIUVvNDHA4AVBfN",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "SK6"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-04-18T14:38:07.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "f0a55aca-ae1f-4877-981f-04e7058b2c8a",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Change some sockets and rewiring.",
+			"review": "Ashley was very friendly and professional.  His work was a very high standard.  Definitely recommend to friends and family.",
+			"createdAt": "2023-04-01T20:17:42.498Z",
+			"updatedAt": "2023-04-01T20:18:05.000Z",
+			"legacyId": "Mjgmuos7YvHkwbl7wibB",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL1"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-04-01T20:18:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "656d041b-8516-46c3-86dd-d04f2fd1e55d",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Investigate and fix faulty electrics causing fuse switch to flip intermittently",
+			"review": "Ashley was great - turned up on time, quickly diagnosed what the problem was and fixed it whilst there.  Took a couple of hours but really professional job done.  Gave some good advice re future electrical checking needed but didn’t try to upsell - genuinely felt like he was telling me for my own benefit, not his.  Would definitely recommend for any electrical jobs needed.",
+			"createdAt": "2023-03-28T17:57:33.406Z",
+			"updatedAt": "2023-03-28T17:58:07.000Z",
+			"legacyId": "bw3Wle8FAm2jpm5A1pzV",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL9"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-03-28T17:58:07.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "b1e773da-0682-4e8c-a022-1dd9516e6505",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Switching some outside lights and installing two additional outside lights.",
+			"review": "Ashley was great.  Really clear about what was being done and where the cabling would be.  Everything completed exactly as agreed and it all looks great.",
+			"createdAt": "2023-03-27T10:46:39.736Z",
+			"updatedAt": "2023-03-27T10:48:05.000Z",
+			"legacyId": "ZoOcy0D0iFLw1glg1BgK",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M25"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-03-27T10:48:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "0bc3b1b0-a31b-4634-a6c2-8be8f8126751",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "New security light fitted",
+			"review": "I would really recommend using Ashley.  He communication was very good which is a breath of fresh air.  The new light has been fitted and is working well.  Wouldnt hesitate to us again.  Friendly quick and efficient.",
+			"createdAt": "2023-03-26T20:29:57.591Z",
+			"updatedAt": "2023-03-26T20:30:06.000Z",
+			"legacyId": "4AadraCo3Jz9kbBYXsZz",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-03-26T20:30:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "3eede249-0642-48ec-b7c8-22a6356b9541",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Wire up a shower and replace a fuse with another.",
+			"review": "Fantastically prompt.  Within half an hour of requesting a quote, Ashley had been in touch to arrange a time to come a view the work that needed doing.  Very honest and open about how he was going to approach it.  He also offered some professional advice on other bits.  Fantatsic will definitely use again for any further work.",
+			"createdAt": "2023-03-09T23:16:28.317Z",
+			"updatedAt": "2023-03-09T23:18:04.000Z",
+			"legacyId": "eGhYlTzlXVmVJY9HNSM0",
+			"consumerId": "06713d58-8939-76ef-bd20-a389d5eeb00a",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL2"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-03-09T23:18:04.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "1a9c6162-70a4-44a8-9140-646cafe68f0f",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Cat 5e internet cable laid from house to outside office.",
+			"review": "Communicative, friendly and work completed to a good standard.",
+			"createdAt": "2023-03-09T21:17:44.661Z",
+			"updatedAt": "2023-03-09T21:18:06.000Z",
+			"legacyId": "68gb7Ivbh9gjf2eEozhm",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M25"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-03-09T21:18:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "2c7c9de3-a61b-4d22-a68c-ac76f183fc11",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "He Fitted a switch for a ceiling light, two sockets and two ceiling roses",
+			"review": "Very Good job , on time and very professional .  He discussed the job in detail and showed us alternative ways of achieving our results.  He advised us when he was turning off the mains with plenty of time to be prepared.  He cleaned up and left us with a tidy job.  He took a matter of a few hours and his price was very reasonable.",
+			"createdAt": "2023-02-10T10:34:03.878Z",
+			"updatedAt": "2023-02-10T10:36:05.000Z",
+			"legacyId": "u91tuVMjyHIkxJzUB9sE",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-02-10T10:36:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "b0908b8f-983f-4825-8163-ad1eafc167a9",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fitting 2 electric wall heaters and 2 new double sockets",
+			"review": "Very pleased with the work done,professional,reliable electrician and very pleasant",
+			"createdAt": "2023-01-25T21:03:06.102Z",
+			"updatedAt": "2023-01-25T21:04:06.000Z",
+			"legacyId": "PmcnswMYgaPbyopgvbdS",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-01-25T21:04:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "8fc397b0-bade-44d3-81e3-614d217e063a",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fireplace not working",
+			"review": "Ash came out to fix the electric fire.  Came out really fast.  Changed a plug socket and fixed other issues with the fire.  Really friendly and professional.  Highly recommend.",
+			"createdAt": "2023-01-24T12:29:57.976Z",
+			"updatedAt": "2023-01-24T12:30:06.000Z",
+			"legacyId": "Aw32xxCrCFWaemYpeeZ1",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M9"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-01-24T12:30:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "9d4c6870-f1a0-46c5-9e60-14329539e44b",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Sorting out a broken plug for a cooker",
+			"review": "Came on time, did the work quite and well, decent price.",
+			"createdAt": "2023-01-23T07:49:33.247Z",
+			"updatedAt": "2023-01-23T07:50:05.000Z",
+			"legacyId": "u9ZNTYRr0S7b1wvUrc5H",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M20"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-01-23T07:50:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "e1a896da-d496-4a85-9c14-883fb904e4ff",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fitting a cooker",
+			"review": "Cooker fitted professionally.  A neat and tidy job.  Reasonable price too.  Ashley went out of his way to do the job on a Saturday morning which was much appreciated.  Would recommend.",
+			"createdAt": "2023-01-21T20:05:03.153Z",
+			"updatedAt": "2023-01-21T20:06:06.000Z",
+			"legacyId": "uyoCWU6h0zMPZm7jchFS",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-01-21T20:06:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "9847462a-46da-4133-a300-aece27d42fcd",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Full rewire, circuit board, new sockets and switches and all new light fittings and outside lights.",
+			"review": "Absolutely fantastic work carried out by Ashley.  Very reliable and friendly, would highly recommend and definitely use again.",
+			"createdAt": "2023-01-20T08:38:11.537Z",
+			"updatedAt": "2023-01-20T08:40:05.000Z",
+			"legacyId": "RJZ8rWOf1ziEbmOSlJ6D",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M9"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-01-20T08:40:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "ff018d98-f594-4f3b-862f-2dd5ce512a32",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "14 double sockets, two light fittings, four light switches",
+			"review": "Ashley replied quickly to our enquiry and came to our house to see the works we wanted.  A quote was provided the same day and we agreed the price.  We opted to provide the sockets, light fittings and switches and Ashley provided everything else e.G.  All the cables and back boxes etc.  We were kept informed with the progress of the works and we agreed on the positions of everything beforehand.  All the sockets have been tested by Ashley and he showed this to us after fitting.  This is a friendly and easy company to deal with and we would recommend it to others who are looking for similar works.",
+			"createdAt": "2023-01-19T17:35:08.698Z",
+			"updatedAt": "2023-01-19T17:36:07.000Z",
+			"legacyId": "rjZ1cvEARjRHoOXxvvR7",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-01-19T17:36:07.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "6055475b-2a4a-4d49-97ab-2f6e5c3b7a8a",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Replacing an old ceiling light with a new one.",
+			"review": "I booked a visit for my parents and they were extremely happy with the service provided.  Not only did the person replace the ceiling light, but they also helped with the odd jobs around the house that my parents were unable to complete themselves.  A great person with a great heart.",
+			"createdAt": "2023-01-10T23:51:33.149Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "Q8hBs2oPqz1bM6JfqpfV",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL9"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-01-10T23:52:04.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "2847d5fa-bcb9-4170-abda-af279808b1e4",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fuse Board",
+			"review": "Would recommend",
+			"createdAt": "2023-01-07T13:23:32.590Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "0Xwq7j7v1OeJvbq0SqDb",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL9"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2023-01-07T13:24:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "2b467301-ae2f-420f-aecb-71a064ff739c",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "To fit 2 ceiling lights in my hallway",
+			"review": "Ashley was lovely and friendly.  His quote matched the end price.  He was very professional.  He completed the job and I was really happy.  If I need anything else doing he would be the 1st person I’d call",
+			"createdAt": "2022-12-11T20:00:31.950Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "4fqICOtamVXoNuly6UmI",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M40"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-12-11T20:02:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "ae9b8dfc-1443-41e2-865b-b0bf315f8e6f",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fitting radiators",
+			"review": "Excellent service, very reasonable price highly recommend",
+			"createdAt": "2022-12-09T19:40:06.789Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "odc3nxB2o9udj6ECGbXa",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-12-09T19:42:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "3e65782f-7376-49bf-948f-05f09bd6c63d",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Restore lights to house.  Mains were repeatedly tripping",
+			"review": "5 star!  Excellent service.  Very polite, understanding and helpful.  Will definitely be recommending to all",
+			"createdAt": "2022-10-28T15:56:24.907Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "aIe66Q7CGPStjhqdGgBT",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "NOT_VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-10-28T15:58:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "5d454e72-7527-4155-ba00-46b4cee5e34a",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fit multiple Sockets, Switches and Light fittings, EICR.",
+			"review": "All work done to an excellent standard.  Ashley was polite and very professional.  Thank you!",
+			"createdAt": "2022-09-25T17:37:52.131Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "0tz6UKE6hxYoS1saJA4k",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL11"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-09-25T17:38:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "c29ac283-fffb-4698-ac33-6490f844194e",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "New fuse box, outside plugs and lighting",
+			"review": "Had a bunch of work done by Ashley.  New fuse box, outside plugs and lighting.  He was really friendly, communicative, explained everything he was doing throughly and did the work to a high standard.  We will absolutely be giving him a call next time we need anything electrical done.",
+			"createdAt": "2022-08-11T12:42:23.935Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "XopyaaMt9Onw8ZAmRBSr",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M25"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-08-11T12:44:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "15633a4d-f268-4640-b718-54722f66e76f",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Install outside light",
+			"review": "Ashley did an excellent job of fitting a light outside my front door, even though it was a bit problematic, due to my ineptitude on buying the correct light ??.  Nevertheless he provided the switch that it needed, so I could turn it off.  Real friendly guy.  Left no mess.  Recommend.",
+			"createdAt": "2022-08-05T15:43:14.008Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "n05UniV7OaddYOVWZANg",
+			"consumerId": "0664cd75-e456-7157-9f20-5698a2d751e3",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-08-08T08:33:26.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "4e16962b-7dc7-470f-8abd-77a393b9b94f",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fitted electric cooker",
+			"review": "Booked this chap to fit an electric cooker in my flat, turned up on time, was friendly, polite and professional.  Completed the job and sent me invoice via email.  Would recommended and use again.",
+			"createdAt": "2022-07-24T07:52:03.733Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "JsTTTIyijxQ1GxG7cJm0",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-07-24T07:54:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "492cdc89-006b-4e49-927c-02016f236b3d",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fitting and supplying outside lights",
+			"review": "He was efficient, tidy and reliable.  Came to do the job when he said he would.  A really nice person.  Thank you very much Ashley.",
+			"createdAt": "2022-07-03T13:15:57.897Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "CKcyGolpyhMfTy1M9MOv",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-07-03T13:16:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "a58756cb-1509-45e7-983a-ddd6f35f691d",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fitting an extra plug.",
+			"review": "As a first time buyer, Ash was very approachable, Friendly and professional.  He came to view and discuss the job ahead and offered a whole range of ideas and knowledge.  I can not thank Ash enough for his time and effort as the finished product and finer details are brilliant.  I highly recommend Renegade Electrical LTD to anyone based in the Manchester region.   Customer service 10/10\nAffordability 10/10\nJob satisfaction 10/10\nOverall rating 10/10",
+			"createdAt": "2022-06-25T18:19:38.573Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "lMmD52bAvgqCF2xTtpU4",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-06-25T18:20:09.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "30082592-ea0d-4f0a-965c-f4d5d4ebfc60",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "No electricity on one side of the kitchen",
+			"review": "Would totally recommend Ash .  Brilliant job in finding fault.  Reasonably priced.  Customer service next to none",
+			"createdAt": "2022-06-17T13:08:17.976Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "lP9HDwgdIV3HOofyResn",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M40"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-06-17T13:10:08.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "37c7aee0-d240-40d0-b7d5-951d141859bd",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Replacing and Fitting a new Ceiling Light in the Bedroom",
+			"review": "I'm over the moon with the service received through Checkatrade.  The Electrician, Ashley, was prompt in picking up my request, we agreed a date and time.  He was punctual, polite and helpful.  His work was to a high standard, no mess, no fuss and advice on suitable lightbulbs.  He asked questions I hadn't thought about, i.E.  The \"drop\" from the ceiling (which is high) so that he could adjust the length of chain to suit MY needs.  Very good value for a job well done.  Will definitely recommend to friends and neighbours.  Thank you CheckaTrade, will use again.",
+			"createdAt": "2022-06-13T08:56:45.391Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "OR6lfHcPlgkw8Mw7BwKH",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL15"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-06-13T08:58:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "221fb525-8791-4d59-ac12-ae2897023d6c",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "New fuse box",
+			"review": "He was efficient, friendly, reliable, turned up when he said he would",
+			"createdAt": "2022-05-24T18:25:15.884Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "HwFDytvx26ufNfVHmHva",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-05-24T18:26:07.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "e9f63a51-c741-4ae6-a085-fe769ae05544",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Removal of existing and Fitting of Ceiling lights.  Replacement of and Fitting of new plug sockets.  Fitting of cooker, Hob and extractor.",
+			"review": "All as expected, came when he said that he would and finished within the time frame",
+			"createdAt": "2022-05-17T22:09:05.000Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "fuEdOVmVxybPrUftniAb",
+			"consumerId": "",
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M28"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-05-18T07:54:41.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "08700a1b-bd9a-40e2-ac09-cd656e23cc7e",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Kitchen electrics, various lughting",
+			"review": "I have used this company several times as I was impressed with his work and reliability Hevwent out of his way to assist my elderly father as well in an emergency!",
+			"createdAt": "2022-05-17T19:53:13.000Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "UPwRZff9eX61kmzlChRP",
+			"consumerId": "",
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-05-17T19:54:07.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "6bcfc680-bca8-4627-9fb1-55d79eda2eb9",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "To replace to smoke alarms",
+			"review": "Definitely recommend, efficient, very friendly, clean and good value.  Very happy with you service, thank you.",
+			"createdAt": "2022-05-17T16:45:35.055Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "qlcsTJP1beSM8QKMRs1x",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M5"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-05-17T16:46:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "28eeac83-c21e-4b13-9dd8-6057463a003f",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Fit interior light front room\nreplace security light outside\nfit loft light",
+			"review": "Very pleased with Ashley and his work.  The work was of very neat and of a high standard He arrived on time as promised and worked hard to get the job done and checked all was safe before he left, I will certainly use Ashley again",
+			"createdAt": "2022-05-16T19:26:19.423Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "ifcrJfCGr7tzk5lTJoV9",
+			"consumerId": "",
+			"categoryId": 12,
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-05-16T19:28:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "50983106-c794-4d74-b0a3-95d00fbf58c2",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Electrics",
+			"review": "Kind polite \r\nWell spoken\r\nJob completed earlier than expected\r\nWell recommend",
+			"createdAt": "2022-05-12T06:54:20.000Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "bszXUGyMDqFb5k67HTcT",
+			"consumerId": "",
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "NOT_VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-05-12T07:22:52.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "921b1bd7-1e78-490f-9f51-7c30fe1bdda4",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "New plug sockets in bedroom and outside security light",
+			"review": "Very happy with the work undertaken, would recommend and use again",
+			"createdAt": "2022-05-09T18:48:38.000Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "eWSDcto4HMF5BoTBG9rE",
+			"consumerId": "",
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "PENDING",
+			"rating": {
+				"qualityOfWorkmanship": 9,
+				"tidiness": 9,
+				"reliabilityAndTimekeeping": 9,
+				"courtesy": 9,
+				"rating": 9
+			},
+			"publishedAt": "2022-05-09T18:50:07.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "4693e271-8942-4e09-bd9a-7e19cb5a56d7",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Light fittings put in and troubleshoot and fix of existing lights",
+			"review": "Arrived on time, completed the tasks and a couple of additional things as well.  Happy with the price and even fully cleaned up afterwards.   Thanks again Ash",
+			"createdAt": "2022-05-09T14:38:34.000Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "SqKgAyVuIRxhyfpylkLS",
+			"consumerId": "066d1aa3-c6c1-77c4-9f20-d6074ab19b16",
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M27"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 9,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 9,
+				"courtesy": 10,
+				"rating": 9.5
+			},
+			"publishedAt": "2022-05-09T14:40:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "2f02af2f-f56b-4131-ad97-8eb5325702fd",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "New fuse box lights and new feed to cooker",
+			"review": "Very satisfied with all the work very pleasant and helpful would definitely recommend and would use again",
+			"createdAt": "2022-05-08T17:12:36.000Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "ogyOsZfeFFGKKUFuDNPh",
+			"consumerId": "",
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL10"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-05-08T17:14:05.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "efb624d8-ca8d-40a0-af6f-9e826aa008a5",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Outside security light fitted",
+			"review": "Ashley made a good job of fitting the light and getting it working for me.  Setting it up correctly.  Very pleased.",
+			"createdAt": "2022-05-05T20:01:51.000Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "IzsH9lR1olSdYsjo07Ty",
+			"consumerId": "",
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "OL9"
+			},
+			"verified": "VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-05-05T20:02:09.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		},
+		{
+			"id": "dbf0c920-323f-4874-8abd-8514828f62a3",
+			"companyId": 1110420,
+			"type": "WORK_CARRIED",
+			"status": "PUBLISHED",
+			"title": "Electical wiring installation to the garden building",
+			"review": "Ashley done a great job turned up on time\r\nAnd did a great tidy job and everything was great ????",
+			"createdAt": "2022-05-05T19:55:40.000Z",
+			"updatedAt": "2023-01-18T11:37:05.000Z",
+			"legacyId": "9pPSKW46YLdyzYvCajst",
+			"consumerId": "",
+			"topLevelCategoryId": 12,
+			"location": {
+				"postcode": "M24"
+			},
+			"verified": "NOT_VERIFIED",
+			"rating": {
+				"qualityOfWorkmanship": 10,
+				"tidiness": 10,
+				"reliabilityAndTimekeeping": 10,
+				"courtesy": 10,
+				"rating": 10
+			},
+			"publishedAt": "2022-05-05T19:56:06.000Z",
+			"name": "Renegade Electrical Ltd",
+			"uniqueName": "renegadeelectrical"
+		}
+	]
 }
