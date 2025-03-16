@@ -1,7 +1,7 @@
 ---
 layout: page.html
-title: Home
-description: About Ashley Merritt, electrician from Manchester
+title: About Me
+description: About Ashley Merritt at Renegade Solar, electrician from Manchester specialising in solar panel and battery installations
 permalink: /about/index.html
 tags: top_link
 link_title: About

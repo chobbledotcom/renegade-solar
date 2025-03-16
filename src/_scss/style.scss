@@ -273,11 +273,11 @@ article {
       }
 
       &:hover {
-        transform: translateY(-2px);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
       }
       img {
         height: 80%;
-        aspect-ratio: 1;
+        width: 80%;
         position: absolute;
         left: 50%;
         top: 50%;
@@ -290,7 +290,7 @@ article {
         padding-top: calc((100% - 5rem) / 6);
 
         img {
-          width: 60%;
+          // width: 60%;
         }
       }
     }

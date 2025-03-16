@@ -34,4 +34,4 @@ Always available to provide further assistance with your new installation with 2
 
 All equipment comes with at least a 5 year warranty and some panels come with warranty of up to 30 years!
 
-**To contact us about solar and battery installs, [click here](/contact/)**
+<a class="btn primary-btn" href="/contact/">Contact Renegade Solar</a>
