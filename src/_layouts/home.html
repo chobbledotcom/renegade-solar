@@ -5,7 +5,11 @@ layout: base.html
 <div class="hero">
   <img eleventy:widths="1200,900,600,400,200" src="/assets/photos/panels.jpg" alt="Solar panels on a roof in Manchester"
     sizes="auto" />
-  <h1>Solar panel installations in Manchester</h1>
+  {% if heading %}
+    <h1>{{ heading }}</h1>
+  {% else %}
+    <h1>Solar panel installations in Manchester</h1>
+  {% endif %}
 </div>
 
 <article>

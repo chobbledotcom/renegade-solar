@@ -3,9 +3,8 @@ title: Solar Panel Installer in Middleton | Renegade Solar
 description: Expert solar panel and battery installations in Middleton from locally-based Renegade Solar, an MCS-certified installer with excellent customer reviews.
 permalink: /solar-panel-installer-middleton/
 link_title: Middleton
+heading: Solar Panel Installer in Middleton
 ---
-
-# Solar Panel Installer in Middleton
 
 Just a stone's throw from our Prestwich base, Middleton is an area we know like the back of our hand. As your local solar energy experts, we've helped countless Middleton homeowners transform their energy usage with custom solar solutions tailored to their specific property styles.
 

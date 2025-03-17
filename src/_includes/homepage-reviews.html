@@ -1,4 +1,3 @@
-<!-- Customer Reviews Section -->
 <section class="customer-reviews">
   <div class="container">
     <div class="customer-reviews__header">
@@ -10,8 +9,8 @@
       </p>
     </div>
 
-    {% assign some_reviews = reviews.reviews | slice: 0, 8 %} {% render
-    "review-list.html", reviews: some_reviews %}
+    {% assign some_reviews = reviews.reviews | slice: 0, 9 %}
+    {% render "review-list.html", reviews: some_reviews %}
 
     <div class="customer-reviews__cta">
       <a href="/reviews" class="btn primary-btn"> View All Reviews </a>
