@@ -161,6 +161,27 @@ article {
       color: black;
     }
   }
+
+  .content {
+    img {
+      display: block;
+      max-width: 30%;
+      width: auto;
+      height: auto;
+      max-height: 400px;
+      float: right;
+      margin: 0 0 1rem 1rem;
+      border: 1px solid #4caf50;
+      border-radius: 0 20px 0 20px;
+    }
+    .center {
+      img {
+        max-width: 70%;
+        margin: 1rem auto;
+        float: none;
+      }
+    }
+  }
 }
 .hero {
   color: white;
@@ -325,7 +346,7 @@ article {
     width: 30%;
     height: auto;
   }
-  &> * {
+  & > * {
     margin: 0;
     padding: 0;
   }
