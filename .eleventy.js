@@ -13,8 +13,8 @@ module.exports = async function (eleventyConfig) {
   });
 
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-    formats: ["auto"],
-    widths: ["auto"],
+    formats: ["webp", "jpeg"],
+    widths: [1200, 900, 600, 400],
     svgShortCircuit: "size",
     htmlOptions: {
       imgAttributes: {
