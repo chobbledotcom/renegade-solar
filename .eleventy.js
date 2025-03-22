@@ -15,7 +15,7 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
     formats: ["webp", "jpeg"],
     widths: [1200, 900, 600, 400],
-    svgShortCircuit: "size",
+    svgShortCircuit: true,
     htmlOptions: {
       imgAttributes: {
         sizes: "auto",
