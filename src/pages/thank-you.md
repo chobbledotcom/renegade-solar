@@ -7,4 +7,6 @@ noindex: true
 
 # Contact Renegade Solar
 
-Thank you! Your enquiry has been received and we'll be in touch soon.
+Thank you! Your enquiry has been received.
+
+**Note: I am on holiday until May 19th 2025 and will reply to all messages on my return.**
