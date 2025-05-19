@@ -10,7 +10,7 @@ MCS-certified solar panel installations across Trafford. We serve Altrincham, Ha
 
 ## Solar Solutions for Trafford Properties
 
-We install solar panels on all Trafford property types - Victorian villas in Bowdon, modern homes in Sale, and everything between. Our systems maximize energy generation while maintaining aesthetic appeal with discreet, efficient designs.
+We install solar panels on all Trafford property types - Victorian villas in Bowdon, modern homes in Sale, and everything between. Our systems maximise energy generation while maintaining aesthetic appeal with discreet, efficient designs.
 
 ## Premium Solar and Battery Systems
 
@@ -18,7 +18,7 @@ We offer comprehensive energy solutions tailored to your needs. Our **premium [s
 
 ## Local Expertise Benefits
 
-Our local knowledge gives you significant advantages. We understand planning requirements for conservation areas and have extensive experience with architectural styles across Trafford. You'll benefit from **accurate performance predictions** based on local data and enjoy direct contact with Ashley, our founder and installer. Every system we design respects your property's unique character while maximizing energy production.
+Our local knowledge gives you significant advantages. We understand planning requirements for conservation areas and have extensive experience with architectural styles across Trafford. You'll benefit from **accurate performance predictions** based on local data and enjoy direct contact with Ashley, our founder and installer. Every system we design respects your property's unique character while maximising energy production.
 
 ## Areas Covered
 
