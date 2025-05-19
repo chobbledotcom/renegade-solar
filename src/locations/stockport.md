@@ -16,7 +16,7 @@ Many Stockport residents ask us if solar panels are effective in Manchester's fa
 
 ## Property Types in Stockport
 
-Stockport's diverse architecture presents exciting opportunities for solar installation. In Bramhall, we frequently work with larger detached and semi-detached homes with ample roof space, ideal for maximizing solar generation. Marple Bridge properties, with their mix of traditional stone buildings and newer developments, often benefit from our custom system designs that respect the architectural character while delivering excellent performance.
+Stockport's diverse architecture presents exciting opportunities for solar installation. In Bramhall, we frequently work with larger detached and semi-detached homes with ample roof space, ideal for maximising solar generation. Marple Bridge properties, with their mix of traditional stone buildings and newer developments, often benefit from our custom system designs that respect the architectural character while delivering excellent performance.
 
 For properties where conventional solar installation isn't suitable (due to shading, orientation, or planning restrictions), we offer [battery-only solutions](/services/home-battery-installations/) that work brilliantly with time-of-use tariffs like [Octopus Energy's](https://octopus.energy/tariffs/) - particularly valuable for homeowners in conservation areas of Marple Bridge or listed buildings in Bramhall.
 
