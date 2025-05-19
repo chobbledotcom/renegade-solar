@@ -76,6 +76,7 @@
               echo "Development environment ready!"
               echo "Run 'serve' to start development server"
               echo "Run 'build' to build the site in the _site directory"
+              git pull
             '';
           };
         };
