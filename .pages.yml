@@ -33,7 +33,7 @@ content:
     type: collection
     subfolders: false
     view:
-      fields: [permalink, title, link_title]
+      fields: [permalink, link_title, title]
       primary: permalink
       sort: [permalink]
     fields:
