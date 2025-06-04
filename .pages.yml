@@ -33,9 +33,9 @@ content:
     type: collection
     subfolders: false
     view:
-      fields: [link_title, permalink]
+      fields: [link_title, title, permalink]
       primary: link_title
-      sort: [order, link_title]
+      sort: [order, link_title, title]
     fields:
       - { name: link_title, type: string, label: Link Title }
       - { name: body, label: Body, type: code, options: { language: markdown } }
