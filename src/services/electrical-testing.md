@@ -1,10 +1,10 @@
 ---
 title: Electrical Testing
-snippet: Testing, inspecting, and commissioning from an electrician with 20+ years experience.
-icon: plug.svg
+snippet: Testing, inspecting, and commissioning from an electrician with 20+
+  years experience.
+icon: /assets/icons/plug.svg
 order: 3
 ---
-
 # Electrical Testing
 
 Regular electrical testing isn't just a box-ticking exercise - it's about keeping your home and family safe. We carry out full electrical safety checks on properties of all sizes, whether you're a homeowner who wants to know their home electrics are safe or a landlord who needs to meet legal requirements.
