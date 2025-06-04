@@ -1,8 +1,24 @@
 media:
-  input: src/assets
-  output: /assets
-  path: src/assets
-  categories: [image]
+  - name: assets
+    label: Assets
+    input: src/assets
+    output: /assets
+    path: src/assets
+    categories: [image]
+  - name: accreditation-logos
+    label: Accreditation Logos
+    input: src/assets/accreditation-logos
+    output: /assets/accreditation-logos
+    path: src/assets/accreditation-logos
+    extensions: [png, jpg, jpeg]
+    categories: [image]
+  - name: icons
+    label: Icons
+    input: src/assets/icons
+    output: /assets/icons
+    path: src/assets/icons
+    extensions: [svg, png]
+    categories: [image]
 content:
   - name: pages
     label: Pages
@@ -37,7 +53,13 @@ content:
     fields:
       - { name: title, type: string, label: Title, required: true }
       - { name: snippet, type: string, label: Snippet, required: true }
-      - { name: icon, type: string, label: Icon, required: true }
+      - name: icon
+        type: image
+        label: Icon
+        required: true
+        options:
+          media: icons
+          path: src/assets/icons
       - { name: order, type: number, label: Order, required: true }
       - { name: description, type: string, label: Description }
       - { name: body, label: Body, type: code, options: { language: markdown } }
@@ -70,7 +92,13 @@ content:
       sort: [title]
     fields:
       - { name: title, type: string, label: Title, required: true }
-      - { name: logo, type: string, label: Logo, required: true }
+      - name: logo
+        type: image
+        label: Logo
+        required: true
+        options:
+          media: accreditation-logos
+          path: src/assets/accreditation-logos
       - { name: tooltip, type: string, label: Tooltip, required: true }
       - { name: url, type: string, label: URL, required: true }
       - { name: snippet, type: string, label: Snippet, required: true }
