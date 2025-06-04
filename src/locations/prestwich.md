@@ -1,6 +1,7 @@
 ---
 title: Renegade Solar in Prestwich | Electrician & Solar Panel Installer
 link_title: Prestwich
+heading: Solar Installations in Prestwich
 layout: location-root.html
 permalink: /prestwich/
 tags: location

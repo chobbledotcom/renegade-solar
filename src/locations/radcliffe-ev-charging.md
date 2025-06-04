@@ -1,11 +1,11 @@
 ---
-title: EV Charger Installations in Radcliffe | Renegade Solar
 description: Professional EV charger installations in Radcliffe by NAPIT-registered electrician. Smart charging solutions with solar panel integration available.
-permalink: /ev-charger-installer-radcliffe/
-link_title: EV Charger Installs
 heading: EV Charger Installations in Radcliffe
-tags: [radcliffe]
 icon: /assets/icons/car.svg
+link_title: EV Charger Installs
+permalink: /ev-charger-installer-radcliffe/
+tags: [radcliffe]
+title: EV Charger Installations in Radcliffe | Renegade Solar
 ---
 
 Expert EV charger installations throughout Radcliffe. As a NAPIT-registered installer and Octopus Energy Trusted Partner, we provide professional charging solutions tailored to your property and driving needs.

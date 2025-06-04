@@ -2,6 +2,7 @@
 title: Solar Installations in Trafford | Renegade Solar
 description: Professional solar panel and battery installations throughout Trafford. Local MCS-certified installer with outstanding customer service and comprehensive electrical expertise.
 link_title: Trafford
+heading: Solar Installations in Trafford
 layout: location-root.html
 permalink: /trafford/
 tags: location

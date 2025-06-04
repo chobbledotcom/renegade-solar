@@ -72,7 +72,7 @@ content:
       - { name: location_pages, type: boolean, label: Has Location Pages }
 
   - name: locations
-    label: Solar Install Locations
+    label: Locations Pages
     path: src/locations
     type: collection
     subfolders: false

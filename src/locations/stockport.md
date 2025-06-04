@@ -2,6 +2,7 @@
 title: Solar Installations in Stockport | Renegade Solar
 description: Expert solar panel and battery installations in Stockport. MCS-certified local installer with comprehensive electrical services and excellent customer reviews.
 link_title: Stockport
+heading: Solar Installations in Stockport
 layout: location-root.html
 permalink: /stockport/
 tags: location

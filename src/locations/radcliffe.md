@@ -2,6 +2,7 @@
 title: Electrical Services in Radcliffe | Renegade Solar
 description: Professional electrical services in Radcliffe including solar panels, battery storage, and EV chargers. Local NAPIT-registered electrician with excellent reviews.
 link_title: Radcliffe
+heading: Solar Installations in Radcliffe
 layout: location-root.html
 permalink: /radcliffe/
 tags: location

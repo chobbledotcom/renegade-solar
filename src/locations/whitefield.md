@@ -2,6 +2,7 @@
 title: Solar Installations in Whitefield | Renegade Solar
 description: MCS-certified solar panel and battery installations in Whitefield. Professional electrical services with excellent customer reviews and comprehensive support.
 link_title: Whitefield
+heading: Solar Installations in Whitefield
 layout: location-root.html
 permalink: /whitefield/
 tags: location
