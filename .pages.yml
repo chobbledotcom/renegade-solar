@@ -1,10 +1,4 @@
 media:
-  - name: assets
-    label: Assets
-    input: src/assets
-    output: /assets
-    path: src/assets
-    categories: [image]
   - name: accreditation-logos
     label: Accreditation Logos
     input: src/assets/accreditation-logos
@@ -69,10 +63,10 @@ content:
           media: icons
           path: src/assets/icons
       - { name: body, label: Full Description, type: code, options: { language: markdown } }
-      
+
       # SEO Settings
       - { name: description, type: string, label: Meta Description }
-      
+
       # System Settings
       - { name: order, type: number, label: Display Order, required: true }
 
@@ -90,11 +84,11 @@ content:
       - { name: link_title, type: string, label: Navigation Title, required: true }
       - { name: heading, type: string, label: Page Heading, required: true }
       - { name: body, label: Page Content, type: code, options: { language: markdown } }
-      
+
       # SEO Settings
       - { name: title, type: string, label: Meta Title, required: true }
       - { name: description, type: string, label: Meta Description, required: true }
-      
+
       # System Settings
       - { name: permalink, type: string, label: URL Path, required: true }
 
@@ -119,7 +113,7 @@ content:
           path: src/assets/accreditation-logos
       - { name: snippet, type: string, label: Summary Description, required: true }
       - { name: body, label: Full Description, type: code, options: { language: markdown } }
-      
+
       # Display Settings
       - { name: tooltip, type: string, label: Hover Text, required: true }
       - { name: url, type: string, label: External Link, required: true }⏎
