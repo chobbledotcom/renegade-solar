@@ -5,7 +5,9 @@ order: 4
 permalink: /contact/
 layout: contact.html
 noindex: false
+tags: top_link
 ---
+
 # Contact Renegade Solar
 
 Our business hours are **9am to 5pm**, **Monday to Friday**, but if you drop us a message we'll get back to you as soon as we can.
