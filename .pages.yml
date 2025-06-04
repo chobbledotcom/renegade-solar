@@ -26,9 +26,9 @@ content:
     type: collection
     subfolders: false
     view:
-      fields: [title, link_title, order]
+      fields: [link_title, permalink]
       primary: title
-      sort: [order, title]
+      sort: [order, link_title]
     fields:
       - { name: title, type: string, label: Title, required: true }
       - { name: layout, type: string, label: Layout, required: true }
@@ -47,7 +47,7 @@ content:
     type: collection
     subfolders: false
     view:
-      fields: [title, snippet, order]
+      fields: [title, permalink]
       primary: title
       sort: [order, title]
     fields:
