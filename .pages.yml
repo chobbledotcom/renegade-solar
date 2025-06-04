@@ -54,7 +54,7 @@ content:
     type: collection
     subfolders: false
     view:
-      fields: [title, snippet]
+      fields: [title, icon, snippet]
       primary: title
       sort: [order, title]
     fields:
@@ -104,7 +104,7 @@ content:
     type: collection
     subfolders: false
     view:
-      fields: [title, snippet]
+      fields: [title, logo, snippet]
       primary: title
       sort: [title]
     fields:
