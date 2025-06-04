@@ -2,8 +2,9 @@
 title: EICR Electrical Safety Inspections in Prestwich | £150 Same Day Certificate
 description: Professional EICR electrical inspections in Prestwich. £150 all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Victorian terraces specialist.
 link_title: EICR Inspection
-icon: /assets/icons/plug.svg
-permalink: /prestwich/eicr-inspections/
+heading: EICR Inspections in Prestwich
+icon: /assets/icons/check.svg
+permalink: /prestwich-eicr-inspections/
 tags: [prestwich, eicr]
 ---
 
@@ -16,6 +17,7 @@ Need an EICR in Prestwich? As your local NAPIT-registered electricians, we provi
 Prestwich has a brilliant mix of Victorian terraced houses and more modern properties, but that means different electrical challenges. Those beautiful Victorian terraces around the town centre and near Heaton Park often have electrical systems that weren't designed for modern life - we're talking about wiring originally installed for gas lighting that's been adapted over the decades.
 
 **Common issues we find in Prestwich Victorian properties:**
+
 - Original cloth-covered wiring from the early 1900s
 - Fuse boxes without any RCD protection
 - Inadequate earthing systems
@@ -48,6 +50,7 @@ If we find problems like an outdated fuse box (common in older Prestwich propert
 ## Understanding Prestwich's Property Types
 
 **Victorian terraces** (common around Prestwich Village and near the tram stops) present particular challenges. These properties often have:
+
 - Electrical systems upgraded piecemeal over decades
 - Limited circuits for modern electrical loads
 - Earthing that doesn't meet current standards
@@ -67,7 +70,7 @@ If we find problems like an outdated fuse box (common in older Prestwich propert
 
 We know Prestwich well and understand the common electrical issues in different parts of the area. Whether you're near the MetroLink station dealing with the vibration effects on older wiring, or in one of the newer developments where build quality varies, local experience makes a difference.
 
-**Our customers say:** *"Ashley came out at short notice to do an electrical safety check on my new property"* - that's the kind of responsive service Prestwich residents expect.
+**Our customers say:** _"Ashley came out at short notice to do an electrical safety check on my new property"_ - that's the kind of responsive service Prestwich residents expect.
 
 ## If We Find Problems
 

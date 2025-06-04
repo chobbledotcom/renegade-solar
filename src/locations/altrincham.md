@@ -2,6 +2,7 @@
 title: Solar Installations in Altrincham | Renegade Solar
 description: Professional solar panel and battery installations in Altrincham. MCS-certified local installer with excellent customer reviews and comprehensive electrical services.
 link_title: Altrincham
+heading: Solar Installations in Altrincham
 layout: location-root.html
 permalink: /altrincham/
 tags: location

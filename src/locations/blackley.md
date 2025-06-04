@@ -2,6 +2,7 @@
 title: Solar Installations in Blackley | Renegade Solar
 description: Expert solar panel and battery installations in Blackley. Local MCS-certified installer providing renewable energy solutions with outstanding customer service.
 link_title: Blackley
+heading: Solar Installations in Blackley
 layout: location-root.html
 permalink: /blackley/
 tags: location

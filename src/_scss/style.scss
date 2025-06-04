@@ -342,6 +342,17 @@ article {
   align-items: center;
   align-content: center;
   text-align: center;
+  
+  @media (min-width: 769px) {
+    flex: 1 1 calc(33.333% - 1.33rem);
+    max-width: calc(33.333% - 1.33rem);
+  }
+  
+  @media (min-width: 900px) {
+    flex: 1 1 calc(25% - 1.5rem);
+    max-width: calc(25% - 1.5rem);
+  }
+  
   .header-icon {
     width: 30%;
     height: auto;
@@ -356,6 +367,7 @@ article {
   display: flex;
   gap: 2rem;
   flex-wrap: wrap;
+  justify-content: flex-start;
   &.v-padding {
     padding-left: 0.5rem;
     padding-right: 0.5rem;
@@ -403,27 +415,65 @@ article {
 .services-list {
   display: flex;
   flex-direction: column;
+  gap: 1rem;
+  
   a {
     display: flex;
     align-items: center;
     gap: 1rem;
-    &:hover img {
-      filter: none;
+    background: white;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+    transition: all 0.2s ease;
+    
+    &:hover {
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+      transform: translateY(-1px);
+      
+      img {
+        filter: none;
+      }
     }
   }
+  
   img {
+    width: 40px;
+    height: 40px;
     transition: filter 0.3s linear;
     filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg)
       brightness(49%) contrast(119%);
   }
-  @media (min-width: $mobile-width) {
-    gap: 2rem;
+  
+  small {
+    display: block;
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 0.5rem;
+    font-weight: normal;
+  }
+  
+  @media (min-width: 769px) {
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
-    img {
-      width: 4vw;
-      height: auto;
+    justify-content: flex-start;
+    gap: 1.5rem;
+    
+    a {
+      flex: 1 1 calc(33.333% - 1rem);
+      max-width: calc(33.333% - 1rem);
+      flex-direction: column;
+      text-align: center;
+      padding: 1.5rem 1rem;
+      justify-content: center;
+    }
+  }
+  
+  @media (min-width: 900px) {
+    a {
+      flex: 1 1 calc(25% - 1.125rem);
+      max-width: calc(25% - 1.125rem);
     }
   }
 }

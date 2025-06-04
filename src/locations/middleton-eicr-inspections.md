@@ -2,8 +2,9 @@
 title: EICR Electrical Safety Inspections in Middleton | £150 Same Day Certificate
 description: Professional EICR electrical inspections in Middleton. £150 all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electrical safety experts.
 link_title: EICR Inspection
-icon: /assets/icons/plug.svg
-permalink: /middleton/eicr-inspections/
+heading: EICR Inspections in Middleton
+icon: /assets/icons/check.svg
+permalink: /middleton-eicr-inspections/
 tags: [middleton, eicr]
 ---
 
@@ -41,17 +42,19 @@ Penalties for non-compliance are substantial - fines up to £30,000, plus local 
 
 If we find problems like an outdated consumer unit or inadequate wiring (more common in older Middleton properties), you can use this information in purchase negotiations or make informed decisions about proceeding.
 
-**Our satisfied customers say:** *"Ashley came out at short notice to do an electrical safety check on my new property"* - that's the responsive service Middleton residents expect.
+**Our satisfied customers say:** _"Ashley came out at short notice to do an electrical safety check on my new property"_ - that's the responsive service Middleton residents expect.
 
 ## Understanding Middleton's Property Types
 
 **Older terraced and semi-detached properties** (common throughout established Middleton areas) often feature:
+
 - Electrical systems that have been upgraded gradually over time
 - Consumer units that don't meet current safety requirements
 - Limited electrical circuits for modern household demands
 - Earthing arrangements that need updating to meet current standards
 
 **Modern developments** around Middleton can still present challenges:
+
 - Installation quality that varies with different builders and subcontractors
 - Electrical work that meets basic requirements but could be enhanced
 - RCD protection arrangements that don't fully meet current best practices

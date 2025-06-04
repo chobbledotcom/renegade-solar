@@ -39,12 +39,14 @@ Installing an EV charger at home doesn't just provide convenience - it delivers 
 
 ## Coverage Area
 
-We serve the entire Greater Manchester area with our EV charger installation service. Being based in [Prestwich](/solar-panel-installer-prestwich/), we know the local area well and can respond quickly to enquiries throughout North Manchester. We've got extensive experience installing chargers in [Blackley](/solar-panel-installer-blackley/) and [Whitefield](/solar-panel-installer-whitefield/), where we understand the mix of property types and electrical systems.
+We serve the entire Greater Manchester area with our EV charger installation service. Being based in [Prestwich](/ev-charger-installer-prestwich/), we know the local area well and can respond quickly to enquiries throughout North Manchester. We've got extensive experience installing chargers in [Blackley](/ev-charger-installer-blackley/) and [Whitefield](/ev-charger-installer-whitefield/), where we understand the mix of property types and electrical systems.
 
-For customers in [Middleton](/solar-panel-installer-middleton/) and surrounding areas, we offer the same reliable service and competitive pricing that's earned us our strong reputation. We regularly travel to [Stockport](/solar-panel-installer-stockport/) and [Altrincham](/solar-panel-installer-altrincham/) for installations too, providing coverage across South Manchester. Our work in the [Trafford](/solar-panel-installer-trafford/) area has grown steadily as more residents make the switch to electric vehicles. We're proud to be a local [NAPIT-registered](/accreditations/napit/) installer serving the entire region.
+For customers in [Middleton](/ev-charger-installer-middleton/) and surrounding areas, we offer the same reliable service and competitive pricing that's earned us our strong reputation. We regularly travel to [Stockport](/ev-charger-installer-stockport/) and [Altrincham](/ev-charger-installer-altrincham/) for installations too, providing coverage across South Manchester. Our work in the [Trafford](/ev-charger-installer-trafford/) area has grown steadily as more residents make the switch to electric vehicles. We're proud to be a local [NAPIT-registered](/accreditations/napit/) installer serving the entire region.
 
 Our reviews show we've successfully completed installations in M24, M25, and OL8 postcode areas, among others. The proximity of our base in Prestwich means we can offer quick response times for surveys and installations throughout Greater Manchester.
 
 ## Get Started
 
 **To chat about EV charger options or book an installation, [contact us today](/contact/) for a free consultation and quote.**
+
+We cover [Altrincham](/ev-charger-installer-altrincham/), [Blackley](/ev-charger-installer-blackley/), [Bury](/ev-charger-installer-bury/), [Middleton](/ev-charger-installer-middleton/), [Prestwich](/ev-charger-installer-prestwich/), [Radcliffe](/ev-charger-installer-radcliffe/), [Stockport](/ev-charger-installer-stockport/), [Trafford](/ev-charger-installer-trafford/), and [Whitefield](/ev-charger-installer-whitefield/) with dedicated local EV charger installation services.

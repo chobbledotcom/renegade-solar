@@ -2,8 +2,9 @@
 title: EICR Electrical Safety Inspections in Blackley | £150 Same Day Certificate
 description: Professional EICR electrical inspections in Blackley. £150 all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electrical safety experts.
 link_title: EICR Inspection
-icon: /assets/icons/plug.svg
-permalink: /blackley/eicr-inspections/
+heading: EICR Inspections in Blackley
+icon: /assets/icons/check.svg
+permalink: /blackley-eicr-inspections/
 tags: [blackley, eicr]
 ---
 
@@ -46,12 +47,14 @@ Much better to find out about a potential electrical upgrade during your house p
 ## Blackley Property Characteristics
 
 **Older terraced houses** (common throughout established Blackley areas) often have:
+
 - Electrical systems that have been upgraded bit by bit over time
 - Old-style consumer units that don't meet current safety standards
 - Not enough electrical circuits for modern household needs
 - Earthing systems that need bringing up to current requirements
 
 **Council-built and modern properties** in Blackley can still have challenges:
+
 - Installation quality that depends on maintenance and any modifications over the years
 - Electrical work that might meet basic requirements but could be improved
 - RCD protection that doesn't fully meet current best practices

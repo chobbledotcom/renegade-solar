@@ -1,7 +1,7 @@
 ---
 title: Electrical Safety Inspections (EICR)
-snippet: Professional EICR inspections £150 - same day certificates, no hard sell, 20+ years experience. Landlords, homebuyers & safety checks.
-icon: /assets/icons/plug.svg
+snippet: Just £150 with same-day certificates and no hard sells.
+icon: /assets/icons/check.svg
 location_pages: true
 order: 4
 ---
@@ -114,4 +114,4 @@ We can usually get you booked in as soon as you call. Whether you're a landlord 
 
 **Ready to book your electrical safety inspection? [Get in touch today](/contact/)**
 
-_Covering Prestwich, Whitefield, Bury, Radcliffe, Altrincham, Trafford, Stockport and the wider Greater Manchester area._
+We cover [Altrincham](/altrincham-eicr-inspections/), [Blackley](/blackley-eicr-inspections/), [Bury](/bury-eicr-inspections/), [Middleton](/middleton-eicr-inspections/), [Prestwich](/prestwich-eicr-inspections/), [Radcliffe](/radcliffe-eicr-inspections/), [Stockport](/stockport-eicr-inspections/), [Trafford](/trafford-eicr-inspections/), and [Whitefield](/whitefield-eicr-inspections/) with dedicated local EICR services.

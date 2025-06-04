@@ -6,20 +6,8 @@ layout: base.html
   <div class="card content">
     {{ content }}
   </div>
-  <div class="row">
-    {% assign sorted_services = collections.service | sort: 'data.order' %}
-    {% for service in sorted_services %}
-    <div class="card service-card">
-      <img class="header-icon" src="/assets/icons/{{ service.data.icon }}" alt="">
-      <h2>
-        <a href="{{ service.url }}">
-          {{ service.data.title }}
-        </a>
-      </h2>
-      <p>{{ service.data.snippet }}</p>
-    </div>
-    {%- endfor -%}
-  </div>
+  {% assign show_snippet = true %}
+  {% include "services-list.html" %}
   {% include "contact-form.html" %}
   {% include "accreditations.html" %}
 </article>

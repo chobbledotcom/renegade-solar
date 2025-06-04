@@ -2,8 +2,9 @@
 title: EICR Electrical Safety Inspections in Radcliffe | £150 Same Day Certificate
 description: Professional EICR electrical inspections in Radcliffe. £150 all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electrical safety experts.
 link_title: EICR Inspection
-icon: /assets/icons/plug.svg
-permalink: /radcliffe/eicr-inspections/
+heading: EICR Inspections in Radcliffe
+icon: /assets/icons/check.svg
+permalink: /radcliffe-eicr-inspections/
 tags: [radcliffe, eicr]
 ---
 
@@ -46,12 +47,14 @@ Much better to find out about a potential £1,500 electrical upgrade during your
 ## Radcliffe Property Types
 
 **Older terraced and semi-detached houses** (common throughout established Radcliffe areas) often have:
+
 - Electrical systems that have been upgraded bit by bit over time
-- Old-style consumer units that don't meet current safety standards  
+- Old-style consumer units that don't meet current safety standards
 - Not enough electrical circuits for modern household needs
 - Earthing systems that need bringing up to current requirements
 
 **Modern family homes** in Radcliffe's newer areas can still have problems:
+
 - Installation quality that depends on which builder and electricians did the work
 - Electrical work that meets basic requirements but could be better
 - RCD protection that doesn't fully meet current best practices

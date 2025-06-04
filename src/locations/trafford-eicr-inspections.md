@@ -2,8 +2,9 @@
 title: EICR Electrical Safety Inspections in Trafford | £150 Same Day Certificate
 description: Professional EICR electrical inspections in Trafford. £150 all domestic properties, same day certificates. NAPIT registered, specialist in period properties and executive homes.
 link_title: EICR Inspection
-icon: /assets/icons/plug.svg
-permalink: /trafford/eicr-inspections/
+heading: EICR Inspections in Trafford
+icon: /assets/icons/check.svg
+permalink: /trafford-eicr-inspections/
 tags: [trafford, eicr]
 ---
 
@@ -41,17 +42,19 @@ Non-compliance penalties are substantial - fines up to £30,000, plus authoritie
 
 If we identify issues like outdated electrical infrastructure or installation deficiencies (which can occur even in higher-value Trafford properties), you can incorporate repair costs into purchase negotiations or make educated decisions about proceeding.
 
-**Our customers say:** *"Ashley was super responsive and did an amazing job, will definitely use his services again in the future"* - that's the service level Trafford residents expect and deserve.
+**Our customers say:** _"Ashley was super responsive and did an amazing job, will definitely use his services again in the future"_ - that's the service level Trafford residents expect and deserve.
 
 ## Trafford's Electrical Considerations
 
 **Premium period properties** (characteristic of Trafford's established residential areas) commonly feature:
+
 - Electrical systems upgraded over decades with varying quality approaches
 - Consumer units that may not reflect current safety standards despite property value
 - Sophisticated electrical demands from modern luxury appliances and systems
 - Complex earthing and bonding requirements in extensively renovated properties
 
 **Executive developments and conversions** present specific challenges:
+
 - Installation quality dependent on developer standards and subcontractor management
 - Electrical systems designed for luxury living but potentially with implementation shortcuts
 - Advanced RCD and protection systems that may not be optimally configured

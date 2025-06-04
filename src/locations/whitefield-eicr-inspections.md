@@ -2,8 +2,9 @@
 title: EICR Electrical Safety Inspections in Whitefield | £150 Same Day Certificate
 description: Professional EICR electrical inspections in Whitefield. £150 all domestic properties, same day certificates. NAPIT registered, Victorian terrace and modern home specialist.
 link_title: EICR Inspection
-icon: /assets/icons/plug.svg
-permalink: /whitefield/eicr-inspections/
+heading: EICR Inspections in Whitefield
+icon: /assets/icons/check.svg
+permalink: /whitefield-eicr-inspections/
 tags: [whitefield, eicr]
 ---
 
@@ -46,12 +47,14 @@ Much better to discover electrical issues during your buying process than face u
 ## Whitefield Property Characteristics
 
 **Older terraced properties** (particularly around the established areas near Whitefield MetroLink) commonly have:
+
 - Electrical installations that have been modified over many years
 - Consumer units that predate current safety requirements
 - Limited circuits struggling with modern electrical loads
 - Earthing systems that need upgrading to current standards
 
 **Modern family homes** in Whitefield's newer developments can still present challenges:
+
 - Installation quality that varies depending on the builder and subcontractors
 - Electrical work that meets basic requirements but could be better
 - Issues with RCD protection arrangements

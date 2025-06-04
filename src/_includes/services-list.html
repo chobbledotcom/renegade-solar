@@ -7,6 +7,9 @@
     {% endif %}
     <span>
       {{ service.data.title }}
+      {% if show_snippet and service.data.snippet %}
+      <small>{{ service.data.snippet }}</small>
+      {% endif %}
     </span>
   </a>
   {%- endfor -%}

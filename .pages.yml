@@ -83,7 +83,7 @@ content:
     fields:
       # Main Content
       - { name: link_title, type: string, label: Navigation Title, required: true }
-      - { name: heading, type: string, label: Page Heading, required: true }
+      - { name: heading, type: string, label: Page Heading }
       - { name: body, label: Page Content, type: code, options: { language: markdown } }
       - { name: tags, type: string, label: Tags, list: true }
 
@@ -93,6 +93,13 @@ content:
 
       # System Settings
       - { name: permalink, type: string, label: URL Path, required: true }
+      - { name: layout, type: string, label: Layout }
+      - name: icon
+        type: image
+        label: Service Icon
+        options:
+          media: icons
+          path: src/assets/icons
 
   - name: accreditations
     label: Accreditations

@@ -2,8 +2,9 @@
 title: EICR Electrical Safety Inspections in Stockport | £150 Same Day Certificate
 description: Professional EICR electrical inspections in Stockport. £150 all domestic properties, same day certificates. NAPIT registered, period properties and modern homes specialist.
 link_title: EICR Inspection
-icon: /assets/icons/plug.svg
-permalink: /stockport/eicr-inspections/
+heading: EICR Inspections in Stockport
+icon: /assets/icons/check.svg
+permalink: /stockport-eicr-inspections/
 tags: [stockport, eicr]
 ---
 
@@ -46,12 +47,14 @@ Much better to discover potential electrical upgrade costs during your buying pr
 ## Stockport's Electrical Characteristics
 
 **Period terraced and semi-detached properties** (common throughout Stockport's established areas) typically feature:
+
 - Electrical systems upgraded incrementally over many decades
 - Consumer units that predate current safety standards
 - Limited electrical circuits for contemporary household demands
 - Earthing arrangements requiring updates to meet current requirements
 
 **Modern developments and conversions** can present their own challenges:
+
 - Installation quality varying with different builders and electrical subcontractors
 - Work that meets basic regulatory requirements but could be enhanced
 - RCD protection arrangements that don't fully optimize current safety standards

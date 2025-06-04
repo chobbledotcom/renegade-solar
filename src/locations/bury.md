@@ -2,6 +2,7 @@
 title: Solar Installations in Bury | Renegade Solar
 description: MCS-certified solar panel and battery installations in Bury. Professional electrical services with personal oversight and excellent customer reviews.
 link_title: Bury
+heading: Solar Installations in Bury
 layout: location-root.html
 permalink: /bury/
 tags: location

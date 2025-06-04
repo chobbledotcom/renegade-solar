@@ -2,8 +2,9 @@
 title: EICR Electrical Safety Inspections in Bury | £150 Same Day Certificate
 description: Professional EICR electrical inspections in Bury. £150 all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electricians.
 link_title: EICR Inspection
-icon: /assets/icons/plug.svg
-permalink: /bury/eicr-inspections/
+heading: EICR Inspections in Bury
+icon: /assets/icons/check.svg
+permalink: /bury-eicr-inspections/
 tags: [bury, eicr]
 ---
 
@@ -46,12 +47,14 @@ Better to discover a potential £2,000 electrical upgrade during your purchase p
 ## Understanding Bury's Property Types
 
 **Older terraced and semi-detached properties** (common throughout established Bury areas) often feature:
+
 - Electrical systems that have been upgraded gradually over time
 - Consumer units that don't meet current safety requirements
 - Limited electrical circuits for modern household demands
 - Earthing arrangements that need updating to meet current standards
 
 **Modern developments** around Bury can still present challenges:
+
 - Variable installation quality depending on builders and subcontractors
 - Electrical work that meets minimum requirements but could be improved
 - RCD protection that doesn't fully comply with current best practice
@@ -69,7 +72,7 @@ Better to discover a potential £2,000 electrical upgrade during your purchase p
 
 We work regularly throughout Bury and understand the electrical characteristics common to different property types and areas. Whether you're dealing with an older property that's been well-maintained or a newer home where you want installation verification, local experience matters.
 
-**Our customers appreciate responsive service:** *"Very satisfied with all the work very pleasant and helpful would definitely recommend and would use again"* - that's the standard Bury residents expect.
+**Our customers appreciate responsive service:** _"Very satisfied with all the work very pleasant and helpful would definitely recommend and would use again"_ - that's the standard Bury residents expect.
 
 ## When We Find Issues
 

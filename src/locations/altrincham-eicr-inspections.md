@@ -2,8 +2,9 @@
 title: EICR Electrical Safety Inspections in Altrincham | £150 Same Day Certificate
 description: Professional EICR electrical inspections in Altrincham. £150 all domestic properties, same day certificates. NAPIT registered, specialist in period properties and modern developments.
 link_title: EICR Inspection
-icon: /assets/icons/plug.svg
-permalink: /altrincham/eicr-inspections/
+heading: EICR Inspections in Altrincham
+icon: /assets/icons/check.svg
+permalink: /altrincham-eicr-inspections/
 tags: [altrincham, eicr]
 ---
 
@@ -46,12 +47,14 @@ Even solicitors recommend electrical inspections because they know how much reme
 ## Understanding Altrincham's Electrical Challenges
 
 **Period properties** (common around the town centre and near the market) often have:
+
 - Electrical systems upgraded piecemeal over many years
 - Consumer units that don't meet current safety standards
 - Inadequate circuits for modern electrical loads
 - Earthing arrangements that need updating
 
 **Modern developments and conversions** can have their own issues:
+
 - Installation shortcuts from competitive building phases
 - Loose connections that weren't properly tightened
 - Missing earth bonding in bathrooms and kitchens

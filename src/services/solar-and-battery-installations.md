@@ -40,3 +40,5 @@ Always available to provide further assistance with your new installation with 2
 All equipment comes with at least a 5 year warranty and some panels come with warranty of up to 30 years!
 
 <a class="btn primary-btn" href="/contact/">Contact Renegade Solar</a>
+
+We cover [Altrincham](/solar-panel-installer-altrincham/), [Blackley](/solar-panel-installer-blackley/), [Bury](/solar-panel-installer-bury/), [Middleton](/solar-panel-installer-middleton/), [Prestwich](/solar-panel-installer-prestwich/), [Radcliffe](/solar-panel-installer-radcliffe/), [Stockport](/solar-panel-installer-stockport/), [Trafford](/solar-panel-installer-trafford/), and [Whitefield](/solar-panel-installer-whitefield/) with dedicated local solar installation services.
