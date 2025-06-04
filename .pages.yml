@@ -1,0 +1,77 @@
+media:
+  input: src/assets
+  output: /assets
+  path: src/assets
+  categories: [image]
+content:
+  - name: pages
+    label: Pages
+    path: src/pages
+    type: collection
+    subfolders: false
+    view:
+      fields: [title, link_title, order]
+      primary: title
+      sort: [order, title]
+    fields:
+      - { name: title, type: string, label: Title, required: true }
+      - { name: layout, type: string, label: Layout, required: true }
+      - { name: link_title, type: string, label: Link Title }
+      - { name: tags, type: string, label: Tags, list: true }
+      - { name: order, type: number, label: Order }
+      - { name: description, type: string, label: Description }
+      - { name: permalink, type: string, label: Permalink }
+      - { name: section, type: string, label: Section }
+      - { name: noindex, type: boolean, label: No Index }
+      - { name: body, label: Body, type: code, options: { language: markdown } }
+
+  - name: services
+    label: Services
+    path: src/services
+    type: collection
+    subfolders: false
+    view:
+      fields: [title, snippet, order]
+      primary: title
+      sort: [order, title]
+    fields:
+      - { name: title, type: string, label: Title, required: true }
+      - { name: snippet, type: string, label: Snippet, required: true }
+      - { name: icon, type: string, label: Icon, required: true }
+      - { name: order, type: number, label: Order, required: true }
+      - { name: description, type: string, label: Description }
+      - { name: body, label: Body, type: code, options: { language: markdown } }
+
+  - name: locations
+    label: Locations
+    path: src/locations
+    type: collection
+    subfolders: false
+    view:
+      fields: [title, link_title]
+      primary: title
+      sort: [title]
+    fields:
+      - { name: title, type: string, label: Title, required: true }
+      - { name: description, type: string, label: Description, required: true }
+      - { name: permalink, type: string, label: Permalink, required: true }
+      - { name: link_title, type: string, label: Link Title, required: true }
+      - { name: heading, type: string, label: Heading, required: true }
+      - { name: body, label: Body, type: code, options: { language: markdown } }
+
+  - name: accreditations
+    label: Accreditations
+    path: src/accreditations
+    type: collection
+    subfolders: false
+    view:
+      fields: [title, tooltip]
+      primary: title
+      sort: [title]
+    fields:
+      - { name: title, type: string, label: Title, required: true }
+      - { name: logo, type: string, label: Logo, required: true }
+      - { name: tooltip, type: string, label: Tooltip, required: true }
+      - { name: url, type: string, label: URL, required: true }
+      - { name: snippet, type: string, label: Snippet, required: true }
+      - { name: body, label: Body, type: code, options: { language: markdown } }⏎
