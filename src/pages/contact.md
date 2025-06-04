@@ -1,12 +1,11 @@
 ---
-title: Contact Renegade Solar
 link_title: Contact
-tags: top_link
+title: Contact Renegade Solar
 order: 4
-permalink: /contact/index.html
-layout: "contact.html"
+permalink: /contact/
+layout: contact.html
+noindex: false
 ---
-
 # Contact Renegade Solar
 
 Our business hours are **9am to 5pm**, **Monday to Friday**, but if you drop us a message we'll get back to you as soon as we can.
