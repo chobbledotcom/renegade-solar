@@ -1,6 +1,6 @@
 ---
 title: Checkatrade
-logo: checkatrade.png
+logo: /assets/accreditation-logos/checkatrade.png
 tooltip: We have a 9.6 out of 10 rating on Checkatrade.com after 80+ reviews
 url: https://www.checkatrade.com/trades/renegadeelectrical
 snippet: With an exceptional 9.6/10 rating from 80+ verified reviews, my Checkatrade membership provides independent verification of quality solar installations across North Manchester.

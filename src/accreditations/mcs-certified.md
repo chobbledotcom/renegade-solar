@@ -1,6 +1,6 @@
 ---
 title: MCS Certified
-logo: mcs-certified.png
+logo: /assets/accreditation-logos/mcs-certified.png
 tooltip: Our MCS Certification Number is NAP-66870
 url: https://mcscertified.com
 snippet: MCS certification is essential for accessing government incentives and ensures your North Manchester solar installation meets internationally recognised quality standards.

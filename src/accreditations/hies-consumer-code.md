@@ -1,6 +1,6 @@
 ---
 title: HIES Consumer Code
-logo: hies-consumer-code.png
+logo: /assets/accreditation-logos/hies-consumer-code.png
 tooltip: A consumer protection organisation covering the installation of home energy products
 url: https://search.hiesscheme.org.uk/renegade-electrical-ltd-R302-047
 snippet: HIES Consumer Code membership provides homeowners with comprehensive consumer protection throughout the solar panel installation process.

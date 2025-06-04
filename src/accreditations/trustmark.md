@@ -1,6 +1,6 @@
 ---
 title: TrustMark
-logo: trustmark.png
+logo: /assets/accreditation-logos/trustmark.png
 tooltip: The only government-endorsed quality scheme for trades operating in and around the home
 url: https://www.trustmark.org.uk
 snippet: TrustMark accreditation guarantees your North Manchester solar installation meets government-endorsed quality and consumer protection standards.

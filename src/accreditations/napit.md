@@ -1,6 +1,6 @@
 ---
 title: NAPIT
-logo: napit.png
+logo: /assets/accreditation-logos/napit.png
 tooltip: A governing body that promotes safe and high-quality work while ensuring installers meet strict industry standards
 url: https://search.napit.org.uk/member/66870/renegade-electrical-ltd
 snippet: NAPIT membership verifies that your solar installer meets rigorous industry standards, ensuring safe, compliant installations with proper certification.

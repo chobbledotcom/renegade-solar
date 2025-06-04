@@ -1,6 +1,6 @@
 ---
 title: Octopus Trusted Partner
-logo: octopus-trusted-partner.png
+logo: /assets/accreditation-logos/octopus-trusted-partner.png
 tooltip: A verified installation partner for Octopus Energy's renewable energy solutions
 url: https://octopus.energy
 snippet: Octopus Energy Trusted Partner status means your solar installation meets stringent quality standards from the UK's leading renewable energy supplier.
