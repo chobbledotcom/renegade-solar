@@ -34,7 +34,7 @@ content:
     subfolders: false
     view:
       fields: [link_title, permalink]
-      primary: title
+      primary: link_title
       sort: [order, link_title]
     fields:
       - { name: title, type: string, label: Title, required: true }
