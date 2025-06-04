@@ -3,7 +3,7 @@ name: Build and Deploy to Neocities
 on:
   push:
     paths:
-      - 'src/**'
+      - "src/**"
   workflow_dispatch:
 
 env:
@@ -15,16 +15,8 @@ jobs:
     runs-on: native
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: https://git.chobble.com/mirrored/checkout@v4
 
-      - name: Cache Nix store
-        uses: actions/cache@v3
-        with:
-          path: /nix/store
-          key: nix-${{ hashFiles('**/*.nix') }}
-          restore-keys: |
-            nix-            
-      
       - name: Build
         id: build
         run: |
@@ -33,10 +25,10 @@ jobs:
           DEPLOY_PATH="$GITHUB_WORKSPACE/dist"
           mkdir -p "$DEPLOY_PATH"
           cp -r "$BUILD_PATH"/* "$DEPLOY_PATH"/
-          echo "Build complete! Files ready for deployment."          
+          echo "Build complete! Files ready for deployment."
 
       - name: Deploy to neocities
-        uses: bcomnes/deploy-to-neocities@v3
+        uses: https://git.chobble.com/mirrored/deploy-to-neocities@v3
         with:
           api_key: ${{ secrets.NEOCITIES_API_KEY }}
           cleanup: true
