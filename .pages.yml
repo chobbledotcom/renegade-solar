@@ -54,22 +54,27 @@ content:
     type: collection
     subfolders: false
     view:
-      fields: [title, permalink]
+      fields: [title, snippet]
       primary: title
       sort: [order, title]
     fields:
-      - { name: title, type: string, label: Title, required: true }
-      - { name: snippet, type: string, label: Snippet, required: true }
+      # Main Content
+      - { name: title, type: string, label: Service Title, required: true }
+      - { name: snippet, type: string, label: Short Description, required: true }
       - name: icon
         type: image
-        label: Icon
+        label: Service Icon
         required: true
         options:
           media: icons
           path: src/assets/icons
-      - { name: order, type: number, label: Order, required: true }
-      - { name: description, type: string, label: Description }
-      - { name: body, label: Body, type: code, options: { language: markdown } }
+      - { name: body, label: Full Description, type: code, options: { language: markdown } }
+      
+      # SEO Settings
+      - { name: description, type: string, label: Meta Description }
+      
+      # System Settings
+      - { name: order, type: number, label: Display Order, required: true }
 
   - name: locations
     label: Locations
@@ -81,12 +86,17 @@ content:
       primary: title
       sort: [title]
     fields:
-      - { name: title, type: string, label: Title, required: true }
-      - { name: description, type: string, label: Description, required: true }
-      - { name: permalink, type: string, label: Permalink, required: true }
-      - { name: link_title, type: string, label: Link Title, required: true }
-      - { name: heading, type: string, label: Heading, required: true }
-      - { name: body, label: Body, type: code, options: { language: markdown } }
+      # Main Content
+      - { name: link_title, type: string, label: Navigation Title, required: true }
+      - { name: heading, type: string, label: Page Heading, required: true }
+      - { name: body, label: Page Content, type: code, options: { language: markdown } }
+      
+      # SEO Settings
+      - { name: title, type: string, label: Meta Title, required: true }
+      - { name: description, type: string, label: Meta Description, required: true }
+      
+      # System Settings
+      - { name: permalink, type: string, label: URL Path, required: true }
 
   - name: accreditations
     label: Accreditations
@@ -94,19 +104,22 @@ content:
     type: collection
     subfolders: false
     view:
-      fields: [title, tooltip]
+      fields: [title, snippet]
       primary: title
       sort: [title]
     fields:
-      - { name: title, type: string, label: Title, required: true }
+      # Main Content
+      - { name: title, type: string, label: Accreditation Name, required: true }
       - name: logo
         type: image
-        label: Logo
+        label: Logo Image
         required: true
         options:
           media: accreditation-logos
           path: src/assets/accreditation-logos
-      - { name: tooltip, type: string, label: Tooltip, required: true }
-      - { name: url, type: string, label: URL, required: true }
-      - { name: snippet, type: string, label: Snippet, required: true }
-      - { name: body, label: Body, type: code, options: { language: markdown } }⏎
+      - { name: snippet, type: string, label: Summary Description, required: true }
+      - { name: body, label: Full Description, type: code, options: { language: markdown } }
+      
+      # Display Settings
+      - { name: tooltip, type: string, label: Hover Text, required: true }
+      - { name: url, type: string, label: External Link, required: true }⏎
