@@ -1,0 +1,38 @@
+---
+layout: base.html
+---
+
+<article>
+  <div class="card content">{{ content }}</div>
+
+  <div class="card">
+    <div class="services-heading">
+      <h2>Services We Offer in {{ link_title }}</h2>
+    </div>
+    <div class="services-list">
+      {% assign location_collection = collections[page.fileSlug] %}
+      {% assign sorted_services = location_collection | sort: 'data.order' %}
+      {% for service in sorted_services %}
+      <a href="{{ service.url }}">
+        {% if service.data.icon != "" %}
+          <img src="/assets/icons/{{ service.data.icon }}" alt="" />
+        {% endif %}
+        <span> {{ service.data.link_title }} </span>
+      </a>
+      {%- endfor -%}
+
+      {% assign general_services = collections.service | where: 'data.location_pages', false %}
+      {% assign sorted_general_services = general_services | sort: 'data.order' %}
+      {% for service in sorted_general_services %}
+      <a href="{{ service.url }}">
+        {% if service.data.icon %}
+          <img src="/assets/icons/{{ service.data.icon }}" alt="" />
+        {% endif %}
+        <span> {{ service.data.title }} </span>
+      </a>
+      {%- endfor -%}
+    </div>
+  </div>
+
+  {% include "accreditations.html" %} {% include "contact-form.html" %}
+</article>

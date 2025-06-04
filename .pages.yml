@@ -69,9 +69,10 @@ content:
 
       # System Settings
       - { name: order, type: number, label: Display Order, required: true }
+      - { name: location_pages, type: boolean, label: Has Location Pages }
 
   - name: locations
-    label: Locations
+    label: Solar Install Locations
     path: src/locations
     type: collection
     subfolders: false
@@ -84,6 +85,7 @@ content:
       - { name: link_title, type: string, label: Navigation Title, required: true }
       - { name: heading, type: string, label: Page Heading, required: true }
       - { name: body, label: Page Content, type: code, options: { language: markdown } }
+      - { name: tags, type: string, label: Tags, list: true }
 
       # SEO Settings
       - { name: title, type: string, label: Meta Title, required: true }

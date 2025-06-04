@@ -3,6 +3,7 @@ title: EV Charger Installations
 snippet: Electric vehicle chargers for homes and businesses
 description: Professional EV charger installations by a certified installer in North Manchester. Includes relocation services and integration with solar panels and home batteries.
 icon: /assets/icons/car.svg
+location_pages: true
 order: 4
 ---
 
