@@ -19,6 +19,13 @@ media:
     path: src/assets/icons
     extensions: [svg, png]
     categories: [image]
+  - name: photos
+    label: Photos
+    input: src/assets/photos
+    output: /assets/photos
+    path: src/assets/photos
+    extensions: [jpg, jpeg, png, heic]
+    categories: [image]
 content:
   - name: pages
     label: Pages
