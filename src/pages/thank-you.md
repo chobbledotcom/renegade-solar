@@ -1,7 +1,7 @@
 ---
 title: Thank You
 layout: empty.html
-permalink: /thank-you/index.html
+permalink: /thank-you/
 noindex: true
 ---
 # Contact Renegade Solar
