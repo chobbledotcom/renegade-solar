@@ -13,13 +13,13 @@ When it comes to solar and battery installations you need an electrician who com
 
 Renegade Solar is here to guide you through every step of your solar and battery installation journey.
 
-Our commitment to providing honest advice, competitive pricing, and exceptional workmanship means you can rely on us to deliver a solar solution that maximizes your energy independence while ensuring the highest safety standards.
+Our commitment to providing honest advice, competitive pricing, and exceptional workmanship means you can rely on us to deliver a solar solution that maximises your energy independence while ensuring the highest safety standards.
 
 With our proven track record of reliability and customer satisfaction, you can rest assured your solar installation is in capable hands.
 
 ## Design and Planning
 
-<div class="center">
+<div class="centre">
   <img src="/assets/photos/flat-solar-panels.jpg" alt="Flat solar panels on a roof in Manchester" />
 </div>
 

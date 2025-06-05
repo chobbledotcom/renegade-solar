@@ -24,7 +24,7 @@ With energy prices continuing to rise, locking in your own electricity generatio
 
 Despite what people think about Manchester weather, solar panels work brilliantly here. They generate electricity from daylight, not just sunshine, and actually perform better in our cooler temperatures. That regular drizzle keeps your panels clean and operating at peak efficiency, much like how it keeps Bury Market's famous black pudding stalls looking fresh.
 
-We've installed systems across Bury that consistently exceed expectations, even on north-facing roofs. Our experience with local properties means we know how to maximize your system's performance regardless of your roof's orientation.
+We've installed systems across Bury that consistently exceed expectations, even on north-facing roofs. Our experience with local properties means we know how to maximise your system's performance regardless of your roof's orientation.
 
 ## Local Knowledge, Personal Service
 

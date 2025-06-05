@@ -12,4 +12,4 @@ tags: location
 
 Renegade Solar delivers expert solar panel installations throughout Bury. Our MCS-certified approach ensures every installation meets the highest standards while providing excellent value for money.
 
-We work with all property types in Bury, providing customized renewable energy solutions that maximize your energy savings and environmental benefits.
+We work with all property types in Bury, providing customised renewable energy solutions that maximise your energy savings and environmental benefits.

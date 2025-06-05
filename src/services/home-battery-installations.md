@@ -38,7 +38,7 @@ Our battery systems can integrate with home automation platforms, allowing you t
 - Monitor energy usage and savings in real-time
 
 ### EV Charger Integration
-If you have or plan to install an EV charger, our GivEnergy systems can be integrated to work together, maximizing the use of stored energy for both home and vehicle charging.
+If you have or plan to install an EV charger, our GivEnergy systems can be integrated to work together, maximising the use of stored energy for both home and vehicle charging.
 
 ### Grid Tie Capability
 Sell excess stored energy back to your electricity supplier. We provide all necessary documentation to set up export payments with suppliers like 100Green and others.
@@ -87,7 +87,7 @@ We configure your system for optimal performance with your chosen tariff and any
 
 ## Can I Add a Battery to Existing Solar?
 
-Absolutely! We regularly integrate battery systems with existing solar installations. Our experience with brands like GivEnergy ensures seamless integration that maximizes the performance of both systems.
+Absolutely! We regularly integrate battery systems with existing solar installations. Our experience with brands like GivEnergy ensures seamless integration that maximises the performance of both systems.
 
 ## Planning & Permissions
 

@@ -29,7 +29,7 @@ Our smart EV chargers offer app control, energy monitoring, and seamless integra
 - Free property survey and consultation
 - OZEV grant-approved chargers
 - Full NAPIT electrical certification
-- Smart tariff optimization
+- Smart tariff optimisation
 - Ongoing technical support
 
 ## Local Advantage

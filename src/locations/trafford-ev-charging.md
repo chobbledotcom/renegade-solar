@@ -16,7 +16,7 @@ We serve the entire Trafford area with professional EV charger installations, fr
 
 ## Smart Charging Technology
 
-Install advanced EV chargers that integrate with solar panels, home batteries, and smart tariffs to minimize charging costs while maximizing the use of renewable energy.
+Install advanced EV chargers that integrate with solar panels, home batteries, and smart tariffs to minimise charging costs while maximising the use of renewable energy.
 
 ## Professional Excellence
 

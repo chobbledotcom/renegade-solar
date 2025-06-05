@@ -30,7 +30,7 @@ Our smart EV chargers can be integrated with solar panels and home battery syste
 - Smart chargers with app control
 - OZEV grant-approved installations
 - Full NAPIT electrical certification
-- Time-of-use tariff optimization
+- Time-of-use tariff optimisation
 
 ## Stockport Coverage
 

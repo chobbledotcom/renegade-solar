@@ -16,7 +16,7 @@ Our Prestwich base means we understand the local housing stock and electrical sy
 
 ## Smart Integration Options
 
-We specialize in integrating EV chargers with existing solar panels and home battery systems. This allows you to charge your vehicle using excess solar energy, dramatically reducing your charging costs during sunny periods.
+We specialise in integrating EV chargers with existing solar panels and home battery systems. This allows you to charge your vehicle using excess solar energy, dramatically reducing your charging costs during sunny periods.
 
 ## What Our Customers Say
 

@@ -18,7 +18,7 @@ Unlike national companies, I personally handle every aspect of your installation
 
 ## Energy Independence, Guaranteed Quality
 
-Every Renegade Solar installation comes with the reassurance of government-backed certifications including [MCS](/accreditations/mcs-certified/), [TrustMark](/accreditations/trustmark/) and [NAPIT](/accreditations/napit/). I use only premium components with comprehensive manufacturer warranties, and install smart monitoring technology so you can track your energy production. My workmanship is always neat, tidy and built to last, with expert guidance provided on maximizing your system's performance.
+Every Renegade Solar installation comes with the reassurance of government-backed certifications including [MCS](/accreditations/mcs-certified/), [TrustMark](/accreditations/trustmark/) and [NAPIT](/accreditations/napit/). I use only premium components with comprehensive manufacturer warranties, and install smart monitoring technology so you can track your energy production. My workmanship is always neat, tidy and built to last, with expert guidance provided on maximising your system's performance.
 
 ## Financial Benefits That Make Sense
 

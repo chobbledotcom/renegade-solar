@@ -12,7 +12,7 @@ Professional solar panel and battery installations throughout Radcliffe. Based n
 
 ## Solar Solutions for Radcliffe Properties
 
-Radcliffe's mix of Victorian terraces, semi-detached homes, and modern developments all present excellent opportunities for solar energy generation. We work with all property types to maximize energy savings and environmental benefits.
+Radcliffe's mix of Victorian terraces, semi-detached homes, and modern developments all present excellent opportunities for solar energy generation. We work with all property types to maximise energy savings and environmental benefits.
 
 ## Local Knowledge Advantage
 

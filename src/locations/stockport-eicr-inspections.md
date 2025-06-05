@@ -57,7 +57,7 @@ Much better to discover potential electrical upgrade costs during your buying pr
 
 - Installation quality varying with different builders and electrical subcontractors
 - Work that meets basic regulatory requirements but could be enhanced
-- RCD protection arrangements that don't fully optimize current safety standards
+- RCD protection arrangements that don't fully optimise current safety standards
 - Protective bonding issues in kitchens and bathrooms
 
 ## Comprehensive Electrical Assessment

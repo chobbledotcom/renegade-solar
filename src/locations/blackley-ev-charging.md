@@ -16,7 +16,7 @@ Based nearby in Prestwich, we serve the Blackley area with comprehensive EV char
 
 ## Smart Charging Technology
 
-We install the latest smart EV chargers that integrate seamlessly with solar panels and home battery systems, allowing you to maximize your renewable energy investment.
+We install the latest smart EV chargers that integrate seamlessly with solar panels and home battery systems, allowing you to maximise your renewable energy investment.
 
 ## Customer Testimonials
 

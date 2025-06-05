@@ -14,7 +14,7 @@ Middleton's diverse housing stock - from characterful Victorian terraces to mode
 
 ## Unlock Your Home's Energy Potential
 
-Your Middleton home could be perfectly positioned to harness solar power. Whether you have an ideal south-facing roof or an east-west orientation, you could generate impressive amounts of clean energy with a customized setup. You might be surprised at just how efficient your system could be, regardless of your property type.
+Your Middleton home could be perfectly positioned to harness solar power. Whether you have an ideal south-facing roof or an east-west orientation, you could generate impressive amounts of clean energy with a customised setup. You might be surprised at just how efficient your system could be, regardless of your property type.
 
 When you pair solar panels with a [home battery system](/services/home-battery-installations/), you could create an even more powerful energy solution. You'll be able to store excess energy produced during sunny periods and use it exactly when you need it - **dramatically cutting your electricity bills** while reducing your carbon footprint.
 

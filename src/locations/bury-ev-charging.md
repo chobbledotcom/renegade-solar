@@ -16,7 +16,7 @@ Serving the Bury area with comprehensive EV charger installations. Our NAPIT reg
 
 ## Smart Charging Benefits
 
-Our advanced EV chargers integrate with solar panels and home batteries, plus smart tariffs like Octopus Go, to minimize your charging costs while maximizing convenience.
+Our advanced EV chargers integrate with solar panels and home batteries, plus smart tariffs like Octopus Go, to minimise your charging costs while maximising convenience.
 
 ## Customer Experience
 

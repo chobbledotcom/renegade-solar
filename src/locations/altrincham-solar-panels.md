@@ -12,7 +12,7 @@ MCS-certified solar panel and battery installations throughout Altrincham. Our N
 
 ## Solar Solutions for Altrincham Properties
 
-We install solar panels on a wide range of Altrincham properties. From **Victorian and Edwardian homes in conservation areas** to **modern detached and semi-detached properties**, we've got you covered. Our experience extends to contemporary new-builds, converted apartments in historic buildings, and commercial properties too. We skillfully work with slate roofs on period homes and tile roofs on newer properties, maximizing energy generation while complementing your home's architectural style.
+We install solar panels on a wide range of Altrincham properties. From **Victorian and Edwardian homes in conservation areas** to **modern detached and semi-detached properties**, we've got you covered. Our experience extends to contemporary new-builds, converted apartments in historic buildings, and commercial properties too. We skillfully work with slate roofs on period homes and tile roofs on newer properties, maximising energy generation while complementing your home's architectural style.
 
 ## Solar Performance in Manchester's Climate
 
