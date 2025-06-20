@@ -10,7 +10,7 @@ tags: [blackley]
 
 As local solar energy experts based around the corner in Prestwich, we're proud to serve homeowners and businesses across Blackley with high-quality solar panel and battery installations.
 
-Renegade Solar is a Mancunian company through and through - that's why we're chuffed to sponsor [Blackley Lions JFC Under 13s football club](https://fulltime.thefa.com/displayTeam.html?teamID=347348811)! Check out the shirt designs:
+Renegade Solar is a Mancunian company through and through - that's why we're chuffed to sponsor [Blackley Lions JFC Under 13s football club](https://www.facebook.com/p/Blackley-Lions-Jfc-100012519990378/)! Check out the shirt designs:
 
 <div class="image-row" markdown="1">
 
