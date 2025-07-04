@@ -5,6 +5,9 @@ description: We are regulated by MCS, NICEIC and HIES, ensuring every system we 
 icon: /assets/icons/solar-panel.svg
 order: 1
 location_pages: true
+gallery_tags:
+  - solar-panels
+  - battery
 ---
 
 # Solar and Battery Installations in Manchester

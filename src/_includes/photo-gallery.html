@@ -1,20 +1,18 @@
-{% comment %}
-  Photo Gallery Partial
-  Usage: {% include "photo-gallery.html" tag: "solar-panels" %}
-  Or:    {% include "photo-gallery.html" %} (shows all photos)
-{% endcomment %}
-
-{% assign sorted_gallery = gallery | sort: 'order' %}
-
 <div class="photo-gallery">
-  {% for item in sorted_gallery %}
-    {% if include.tag %}
-      {% if item.tags contains include.tag %}
-        <a href="/assets/photos/{{ item.filename }}" class="gallery-item" data-tags="{{ item.tags | join: ',' }}" target="_blank">
-          <img src="/assets/photos/{{ item.filename }}" alt="{{ item.alt }}" loading="lazy" decoding="async">
-        </a>
-      {% endif %}
+  {% for item in gallery %}
+    {% if gallery_tags %}
+      {% assign show_item = false %}
+      {% for tag in gallery_tags %}
+        {% if item.tags contains tag %}
+          {% assign show_item = true %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
     {% else %}
+      {% assign show_item = true %}
+    {% endif %}
+    
+    {% if show_item %}
       <a href="/assets/photos/{{ item.filename }}" class="gallery-item" data-tags="{{ item.tags | join: ',' }}" target="_blank">
         <img src="/assets/photos/{{ item.filename }}" alt="{{ item.alt }}" loading="lazy" decoding="async">
       </a>
