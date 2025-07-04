@@ -1,5 +1,6 @@
 @import "_navbar";
 @import "_customer-reviews";
+@import "_photo-gallery";
 
 @font-face {
   font-family: "Abel";
@@ -99,6 +100,7 @@ header {
     img {
       height: 40px;
       width: auto;
+      display: block;
     }
   }
   nav {
@@ -179,6 +181,15 @@ article {
         max-width: 70%;
         margin: 1rem auto;
         float: none;
+      }
+    }
+    .center-right {
+      img {
+        @media (max-width: $mobile-width) {
+          max-width: 70%;
+          margin: 1rem auto;
+          float: none;
+        }
       }
     }
   }

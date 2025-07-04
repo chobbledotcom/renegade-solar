@@ -1,7 +1,7 @@
 ---
 link_title: Contact
 title: Contact Renegade Solar
-order: 4
+order: 5
 permalink: /contact/
 layout: contact.html
 noindex: false

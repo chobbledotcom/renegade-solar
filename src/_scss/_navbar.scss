@@ -1,11 +1,11 @@
 .nav-toggle {
   display: none;
 
-  &:checked~.nav-links {
+  &:checked ~ .nav-links {
     right: 0;
   }
 
-  &:checked~.nav-toggle-label span {
+  &:checked ~ .nav-toggle-label span {
     background: transparent;
 
     &::before {
@@ -89,7 +89,7 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 910px) {
   .nav-toggle-label {
     display: block;
   }

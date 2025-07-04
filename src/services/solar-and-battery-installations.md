@@ -19,7 +19,7 @@ With our proven track record of reliability and customer satisfaction, you can r
 
 ## Design and Planning
 
-<div class="centre">
+<div class="center-right">
   <img src="/assets/photos/flat-solar-panels.jpg" alt="Flat solar panels on a roof in Manchester" />
 </div>
 
