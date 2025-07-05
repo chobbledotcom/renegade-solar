@@ -6,6 +6,7 @@ link_title: Solar Panel Installs
 heading: Solar Panel Installer in Radcliffe
 icon: /assets/icons/solar-panel.svg
 tags: [radcliffe]
+gallery_tags: [solar-panels]
 ---
 
 Professional solar panel and battery installations throughout Radcliffe. Based nearby in Prestwich, we provide MCS-certified renewable energy solutions tailored to your property's specific requirements.

@@ -6,6 +6,7 @@ link_title: Solar Panel Installs
 heading: Solar Panel Installer in Trafford
 icon: /assets/icons/solar-panel.svg
 tags: [trafford]
+gallery_tags: [solar-panels]
 ---
 
 MCS-certified solar panel installations across Trafford. We serve Altrincham, Hale, Sale and all surrounding areas from our nearby Prestwich base.

@@ -6,6 +6,7 @@ link_title: Solar Panel Installs
 heading: Solar Panel Installer in Middleton
 icon: /assets/icons/solar-panel.svg
 tags: [middleton]
+gallery_tags: [solar-panels]
 ---
 
 Just a stone's throw from our Prestwich base, Middleton is an area we know like the back of our hand. As your local solar energy experts, we've helped countless Middleton homeowners transform their energy usage with custom solar solutions tailored to their specific property styles.

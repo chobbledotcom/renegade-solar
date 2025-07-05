@@ -6,6 +6,7 @@ link_title: Solar Panel Installs
 heading: Solar Panel Installer in Whitefield
 icon: /assets/icons/solar-panel.svg
 tags: [whitefield]
+gallery_tags: [solar-panels]
 ---
 
 Based just down the road in Prestwich, Renegade Solar knows Whitefield well. We've probably fitted solar panels and batteries to buildings just like yours, and can offer some real world knowledge about the amount of energy your house is likely to generate, store, and consume.

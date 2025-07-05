@@ -1,5 +1,6 @@
 <div class="photo-gallery">
-  {% for item in gallery %}
+  {% assign sorted_gallery = gallery | sort: 'order' %}
+  {% for item in sorted_gallery %}
     {% if gallery_tags %}
       {% assign show_item = false %}
       {% for tag in gallery_tags %}

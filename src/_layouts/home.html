@@ -6,9 +6,9 @@ layout: base.html
   <img eleventy:widths="1200,900,600,400,200" src="/assets/photos/panels.jpg" alt="Solar panels on a roof in Manchester"
     sizes="auto" />
   {% if heading %}
-    <h1>{{ heading }}</h1>
+  <h1>{{ heading }}</h1>
   {% else %}
-    <h1>Solar panel installations in Manchester</h1>
+  <h1>Solar panel installations in Manchester</h1>
   {% endif %}
 </div>
 
@@ -54,5 +54,12 @@ layout: base.html
     </div>
   </div>
 
-  {% include "homepage-reviews.html" %} {% include "contact-form.html" %}
+  {% include "homepage-reviews.html" %}
+  {% include "contact-form.html" %}
+  {% if gallery_tags %}
+  <div class="card">
+    <h3>Photo Gallery</h3>
+    {% include "photo-gallery.html", tags: gallery_tags %}
+  </div>
+  {% endif %}
 </article>

@@ -6,6 +6,7 @@ link_title: Solar Panel Installations
 heading: Solar Panel Installer in Prestwich
 icon: /assets/icons/solar-panel.svg
 tags: [prestwich]
+gallery_tags: [solar-panels]
 ---
 
 Renegade Solar is based in Prestwich and understands the area well. As your local solar panel and battery installer, we know all about the types of properties in Prestwich and their suitability for renewable energy generation.

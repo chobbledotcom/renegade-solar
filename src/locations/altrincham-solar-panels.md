@@ -6,6 +6,7 @@ icon: /assets/icons/solar-panel.svg
 link_title: Solar Panel Installs
 heading: Solar Panel Installer in Altrincham
 tags: [altrincham]
+gallery_tags: [solar-panels]
 ---
 
 MCS-certified solar panel and battery installations throughout Altrincham. Our North Manchester-based company installs systems on all property types with personal oversight by Ashley Merritt. All installations qualify for Smart Export Guarantee payments.

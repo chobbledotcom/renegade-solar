@@ -6,6 +6,7 @@ link_title: Solar Panel Installs
 icon: /assets/icons/solar-panel.svg
 heading: Solar Panel Installer in Stockport
 tags: [stockport]
+gallery_tags: [solar-panels]
 ---
 
 [Renegade Solar](/about/) provides expert [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Stockport, including Marple Bridge, Bramhall, and surrounding areas. As an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, we bring our expertise directly to Stockport homeowners looking to reduce energy bills and carbon footprints.

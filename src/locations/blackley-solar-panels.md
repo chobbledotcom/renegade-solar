@@ -6,6 +6,7 @@ link_title: Solar Panel Installs
 icon: /assets/icons/solar-panel.svg
 heading: Solar Panel Installer in Blackley
 tags: [blackley]
+gallery_tags: [solar-panels]
 ---
 
 As local solar energy experts based around the corner in Prestwich, we're proud to serve homeowners and businesses across Blackley with high-quality solar panel and battery installations.

@@ -6,6 +6,7 @@ link_title: Solar Panel Installs
 heading: Solar Panel Installer in Bury
 icon: /assets/icons/solar-panel.svg
 tags: [bury]
+gallery_tags: [solar-panels]
 ---
 
 Based in nearby Prestwich, we're perfectly positioned to serve homeowners across Bury with solar panel and battery installations. Whether you're in the town centre grabbing black pudding from the market or out in the suburbs, we can get to you quickly via the motorway or straight up Bury Old Road.
