@@ -14,6 +14,18 @@
   {%- if noindex -%}
   <meta name="robots" value="noindex, nofollow">
   {%- endif %}
+  <script>
+    window.goatcounter = {no_onload: true}
+    const trackPageView = () => {
+      if (typeof window.goatcounter.count === 'function') {
+        window.goatcounter.count({
+          path: location.pathname + location.search + location.hash,
+        });
+      }
+    };
+    document.addEventListener("DOMContentLoaded", trackPageView);
+    document.addEventListener("turbo:load", trackPageView);
+  </script>
   <script async data-goatcounter="https://analytics.renegade-solar.co.uk/count"
     src="https://analytics.renegade-solar.co.uk/count.js"></script>
   <script src="/assets/botpoison.js" async></script>
