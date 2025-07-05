@@ -4,6 +4,8 @@ snippet: Store cheap electricity and slash your energy bills year-round.
 description: Professional home battery installations in Manchester. Store cheap off-peak electricity and use it when prices are high. Works with or without solar panels.
 icon: /assets/icons/battery.svg
 order: 2
+gallery_tags:
+  - battery
 ---
 
 # Home Battery Installations in Manchester
@@ -32,47 +34,59 @@ Our battery systems range from 6kWh to larger capacities depending on your home'
 ## Smart Integration Features
 
 ### Home Automation Compatibility
+
 Our battery systems can integrate with home automation platforms, allowing you to:
+
 - Schedule charging during cheapest electricity periods
 - Leave capacity for solar panel top-ups
 - Monitor energy usage and savings in real-time
 
 ### EV Charger Integration
+
 If you have or plan to install an EV charger, our GivEnergy systems can be integrated to work together, maximising the use of stored energy for both home and vehicle charging.
 
 ### Grid Tie Capability
+
 Sell excess stored energy back to your electricity supplier. We provide all necessary documentation to set up export payments with suppliers like 100Green and others.
 
 ## Installation Process
 
 ### 1. Free Survey & Consultation
+
 We assess your property's electrical system and discuss your energy usage patterns to recommend the optimal battery solution.
 
 ### 2. Flexible Installation
+
 Batteries can be installed in various locations - we've fitted systems next to driveways, in garages, and other suitable spaces with minimal disruption to your home.
 
 ### 3. Professional Commissioning
+
 All installations are tested and commissioned to the highest safety standards with full electrical certification provided.
 
 ### 4. Smart Setup
+
 We configure your system for optimal performance with your chosen tariff and any existing solar panels or planned future installations.
 
 ## What Our Customers Say
 
 **M43 Customer - Solar + Battery Storage:**
+
 > "Ashley did an excellent job installing the solar panels on my roof, the batteries next to my driveway, and the ground-mounted solar setup in my garden. As someone who likes everything to be perfect, I can say he did it exactly how I would have done it (if I had the experience). I highly recommend him to anyone interested in installing solar panels and battery storage."
 
 **M25 Customer - Complete Home Energy System:**
+
 > "Since then Ashley has fitted solar panels and a battery, a doorbell, new light sockets, outdoor lighting & power, a bathroom extractor fan, removed old ariels, and probably more stuff I can't remember."
 
 ## Year-Round Performance
 
 **Summer Benefits:**
+
 - Store excess solar energy for evening use
 - Sell surplus back to the grid for additional income
 - Near-zero electricity bills possible
 
 **Winter Benefits:**
+
 - Charge overnight on cheap tariffs
 - Use stored energy during expensive peak periods
 - Significant savings even without solar generation

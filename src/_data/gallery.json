@@ -1,104 +1,104 @@
 [
-  {
-    "filename": "ashley-hat.jpg",
-    "alt": "Ashley Merritt wearing safety equipment while installing solar panels",
-    "tags": ["team", "installation", "safety"],
-    "order": 1
-  },
-  {
-    "filename": "ashley.jpg",
-    "alt": "Ashley Merritt, owner of Renegade Solar",
-    "tags": ["team", "about"],
-    "order": 2
-  },
-  {
-    "filename": "ashley-roof.jpg",
-    "alt": "Ashley working on a roof during solar panel installation",
-    "tags": ["team", "installation", "rooftop"],
-    "order": 3
-  },
-  {
-    "filename": "ashley-on-roof-red-slate-panels.jpg",
-    "alt": "Ashley installing solar panels on a red slate roof",
-    "tags": ["team", "installation", "red-slate", "rooftop"],
-    "order": 4
-  },
-  {
-    "filename": "ashley-panels-ground.jpg",
-    "alt": "Ashley preparing solar panels on the ground before installation",
-    "tags": ["team", "installation", "preparation"],
-    "order": 5
-  },
-  {
-    "filename": "solar-panels.jpg",
-    "alt": "Completed solar panel installation on residential roof",
-    "tags": ["solar-panels", "residential", "completed"],
-    "order": 6
-  },
-  {
-    "filename": "solar-panels-2.jpg",
-    "alt": "Solar panel array installed on residential property",
-    "tags": ["solar-panels", "residential", "completed"],
-    "order": 7
-  },
-  {
-    "filename": "solar-panels-black-roof.jpg",
-    "alt": "Solar panels installed on a black roof",
-    "tags": ["solar-panels", "residential", "black-roof", "completed"],
-    "order": 8
-  },
-  {
-    "filename": "panels.jpg",
-    "alt": "Close-up view of installed solar panel array",
-    "tags": ["solar-panels", "detail", "completed"],
-    "order": 9
-  },
-  {
-    "filename": "panels-on-red-tile-roof.jpg",
-    "alt": "Solar panels installed on a red tile roof",
-    "tags": ["solar-panels", "red-tile", "residential", "completed"],
-    "order": 10
-  },
-  {
-    "filename": "panels-roof-in-progress.jpg",
-    "alt": "Solar panel installation work in progress on roof",
-    "tags": ["solar-panels", "installation", "work-in-progress", "rooftop"],
-    "order": 11
-  },
-  {
-    "filename": "panels-roof-in-progress-2.jpg",
-    "alt": "Ongoing solar panel installation showing mounting system",
-    "tags": ["solar-panels", "installation", "work-in-progress", "mounting"],
-    "order": 12
-  },
-  {
-    "filename": "panels-roof-in-progress-3.jpg",
-    "alt": "Solar panel installation progress showing electrical connections",
-    "tags": ["solar-panels", "installation", "work-in-progress", "electrical"],
-    "order": 13
-  },
-  {
-    "filename": "flat-solar-panels.jpg",
-    "alt": "Solar panels installed on a flat roof system",
-    "tags": ["solar-panels", "flat-roof", "commercial", "completed"],
-    "order": 14
-  },
-  {
-    "filename": "battery.jpg",
-    "alt": "Battery storage system for solar energy",
-    "tags": ["battery", "storage", "energy-storage"],
-    "order": 15
-  },
-  {
-    "filename": "blackley-lions-1.jpg",
-    "alt": "Community solar project with Blackley Lions charity",
-    "tags": ["community", "blackley-lions", "charity"],
-    "order": 16
-  },
-  {
-    "filename": "blackley-lions-2.jpg",
-    "alt": "Blackley Lions community solar installation project",
-    "tags": ["community", "blackley-lions", "charity", "installation"],
-    "order": 17
-  }
+	{
+		"filename": "ashley-hat.jpg",
+		"alt": "On a rainy Manchester roof installing solar panels",
+		"tags": ["ash"],
+		"order": 10
+	},
+	{
+		"filename": "ashley.jpg",
+		"alt": "Solar panel array in the garden waiting to be installed",
+		"tags": ["ash"],
+		"order": 8
+	},
+	{
+		"filename": "ashley-roof.jpg",
+		"alt": "Ashley working on a roof above Manchester",
+		"tags": ["ash"],
+		"order": 6
+	},
+	{
+		"filename": "ashley-on-roof-red-slate-panels.jpg",
+		"alt": "Ash on a red tile Manchester roof with modern, flush solar panels",
+		"tags": ["ash"],
+		"order": 9
+	},
+	{
+		"filename": "ashley-panels-ground.jpg",
+		"alt": "Solar panels on a ground installation in a large Manchester garden",
+		"tags": ["ash"],
+		"order": 3
+	},
+	{
+		"filename": "solar-panels.jpg",
+		"alt": "Solar panels being installed on a traditional Manchester slate roof",
+		"tags": ["solar-panels"],
+		"order": 6
+	},
+	{
+		"filename": "solar-panels-2.jpg",
+		"alt": "Soar panels on a traditional Manchester slate roof",
+		"tags": ["solar-panels"],
+		"order": 7
+	},
+	{
+		"filename": "solar-panels-black-roof.jpg",
+		"alt": "Solar panels on a Manchester slate roof",
+		"tags": ["solar-panels"],
+		"order": 8
+	},
+	{
+		"filename": "panels.jpg",
+		"alt": "Flush modern panels against a modern tile roof in Manchester",
+		"tags": ["solar-panels"],
+		"order": 9
+	},
+	{
+		"filename": "panels-on-red-tile-roof.jpg",
+		"alt": "Solar panels installed on a red tile roof",
+		"tags": ["solar-panels"],
+		"order": 10
+	},
+	{
+		"filename": "panels-roof-in-progress.jpg",
+		"alt": "Solar panels installed on a red tile roof, in progress - view from the scaffold",
+		"tags": ["solar-panels"],
+		"order": 11
+	},
+	{
+		"filename": "panels-roof-in-progress-2.jpg",
+		"alt": "Solar panels being installed as part of a roof replacement",
+		"tags": ["solar-panels"],
+		"order": 12
+	},
+	{
+		"filename": "panels-roof-in-progress-3.jpg",
+		"alt": "Solar panels being installed as part of a roof replacement",
+		"tags": ["solar-panels"],
+		"order": 13
+	},
+	{
+		"filename": "flat-solar-panels.jpg",
+		"alt": "Solar panels installed on a red tile roof",
+		"tags": ["solar-panels"],
+		"order": 14
+	},
+	{
+		"filename": "battery.jpg",
+		"alt": "An outdoors battery and inverter setup for a solar panel setup",
+		"tags": ["battery"],
+		"order": 15
+	},
+	{
+		"filename": "blackley-lions-1.jpg",
+		"alt": "Renegade Solar branding on the Blackley Lions team shirt",
+		"tags": ["community"],
+		"order": 16
+	},
+	{
+		"filename": "blackley-lions-2.jpg",
+		"alt": "Renegade Solar branding on the Blackley Lions team shirt",
+		"tags": ["community"],
+		"order": 17
+	}
 ]
