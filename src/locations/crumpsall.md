@@ -10,6 +10,6 @@ tags: location
 
 # Crumpsall
 
-Renegade Solar delivers expert solar installations and electrical services throughout Crumpsall. From our base in nearby Prestwich, we're perfectly positioned to serve this established North Manchester community with professional renewable energy solutions.
+Renegade Solar delivers expert solar installations and electrical services throughout Crumpsall. From our base in nearby Prestwich, we're perfectly positioned to serve this established North Manchester community with professional renewable energy solutions. Check our [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/).
 
 We understand Crumpsall's mix of traditional housing and modern developments, providing customised solar panel, battery storage, and electrical services that meet the specific needs of local residents and businesses.
