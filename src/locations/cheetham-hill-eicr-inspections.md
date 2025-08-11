@@ -20,7 +20,7 @@ Whether you've got a compact Victorian terrace or a modern apartment, it's £150
 
 ## For Cheetham Hill Landlords
 
-The [law requires](https://www.legislation.gov.uk/uksi/2020/312/contents/made) an EICR every five years and for each new tenancy. Penalties reach £30,000 for non-compliance. I'll get you sorted quickly – usually within a few days of calling.
+The [law requires](https://www.legislation.gov.uk/uksi/2020/312/part/2/made) an EICR every five years and for each new tenancy. Penalties reach £30,000 for non-compliance. I'll get you sorted quickly – usually within a few days of calling.
 
 You'll get the report within 28 days as required, but I actually provide it same day. If I find any C1 or C2 issues, I'll explain exactly what needs fixing and I'll provide fair quotes for the work.
 
@@ -36,7 +36,7 @@ If I find problems, I'll explain them clearly without scaremongering. Common fix
 
 ## Why Choose Renegade Solar?
 
-I'm minutes away in Prestwich, so you'll get a quick response and no travel charges. My [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) speaks for itself. I explain everything in plain English, not electrical jargon. When you need quick service, I can often come out the same day – just like I did for a recent Blackley customer who needed urgent electrical repairs.
+I'm minutes away in Prestwich, so you'll get a quick response and no travel charges. My [9.9/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) speaks for itself. I explain everything in plain English, not electrical jargon. When you need quick service, I can often come out the same day – just like I did for a recent Blackley customer who needed urgent electrical repairs.
 
 ## Book Your EICR Today
 
