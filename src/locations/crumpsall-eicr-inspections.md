@@ -12,7 +12,7 @@ tags: [crumpsall, eicr]
 
 Based just down the road in Prestwich, we provide EICR electrical safety inspections in Crumpsall for £150, with same day certificates. As NAPIT-registered electricians with over 20 years experience, we know Crumpsall properties inside out.
 
-The Electrical Safety Standards in the Private Rented Sector Regulations 2020 require landlords to have electrical installations inspected every five years. Since April 2021, this applies to all existing tenancies. Landlords must provide reports to tenants within 28 days, to new tenants before occupancy, and to local authorities within seven days if requested. Penalties can reach £30,000.
+The [Electrical Safety Standards in the Private Rented Sector Regulations 2020](https://www.legislation.gov.uk/uksi/2020/312/contents/made) require landlords to have electrical installations inspected every five years. Since April 2021, this applies to all existing tenancies. According to [government guidance](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-rented-sector-guidance-for-landlords-tenants-and-local-authorities), landlords must provide reports to tenants within 28 days, to new tenants before occupancy, and to local authorities within seven days if requested. Penalties can reach £30,000.
 
 Crumpsall's 6,020 households span everything from Victorian terraces to modern builds. Older properties around Crumpsall Lane and near the hospital often have electrical systems evolved over decades. We find mixed-era wiring in older homes, outdated fuse boxes without RCD protection, DIY modifications that don't meet regulations, overloaded circuits from modern appliances, and deteriorating cables in post-war properties.
 

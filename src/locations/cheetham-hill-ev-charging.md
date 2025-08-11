@@ -10,7 +10,7 @@ icon: /assets/icons/car.svg
 
 Operating from nearby Prestwich, Renegade Solar provides EV charger installations throughout Cheetham Hill. As NAPIT-registered installers and an Octopus Energy Trusted Partner, we understand the specific requirements for EV charging in this North Manchester neighbourhood.
 
-The government offers grants for EV charger installations through the Office for Zero Emission Vehicles. The EV chargepoint grant provides up to £350 off the cost of installing a socket, covering 75% of the total cost. For landlords and businesses, there's also an infrastructure grant of up to £30,000 for preparing sites for multiple chargepoints. These grants are confirmed until March 2026.
+The government offers grants for EV charger installations through the Office for Zero Emission Vehicles. The [EV chargepoint grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) provides up to £350 off the cost of installing a socket, covering 75% of the total cost. For landlords and businesses, there's also an infrastructure grant of up to £30,000 for preparing sites for multiple chargepoints. According to [government grant guidance](https://www.gov.uk/government/collections/government-grants-for-low-emission-vehicles), these grants are confirmed until March 2026.
 
 Public charging at places like Manchester Fort Shopping Park costs between 30p and 60p per kWh. Home charging on an Octopus Go tariff costs 7.5p per kWh overnight, making it up to eight times cheaper. A daily Manchester commute that costs £10 at public chargers would cost less than £2 at home. Over a year, typical Cheetham Hill families save between £1,200 and £2,000 by charging at home instead of using public chargers.
 
@@ -18,7 +18,7 @@ Cheetham Hill has nearly 7,000 households with varied property types. Victorian 
 
 With 27.1% of Cheetham Hill households being single-person residences, many people live in flats. We work with property management companies to install shared charging facilities or individual chargers where parking is allocated. Commercial properties along Cheetham Hill Road benefit from workplace charging, which can be an alternative for residents without home parking options.
 
-OZEV grants require using approved installers and chargepoints. The grants can't be used where chargepoint installation was mandatory, such as new builds where Part S Regulations apply from June 2022, or where planning permission required chargepoints. You need to apply through the OZEV grant portal, and we can help with the application process as approved installers.
+OZEV grants require using approved installers and chargepoints. The grants can't be used where chargepoint installation was mandatory, such as new builds where Part S Regulations apply from June 2022, or where planning permission required chargepoints. Full details are available in the [government's EV infrastructure grant guidance](https://www.gov.uk/government/collections/government-grants-for-low-emission-vehicles). We can help with the application process as approved installers.
 
 Many Cheetham Hill properties already have solar panels. We configure chargers to use free solar energy during daylight hours, which works well for people working from home. For overnight charging, time-of-use tariffs mean a typical Manchester city centre commute costs £1, shopping trips to Manchester Fort cost 50p, and weekend trips to the Trafford Centre cost £2.50.
 

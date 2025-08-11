@@ -10,7 +10,7 @@ icon: /assets/icons/car.svg
 
 Based in nearby Prestwich, Renegade Solar provides EV charger installations throughout Crumpsall. As NAPIT-registered installers and an Octopus Energy Trusted Partner, we help Crumpsall residents switch to electric vehicles with home charging solutions.
 
-The Office for Zero Emission Vehicles offers grants for EV charging installations. The EV chargepoint grant covers 75% of costs up to £350 per socket. For landlords, there's an infrastructure grant up to £30,000 for preparing sites for multiple chargepoints, covering up to 75% of the work. Funding is confirmed until March 2026. You must use OZEV-approved installers and chargepoints, which we are.
+The Office for Zero Emission Vehicles offers grants for EV charging installations. The [EV chargepoint grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) covers 75% of costs up to £350 per socket. For landlords, there's an infrastructure grant up to £30,000 for preparing sites for multiple chargepoints, covering up to 75% of the work. According to [government grant guidance](https://www.gov.uk/government/collections/government-grants-for-low-emission-vehicles), funding is confirmed until March 2026. You must use OZEV-approved installers and chargepoints, which we are.
 
 Public chargers at nearby supermarkets and shopping centres cost 30p to 60p per kWh. Home charging on Octopus Go costs 7.5p overnight, making it up to eight times cheaper. A typical Manchester commute costs under £2 with home charging versus over £10 at public chargers. Annual savings for Crumpsall families reach £1,500 to £2,000 compared to public charging.
 
@@ -18,7 +18,7 @@ Crumpsall has 6,020 households with varied property types. Semi-detached houses,
 
 Modern developments often come with driveways and electrical systems that easily accommodate EV charging without upgrades. Bungalows, popular with older residents, usually have convenient parking and accessible electrical supplies, making installations straightforward.
 
-OZEV grants can't be used where chargepoint installation was mandatory, such as new builds where Part S Regulations applied from June 2022, or where planning permission required chargepoints. The regulations require new dwellings with associated parking spaces and non-residential buildings with more than ten parking spaces to have charging provisions.
+According to [OZEV grant requirements](https://www.gov.uk/government/collections/government-grants-for-low-emission-vehicles), grants can't be used where chargepoint installation was mandatory, such as new builds where Part S Regulations applied from June 2022, or where planning permission required chargepoints. The regulations require new dwellings with associated parking spaces and non-residential buildings with more than ten parking spaces to have charging provisions.
 
 Many Crumpsall homes already have solar panels. We configure chargers to use free solar energy when available, perfect for retirees or home workers. For overnight charging, smart tariffs mean a daily Manchester commute of 20 miles costs £1.50 versus £10 at public chargers. Shopping trips to Tesco Cheetham Hill cost 60p versus £4 publicly. Weekend trips to the Peak District cost £6 versus £40 at public chargers.
 

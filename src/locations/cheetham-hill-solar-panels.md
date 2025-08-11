@@ -11,11 +11,11 @@ gallery_tags: [solar-panels]
 
 Renegade Solar operates from nearby Prestwich and provides solar panel installations throughout Cheetham Hill. This North Manchester area has over 21,000 residents living in nearly 7,000 households, from Victorian terraces to modern developments.
 
-The government's Smart Export Guarantee means you can earn money for electricity you export to the grid. To qualify, your installation and installer must be certified through the Microgeneration Certification Scheme, which we are. You'll also need a meter capable of half-hourly readings, which most smart meters provide.
+The government's [Smart Export Guarantee](https://www.ofgem.gov.uk/environmental-and-social-schemes/smart-export-guarantee-seg) means you can earn money for electricity you export to the grid. To qualify, your installation and installer must be certified through the Microgeneration Certification Scheme, which we are. You'll also need a meter capable of half-hourly readings, which most smart meters provide.
 
 Cheetham Hill's mix of housing works well for solar. Victorian terraces along Cheetham Hill Road might have smaller roofs but still generate good amounts of electricity. Post-war semis typically have larger roof areas that are straightforward to work with. Newer developments often have electrical systems ready for renewable energy. Even the commercial properties along the main roads can benefit from solar installations to reduce their operating costs.
 
-Manchester weather doesn't stop solar panels working effectively. Rain actually helps by washing away dust and dirt that can reduce panel efficiency. According to Ofgem data from the most recent reporting year, solar PV made up 99.98% of installations registered under the Smart Export Guarantee, with most installations between 4kW and 10kW, which suits typical residential properties perfectly.
+Manchester weather doesn't stop solar panels working effectively. Rain actually helps by washing away dust and dirt that can reduce panel efficiency. According to [Ofgem's annual report](https://www.ofgem.gov.uk/publications/smart-export-guarantee-annual-report-april-2023-march-2024), solar PV made up 99.98% of installations registered under the Smart Export Guarantee, with most installations between 4kW and 10kW, which suits typical residential properties perfectly.
 
 With 58.1% of Cheetham Hill households being single family homes, many properties have good roof space for panels. The area's diverse population brings different perspectives on renewable energy, with 48.7% of residents having arrived from outside the UK, many from countries where solar is already mainstream.
 
@@ -27,7 +27,7 @@ As MCS-certified installers (certification number [NAP-66870](https://mcscertifi
 
 We cover all of Cheetham Hill, from the busy Cheetham Hill Road to the quieter residential streets near Broughton Park, the area around Abraham Moss Community School, properties near Manchester Fort Shopping Park, and the streets bordering Crumpsall. Our Prestwich base means we're never far away.
 
-The Smart Export Guarantee replaced the old Feed-in Tariff scheme. Energy suppliers now offer their own tariff rates, which must be above zero. You apply directly to an energy supplier for payments, and it doesn't have to be your current electricity supplier. In the last reporting year, over £30 million was paid to installations registered under the scheme, with 283.1 GWh of low-carbon electricity exported to the grid.
+The Smart Export Guarantee replaced the old Feed-in Tariff scheme. Energy suppliers now offer their own tariff rates, which must be above zero. You apply directly to an energy supplier for payments, and it doesn't have to be your current electricity supplier. According to [Ofgem's SEG Year 4 data](https://www.ofgem.gov.uk/publications/smart-export-guarantee-annual-report-april-2023-march-2024), over £30 million was paid to installations registered under the scheme, with 283.1 GWh of low-carbon electricity exported to the grid.
 
 Our [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/reviews) reflects our commitment to quality installations and customer service. We handle everything from the initial survey through to commissioning, including the paperwork needed for grid connection and Smart Export Guarantee applications.
 
