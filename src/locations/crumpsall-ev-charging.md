@@ -8,32 +8,32 @@ tags: [crumpsall]
 icon: /assets/icons/car.svg
 ---
 
-Based in nearby Prestwich, Renegade Solar provides EV charger installations throughout Crumpsall. As NAPIT-registered installers and an Octopus Energy Trusted Partner, we help Crumpsall residents switch to electric vehicles with home charging solutions.
+Need an EV charger in Crumpsall? I'm Ashley from Renegade Solar, based in nearby Prestwich. As a NAPIT-registered electrician and Octopus Energy Trusted Partner, I'll get your home charging sorted without the hassle.
 
-The Office for Zero Emission Vehicles offers grants for EV charging installations. The [EV chargepoint grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) covers 75% of costs up to £350 per socket. For landlords, there's an infrastructure grant up to £30,000 for preparing sites for multiple chargepoints, covering up to 75% of the work. According to [government grant guidance](https://www.gov.uk/government/collections/government-grants-for-low-emission-vehicles), funding is confirmed until March 2026. You must use OZEV-approved installers and chargepoints, which we are.
+## Cut Your Transport Costs by 85%
 
-Public chargers at nearby supermarkets and shopping centres cost 30p to 60p per kWh. Home charging on Octopus Go costs 7.5p overnight, making it up to eight times cheaper. A typical Manchester commute costs under £2 with home charging versus over £10 at public chargers. Annual savings for Crumpsall families reach £1,500 to £2,000 compared to public charging.
+Public charging costs 30-60p per kWh. Home charging on Octopus Go? Just 7.5p overnight. Your daily Manchester commute drops from £10+ to under £2. That's £1,500-2,000 saved annually for typical Crumpsall families.
 
-Crumpsall has 6,020 households with varied property types. Semi-detached houses, making up 56.4% of single family homes, typically have driveways perfect for wall-mounted chargers. Victorian terraces near the hospital and in central Crumpsall often need creative solutions. We've installed chargers using rear access points, cable runs to front parking areas, and working with residents who have regular street parking spots.
+The [government grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) gives you up to £350 off installation. I'm OZEV-approved and handle all the paperwork.
 
-Modern developments often come with driveways and electrical systems that easily accommodate EV charging without upgrades. Bungalows, popular with older residents, usually have convenient parking and accessible electrical supplies, making installations straightforward.
+## Crumpsall Properties Sorted
 
-According to [OZEV grant requirements](https://www.gov.uk/government/collections/government-grants-for-low-emission-vehicles), grants can't be used where chargepoint installation was mandatory, such as new builds where Part S Regulations applied from June 2022, or where planning permission required chargepoints. The regulations require new dwellings with associated parking spaces and non-residential buildings with more than ten parking spaces to have charging provisions.
+Semi-detached with a drive? Perfect for a standard wall-mounted charger. Victorian terrace near the hospital? I've installed chargers using rear access, cable runs to front parking, whatever works. Bungalow with side parking? Easy installation with minimal disruption.
 
-Many Crumpsall homes already have solar panels. We configure chargers to use free solar energy when available, perfect for retirees or home workers. For overnight charging, smart tariffs mean a daily Manchester commute of 20 miles costs £1.50 versus £10 at public chargers. Shopping trips to Tesco Cheetham Hill cost 60p versus £4 publicly. Weekend trips to the Peak District cost £6 versus £40 at public chargers.
+"Ashley fitted an EV charger for me and provided lots of brilliant advice. His prices were the best quotes I had, with nothing reduced on the quality of his work."
 
-Crumpsall's electrical infrastructure generally handles EV charging well. Most properties accommodate 7kW chargers without upgrades, though some older homes need consumer unit updates to meet current regulations. We handle this as part of our service. With 98.7% of Crumpsall's 18,196 residents living in households rather than communal establishments, most can benefit from home charging.
+## Works with Your Solar Panels
 
-For properties with driveways, we complete standard wall-mounted installations in half a day. For terraced houses, we've developed solutions including rear-wall mounting and underground cable runs to front parking. For semi-detached properties with shared drives, we install multiple chargers with appropriate cable management and load balancing.
+Already got solar? I'll set your charger to use free solar power during the day. One customer: "Ashley ensured our new GivEnergy charger was properly integrated with the solar and battery system."
 
-Being based in Prestwich means we understand Crumpsall's typical electrical layouts in post-war semis, common challenges with Victorian properties, Manchester City Council's planning requirements, and local grid capacity. Our proximity means rapid response for quotes and installations without travel surcharges.
+## Local, Reliable, Honest
 
-With 86.4% of couples married or in civil partnerships, many Crumpsall residents make long-term property investments where EV charging adds value. The diverse community, with 67.4% from European backgrounds and 25.4% from Middle East and Asia, brings global perspectives on sustainable transport. With 56.4% single family households, many families want to reduce transport costs and environmental impact.
+Being minutes away in Prestwich means no travel charges and quick response. My 9.61/10 Checkatrade rating from 80+ reviews shows I do the job right.
 
-We provide free property surveys, OZEV grant application assistance, supply and installation of approved chargers, integration with existing solar and battery systems, smart tariff setup guidance, consumer unit upgrades if required, full NAPIT certification, and ongoing support. Most installations complete within a day.
+From Blackley: "Ashley got in touch quickly, talked it through, came and sized it up and completed the job within days. Would recommend highly."
 
-We serve all of Crumpsall including Crumpsall Lane and surrounding streets, areas near North Manchester General Hospital, properties around Crumpsall Park, homes near Heaton Park, and borders with Blackley and Cheetham Hill.
+## Stop Wasting Money
 
-The 64.9% of Crumpsall households experiencing deprivation in one or more dimensions makes reducing transport costs crucial. Home EV charging cuts travel costs by 75% compared to petrol and 85% compared to public charging. For the 31.9% of one-person households, these savings are particularly significant.
+Every day you use public chargers, you're throwing money away. Home charging pays for itself quickly, then saves you thousands year after year.
 
-Ready to reduce transport costs with home EV charging? [Contact us](/contact/) for a free consultation.
+**Get your EV charger fitted properly by a local electrician. [Contact me](/contact/) for a straightforward quote.**

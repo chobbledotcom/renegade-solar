@@ -8,28 +8,32 @@ tags: [cheetham-hill]
 icon: /assets/icons/car.svg
 ---
 
-Operating from nearby Prestwich, Renegade Solar provides EV charger installations throughout Cheetham Hill. As NAPIT-registered installers and an Octopus Energy Trusted Partner, we understand the specific requirements for EV charging in this North Manchester neighbourhood.
+Need an EV charger installed in Cheetham Hill? I'm Ashley from Renegade Solar, your local NAPIT-registered electrician based in nearby Prestwich. As an Octopus Energy Trusted Partner with a 9.61/10 Checkatrade rating, I'll get your home charging sorted properly.
 
-The government offers grants for EV charger installations through the Office for Zero Emission Vehicles. The [EV chargepoint grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) provides up to £350 off the cost of installing a socket, covering 75% of the total cost. For landlords and businesses, there's also an infrastructure grant of up to £30,000 for preparing sites for multiple chargepoints. According to [government grant guidance](https://www.gov.uk/government/collections/government-grants-for-low-emission-vehicles), these grants are confirmed until March 2026.
+## Save Thousands on Charging Costs
 
-Public charging at places like Manchester Fort Shopping Park costs between 30p and 60p per kWh. Home charging on an Octopus Go tariff costs 7.5p per kWh overnight, making it up to eight times cheaper. A daily Manchester commute that costs £10 at public chargers would cost less than £2 at home. Over a year, typical Cheetham Hill families save between £1,200 and £2,000 by charging at home instead of using public chargers.
+Public charging at Manchester Fort costs 30-60p per kWh. Home charging on Octopus Go costs just 7.5p overnight. That daily commute into Manchester costs under £2 at home versus over £10 at public chargers. Over a year, Cheetham Hill families save £1,500-2,000 by charging at home.
 
-Cheetham Hill has nearly 7,000 households with varied property types. Victorian terraces dominate the older residential areas, and many lack off-street parking. We've installed chargers for these properties using rear yard mounting points with cables running to front parking areas, or by working with residents who have regular street parking spots. Post-war developments often have driveways or allocated parking, making installations more straightforward. These properties usually have electrical systems that handle 7kW charging without needing upgrades.
+The [government's EV grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) covers up to £350 off installation costs. I'm OZEV-approved and handle all the paperwork, making the process straightforward.
 
-With 27.1% of Cheetham Hill households being single-person residences, many people live in flats. We work with property management companies to install shared charging facilities or individual chargers where parking is allocated. Commercial properties along Cheetham Hill Road benefit from workplace charging, which can be an alternative for residents without home parking options.
+## Cheetham Hill Properties? No Problem
 
-OZEV grants require using approved installers and chargepoints. The grants can't be used where chargepoint installation was mandatory, such as new builds where Part S Regulations apply from June 2022, or where planning permission required chargepoints. Full details are available in the [government's EV infrastructure grant guidance](https://www.gov.uk/government/collections/government-grants-for-low-emission-vehicles). We can help with the application process as approved installers.
+Whether you've got a Victorian terrace, semi-detached with a drive, or a flat with allocated parking, I'll find a solution that works. I've installed chargers using rear access points, cable runs to front parking, and worked with property management for shared facilities.
 
-Many Cheetham Hill properties already have solar panels. We configure chargers to use free solar energy during daylight hours, which works well for people working from home. For overnight charging, time-of-use tariffs mean a typical Manchester city centre commute costs £1, shopping trips to Manchester Fort cost 50p, and weekend trips to the Trafford Centre cost £2.50.
+One customer said: "Ashley fitted an EV charger for me and provided lots of brilliant advice. His advice even allowed me to keep costs down and his prices were the best quotes I had."
 
-The area's electrical infrastructure generally supports EV charging well. Older Victorian properties sometimes need consumer unit upgrades to meet current safety standards, which we handle as part of the installation. With 87.5% of Cheetham Hill residents having lived at the same address for at least a year, investing in home charging makes sense for established residents.
+## Smart Integration with Solar
 
-Being based in Prestwich means we understand Manchester City Council requirements and local electrical infrastructure. We don't add travel charges to quotes and can respond quickly to surveys and installations. Our NAPIT registration ensures all work meets electrical safety standards.
+Got solar panels already? I'll configure your charger to use free solar energy during the day. Perfect if you work from home. I ensure everything works together properly, as this review shows: "Ashley ensured our new GivEnergy charger was properly integrated with the solar and battery system. He found an earthing fault from previous work and fixed this small job at no extra cost."
 
-Cheetham Hill's population of over 21,000 includes residents from Europe, the Middle East, Asia and Africa. Many have experienced EVs in other countries and understand the benefits. With good transport links but increasing congestion, the area is well-positioned for electric vehicle adoption.
+## Why Choose Renegade Solar?
 
-We provide free property surveys, supply OZEV grant-approved chargers, complete NAPIT electrical certification, help with smart tariff setup, integrate with existing solar and battery systems where applicable, and upgrade consumer units if needed. Most installations complete within a day.
+I'm based minutes away in Prestwich, so no travel charges or waiting around. I'll give you honest advice about the best charger for your needs and budget. Most installations complete in half a day, and I handle everything including any electrical upgrades needed.
 
-We cover all of Cheetham Hill, including Cheetham Hill Road and surrounding streets, areas near Abraham Moss, properties close to Broughton Park, homes near Manchester Fort, and the Crumpsall border areas.
+As one Blackley customer put it: "Ashley got in touch quickly and was patient when I wasn't available initially. Talked it through, came and sized it up and completed the job within days. Would recommend highly."
 
-Ready to reduce your transport costs with home EV charging? [Contact us](/contact/) for a free consultation.
+## Ready to Start Saving?
+
+Stop paying a fortune at public chargers. With home charging, you'll wake up to a fully charged car every morning at a fraction of the cost.
+
+**Get your EV charger installed by a trusted local electrician. [Contact me today](/contact/) for a straightforward quote.**
