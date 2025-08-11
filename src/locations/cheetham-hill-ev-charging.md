@@ -10,6 +10,8 @@ icon: /assets/icons/car.svg
 # Review at index [18] - M9 Blackley customer on quick turnaround
 ---
 
+# EV Charger Installations in Cheetham Hill
+
 Need an EV charger installed in Cheetham Hill? I'm Ashley from Renegade Solar, your local NAPIT-registered electrician based in nearby Prestwich. As an Octopus Energy Trusted Partner with a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/), I'll get your home charging sorted properly.
 
 ## Save Thousands on Charging Costs

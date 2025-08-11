@@ -10,6 +10,8 @@ icon: /assets/icons/car.svg
 # Review at index [18] - M9 customer on quick turnaround
 ---
 
+# EV Charger Installations in Crumpsall
+
 Need an EV charger in Crumpsall? I'm Ashley from Renegade Solar, based in nearby Prestwich. As a NAPIT-registered electrician and Octopus Energy Trusted Partner, I'll get your home charging sorted – without the hassle.
 
 ## Cut Your Transport Costs by 85%
