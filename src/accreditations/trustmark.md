@@ -1,11 +1,13 @@
 ---
 title: TrustMark
 logo: /assets/accreditation-logos/trustmark.png
-tooltip: The only government-endorsed quality scheme for trades operating in and around the home
-url: https://www.trustmark.org.uk
-snippet: TrustMark accreditation guarantees your North Manchester solar installation meets government-endorsed quality and consumer protection standards.
+snippet: TrustMark accreditation guarantees your North Manchester solar
+  installation meets government-endorsed quality and consumer protection
+  standards.
+tooltip: The only government-endorsed quality scheme for trades operating in and
+  around the home
+url: https://www.trustmark.org.uk/firms/Renegade%20Electrical%20Ltd-3127838-M24%202SY?id=d1ab999e-e5ee-4710-a5d0-5629c24a2034
 ---
-
 # TrustMark Accredited Solar Installer
 
 TrustMark is the UK Government's only endorsed quality scheme for tradespeople working on your home, providing robust consumer protection and quality assurance.
