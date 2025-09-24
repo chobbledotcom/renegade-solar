@@ -2,7 +2,7 @@
   {% for item in socials %}
   <li>
     <a aria-label="{{ item[1].text }}" title="{{ item[1].text }}" href="{{ item[1].url }}">
-      <img src="/assets/icons/{{ item[0] }}.svg" width="40" height="40" alt="{{ item[0] | capitalize }} logo">
+      <img src="/assets/icons/{{ item[0] }}.svg" width="40" height="40" alt="{{ item[0] | capitalize }} logo" eleventy:ignore>
     </a>
   </li>
   {% endfor %}

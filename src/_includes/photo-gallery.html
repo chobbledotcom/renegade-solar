@@ -15,7 +15,7 @@
     
     {% if show_item %}
       <a href="/assets/photos/{{ item.filename }}" class="gallery-item" data-tags="{{ item.tags | join: ',' }}" target="_blank">
-        <img src="/assets/photos/{{ item.filename }}" alt="{{ item.alt }}" loading="lazy" decoding="async">
+        <img src="/assets/photos/{{ item.filename }}" alt="{{ item.alt }}" loading="lazy" decoding="async" eleventy:ignore>
       </a>
     {% endif %}
   {% endfor %}

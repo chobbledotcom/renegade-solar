@@ -1,6 +1,7 @@
 const fs = require("node:fs/promises");
 const path = require("path");
 const { Image, eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
+const { configureScss } = require("./_lib/scss");
 
 module.exports = async function (eleventyConfig) {
   const { EleventyRenderPlugin } = await import("@11ty/eleventy");
@@ -8,6 +9,12 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addPlugin(EleventyRenderPlugin);
   eleventyConfig.addWatchTarget("./src/**/*");
   eleventyConfig.addPassthroughCopy("src/assets");
+
+  // Configure SCSS compilation
+  configureScss(eleventyConfig);
+
+  // Ignore SCSS partials (files starting with underscore)
+  eleventyConfig.ignores.add("src/**/_*.scss");
   eleventyConfig.addPassthroughCopy({
     "src/assets/favicon.ico": "/favicon.ico",
   });

@@ -3,7 +3,7 @@
   {% for service in sorted_services %}
   <a href="{{ service.url }}">
     {% if service.data.icon %}
-    <img src="/assets/icons/{{ service.data.icon }}" alt="">
+    <img src="/assets/icons/{{ service.data.icon }}" alt="" eleventy:ignore>
     {% endif %}
     <span>
       {{ service.data.title }}

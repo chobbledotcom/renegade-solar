@@ -2,9 +2,8 @@
 title: Green Economy
 logo: /assets/accreditation-logos/green-economy.png
 tooltip: Listed on Green Economy's curated marketplace of trusted green technology providers
-url: https://www.greeneconomy.co.uk/
+url: https://www.greeneconomy.co.uk
 snippet: Green Economy membership connects you with a curated network of sustainable businesses committed to building Manchester's net zero future.
-order: 3
 ---
 
 # Green Economy Member Solar Installer
