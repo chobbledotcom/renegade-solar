@@ -29,7 +29,7 @@ As an MCS-certified installer, I ensure you qualify for these government payment
 
 ## What Makes Renegade Solar Different
 
-I'm NAPIT-registered (66870) for electrical safety and an Octopus Energy Trusted Partner. I handle everything from survey to commissioning, including all the paperwork for grid connection and Smart Export Guarantee applications. Being based in Prestwich, I'm just minutes away from Cheetham Hill – and there's no travel charges added to your quote.
+I'm NAPIT-registered (66870) for electrical safety, an Octopus Energy Trusted Partner, and a member of Green Economy's curated network of sustainable businesses. I handle everything from survey to commissioning, including all the paperwork for grid connection and Smart Export Guarantee applications. Being based in Prestwich, I'm just minutes away from Cheetham Hill – and there's no travel charges added to your quote.
 
 ## Battery Storage Maximises Your Savings
 
