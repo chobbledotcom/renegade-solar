@@ -42,6 +42,8 @@
             buildInputs = dependencies;
 
             shellHook = ''
+              [ ! -d node_modules ] && npm install
+
               cat <<EOF
 
               Development environment ready!
