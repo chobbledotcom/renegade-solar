@@ -116,103 +116,103 @@
 	{
 		"filename": "failsworth-scaffolding.jpg",
 		"alt": "Scaffolding setup for solar installation on brick building in Failsworth",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "failsworth"],
 		"order": 20
 	},
 	{
 		"filename": "failsworth-new-panels.jpg",
 		"alt": "Completed solar panel installation on flat roof in Failsworth",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "failsworth"],
 		"order": 21
 	},
 	{
 		"filename": "failsworth-solar-job-complete.jpg",
 		"alt": "Solar panels installed on pitched roof with scaffolding in Failsworth",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "failsworth"],
 		"order": 22
 	},
 	{
 		"filename": "flat-roof-rushholme-complete-2.jpg",
 		"alt": "Black solar panels installed on flat roof in Rushholme",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "rusholme"],
 		"order": 23
 	},
 	{
 		"filename": "flat-roof-rushholme-complete.jpg",
 		"alt": "Multiple solar panel arrays on flat roof with skylight in Rushholme",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "rusholme"],
 		"order": 24
 	},
 	{
 		"filename": "flat-roof-rusholme.jpg",
 		"alt": "Installing solar panels on flat roof in Rushholme with worker",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "rusholme"],
 		"order": 25
 	},
 	{
 		"filename": "flat-roof-rusholme-2.jpg",
 		"alt": "Solar panel installation in progress on flat roof in Rusholme",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "rusholme"],
 		"order": 26
 	},
 	{
 		"filename": "flat-roof-rusholme-3.jpg",
 		"alt": "Flat roof solar panel mounting rails and framework preparation",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "rusholme"],
 		"order": 27
 	},
 	{
 		"filename": "flat-roof-rusholme-3-duplicate.jpg",
 		"alt": "Worker installing solar panels on flat roof mounting system",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "rusholme"],
 		"order": 28
 	},
 	{
 		"filename": "flat-roof-rusholme-4.jpg",
 		"alt": "Completed solar panels mounted on flat roof with rails",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "rusholme"],
 		"order": 29
 	},
 	{
 		"filename": "flat-roof-rusholme-5.jpg",
 		"alt": "Solar panel mounting framework on flat concrete roof",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "rusholme"],
 		"order": 30
 	},
 	{
 		"filename": "flat-roof-rusholme-6.jpg",
 		"alt": "Completed flat roof solar panel array with proper alignment",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "rusholme"],
 		"order": 31
 	},
 	{
 		"filename": "free-collection-delivery-failsworth.jpg",
 		"alt": "Renegade Solar delivery van with forklift loading equipment at Failsworth",
-		"tags": ["delivery"],
+		"tags": ["delivery", "failsworth"],
 		"order": 32
 	},
 	{
 		"filename": "hyde-job-ash-clay-inverter-finish.jpg",
 		"alt": "Ashley and Clayton with completed inverter and battery installation",
-		"tags": ["ash", "clayton", "battery"],
+		"tags": ["ash", "clayton", "battery", "hyde"],
 		"order": 33
 	},
 	{
 		"filename": "hyde-job-finish-2.jpg",
 		"alt": "Installer at new build houses with completed solar panel installation",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "hyde"],
 		"order": 34
 	},
 	{
 		"filename": "hyde-job-finish-2-duplicate.jpg",
 		"alt": "Installer at new build development with solar panels on roofs",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "hyde"],
 		"order": 35
 	},
 	{
 		"filename": "hyde-job-finish-with-panels.jpg",
 		"alt": "Installer with completed solar panel installation on new build houses",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "hyde"],
 		"order": 36
 	},
 	{
@@ -230,13 +230,13 @@
 	{
 		"filename": "new-build-hyde-start-1.jpg",
 		"alt": "New build houses with scaffolding and solar panels being installed",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "hyde"],
 		"order": 39
 	},
 	{
 		"filename": "new-build-hyde.jpg",
 		"alt": "New build houses under construction with solar panel installation",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "hyde"],
 		"order": 40
 	},
 	{
@@ -248,19 +248,19 @@
 	{
 		"filename": "rusholme-4-with-clayton.jpg",
 		"alt": "Clayton working on flat roof solar panel installation",
-		"tags": ["clayton", "solar-panels"],
+		"tags": ["clayton", "solar-panels", "rusholme"],
 		"order": 42
 	},
 	{
 		"filename": "rusholme-5-clayton.jpg",
 		"alt": "Clayton installing solar panels on flat roof",
-		"tags": ["clayton", "solar-panels"],
+		"tags": ["clayton", "solar-panels", "rusholme"],
 		"order": 43
 	},
 	{
 		"filename": "rusholme-6-complete.jpg",
 		"alt": "Completed flat roof solar installation on commercial building",
-		"tags": ["solar-panels"],
+		"tags": ["solar-panels", "rusholme"],
 		"order": 44
 	},
 	{
