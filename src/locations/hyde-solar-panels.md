@@ -6,7 +6,7 @@ link_title: Solar Panel Installations
 heading: Solar Panel Installer in Hyde
 icon: /assets/icons/solar-panel.svg
 tags: [hyde]
-gallery_tags: [solar-panels]
+gallery_tags: [hyde]
 ---
 
 Looking for a solar panel installer in Hyde? I'm Ashley from Renegade Solar, working across Greater Manchester and beyond. With a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification, I've completed installations across Hyde including work on new build developments.

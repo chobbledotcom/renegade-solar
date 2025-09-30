@@ -6,7 +6,7 @@ link_title: Solar Panel Installations
 heading: Solar Panel Installer in Failsworth
 icon: /assets/icons/solar-panel.svg
 tags: [failsworth]
-gallery_tags: [solar-panels]
+gallery_tags: [failsworth]
 ---
 
 Looking for a solar panel installer in Failsworth? I'm Ashley from Renegade Solar, operating across Greater Manchester from my base in Prestwich. With a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification, I handle solar installations on all types of properties.

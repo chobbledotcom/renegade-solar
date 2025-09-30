@@ -6,7 +6,7 @@ link_title: Solar Panel Installations
 heading: Solar Panel Installer in Rusholme
 icon: /assets/icons/solar-panel.svg
 tags: [rusholme]
-gallery_tags: [solar-panels]
+gallery_tags: [rusholme]
 ---
 
 Looking for a solar panel installer in Rusholme? I'm Ashley from Renegade Solar, working across Manchester from my Prestwich base. With a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification, I specialise in solar installations on all types of properties.
