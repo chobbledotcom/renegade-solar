@@ -40,7 +40,7 @@ Governed by the country's leading standards, your installation will be tested an
 
 Always available to provide further assistance with your new installation with 2 years routine maintenance included in all our installations.
 
-All equipment comes with at least a 5 year warranty and some panels come with warranty of up to 30 years!
+All equipment comes with at least a 5 year warranty and some panels come with warranty of up to 30 years. We use [DMEGC](/dmegc-solar-panel-installer-manchester/) and Trina Vertex panels, both of which offer excellent long-term warranties and performance.
 
 <a class="btn primary-btn" href="/contact/">Contact Renegade Solar</a>
 
