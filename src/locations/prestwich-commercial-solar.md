@@ -4,7 +4,8 @@ description: Commercial solar for Prestwich businesses. Local baker spending £1
 permalink: /commercial-solar-installations-prestwich/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Prestwich
-icon: /assets/icons/solar-panel.svg
+icon: /assets/icons/commercial-solar.svg
+service_key: commercial-solar
 tags: [prestwich]
 gallery_tags: [commercial]
 ---

@@ -4,6 +4,7 @@ description: Professional EICR electrical inspections in Blackley. £150 all dom
 link_title: EICR Inspection
 heading: EICR Inspections in Blackley
 icon: /assets/icons/check.svg
+service_key: eicr
 permalink: /blackley-eicr-inspections/
 tags: [blackley, eicr]
 ---

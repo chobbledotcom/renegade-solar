@@ -4,6 +4,7 @@ description: MCS-certified solar panel and battery installations in Stockport, i
 permalink: /solar-panel-installer-stockport/
 link_title: Solar Panel Installs
 icon: /assets/icons/solar-panel.svg
+service_key: solar-panels
 heading: Solar Panel Installer in Stockport
 tags: [stockport]
 gallery_tags: [solar-panels]

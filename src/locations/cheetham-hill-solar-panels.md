@@ -5,6 +5,7 @@ permalink: /solar-panel-installer-cheetham-hill/
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Cheetham Hill
 icon: /assets/icons/solar-panel.svg
+service_key: solar-panels
 tags: [cheetham-hill]
 gallery_tags: [solar-panels]
 # Review reference from src/_data/reviews.json

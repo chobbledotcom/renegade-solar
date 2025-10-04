@@ -5,6 +5,7 @@ permalink: /solar-panel-installer-failsworth/
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Failsworth
 icon: /assets/icons/solar-panel.svg
+service_key: solar-panels
 tags: [failsworth]
 gallery_tags: [failsworth]
 ---

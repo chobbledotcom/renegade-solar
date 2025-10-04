@@ -4,6 +4,7 @@ description: Professional EICR electrical inspections in Cheetham Hill. £150 al
 link_title: EICR Inspection
 heading: EICR Inspections in Cheetham Hill
 icon: /assets/icons/check.svg
+service_key: eicr
 permalink: /cheetham-hill-eicr-inspections/
 tags: [cheetham-hill, eicr]
 # Review reference from src/_data/reviews.json

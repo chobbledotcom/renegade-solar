@@ -2,6 +2,7 @@
 description: Professional EICR electrical inspections in Radcliffe. £150 all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electrical safety experts.
 heading: EICR Inspections in Radcliffe
 icon: /assets/icons/check.svg
+service_key: eicr
 link_title: EICR Inspection
 permalink: /radcliffe-eicr-inspections/
 tags: [radcliffe, eicr]

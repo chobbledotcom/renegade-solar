@@ -5,6 +5,7 @@ permalink: /solar-panel-installer-radcliffe/
 link_title: Solar Panel Installs
 heading: Solar Panel Installer in Radcliffe
 icon: /assets/icons/solar-panel.svg
+service_key: solar-panels
 tags: [radcliffe]
 gallery_tags: [solar-panels]
 ---

@@ -4,7 +4,8 @@ description: Commercial solar for Bolton businesses. Carpet warehouse cuts £700
 permalink: /commercial-solar-installations-bolton/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Bolton
-icon: /assets/icons/solar-panel.svg
+icon: /assets/icons/commercial-solar.svg
+service_key: commercial-solar
 tags: [bolton]
 gallery_tags: [commercial]
 ---

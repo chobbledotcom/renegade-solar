@@ -4,6 +4,7 @@ description: Professional EICR electrical inspections in Crumpsall. £150 all do
 link_title: EICR Inspection
 heading: EICR Inspections in Crumpsall
 icon: /assets/icons/check.svg
+service_key: eicr
 permalink: /crumpsall-eicr-inspections/
 tags: [crumpsall, eicr]
 # Review reference from src/_data/reviews.json

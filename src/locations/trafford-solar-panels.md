@@ -5,6 +5,7 @@ permalink: /solar-panel-installer-trafford/
 link_title: Solar Panel Installs
 heading: Solar Panel Installer in Trafford
 icon: /assets/icons/solar-panel.svg
+service_key: solar-panels
 tags: [trafford]
 gallery_tags: [solar-panels]
 ---

@@ -5,6 +5,7 @@ permalink: /solar-panel-installer-middleton/
 link_title: Solar Panel Installs
 heading: Solar Panel Installer in Middleton
 icon: /assets/icons/solar-panel.svg
+service_key: solar-panels
 tags: [middleton]
 gallery_tags: [solar-panels]
 ---

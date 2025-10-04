@@ -6,6 +6,7 @@ link_title: EV Charger Installs
 heading: EV Charger Installations in Middleton
 tags: [middleton]
 icon: /assets/icons/car.svg
+service_key: ev-charging
 ---
 
 Serving Middleton with professional EV charger installations. Based nearby in Prestwich, we're perfectly positioned to provide fast, reliable service throughout the M24 area.

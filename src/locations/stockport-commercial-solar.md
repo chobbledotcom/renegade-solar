@@ -4,7 +4,8 @@ description: Commercial solar for Stockport businesses. MCS-certified installer 
 permalink: /commercial-solar-installations-stockport/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Stockport
-icon: /assets/icons/solar-panel.svg
+icon: /assets/icons/commercial-solar.svg
+service_key: commercial-solar
 tags: [stockport]
 gallery_tags: [commercial]
 ---

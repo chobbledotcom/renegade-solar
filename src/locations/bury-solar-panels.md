@@ -5,6 +5,7 @@ permalink: /solar-panel-installer-bury/
 link_title: Solar Panel Installs
 heading: Solar Panel Installer in Bury
 icon: /assets/icons/solar-panel.svg
+service_key: solar-panels
 tags: [bury]
 gallery_tags: [solar-panels]
 ---

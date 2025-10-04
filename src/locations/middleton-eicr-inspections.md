@@ -4,6 +4,7 @@ description: Professional EICR electrical inspections in Middleton. £150 all do
 link_title: EICR Inspection
 heading: EICR Inspections in Middleton
 icon: /assets/icons/check.svg
+service_key: eicr
 permalink: /middleton-eicr-inspections/
 tags: [middleton, eicr]
 ---

@@ -2,6 +2,7 @@
 title: Electrical Safety Inspections (EICR)
 snippet: Just £150 with same-day certificates and no hard sells.
 icon: /assets/icons/check.svg
+service_key: eicr
 location_pages: true
 order: 4
 ---

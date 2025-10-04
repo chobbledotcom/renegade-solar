@@ -4,6 +4,7 @@ description: Professional EICR electrical inspections in Whitefield. £150 all d
 link_title: EICR Inspection
 heading: EICR Inspections in Whitefield
 icon: /assets/icons/check.svg
+service_key: eicr
 permalink: /whitefield-eicr-inspections/
 tags: [whitefield, eicr]
 ---

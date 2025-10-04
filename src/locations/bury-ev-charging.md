@@ -6,6 +6,7 @@ link_title: EV Charger Installs
 heading: EV Charger Installations in Bury
 tags: [bury]
 icon: /assets/icons/car.svg
+service_key: ev-charging
 ---
 
 Expert EV charger installations throughout Bury. We provide professional charging solutions with smart technology and seamless integration with renewable energy systems.

@@ -4,6 +4,7 @@ description: Professional EICR electrical inspections in Stockport. £150 all do
 link_title: EICR Inspection
 heading: EICR Inspections in Stockport
 icon: /assets/icons/check.svg
+service_key: eicr
 permalink: /stockport-eicr-inspections/
 tags: [stockport, eicr]
 ---

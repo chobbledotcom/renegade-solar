@@ -4,7 +4,8 @@ description: Commercial solar for Bury businesses. Cut electricity costs 70-100%
 permalink: /commercial-solar-installations-bury/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Bury
-icon: /assets/icons/solar-panel.svg
+icon: /assets/icons/commercial-solar.svg
+service_key: commercial-solar
 tags: [bury]
 gallery_tags: [commercial]
 ---
