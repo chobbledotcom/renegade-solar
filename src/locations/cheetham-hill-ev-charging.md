@@ -25,9 +25,25 @@ The [government's EV grant](https://www.gov.uk/electric-vehicle-chargepoint-gran
 
 Whether you've got a Victorian terrace, semi-detached with a drive, or a flat with allocated parking, I'll find a solution that works. I've installed chargers using rear access points, cable runs to front parking, and I've worked with property management for shared facilities. I'll always be clear about what's being done and where the cabling needs to go.
 
-## Smart Integration with Solar
+## Fast, Tidy Installation
 
-Got solar panels already? I'll configure your charger to use free solar energy during the day – perfect if you work from home. I ensure everything works together properly, so you're getting the most from your renewable energy setup.
+The charger install is quick - done in a day, usually half a day for straightforward setups. The units are weatherproof, so they can go wherever makes sense for your parking spot. If your consumer unit is on the other side of the house from where you park, no worries - I run heavy duty armoured cable that's designed to go outside.
+
+Minimal mess, and your consumer unit needs to be up to spec. If you've got solar panels or a battery already, it will be. If not, you can still get on a cheap overnight tariff just for charging your car.
+
+## What Goes In
+
+I'm an **Octopus Energy Trusted Partner**, so I fit any of the [Octopus EV chargers](https://octopus.energy/get-an-ev-charger/). Smart units that charge your car when rates are cheapest - 7.5p per kWh on Octopus Go versus the 30-60p you'd pay at a public charger. Just plug in, they handle the timing.
+
+Got **Solax** or **AlphaESS** kit? Their chargers integrate with their solar and battery systems. I fit those too.
+
+Or if you've bought something else, that's fine. I'll install whatever charger you want.
+
+## Why Home Charging Beats Public
+
+With new petrol and diesel cars being banned from 2030, electric's where we're all heading. Manchester's motorway network means rapid chargers are easy to find for longer trips. But day-to-day? Home charging costs a fraction of public charging.
+
+A 7kW charger tops up your car overnight during the cheap window. Granny chargers that plug into normal sockets take all day - you'll miss the cheap rates and pay way more. Proper charger means you wake up ready to go for a couple of quid.
 
 ## Why Choose Renegade Solar?
 
