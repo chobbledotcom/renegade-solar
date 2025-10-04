@@ -36,12 +36,9 @@ Our smart EV chargers can be integrated with [solar panels](/services/solar-and-
 
 ## Complete EV Charging Package
 
-- Free property survey and assessment
-- Smart chargers with app control
-- OZEV grant-approved installations
-- Full NAPIT electrical certification
-- Time-of-use tariff optimisation
-- Integration with solar and battery systems
+Every installation begins with a free property survey and assessment to ensure the perfect charger solution for your needs. We install smart chargers with app control, giving you complete visibility and control over your vehicle charging from your smartphone.
+
+All our installations are OZEV grant-approved and come with full NAPIT electrical certification, ensuring compliance with current regulations. We'll help you optimise your charging with time-of-use tariffs to take advantage of cheaper overnight electricity rates, and can integrate your charger with existing solar panels and battery systems for truly renewable vehicle charging.
 
 ## Bolton Coverage
 

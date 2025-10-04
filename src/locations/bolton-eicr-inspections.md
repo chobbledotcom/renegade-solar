@@ -48,26 +48,11 @@ Much better to discover potential electrical upgrade costs during your buying pr
 
 ## Bolton's Electrical Characteristics
 
-**Traditional terraced and semi-detached properties** (common throughout Bolton) typically feature:
+**Traditional terraced and semi-detached properties** common throughout Bolton typically feature electrical systems that have been upgraded incrementally over many decades. These properties often have consumer units that predate current safety standards, with limited electrical circuits struggling to meet contemporary household demands. Earthing arrangements frequently require updates to meet current requirements, particularly in properties that have seen multiple modifications over their lifetime.
 
-- Electrical systems upgraded incrementally over many decades
-- Consumer units that predate current safety standards
-- Limited electrical circuits for contemporary household demands
-- Earthing arrangements requiring updates to meet current requirements
+**Commercial and industrial properties** present their own specific challenges. Bolton's warehouses, factories, and business units often have high-power electrical installations for machinery and equipment, along with three-phase electrical systems that require specialist assessment. Emergency lighting and fire alarm system integration adds complexity, as do electrical distribution systems that span large floor areas with multiple sub-distribution boards.
 
-**Commercial and industrial properties** present their own specific challenges:
-
-- High-power electrical installations for machinery and equipment
-- Three-phase electrical systems requiring specialist assessment
-- Emergency lighting and fire alarm system integration
-- Electrical distribution systems across large floor areas
-
-**Modern developments and conversions** can present their own challenges:
-
-- Installation quality varying with different builders and electrical subcontractors
-- Work that meets basic regulatory requirements but could be enhanced
-- RCD protection arrangements that don't fully optimise current safety standards
-- Protective bonding issues in kitchens and bathrooms
+**Modern developments and conversions** can present their own challenges despite their recent construction. Installation quality varies significantly with different builders and electrical subcontractors, and while work typically meets basic regulatory requirements, it could often be enhanced. RCD protection arrangements don't always fully optimise current safety standards, and we frequently encounter protective bonding issues in kitchens and bathrooms that need addressing.
 
 ## Comprehensive Electrical Assessment
 
