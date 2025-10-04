@@ -14,15 +14,25 @@ Expert EV charger installations throughout Bury. We provide professional chargin
 
 Serving the Bury area with comprehensive EV charger installations. Our NAPIT registration ensures all work meets the highest electrical safety standards with full certification provided.
 
-## Our Charger Range
+## Quick and Tidy Installation
 
-We're experienced installers of **Solax** and **AlphaESS** EV chargers, both excellent options that integrate seamlessly with their respective solar and battery systems. As an **Octopus Energy Trusted Partner**, we also install the full range of Octopus chargers from their [EV charger programme](https://octopus.energy/get-an-ev-charger/), which offer smart time-of-use features that automatically charge your car when electricity is cheapest.
+The installation itself is fast - we'll have you done in a day. The charger units are all weatherproof, so we can stick them wherever makes sense for your parking spot. Need it on an outside wall with cable running round from your consumer unit? No worries. We run heavy duty armoured cable that's designed to go outside.
 
-If you've already got a specific charger in mind from another manufacturer, we're happy to install whatever works best for you – just order it and we'll get it fitted professionally.
+Mess is minimal. Your consumer unit will need to be up to date, but if you've already got solar panels or a home battery fitted, it'll already be up to scratch. And even if you haven't got any of that renewable stuff, you can still sign up for a time-of-use tariff to get cheap overnight charging.
 
-## Smart Charging Benefits
+## The Chargers
 
-Our advanced EV chargers integrate with solar panels and home batteries, plus smart tariffs like Octopus Go, to minimise your charging costs while maximising convenience. The Octopus chargers can automatically charge your electric car during the cheapest overnight periods – charge for as little as 7.5p per kWh overnight compared to 30-60p+ at public chargers. This makes running an electric vehicle incredibly affordable without having to remember to plug in at specific times.
+Got **Solax** or **AlphaESS** gear already? Their chargers work nicely with their own solar and battery kit. We fit those regularly. We're also an **Octopus Energy Trusted Partner**, so we can get you any of the chargers from [Octopus's range](https://octopus.energy/get-an-ev-charger/).
+
+The Octopus ones are smart - they'll wait until electricity is dirt cheap (7.5p per kWh on Octopus Go) before charging your car. That's a massive difference from the 30-60p you'd pay at a public charger. You just plug in when you get home and forget about it.
+
+Or if you've already picked out a charger yourself, that's fine too. Order it and we'll fit it.
+
+## Why Bother With Home Charging
+
+The government's putting a stop to new petrol and diesel cars in 2030, so we're all heading electric eventually. Bury's got decent access to the motorway network, so if you're doing a long trip you can top up at a services. But for your regular driving - work, shops, ferrying kids about - home charging is loads cheaper.
+
+A 7kW charger gets your car topped up overnight during the cheap window. Try doing that with a granny charger that plugs into a normal socket - it'll take all day and you'll be paying peak rates. Proper charger means you wake up with a full battery for a couple of quid.
 
 ## Customer Experience
 

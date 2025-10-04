@@ -30,17 +30,25 @@ Based right here in Prestwich, Renegade Solar provides expert EV charger install
 
 The cracking grid infrastructure in Prestwich means our installations rarely need supply upgrades, keeping costs down and getting your charger installed quickly. Most Prestwich properties have the electrical capacity needed, making the whole process dead straightforward.
 
-## Our Charger Range
+## Charging Speed Matters
 
-We're experienced installers of **Solax** and **AlphaESS** EV chargers, both excellent options that integrate seamlessly with their respective solar and battery systems. As an **Octopus Energy Trusted Partner**, we also install the full range of Octopus chargers from their [EV charger programme](https://octopus.energy/get-an-ev-charger/), which offer smart time-of-use features that automatically charge your car when electricity is cheapest.
+With a proper 7kW charger, you can get your car fully charged overnight during the cheap electricity window. A granny charger that plugs into a regular socket? That'll take all day, which means you'll be charging during expensive daytime rates. Not ideal.
 
-If you've already got a specific charger in mind from another manufacturer, we're happy to install whatever works best for you – just order it and we'll get it fitted professionally.
+The new petrol and diesel car ban coming in 2030 means more people are switching to electric. Manchester's motorway connections - M60, M62 - mean there's no shortage of rapid chargers when you're doing longer trips. But for everyday driving around Prestwich and Manchester, home charging at 7.5p per kWh beats paying 30-60p at a public charger.
 
-## Smart Integration for Prestwich Homes
+## Which Chargers We Fit
 
-Many Prestwich homes already have solar panels, and we configure chargers to prioritise free solar energy during the day - perfect for retirees or home workers who can charge while panels are generating. Time-of-use tariffs like Octopus Go offer 7.5p per kWh from 12:30-4:30am, meaning a typical Manchester commute costs under £2 for a full charge versus £15+ at public rapids. Battery storage systems, increasingly popular with forward-thinking Prestwich residents, can store cheap overnight electricity to charge electric cars during expensive peak periods.
+We're an **Octopus Energy Trusted Partner**, so we install their full [range of EV chargers](https://octopus.energy/get-an-ev-charger/). These are smart units that automatically charge when electricity is cheapest. You plug in whenever, the charger does the rest. On Octopus Go that's 7.5p per kWh in the early hours.
 
-The Octopus chargers are particularly clever – they automatically charge your electric vehicle during the cheapest overnight periods without you having to remember to plug in at specific times, making running an electric car incredibly affordable.
+If you've got **Solax** or **AlphaESS** solar panels or batteries, their chargers integrate nicely with those systems. We fit them too.
+
+Bought a charger yourself already? No problem. We'll install whatever you've ordered.
+
+## The Actual Installation Work
+
+Chargers are weatherproof, so we can mount them wherever works for your parking - garage wall, house wall, doesn't matter. If we need to run cable from your consumer unit to the far side of the property, we use heavy duty armoured cable that's made for outdoor installation.
+
+Most jobs are wrapped up in a day, and we keep mess to a minimum. Your consumer unit needs to meet current standards, but if you've already had solar or battery work done, it'll be fine. Even without solar, you can get a time-of-use electricity tariff for cheap overnight car charging.
 
 ## Real Savings for Prestwich Families
 

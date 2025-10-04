@@ -30,17 +30,25 @@ Professional EV charger installations throughout Whitefield. Based just down the
 
 The Metrolink stops are handy for getting into town, but they don't help when you need your car charged for weekend trips or family runs. The cracking electrical infrastructure around Whitefield means our installations rarely need supply upgrades, keeping costs down and getting your charger installed quickly without any fuss.
 
-## Our Charger Range
+## The 2030 Switch
 
-We're experienced installers of **Solax** and **AlphaESS** EV chargers, both excellent options that integrate seamlessly with their respective solar and battery systems. As an **Octopus Energy Trusted Partner**, we also install the full range of Octopus chargers from their [EV charger programme](https://octopus.energy/get-an-ev-charger/), which offer smart time-of-use features that automatically charge your car when electricity is cheapest.
+New petrol and diesel cars are getting banned in 2030, so electric's the future whether we like it or not. Whitefield's got decent motorway links (M60, M62), which means finding rapid chargers for longer trips isn't difficult. But for daily driving, home charging at 7.5p per kWh makes way more sense than paying 30-60p at public chargers.
 
-If you've already got a specific charger in mind from another manufacturer, we're happy to install whatever works best for you – just order it and we'll get it fitted professionally.
+Public chargers cost a fortune. Time-of-use tariffs like Octopus Go let you charge overnight for peanuts. A 7kW home charger gets your car fully topped up during that cheap window. Try that with a granny charger that plugs into a regular socket - it'll take all day and cost you loads more.
 
-## Smart Integration for Whitefield Homes
+## What Gets Installed
 
-Loads of Whitefield homes already have solar panels, and we'll set up your charger to use that free solar energy during the day - proper handy if you're working from home or retired. Time-of-use tariffs like Octopus Go are only 7.5p per kWh overnight, so charging your electric car costs under £2 for a typical Manchester commute versus £15+ at public rapids. The Octopus chargers automatically charge your vehicle during the cheapest periods without you having to remember to plug in at specific times.
+If you've got **Solax** or **AlphaESS** solar panels or batteries, we fit their chargers. They integrate with their own kit nicely.
 
-Battery storage systems are getting more popular with forward-thinking Whitefield residents - these can store cheap overnight electricity to charge your electric vehicle during pricier daytime periods, or save excess solar for evening vehicle charging.
+We're an **Octopus Energy Trusted Partner** too, so we install the full [Octopus charger range](https://octopus.energy/get-an-ev-charger/). Smart chargers that automatically charge when rates are lowest - 7.5p per kWh on Octopus Go. You plug in, they handle the timing.
+
+Picked out a different charger? Order it and we'll install it.
+
+## How It Works
+
+Chargers are weatherproof, so outside mounting is fine. Garage, house wall, doesn't matter. We run heavy duty armoured cable from your consumer unit to the charger - it's designed for outdoor installation if needed.
+
+Done in a day, minimal mess. Consumer unit needs to meet current standards, but if you've had solar or battery fitted, it already will. You don't need solar to get cheap overnight rates though - time-of-use tariffs are available to anyone.
 
 ## Real Savings for Whitefield Families
 

@@ -24,15 +24,23 @@ For Bolton's many terraced properties where off-street parking may be limited, w
 
 For businesses across Bolton's growing economy, workplace charging is becoming essential. With the University of Bolton targeting 20,000 students and Bolton's manufacturing, logistics, and professional services sectors expanding, staff increasingly need workplace charging facilities.
 
-## Our Charger Range
+## Chargers We Install
 
-We're experienced installers of **Solax** and **AlphaESS** EV chargers, both excellent options that integrate seamlessly with their respective solar and battery systems. As an **Octopus Energy Trusted Partner**, we also install the full range of Octopus chargers from their [EV charger programme](https://octopus.energy/get-an-ev-charger/), which offer smart time-of-use features that automatically charge your car when electricity is cheapest.
+We're an **Octopus Energy Trusted Partner**, which means we can install any of the chargers from [Octopus's EV charger programme](https://octopus.energy/get-an-ev-charger/). These are proper smart chargers that'll charge your car automatically when electricity is cheapest - usually overnight. If you're on something like Octopus Go, that's 7.5p per kWh compared to the 30-60p you'd pay at a public charger. The charger does all the thinking for you, so you just plug in whenever and it waits for the cheap rates.
 
-If you've already got a specific charger in mind from another manufacturer, we're happy to install whatever works best for you – just order it and we'll get it fitted professionally.
+We also fit **Solax** and **AlphaESS** chargers if you've got their solar panels or batteries already. They talk to each other nicely. But honestly, if you've got a charger you want from anywhere else, just order it and we'll fit it. We're not fussy.
 
-## Smart Charging Integration
+## Why Home Charging Makes Sense
 
-Our smart EV chargers can be integrated with [solar panels](/services/solar-and-battery-installations/) and [home battery systems](/services/home-battery-installations/), allowing you to charge your car using clean, renewable energy at minimal cost. This is particularly valuable for Bolton's industrial and commercial properties with suitable roof space.
+With the government banning new petrol and diesel cars from 2030, electric's the way forward. Bolton's well connected to the motorway network - M61, M60, M62 - so there's plenty of rapid chargers if you need a quick top-up on a long trip. But for day-to-day driving, charging at home is miles cheaper and more convenient.
+
+A 7kW charger will top up your car overnight during the cheap rate window. Compare that to a granny charger that plugs into a normal socket - those take all day and you'd miss the cheap rates entirely. With a proper charger installed, you wake up to a full battery every morning for a couple of quid.
+
+## The Installation
+
+The install's straightforward. The chargers are weatherproof so we can mount them wherever works best - garage wall, outside wall, wherever's convenient for your parking spot. If we need to run cable from your fuse board to the other side of the house, that's fine. We use proper heavy duty armoured cable that can go outside no problem.
+
+Most jobs are done in a day, mess is minimal. Your fuse board needs to be up to spec, but if you've already got solar panels or a battery, it will be anyway. Even if you haven't got solar, you can still get a time-of-use tariff just for cheap overnight car charging.
 
 ## Quality Installation Service
 
@@ -44,9 +52,7 @@ Our smart EV chargers can be integrated with [solar panels](/services/solar-and-
 
 Every installation begins with a free property survey and assessment to ensure the perfect charger solution for your needs. We install smart chargers with app control, giving you complete visibility and control over your car's charging from your smartphone.
 
-All our installations are OZEV grant-approved and come with full NAPIT electrical certification, ensuring compliance with current regulations. We'll help you optimise your charging with time-of-use tariffs like Octopus Go to take advantage of cheaper overnight electricity rates – charge your electric car for as little as 7.5p per kWh overnight compared to 30-60p+ at public chargers. We can also integrate your charger with existing solar panels and battery systems for truly renewable vehicle charging.
-
-The Octopus chargers are particularly clever – they can automatically charge your car during the cheapest overnight periods, making running an electric vehicle incredibly affordable without you having to remember to plug in at specific times.
+All our installations are OZEV grant-approved and come with full NAPIT electrical certification, ensuring compliance with current regulations. We can integrate your charger with existing [solar panels](/services/solar-and-battery-installations/) and [battery systems](/services/home-battery-installations/) for renewable vehicle charging.
 
 ## Bolton Coverage
 

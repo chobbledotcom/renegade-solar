@@ -14,11 +14,27 @@ Serving Middleton with professional EV charger installations for electric cars. 
 
 We've completed numerous successful EV charger installations throughout Middleton, earning excellent customer reviews for our professional approach and competitive pricing.
 
-## Our Charger Range
+## Electric Cars and the 2030 Ban
 
-We're experienced installers of **Solax** and **AlphaESS** EV chargers, both excellent options that integrate seamlessly with their respective solar and battery systems. As an **Octopus Energy Trusted Partner**, we also install the full range of Octopus chargers from their [EV charger programme](https://octopus.energy/get-an-ev-charger/), which offer smart time-of-use features that automatically charge your car when electricity is cheapest.
+Petrol and diesel cars are on their way out - government's set 2030 as the cut-off for new ones. Middleton's well connected to Manchester's motorways (M60, M62), which means rapid chargers for longer journeys aren't difficult to find. But for regular driving around town, home charging is where the savings are.
 
-If you've already got a specific charger in mind from another manufacturer, we're happy to install whatever works best for you – just order it and we'll get it fitted professionally.
+A 7kW charger gets your car fully charged overnight when electricity is cheapest - 7.5p per kWh on something like Octopus Go. Public chargers? 30-60p per kWh. That adds up fast if you're charging regularly.
+
+Granny chargers that plug into normal sockets are too slow - they take all day, which means you miss the cheap overnight window and end up paying daytime rates.
+
+## What We Install
+
+We're an **Octopus Energy Trusted Partner**, so we fit the full [Octopus charger range](https://octopus.energy/get-an-ev-charger/). Smart chargers that automatically charge when rates are lowest. You just plug in, they handle when to actually charge.
+
+If you've got **Solax** or **AlphaESS** solar panels or batteries, we install their chargers too. They integrate with their own kit.
+
+Already bought a charger? That's fine. Order what you want and we'll install it.
+
+## Quick Install Process
+
+Chargers are weatherproof so they can go wherever makes sense - outside wall, garage, wherever you park. We run heavy duty armoured cable from your consumer unit to the charger if it needs to go outside.
+
+Install's done in a day, minimal mess. Your consumer unit needs to be up to spec, but if you've got solar or battery already fitted, it will be. You don't need solar to get cheap overnight rates though - anyone can sign up for a time-of-use tariff.
 
 ## What Middleton Customers Say
 
@@ -37,7 +53,6 @@ If you've already got a specific charger in mind from another manufacturer, we'r
 - Integration with solar panels and home batteries
 - OZEV grant-approved installations
 - Full electrical certification provided
-- Octopus chargers with automatic time-of-use charging (as little as 7.5p per kWh overnight on Octopus Go, compared to 30-60p+ at public chargers)
 
 ## Local Knowledge Advantage
 

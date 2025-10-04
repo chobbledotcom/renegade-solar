@@ -14,15 +14,25 @@ Expert EV charger installations throughout Trafford. NAPIT-registered service pr
 
 We serve the entire Trafford area with professional EV charger installations, from Altrincham to Sale and beyond. Our expertise covers all property types and electrical configurations.
 
-## Our Charger Range
+## Cost Comparison
 
-We're experienced installers of **Solax** and **AlphaESS** EV chargers, both excellent options that integrate seamlessly with their respective solar and battery systems. As an **Octopus Energy Trusted Partner**, we also install the full range of Octopus chargers from their [EV charger programme](https://octopus.energy/get-an-ev-charger/), which offer smart time-of-use features that automatically charge your car when electricity is cheapest.
+Public chargers cost 30-60p per kWh. Get on a time-of-use tariff like Octopus Go and you're paying 7.5p overnight at home. That's a massive difference for anyone doing regular driving. Manchester's motorway network (M60, M56, M6) means rapid chargers aren't hard to find for long trips, but daily charging at home is way cheaper.
 
-If you've already got a specific charger in mind from another manufacturer, we're happy to install whatever works best for you – just order it and we'll get it fitted professionally.
+With the 2030 ban on new petrol and diesel cars approaching, more people are making the switch. A 7kW home charger gets your car charged overnight during the cheap window. Granny chargers that plug into regular sockets? They take all day, so you end up charging during expensive daytime rates.
 
-## Smart Charging Technology
+## What We Fit
 
-Install advanced EV chargers that integrate with solar panels, home batteries, and smart tariffs to minimise charging costs while maximising the use of renewable energy. The Octopus chargers are particularly clever – they can automatically charge your electric vehicle during the cheapest overnight periods (as little as 7.5p per kWh on tariffs like Octopus Go, compared to 30-60p+ at public chargers), making running an electric car incredibly affordable without you having to remember to plug in at specific times.
+We're an **Octopus Energy Trusted Partner**, installing their full [EV charger range](https://octopus.energy/get-an-ev-charger/). These smart chargers wait for cheap rates before charging - you plug in, they sort the timing. On Octopus Go that's 7.5p per kWh overnight.
+
+If you're running **Solax** or **AlphaESS** solar or battery systems, we fit their chargers too. They integrate with their own equipment nicely.
+
+Bought a different charger already? No problem. We'll install whatever you've ordered.
+
+## The Install
+
+Chargers are weatherproof units that can go wherever suits your parking - garage wall, house wall, outside. Cable runs from your consumer unit to the charger. If that means going outside, we use heavy duty armoured cable built for it.
+
+Jobs get done in a day, mess is kept minimal. Your consumer unit needs to meet current standards - if you've had solar or battery work done, it'll be fine. Even without solar, you can get a time-of-use tariff for cheap overnight car charging.
 
 ## Professional Excellence
 

@@ -14,15 +14,25 @@ Expert EV charger installations throughout Blackley. As your local NAPIT-registe
 
 Based nearby in Prestwich, we serve the Blackley area with comprehensive EV charger installation services. Our local knowledge ensures installations that work perfectly with your home's electrical system.
 
-## Our Charger Range
+## Charging Your Car at Home
 
-We're experienced installers of **Solax** and **AlphaESS** EV chargers, both excellent options that integrate seamlessly with their respective solar and battery systems. As an **Octopus Energy Trusted Partner**, we also install the full range of Octopus chargers from their [EV charger programme](https://octopus.energy/get-an-ev-charger/), which offer smart time-of-use features that automatically charge your car when electricity is cheapest.
+You'll need a 7kW charger to make the most of cheap overnight rates. Granny chargers that plug into regular sockets are slow - they'll take all day, which means you're charging during expensive daytime hours. A proper wall-mounted charger gets your car topped up overnight when electricity is dirt cheap.
 
-If you've already got a specific charger in mind from another manufacturer, we're happy to install whatever works best for you – just order it and we'll get it fitted professionally.
+The chargers are weatherproof, so we can mount them outside no problem. Garage wall, house wall, wherever works for your parking. Cable runs from your consumer unit to the charger - if that's a long run or needs to go outside, we use heavy duty armoured cable that's built for it.
 
-## Smart Charging Technology
+Installations are wrapped up in a day, mess is minimal. Your consumer unit needs to meet current standards, but if you've had solar or battery work done already, it will. You don't need solar to get cheap overnight electricity though - time-of-use tariffs are available to anyone.
 
-We install the latest smart EV chargers that integrate seamlessly with solar panels and home battery systems, allowing you to maximise your renewable energy investment. The Octopus chargers are particularly clever – they can automatically charge your electric vehicle during the cheapest overnight periods (as little as 7.5p per kWh on tariffs like Octopus Go, compared to 30-60p+ at public chargers), making running an electric car incredibly affordable without you having to remember to plug in at specific times.
+## The Chargers We Fit
+
+We're an **Octopus Energy Trusted Partner**, so we install the full [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/). These are smart chargers that automatically charge when electricity is cheapest - you just plug in and they sort the rest. On Octopus Go that's 7.5p per kWh overnight, compared to 30-60p at public chargers.
+
+If you're running **Solax** or **AlphaESS** solar panels or batteries, their chargers integrate nicely. We fit those regularly.
+
+Already ordered a charger yourself? That's fine. We'll install whatever you've got.
+
+## Electric Cars Are Coming
+
+The 2030 ban on new petrol and diesel cars is getting closer. Blackley's well connected to Manchester's motorways (M60, M62), so rapid chargers for longer trips aren't hard to find. But for everyday driving - work, shops, school runs - home charging at 7.5p per kWh beats paying 30-60p at public chargers every time.
 
 ## Customer Testimonials
 

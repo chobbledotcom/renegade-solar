@@ -40,19 +40,25 @@ Altrincham's beautiful Victorian and Edwardian homes present unique opportunitie
 
 **Grid infrastructure** in Altrincham is excellent, meaning installations are straightforward without supply upgrade issues common in rural areas. Most properties have the electrical capacity needed for modern EV charging, making the whole process dead simple.
 
-## Our Charger Range
+## Why a 7kW Charger Matters
 
-We're experienced installers of **Solax** and **AlphaESS** EV chargers, both excellent options that integrate seamlessly with their respective solar and battery systems. As an **Octopus Energy Trusted Partner**, we also install the full range of Octopus chargers from their [EV charger programme](https://octopus.energy/get-an-ev-charger/), which offer smart time-of-use features that automatically charge your car when electricity is cheapest.
+Granny chargers that plug into a normal socket take forever - all day to charge your car, which means you're stuck paying daytime electricity rates. A proper 7kW wall charger gets it done overnight during the cheap window. On Octopus Go that's 7.5p per kWh compared to 30-60p at public chargers.
 
-If you've already got a specific charger in mind from another manufacturer, we're happy to install whatever works best for you – just order it and we'll get it fitted professionally.
+Altrincham's got good motorway access (M56, M60, M6), so rapid chargers for long trips are easy to find. But for commuting to Manchester or running around locally, home charging is miles cheaper. Plus with the government banning new petrol and diesel cars in 2030, we're all heading electric anyway.
 
-## Smart Integration for Altrincham Homes
+## Equipment We Install
 
-**Solar panel integration** - Altrincham's affluent areas see lots of solar installations. We can configure your EV charger to prioritise solar energy during the day, potentially charging your electric car for free during sunny periods.
+Already running **Solax** or **AlphaESS** solar panels or home batteries? Their EV chargers integrate well with their kit. We fit those regularly for people who want everything talking to each other.
 
-**Time-of-use tariffs** - With Octopus Go or similar, you can charge overnight at 7.5p per kWh compared to day rates around 30p. For a typical commute to Manchester, that's under £2 for a full charge instead of £20+ at public rapids. The Octopus chargers automatically charge your vehicle during the cheapest periods without you having to remember to plug in at specific times.
+We're also an **Octopus Energy Trusted Partner**, which means we install any of the [Octopus chargers](https://octopus.energy/get-an-ev-charger/). These are smart - they wait for the cheapest electricity rates before charging your car. You just plug in when you get home, the charger handles the timing.
 
-**Battery storage systems** - Popular in Hale and Bowdon, these can store cheap overnight electricity to charge your electric vehicle during more expensive periods, or store excess solar for evening vehicle charging.
+Or if you've already bought a specific charger, that works too. Order what you want and we'll fit it.
+
+## Installation Process
+
+The chargers are all weatherproof, so mounting outside is no issue. Garage wall, house wall, wherever suits your parking. If we need to run cable from your consumer unit across the property, we use heavy duty armoured cable designed for outdoor installation.
+
+Jobs are done in a day. Minimal mess. Your consumer unit needs to be up to current standards - if you've had solar or battery work done, it will be. Even without solar, you can still get a time-of-use tariff for cheap overnight car charging.
 
 ## Real Savings for Altrincham Drivers
 

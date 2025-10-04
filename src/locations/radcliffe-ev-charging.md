@@ -14,15 +14,25 @@ Expert EV charger installations throughout Radcliffe. As a NAPIT-registered inst
 
 Based nearby in Prestwich, we serve Radcliffe with comprehensive EV charger installation services. Our local knowledge ensures installations that work perfectly with your home's electrical system and energy requirements.
 
-## Our Charger Range
+## Installation Speed and Process
 
-We're experienced installers of **Solax** and **AlphaESS** EV chargers, both excellent options that integrate seamlessly with their respective solar and battery systems. As an **Octopus Energy Trusted Partner**, we also install the full range of Octopus chargers from their [EV charger programme](https://octopus.energy/get-an-ev-charger/), which offer smart time-of-use features that automatically charge your car when electricity is cheapest.
+We get charger installs done in a day. The units are weatherproof so they can go outside - garage wall, house wall, wherever suits where you park. If cable needs to run from your consumer unit round to the charger, we use heavy duty armoured cable designed for outdoor use.
 
-If you've already got a specific charger in mind from another manufacturer, we're happy to install whatever works best for you – just order it and we'll get it fitted professionally.
+Mess is kept to a minimum. Consumer unit needs to be up to current standards - if you've had solar panels or a battery installed, it will be. Even if you haven't got renewable kit, you can still get on a cheap overnight electricity tariff for car charging.
 
-## Smart Charging Technology
+## Chargers Available
 
-We install advanced EV chargers that integrate seamlessly with solar panels and home battery systems, allowing you to charge your electric vehicle using renewable energy at minimal cost. The Octopus chargers are particularly clever – they can automatically charge your car during the cheapest overnight periods (as little as 7.5p per kWh on tariffs like Octopus Go, compared to 30-60p+ at public chargers), making running an electric vehicle incredibly affordable without you having to remember to plug in at specific times.
+Running **Solax** or **AlphaESS** solar panels or batteries? We fit their EV chargers - they work well with their own systems.
+
+As an **Octopus Energy Trusted Partner**, we also install any of the [Octopus chargers](https://octopus.energy/get-an-ev-charger/). Smart units that charge automatically when rates are cheapest. On Octopus Go that's 7.5p per kWh overnight versus 30-60p you'd pay at a public charger.
+
+Got a charger in mind already? Order it and we'll fit it.
+
+## Why Home Charging
+
+The government's banning new petrol and diesel cars from 2030. Radcliffe's got access to motorways (M60, M66), so rapid chargers for longer trips are around. But for day-to-day driving, home charging at 7.5p per kWh beats public charging hands down.
+
+A proper 7kW charger tops your car up overnight during cheap rate periods. Granny chargers that plug into normal sockets take forever - all day - which means you're charging during expensive daytime electricity. Not ideal.
 
 ## Professional Installation Features
 

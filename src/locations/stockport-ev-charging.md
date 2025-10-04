@@ -14,15 +14,27 @@ Professional EV charger installations throughout Stockport, including Bramhall, 
 
 We provide expert EV charger installations across the Stockport area, working with all property types from traditional homes to modern developments.
 
-## Our Charger Range
+## Making the Switch to Electric
 
-We're experienced installers of **Solax** and **AlphaESS** EV chargers, both excellent options that integrate seamlessly with their respective solar and battery systems. As an **Octopus Energy Trusted Partner**, we also install the full range of Octopus chargers from their [EV charger programme](https://octopus.energy/get-an-ev-charger/), which offer smart time-of-use features that automatically charge your car when electricity is cheapest.
+Petrol and diesel cars are being phased out - the government's set 2030 as the cut-off for new ones. Stockport's right on the motorway network (M60, M56, M6), so you've got plenty of options for rapid charging when you're heading further afield. But for your everyday driving, a home charger is the way to go.
 
-If you've already got a specific charger in mind from another manufacturer, we're happy to install whatever works best for you – just order it and we'll get it fitted professionally.
+Public chargers cost 30-60p per kWh. Home charging on a time-of-use tariff like Octopus Go? 7.5p overnight. That's a massive saving for anyone doing regular journeys.
 
-## Advanced Integration
+## Installation Details
 
-Our smart EV chargers can be integrated with solar panels and home battery systems, allowing you to charge your electric car using clean, renewable energy at minimal cost. The Octopus chargers are particularly clever – they can automatically charge your vehicle during the cheapest overnight periods (as little as 7.5p per kWh on tariffs like Octopus Go, compared to 30-60p+ at public chargers), making running an electric vehicle incredibly affordable without you having to remember to plug in at specific times.
+We can get your charger installed in a day. They're all weatherproof units, so mounting them outside is no issue - garage wall, house wall, wherever suits your parking. Cable needs to run from your consumer unit to the charger, and if that means going outside, we use heavy duty armoured cable designed for it.
+
+Minimal mess, quick turnaround. Your consumer unit needs to be up to current standards, but if you've already got solar panels or a battery, it'll be sorted. Even if you don't have solar kit, you can still get on a cheap overnight electricity tariff for car charging.
+
+## What We Install
+
+Running **Solax** or **AlphaESS** solar and battery gear? We fit their chargers - they work well together. We're also an **Octopus Energy Trusted Partner**, which means we install any of [Octopus's EV chargers](https://octopus.energy/get-an-ev-charger/). Those are smart - they wait for cheap rates before charging your car automatically.
+
+Prefer a different charger? Order what you want and we'll fit it.
+
+## Why a 7kW Charger
+
+A standard granny charger (the ones that plug into a normal socket) takes all day to charge your car. You'll be paying daytime electricity rates for most of it. A proper 7kW charger gets the job done overnight during the cheap window. Wake up to a full battery without paying through the nose.
 
 ## Quality Installation Service
 
