@@ -24,9 +24,15 @@ The [government's EV grant](https://www.gov.uk/electric-vehicle-chargepoint-gran
 
 Whether you've got a Victorian terrace, semi-detached with a drive, or a flat with allocated parking, I'll find a solution that works. I've installed chargers using rear access points, cable runs to front parking, and I've worked with property management for shared facilities. I'll always be clear about what's being done and where the cabling needs to go.
 
+## Our Charger Range
+
+I'm experienced installing **Solax** and **AlphaESS** EV chargers, both excellent options that integrate seamlessly with their respective solar and battery systems. As an **Octopus Energy Trusted Partner**, I also install the full range of Octopus chargers from their [EV charger programme](https://octopus.energy/get-an-ev-charger/), which offer smart time-of-use features that automatically charge your car when electricity is cheapest.
+
+If you've already got a specific charger in mind from another manufacturer, I'm happy to install whatever works best for you – just order it and I'll get it fitted professionally.
+
 ## Smart Integration with Solar
 
-Got solar panels already? I'll configure your charger to use free solar energy during the day – perfect if you work from home. I ensure everything works together properly, so you're getting the most from your renewable energy setup.
+Got solar panels already? I'll configure your charger to use free solar energy during the day – perfect if you work from home. I ensure everything works together properly, so you're getting the most from your renewable energy setup. The Octopus chargers are particularly clever – they automatically charge your electric vehicle during the cheapest overnight periods without you having to remember to plug in at specific times.
 
 ## Why Choose Renegade Solar?
 

@@ -8,11 +8,17 @@ tags: [middleton]
 icon: /assets/icons/car.svg
 ---
 
-Serving Middleton with professional EV charger installations. Based nearby in Prestwich, we're perfectly positioned to provide fast, reliable service throughout the M24 area.
+Serving Middleton with professional EV charger installations for electric cars. Based nearby in Prestwich, we're perfectly positioned to provide fast, reliable service throughout the M24 area.
 
 ## Proven Track Record in Middleton
 
 We've completed numerous successful EV charger installations throughout Middleton, earning excellent customer reviews for our professional approach and competitive pricing.
+
+## Our Charger Range
+
+We're experienced installers of **Solax** and **AlphaESS** EV chargers, both excellent options that integrate seamlessly with their respective solar and battery systems. As an **Octopus Energy Trusted Partner**, we also install the full range of Octopus chargers from their [EV charger programme](https://octopus.energy/get-an-ev-charger/), which offer smart time-of-use features that automatically charge your car when electricity is cheapest.
+
+If you've already got a specific charger in mind from another manufacturer, we're happy to install whatever works best for you – just order it and we'll get it fitted professionally.
 
 ## What Middleton Customers Say
 
@@ -31,6 +37,7 @@ We've completed numerous successful EV charger installations throughout Middleto
 - Integration with solar panels and home batteries
 - OZEV grant-approved installations
 - Full electrical certification provided
+- Octopus chargers with automatic time-of-use charging (as little as 7.5p per kWh overnight on Octopus Go, compared to 30-60p+ at public chargers)
 
 ## Local Knowledge Advantage
 

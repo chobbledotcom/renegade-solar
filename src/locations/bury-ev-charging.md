@@ -8,15 +8,21 @@ tags: [bury]
 icon: /assets/icons/car.svg
 ---
 
-Expert EV charger installations throughout Bury. We provide professional charging solutions with smart technology and seamless integration with renewable energy systems.
+Expert EV charger installations throughout Bury. We provide professional charging solutions for electric cars with smart technology and seamless integration with renewable energy systems.
 
 ## Bury EV Charging Service
 
 Serving the Bury area with comprehensive EV charger installations. Our NAPIT registration ensures all work meets the highest electrical safety standards with full certification provided.
 
+## Our Charger Range
+
+We're experienced installers of **Solax** and **AlphaESS** EV chargers, both excellent options that integrate seamlessly with their respective solar and battery systems. As an **Octopus Energy Trusted Partner**, we also install the full range of Octopus chargers from their [EV charger programme](https://octopus.energy/get-an-ev-charger/), which offer smart time-of-use features that automatically charge your car when electricity is cheapest.
+
+If you've already got a specific charger in mind from another manufacturer, we're happy to install whatever works best for you – just order it and we'll get it fitted professionally.
+
 ## Smart Charging Benefits
 
-Our advanced EV chargers integrate with solar panels and home batteries, plus smart tariffs like Octopus Go, to minimise your charging costs while maximising convenience.
+Our advanced EV chargers integrate with solar panels and home batteries, plus smart tariffs like Octopus Go, to minimise your charging costs while maximising convenience. The Octopus chargers can automatically charge your electric car during the cheapest overnight periods – charge for as little as 7.5p per kWh overnight compared to 30-60p+ at public chargers. This makes running an electric vehicle incredibly affordable without having to remember to plug in at specific times.
 
 ## Customer Experience
 

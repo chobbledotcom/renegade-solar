@@ -30,11 +30,17 @@ Professional EV charger installations throughout Whitefield. Based just down the
 
 The Metrolink stops are handy for getting into town, but they don't help when you need your car charged for weekend trips or family runs. The cracking electrical infrastructure around Whitefield means our installations rarely need supply upgrades, keeping costs down and getting your charger installed quickly without any fuss.
 
+## Our Charger Range
+
+We're experienced installers of **Solax** and **AlphaESS** EV chargers, both excellent options that integrate seamlessly with their respective solar and battery systems. As an **Octopus Energy Trusted Partner**, we also install the full range of Octopus chargers from their [EV charger programme](https://octopus.energy/get-an-ev-charger/), which offer smart time-of-use features that automatically charge your car when electricity is cheapest.
+
+If you've already got a specific charger in mind from another manufacturer, we're happy to install whatever works best for you – just order it and we'll get it fitted professionally.
+
 ## Smart Integration for Whitefield Homes
 
-Loads of Whitefield homes already have solar panels, and we'll set up your charger to use that free solar energy during the day - proper handy if you're working from home or retired. Time-of-use tariffs like Octopus Go are only 7.5p per kWh overnight, so charging your car costs under £2 for a typical Manchester commute versus £15+ at public rapids.
+Loads of Whitefield homes already have solar panels, and we'll set up your charger to use that free solar energy during the day - proper handy if you're working from home or retired. Time-of-use tariffs like Octopus Go are only 7.5p per kWh overnight, so charging your electric car costs under £2 for a typical Manchester commute versus £15+ at public rapids. The Octopus chargers automatically charge your vehicle during the cheapest periods without you having to remember to plug in at specific times.
 
-Battery storage systems are getting more popular with forward-thinking Whitefield residents - these can store cheap overnight electricity to charge your car during pricier daytime periods, or save excess solar for evening vehicle charging.
+Battery storage systems are getting more popular with forward-thinking Whitefield residents - these can store cheap overnight electricity to charge your electric vehicle during pricier daytime periods, or save excess solar for evening vehicle charging.
 
 ## Real Savings for Whitefield Families
 

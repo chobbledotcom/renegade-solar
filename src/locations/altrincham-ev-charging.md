@@ -40,13 +40,19 @@ Altrincham's beautiful Victorian and Edwardian homes present unique opportunitie
 
 **Grid infrastructure** in Altrincham is excellent, meaning installations are straightforward without supply upgrade issues common in rural areas. Most properties have the electrical capacity needed for modern EV charging, making the whole process dead simple.
 
+## Our Charger Range
+
+We're experienced installers of **Solax** and **AlphaESS** EV chargers, both excellent options that integrate seamlessly with their respective solar and battery systems. As an **Octopus Energy Trusted Partner**, we also install the full range of Octopus chargers from their [EV charger programme](https://octopus.energy/get-an-ev-charger/), which offer smart time-of-use features that automatically charge your car when electricity is cheapest.
+
+If you've already got a specific charger in mind from another manufacturer, we're happy to install whatever works best for you – just order it and we'll get it fitted professionally.
+
 ## Smart Integration for Altrincham Homes
 
-**Solar panel integration** - Altrincham's affluent areas see lots of solar installations. We can configure your EV charger to prioritise solar energy during the day, potentially charging your car for free during sunny periods.
+**Solar panel integration** - Altrincham's affluent areas see lots of solar installations. We can configure your EV charger to prioritise solar energy during the day, potentially charging your electric car for free during sunny periods.
 
-**Time-of-use tariffs** - With Octopus Go or similar, you can charge overnight at 7.5p per kWh compared to day rates around 30p. For a typical commute to Manchester, that's under £2 for a full charge instead of £20+ at public rapids.
+**Time-of-use tariffs** - With Octopus Go or similar, you can charge overnight at 7.5p per kWh compared to day rates around 30p. For a typical commute to Manchester, that's under £2 for a full charge instead of £20+ at public rapids. The Octopus chargers automatically charge your vehicle during the cheapest periods without you having to remember to plug in at specific times.
 
-**Battery storage systems** - Popular in Hale and Bowdon, these can store cheap overnight electricity to charge your car during more expensive periods, or store excess solar for evening vehicle charging.
+**Battery storage systems** - Popular in Hale and Bowdon, these can store cheap overnight electricity to charge your electric vehicle during more expensive periods, or store excess solar for evening vehicle charging.
 
 ## Real Savings for Altrincham Drivers
 
