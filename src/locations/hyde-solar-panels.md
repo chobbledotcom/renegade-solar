@@ -5,7 +5,6 @@ permalink: /solar-panel-installer-hyde/
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Hyde
 icon: /assets/icons/solar-panel.svg
-service_key: solar-panels
 tags: [hyde]
 gallery_tags: [hyde]
 ---

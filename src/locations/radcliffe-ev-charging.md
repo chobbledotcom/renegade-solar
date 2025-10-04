@@ -2,7 +2,6 @@
 description: Professional EV charger installations in Radcliffe by NAPIT-registered electrician. Smart charging solutions with solar panel integration available.
 heading: EV Charger Installations in Radcliffe
 icon: /assets/icons/car.svg
-service_key: ev-charging
 link_title: EV Charger Installs
 permalink: /ev-charger-installer-radcliffe/
 tags: [radcliffe]

@@ -4,7 +4,6 @@ description: Professional EICR electrical inspections in Altrincham. £150 all d
 link_title: EICR Inspection
 heading: EICR Inspections in Altrincham
 icon: /assets/icons/check.svg
-service_key: eicr
 permalink: /altrincham-eicr-inspections/
 tags: [altrincham, eicr]
 ---

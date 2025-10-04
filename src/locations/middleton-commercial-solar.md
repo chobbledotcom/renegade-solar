@@ -5,7 +5,6 @@ permalink: /commercial-solar-installations-middleton/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Middleton
 icon: /assets/icons/commercial-solar.svg
-service_key: commercial-solar
 tags: [middleton]
 gallery_tags: [commercial]
 ---

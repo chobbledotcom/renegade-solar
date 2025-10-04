@@ -5,7 +5,6 @@ permalink: /commercial-solar-installations-bury/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Bury
 icon: /assets/icons/commercial-solar.svg
-service_key: commercial-solar
 tags: [bury]
 gallery_tags: [commercial]
 ---

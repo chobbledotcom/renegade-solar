@@ -4,7 +4,6 @@ description: Professional EICR electrical inspections in Bolton. £150 all domes
 link_title: EICR Inspection
 heading: EICR Inspections in Bolton
 icon: /assets/icons/check.svg
-service_key: eicr
 permalink: /bolton-eicr-inspections/
 tags: [bolton, eicr]
 ---

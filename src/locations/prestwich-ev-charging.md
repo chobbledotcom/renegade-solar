@@ -6,7 +6,6 @@ link_title: EV Charger Installs
 heading: EV Charger Installations in Prestwich
 tags: [prestwich]
 icon: /assets/icons/car.svg
-service_key: ev-charging
 ---
 
 Based right here in Prestwich, Renegade Solar provides expert EV charger installations throughout the local area. As your local NAPIT-registered installer and Octopus Energy Trusted Partner, we understand exactly what Prestwich residents need for home EV charging.

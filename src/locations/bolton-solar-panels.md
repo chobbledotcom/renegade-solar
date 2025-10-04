@@ -4,7 +4,6 @@ description: MCS-certified solar panel and battery installations in Bolton from 
 permalink: /solar-panel-installer-bolton/
 link_title: Solar Panel Installs
 icon: /assets/icons/solar-panel.svg
-service_key: solar-panels
 heading: Solar Panel Installer in Bolton
 tags: [bolton]
 gallery_tags: [solar-panels]

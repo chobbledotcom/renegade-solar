@@ -6,7 +6,6 @@ link_title: EV Charger Installs
 heading: EV Charger Installations in Bolton
 tags: [bolton]
 icon: /assets/icons/car.svg
-service_key: ev-charging
 ---
 
 Professional EV charger installations throughout Bolton for homes and businesses. NAPIT-registered service with smart charging technology, supporting Bolton's growing electric vehicle infrastructure.

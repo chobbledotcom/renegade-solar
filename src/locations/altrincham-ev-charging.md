@@ -6,7 +6,6 @@ link_title: EV Charger Installs
 heading: EV Charger Installations in Altrincham
 tags: [altrincham]
 icon: /assets/icons/car.svg
-service_key: ev-charging
 ---
 
 Professional EV charger installations throughout Altrincham. As a NAPIT-registered installer based in nearby Prestwich, we understand the specific needs of Altrincham homeowners and provide expert charging solutions tailored to the area's diverse property types.

@@ -3,7 +3,6 @@ title: Commercial Solar Installations
 snippet: Slash business electricity costs with commercial solar
 description: Commercial solar installations across Greater Manchester. Cut £700-£10,000+ monthly bills to zero with 3-4 year payback. Factories, retail, hospitality, and commercial properties.
 icon: /assets/icons/commercial-solar.svg
-service_key: commercial-solar
 order: 3
 location_pages: false
 gallery_tags: [commercial]

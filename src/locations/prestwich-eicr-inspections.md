@@ -4,7 +4,6 @@ description: Professional EICR electrical inspections in Prestwich. £150 all do
 link_title: EICR Inspection
 heading: EICR Inspections in Prestwich
 icon: /assets/icons/check.svg
-service_key: eicr
 permalink: /prestwich-eicr-inspections/
 tags: [prestwich, eicr]
 ---

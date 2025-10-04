@@ -4,7 +4,6 @@ description: Local solar panel installations in Blackley with Renegade Solar. MC
 permalink: /solar-panel-installer-blackley/
 link_title: Solar Panel Installs
 icon: /assets/icons/solar-panel.svg
-service_key: solar-panels
 heading: Solar Panel Installer in Blackley
 tags: [blackley]
 gallery_tags: [solar-panels]

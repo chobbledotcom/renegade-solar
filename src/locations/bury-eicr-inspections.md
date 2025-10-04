@@ -4,7 +4,6 @@ description: Professional EICR electrical inspections in Bury. £150 all domesti
 link_title: EICR Inspection
 heading: EICR Inspections in Bury
 icon: /assets/icons/check.svg
-service_key: eicr
 permalink: /bury-eicr-inspections/
 tags: [bury, eicr]
 ---

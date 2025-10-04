@@ -5,7 +5,6 @@ permalink: /solar-panel-installer-crumpsall/
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Crumpsall
 icon: /assets/icons/solar-panel.svg
-service_key: solar-panels
 tags: [crumpsall]
 gallery_tags: [solar-panels]
 # Review references from src/_data/reviews.json  

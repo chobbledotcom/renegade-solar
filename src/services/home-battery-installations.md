@@ -3,7 +3,6 @@ title: Home Battery Installations
 snippet: Store cheap electricity and slash your energy bills year-round.
 description: Professional home battery installations in Manchester. Store cheap off-peak electricity and use it when prices are high. Works with or without solar panels.
 icon: /assets/icons/battery.svg
-service_key: battery
 order: 2
 gallery_tags:
   - battery

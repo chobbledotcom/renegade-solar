@@ -3,7 +3,6 @@ title: Electrical Testing
 snippet: Testing, inspecting, and commissioning from an electrician with 20+
   years experience.
 icon: /assets/icons/plug.svg
-service_key: electrical-testing
 order: 3
 ---
 # Electrical Testing

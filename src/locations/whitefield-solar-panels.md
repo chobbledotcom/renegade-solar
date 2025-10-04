@@ -5,7 +5,6 @@ permalink: /solar-panel-installer-whitefield/
 link_title: Solar Panel Installs
 heading: Solar Panel Installer in Whitefield
 icon: /assets/icons/solar-panel.svg
-service_key: solar-panels
 tags: [whitefield]
 gallery_tags: [solar-panels]
 ---

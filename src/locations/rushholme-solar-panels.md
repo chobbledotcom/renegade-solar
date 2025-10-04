@@ -5,7 +5,6 @@ permalink: /solar-panel-installer-rusholme/
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Rusholme
 icon: /assets/icons/solar-panel.svg
-service_key: solar-panels
 tags: [rusholme]
 gallery_tags: [rusholme]
 ---

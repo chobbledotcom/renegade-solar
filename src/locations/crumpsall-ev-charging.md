@@ -6,7 +6,6 @@ link_title: EV Charger Installs
 heading: EV Charger Installations in Crumpsall
 tags: [crumpsall]
 icon: /assets/icons/car.svg
-service_key: ev-charging
 # Review reference from src/_data/reviews.json
 # Review at index [18] - M9 customer on quick turnaround
 ---

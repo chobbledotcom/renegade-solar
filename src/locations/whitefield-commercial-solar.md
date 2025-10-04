@@ -5,7 +5,6 @@ permalink: /commercial-solar-installations-whitefield/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Whitefield
 icon: /assets/icons/commercial-solar.svg
-service_key: commercial-solar
 tags: [whitefield]
 gallery_tags: [commercial]
 ---

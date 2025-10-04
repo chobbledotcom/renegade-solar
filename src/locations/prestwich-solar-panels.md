@@ -5,7 +5,6 @@ permalink: /solar-panel-installer-prestwich/
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Prestwich
 icon: /assets/icons/solar-panel.svg
-service_key: solar-panels
 tags: [prestwich]
 gallery_tags: [solar-panels]
 ---
