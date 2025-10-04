@@ -12,7 +12,9 @@ layout: base.html
     <div class="services-list">
       {% assign location_collection = collections[page.fileSlug] %}
       {% assign sorted_services = location_collection | sort: 'data.order' %}
+      {% assign location_service_icons = "" %}
       {% for service in sorted_services %}
+      {% assign location_service_icons = location_service_icons | append: service.data.icon | append: "," %}
       <a href="{{ service.url }}">
         {% if service.data.icon != "" %}
           <img src="/assets/icons/{{ service.data.icon }}" alt="" eleventy:ignore />
@@ -21,15 +23,16 @@ layout: base.html
       </a>
       {%- endfor -%}
 
-      {% assign general_services = collections.service | where: 'data.location_pages', false %}
-      {% assign sorted_general_services = general_services | sort: 'data.order' %}
-      {% for service in sorted_general_services %}
+      {% assign all_services = collections.service | sort: 'data.order' %}
+      {% for service in all_services %}
+      {% unless location_service_icons contains service.data.icon %}
       <a href="{{ service.url }}">
         {% if service.data.icon %}
           <img src="/assets/icons/{{ service.data.icon }}" alt="" eleventy:ignore />
         {% endif %}
         <span> {{ service.data.title }} </span>
       </a>
+      {% endunless %}
       {%- endfor -%}
     </div>
   </div>
