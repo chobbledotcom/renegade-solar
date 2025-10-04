@@ -11,42 +11,30 @@ gallery_tags: [solar-panels, commercial]
 
 # Commercial Solar for Bury Businesses
 
-Bury businesses spending hundreds or thousands monthly on electricity can slash those costs with [commercial solar](/services/commercial-solar-installations/). We're based nearby in [Prestwich](/commercial-solar-installations-prestwich/) and serve Bury with local, responsive service backed by [MCS certification](/accreditations/mcs-certified/) and proven commercial experience.
+Bury businesses spending hundreds or thousands monthly on electricity can slash those costs with [commercial solar](/services/commercial-solar-installations/). We're based nearby in [Prestwich](/commercial-solar-installations-prestwich/) and serve Bury with local, responsive service backed by [MCS certification](/accreditations/mcs-certified/) and proven commercial experience delivering genuine savings.
 
-## Bury business types perfect for solar
+Commercial properties benefit more from solar than domestic ones because businesses consume electricity during the day when solar generation is at its peak. Unlike [domestic installations](/services/solar-and-battery-installations/) where evening consumption requires [battery storage](/services/home-battery-installations/), commercial properties use energy as it's generated. You're using nearly every kilowatt-hour your panels produce, which dramatically improves the financial returns and shortens payback periods to typically 3-4 years.
 
-**Manufacturing and factories** - Bury's industrial heritage means numerous factories with heavy machinery consumption. High electricity usage delivers faster payback - typically 3-4 years for commercial installations.
+## Bury businesses that see the best returns
 
-**Food businesses** - Bakeries, cafes, restaurants, and food manufacturing with commercial kitchens and refrigeration see excellent returns. One Prestwich bakery spends £10,000 monthly - we can help Bury businesses facing similar costs.
+Bury's industrial heritage means numerous factories with heavy machinery consumption still operate across the area. High electricity usage from production equipment delivers faster payback for commercial solar installations. Food businesses including bakeries, cafes, restaurants, and food manufacturing with commercial kitchens and refrigeration see excellent returns - one [Prestwich](/commercial-solar-installations-prestwich/) baker spending £10,000 monthly nearly went under because of rising electricity costs.
 
-**Retail outlets** - Bury town centre shops and retail parks with large roofs are ideal candidates. A Bolton carpet shop we're working with reduced £700 monthly bills to zero with three-year payback.
+Bury town centre shops and retail parks with large roofs are ideal candidates because daytime consumption aligns perfectly with solar generation. We're currently working with a carpet warehouse in [Bolton](/commercial-solar-installations-bolton/) that reduced £700 monthly bills to zero with three-year payback. Hotels, B&Bs, and hospitality businesses running kitchens, heating, and facilities throughout the day benefit from commercial solar's rapid payback and long-term savings. Cold storage facilities and distribution centres with large flat roofs generate substantial solar energy exactly when businesses need it most.
 
-**Hotels and hospitality** - Bury hotels, B&Bs, and hospitality businesses running kitchens, heating, and facilities benefit from commercial solar's rapid payback and long-term savings.
+## Real example from Bolton
 
-**Warehousing and storage** - Cold storage facilities and distribution centres with large flat roofs generate substantial solar energy throughout the day.
+We designed a system for a carpet and interior design warehouse spending £700 monthly on electricity. Two options: flat roof only with 50+ panels brings bills to zero with three-year payback, or flat plus pitched roofs with 115 panels has four-year payback and maximum generation. After payback, they're looking at 20+ years of free electricity while selling excess back to the grid through Smart Export Guarantee.
 
-## Real example: Horwich carpet shop
+## Why flat and pitched roofs both work well
 
-Horwich Interior Designs & Carpets spends £700 monthly on electricity. We designed two options:
-- **Flat roof (50+ panels):** Zero bills, three-year payback
-- **Flat + pitched (115 panels):** Zero bills, four-year payback
+Flat roofs give us flexibility that pitched roofs don't - we can mount panels to point south regardless of building orientation. This is why retail units, warehouses, and commercial properties with large flat roofs are perfect candidates. Pitched roofs on factories, hotels, or larger commercial buildings offer excellent potential too. We provide multiple design options with detailed financial analysis for each so you can make an informed decision about which approach delivers the best return for your business.
 
-After payback, it's 20+ years of free electricity while selling excess back to the grid through Smart Export Guarantee.
+If you have spare land or grass verges, ground-mounted solar supplements rooftop installations or powers [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles. We've installed systems offering free staff charging powered entirely by solar - valuable employee benefit at zero ongoing electricity cost.
 
-## Why Bury businesses are choosing solar
+## Our approach to Bury businesses
 
-Commercial electricity prices have soared - many Bury businesses face bills that have doubled or tripled. For businesses on tight margins, reducing monthly costs by 70-100% can be transformative. Solar provides immediate savings, protection from future price rises, and tangible environmental credentials increasingly valued by customers and stakeholders.
+Commercial electricity prices have soared in recent years - many Bury businesses face bills that have doubled or tripled. For businesses on tight margins, reducing monthly costs by 70-100% can be transformative while providing protection from future price rises and demonstrating tangible environmental credentials increasingly valued by customers and stakeholders.
 
-## Flat and pitched roofs
-
-Flat roofs are brilliant for commercial solar - panels mount to point south regardless of building orientation. Pitched roofs on factories, hotels, or larger commercial buildings offer excellent potential too. We provide multiple design options with detailed financial analysis for each.
-
-## Ground-mounted and EV charging
-
-Spare land or grass verges work well for ground-mounted solar. We've installed systems powering [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles - valuable employee benefit powered entirely by solar at zero ongoing cost.
-
-## Requirements and process
-
-You must own the building (not leased), have sufficient roof space or land, and ideally high electricity consumption for best returns. We assess your property and usage, then create detailed designs showing energy generation, cost savings, and payback period based on actual consumption patterns.
+You must own the building (not leased), have sufficient roof space or land, and ideally high electricity consumption for best returns. We assess your property and usage, then create detailed designs showing energy generation, cost savings, and payback period based on actual consumption patterns. As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we provide honest advice - if the numbers don't work, we'll tell you. We also handle all [electrical certifications](/services/electrical-testing/) and grid connection requirements.
 
 **[Contact us today](/contact/) for a free commercial solar consultation and detailed financial analysis.**
