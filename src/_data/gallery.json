@@ -266,7 +266,31 @@
 	{
 		"filename": "solax-inverter-and-batteries.jpg",
 		"alt": "SolaX inverter with three battery storage units and EV charger",
-		"tags": ["battery"],
+		"tags": ["battery", "electric-vehicle"],
 		"order": 45
+	},
+	{
+		"filename": "commercial-solar-ev-fleet-1.jpg",
+		"alt": "ThinkHire commercial building with electric vehicle fleet charging stations",
+		"tags": ["commercial", "electric-vehicle"],
+		"order": 46
+	},
+	{
+		"filename": "commercial-solar-ev-fleet-2.jpg",
+		"alt": "Solar canopy powering electric vehicle charging bays at commercial car park",
+		"tags": ["commercial", "solar-panels", "electric-vehicle"],
+		"order": 47
+	},
+	{
+		"filename": "commercial-solar-box.jpg",
+		"alt": "Installer working on commercial solar installation with delivery van",
+		"tags": ["commercial", "solar-panels"],
+		"order": 48
+	},
+	{
+		"filename": "commercial-solar-panels.jpg",
+		"alt": "Large commercial solar panel array on flat roof installation",
+		"tags": ["commercial", "solar-panels"],
+		"order": 49
 	}
 ]

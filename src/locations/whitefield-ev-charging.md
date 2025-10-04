@@ -6,6 +6,7 @@ link_title: EV Charger Installs
 heading: EV Charger Installations in Whitefield
 tags: [whitefield]
 icon: /assets/icons/car.svg
+gallery_tags: [electric-vehicle]
 ---
 
 Professional EV charger installations throughout Whitefield. Based just down the road in Prestwich, we understand exactly what Whitefield residents need for home EV charging and provide expert solutions tailored to the area's diverse property types.

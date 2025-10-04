@@ -5,6 +5,7 @@ description: Professional EV charger installations by a certified installer in N
 icon: /assets/icons/car.svg
 location_pages: true
 order: 4
+gallery_tags: [electric-vehicle]
 ---
 
 # Electric Vehicle Charger Installations

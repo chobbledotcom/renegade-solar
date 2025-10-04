@@ -6,6 +6,7 @@ link_title: EV Charger Installs
 heading: EV Charger Installations in Trafford
 tags: [trafford]
 icon: /assets/icons/car.svg
+gallery_tags: [electric-vehicle]
 ---
 
 Expert EV charger installations throughout Trafford. NAPIT-registered service providing smart charging solutions with renewable energy integration capabilities.

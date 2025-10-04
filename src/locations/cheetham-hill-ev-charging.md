@@ -6,6 +6,7 @@ link_title: EV Charger Installs
 heading: EV Charger Installations in Cheetham Hill
 tags: [cheetham-hill]
 icon: /assets/icons/car.svg
+gallery_tags: [electric-vehicle]
 # Review reference from src/_data/reviews.json
 # Review at index [18] - M9 Blackley customer on quick turnaround
 ---
