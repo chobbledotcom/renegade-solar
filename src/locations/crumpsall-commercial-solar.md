@@ -6,7 +6,7 @@ link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Crumpsall
 icon: /assets/icons/solar-panel.svg
 tags: [crumpsall]
-gallery_tags: [solar-panels, commercial]
+gallery_tags: [commercial]
 ---
 
 # Commercial Solar for Crumpsall Businesses

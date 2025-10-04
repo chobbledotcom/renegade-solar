@@ -5,9 +5,7 @@ description: Commercial solar installations across Greater Manchester. Cut £700
 icon: /assets/icons/solar-panel.svg
 order: 3
 location_pages: true
-gallery_tags:
-  - solar-panels
-  - commercial
+gallery_tags: [commercial]
 ---
 
 # Commercial Solar Installations in Greater Manchester

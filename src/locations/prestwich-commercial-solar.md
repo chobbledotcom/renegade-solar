@@ -6,7 +6,7 @@ link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Prestwich
 icon: /assets/icons/solar-panel.svg
 tags: [prestwich]
-gallery_tags: [solar-panels, commercial]
+gallery_tags: [commercial]
 ---
 
 # Commercial Solar for Prestwich Businesses

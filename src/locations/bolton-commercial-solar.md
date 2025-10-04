@@ -5,8 +5,8 @@ permalink: /commercial-solar-installations-bolton/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Bolton
 icon: /assets/icons/solar-panel.svg
-tags: [location]
-gallery_tags: [solar-panels, commercial]
+tags: [bolton]
+gallery_tags: [commercial]
 ---
 
 # Commercial Solar for Bolton Businesses

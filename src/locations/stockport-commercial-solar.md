@@ -6,7 +6,7 @@ link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Stockport
 icon: /assets/icons/solar-panel.svg
 tags: [stockport]
-gallery_tags: [solar-panels, commercial]
+gallery_tags: [commercial]
 ---
 
 # Commercial Solar for Stockport Businesses
