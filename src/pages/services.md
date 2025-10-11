@@ -9,6 +9,6 @@ layout: services.html
 noindex: false
 ---
 
-# Renegade Solar's Services
+# My Services
 
-We're proud to offer the following services to customers across Greater Manchester and the wider North West UK:
+I'm proud to offer the following services to customers across Greater Manchester and the wider North West UK:
