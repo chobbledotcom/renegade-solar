@@ -10,7 +10,7 @@ tags: [prestwich, eicr]
 
 # EICR Electrical Safety Inspections in Prestwich
 
-Need an EICR in Prestwich? As your local NAPIT-registered electricians, we provide professional electrical safety inspections for £150 - same day certificates, no waiting around.
+Need an EICR in Prestwich? I'm Ashley from Renegade Solar, your local NAPIT-registered electrician. I provide professional electrical safety inspections for £150 - same day certificates, no waiting around.
 
 ## Why Prestwich Properties Need Regular EICRs
 
@@ -25,11 +25,11 @@ Prestwich has a brilliant mix of Victorian terraced houses and more modern prope
 
 The newer developments around Prestwich have their own challenges too. Research shows 1 in 5 new builds have electrical faults from poor workmanship or rushed installation work.
 
-## Our Prestwich EICR Service - £150 Fixed Price
+## My Prestwich EICR Service - £150 Fixed Price
 
 **£150 for any domestic property in Prestwich** - whether you're in a compact Victorian terrace or a larger modern house, the price stays the same.
 
-We can usually fit you in quickly - EICR inspections slot in easier than bigger electrical jobs, and you get all your certificates on the same day. No waiting for paperwork in the post.
+I can usually fit you in quickly - EICR inspections slot in easier than bigger electrical jobs, and you get all your certificates on the same day. No waiting for paperwork in the post.
 
 **[Book your Prestwich EICR today - call us or get in touch](/contact/)**
 
@@ -56,11 +56,11 @@ If we find problems like an outdated fuse box (common in older Prestwich propert
 - Earthing that doesn't meet current standards
 - Consumer units that need updating
 
-**Modern developments** around the outskirts might seem safer, but we still find installation issues like loose connections, missing earth bonding, or incorrectly installed protective devices.
+**Modern developments** around the outskirts might seem safer, but I still find installation issues like loose connections, missing earth bonding, or incorrectly installed protective devices.
 
-## What We Check in Your Prestwich Property
+## What I Check in Your Prestwich Property
 
-**Visual inspection** of all wiring, switches, sockets, and your consumer unit. We're looking for damage, overheating, or wear and tear.
+**Visual inspection** of all wiring, switches, sockets, and your consumer unit. I'm looking for damage, overheating, or wear and tear.
 
 **Electrical testing** includes continuity testing, insulation resistance, earth fault loop impedance, and RCD testing. This isn't just a quick look - it's proper technical assessment using calibrated test equipment.
 
@@ -68,34 +68,34 @@ If we find problems like an outdated fuse box (common in older Prestwich propert
 
 ## Local Knowledge Matters
 
-We know Prestwich well and understand the common electrical issues in different parts of the area. Whether you're near the MetroLink station dealing with the vibration effects on older wiring, or in one of the newer developments where build quality varies, local experience makes a difference.
+I know Prestwich well and understand the common electrical issues in different parts of the area. Whether you're near the MetroLink station dealing with the vibration effects on older wiring, or in one of the newer developments where build quality varies, local experience makes a difference.
 
-**Our customers say:** _"Ashley came out at short notice to do an electrical safety check on my new property"_ - that's the kind of responsive service Prestwich residents expect.
+**My customers say:** _"Ashley came out at short notice to do an electrical safety check on my new property"_ - that's the kind of responsive service Prestwich residents expect.
 
-## If We Find Problems
+## If I Find Problems
 
-**No panic, no pressure.** If we spot issues, we'll explain clearly what's wrong and why it matters. You get fair quotes for any remedial work with no hidden costs.
+**No panic, no pressure.** If I spot issues, I'll explain clearly what's wrong and why it matters. You get fair quotes for any remedial work with no hidden costs.
 
-We can handle any electrical problems we discover during inspection - why involve someone else? Remedial work gets scheduled within a month, giving you time to plan properly.
+I can handle any electrical problems I discover during inspection - why involve someone else? Remedial work gets scheduled within a month, giving you time to plan properly.
 
-**[Need electrical work after an EICR? We handle all types of electrical services](/services/)**
+**[Need electrical work after an EICR? I handle all types of electrical services](/services/)**
 
 ## Frequently Asked Questions for Prestwich
 
-**Do you know the local area well?** Yes, we're based locally and have been working in Prestwich for years. We understand the property types and common electrical issues.
+**Do you know the local area well?** Yes, I'm based locally and have been working in Prestwich for years. I understand the property types and common electrical issues.
 
-**What about Victorian terraces?** These are our bread and butter. We know what to look for and how to explain necessary upgrades without trying to scare you.
+**What about Victorian terraces?** These are my bread and butter. I know what to look for and how to explain necessary upgrades without trying to scare you.
 
-**How quickly can you fit me in?** Usually within a few days. Prestwich isn't a long journey for us, so we can often accommodate short notice requests.
+**How quickly can you fit me in?** Usually within a few days. Prestwich isn't a long journey for me, so I can often accommodate short notice requests.
 
 **Do you charge extra to come to Prestwich?** No travel charges - £150 is £150 wherever you are in Prestwich.
 
 ## Book Your Prestwich EICR
 
-**Professional EICR inspections from local electricians who know Prestwich properties.**
+**Professional EICR inspections from a local electrician who knows Prestwich properties.**
 
 £150 all domestic properties. Same day certificates. NAPIT registered with 20+ years experience.
 
-Whether you're a landlord needing compliance, a buyer protecting your investment, or a homeowner wanting peace of mind, we'll sort you out with a proper inspection at a fair price.
+Whether you're a landlord needing compliance, a buyer protecting your investment, or a homeowner wanting peace of mind, I'll sort you out with a proper inspection at a fair price.
 
-**[Ready to book your Prestwich EICR? Contact us today](/contact/)**
+**[Ready to book your Prestwich EICR? Contact me today](/contact/)**
