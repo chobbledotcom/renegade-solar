@@ -10,11 +10,11 @@ order: 0
 
 # Local Solar Installation
 
-With a **{{ reviews.averageRating | round: 2 }}/10 rating from 80+ verified reviews on Checkatrade**, I provide solar panel and battery storage installation across North Manchester. As an [MCS-certified](/accreditations/mcs-certified/), [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), I install renewable energy systems that reduce energy bills and carbon emissions.
+With a **{{ reviews.averageRating | round: 2 }}/10 rating from 80+ verified reviews on Checkatrade**, I provide solar panel and battery storage installation across North Manchester. As an [MCS-certified](/accreditations/mcs-certified/), [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), I install renewable energy systems that can significantly reduce your energy bills and carbon emissions.
 
-## Personal Service
+# Personal Service
 
-Unlike national companies, I personally handle every aspect of your installation. From the initial free home survey through to system design and installation, you'll deal directly with me at every stage. I provide clear advice and aftercare to ensure your system works properly.
+Unlike national companies, I personally handle every aspect of your installation. From the initial free home survey through to system design and installation, you'll deal directly with me at every stage. I provide clear advice and aftercare to ensure your system performs well for years.
 
 ## Certified Installation
 
@@ -22,7 +22,7 @@ Every installation includes government-backed certifications: [MCS](/accreditati
 
 ## Financial Benefits
 
-Customers see reductions in electricity bills and protection from future energy price rises. You can earn income from excess electricity via the Smart Export Guarantee and increase your property's value. Solar panels also reduce your household's carbon footprint.
+Customers see significant reductions in electricity bills and protection from future energy price rises. You can earn income from excess electricity via the Smart Export Guarantee and increase your property's value. Solar panels also substantially reduce your household's carbon footprint.
 
 ## Customer Reviews
 

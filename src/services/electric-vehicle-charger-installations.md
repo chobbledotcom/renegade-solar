@@ -24,7 +24,7 @@ Customers appreciate the clear advice, fair pricing and tidy workmanship. Here's
 
 ## Solar + EV Integration
 
-If you've got solar panels or are thinking about getting them, we can set up your EV charger to work with the system. This means you can charge your car using excess solar energy, potentially bringing your charging costs down substantially during sunny periods. We've experience with GivEnergy systems and can configure smart charging to match solar generation and time-of-use tariffs like Octopus Intelligent Go. By getting your EV charger integrated with your home energy system, you'll increase the benefits of both technologies and reduce your carbon footprint.
+If you've got solar panels or are thinking about getting them, we can set up your EV charger to work with the system. This means you can charge your car using excess solar energy, potentially bringing your charging costs down to near zero during sunny periods. We've experience with GivEnergy systems and can configure smart charging to match solar generation and time-of-use tariffs like Octopus Intelligent Go. By getting your EV charger integrated with your home energy system, you'll get significantly more value from both technologies and reduce your carbon footprint.
 
 ## Installation Process
 
@@ -36,7 +36,7 @@ We supply and install various EV chargers depending on your needs. Standard 7kW 
 
 ## Financial Benefits
 
-Installing an EV charger at home provides convenience and savings. Home charging is typically 30-60% cheaper than using public charging points. With a smart tariff like Octopus Go, you can charge overnight at rates well below standard electricity prices. If you integrate with solar panels, you can reduce charging costs further, especially during summer months. EV-ready homes are also becoming more desirable as more drivers switch to electric. Just like with our [battery installations](/services/home-battery-installations/), time-of-use tariffs can cut your energy costs.
+Installing an EV charger at home provides convenience and significant savings. Home charging is typically 30-60% cheaper than using public charging points. With a smart tariff like Octopus Go, you can charge overnight at rates well below standard electricity prices. If you integrate with solar panels, you can reduce charging costs substantially, especially during summer months. EV-ready homes are also becoming more desirable as more drivers switch to electric. Just like with our [battery installations](/services/home-battery-installations/), time-of-use tariffs can significantly cut your energy costs.
 
 ## Coverage Area
 

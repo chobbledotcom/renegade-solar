@@ -16,9 +16,9 @@ For solar and battery installations you need an electrician with technical exper
 
 Renegade Solar guides you through every step of your solar and battery installation.
 
-I provide honest advice, competitive pricing, and quality workmanship to deliver a solar solution that increases your energy independence while meeting safety standards.
+I provide honest advice, competitive pricing, and quality workmanship to deliver a solar solution that significantly increases your energy independence while meeting safety standards.
 
-With a track record of reliability and customer satisfaction, your solar installation is in capable hands.
+With a strong track record of reliability and customer satisfaction, your solar installation is in capable hands.
 
 ## Design and Planning
 
@@ -40,7 +40,7 @@ Your installation will be tested and commissioned to safety and regulatory stand
 
 Available to provide assistance with your new installation. 2 years routine maintenance included in all installations.
 
-All equipment comes with at least a 5 year warranty and some panels come with warranty of up to 30 years. We use [DMEGC](/dmegc-solar-panel-installer-manchester/) and Trina Vertex panels, both of which offer long-term warranties and good performance.
+All equipment comes with at least a 5 year warranty and some panels come with warranty of up to 30 years. We use [DMEGC](/dmegc-solar-panel-installer-manchester/) and Trina Vertex panels, both of which offer long-term warranties and reliable performance.
 
 <a class="btn primary-btn" href="/contact/">Contact Renegade Solar</a>
 
