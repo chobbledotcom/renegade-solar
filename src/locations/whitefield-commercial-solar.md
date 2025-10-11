@@ -27,7 +27,7 @@ We're currently working with a carpet and interior design warehouse in [Bolton](
 
 ## Why flat roofs work so well
 
-Flat roofs give us flexibility that pitched roofs don't - we can mount panels to point south regardless of building orientation. This is why retail units, warehouses, and commercial properties with large flat roofs generate such substantial energy throughout the day. Pitched roofs on larger properties offer excellent potential too. We typically provide multiple design options (flat only, pitched only, or combined) with detailed financial analysis for each so you can make an informed decision.
+Flat roofs give us flexibility that pitched roofs don't - we can mount panels to point south regardless of building orientation. This is why retail units, warehouses, and commercial properties with large flat roofs generate such substantial energy throughout the day. Pitched roofs on larger properties offer excellent potential too. We typically provide multiple design options (flat only, pitched only, or combined) with detailed financial analysis for each.
 
 If you have spare land or outdoor space, ground-mounted solar can power [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles. We've installed systems offering free staff charging powered entirely by solar - valuable employee benefit at zero ongoing cost while demonstrating environmental commitment.
 
