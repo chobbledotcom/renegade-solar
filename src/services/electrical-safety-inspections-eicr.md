@@ -44,9 +44,9 @@ If you get C1 or C2 issues, I'll explain exactly what's wrong and how to fix it.
 
 ### Victorian Terraces (Common in Prestwich, Whitefield)
 
-Older houses have their own particular challenges. You're often dealing with old wiring systems like cloth-covered cables or knob and tube wiring that's decades past its best. Inadequate earthing is common because proper earthing wasn't really a thing back when these houses were built. The circuits were designed for gas lighting and a few basic electrical items, not the demands of modern life with washing machines, electric showers, and all the gadgets we use today. Plus those ancient fuse boxes offer no RCD protection whatsoever.
+Older houses have their own particular challenges. You're often dealing with old wiring systems like cloth-covered cables or knob and tube wiring that's decades past its best. Inadequate earthing is common because proper earthing wasn't standard when these houses were built. The circuits were designed for gas lighting and a few basic electrical items, not the demands of modern life with washing machines, electric showers, and all the gadgets we use today. Plus those ancient fuse boxes offer no RCD protection whatsoever.
 
-Here's a fun fact: 70% of electrical fires happen in buildings built before 1950. That's exactly why a proper inspection matters so much for these older properties.
+70% of electrical fires happen in buildings built before 1950. That's why a proper inspection matters for these older properties.
 
 ### New Builds (Like Altrincham, Trafford Developments)
 
@@ -76,13 +76,13 @@ I've been doing this for 20+ years, so I've seen it all. Most problems aren't as
 
 ## Why Choose Me for Your EICR?
 
-**NAPIT Registered (66870)** with proper qualifications you can verify online. **20+ years experience** means I know what I'm looking at and how to explain it in terms that make sense.
+**NAPIT Registered (66870)** with proper qualifications you can verify online. **20+ years experience** means I know what I'm looking at and how to explain it clearly.
 
 **Honest approach** - I check everything that needs checking and only recommend what actually needs doing. No hard sell, no unnecessary jobs, no trying to scare you into work you don't need.
 
-**Great reviews** speak for themselves: _"All work done to an excellent standard. Ashley was polite and very professional."_ _"Ashley was super responsive and did an amazing job"_ _"Ashley came out at short notice to do an electrical safety check on my new property"_
+**Reviews:** _"All work done to an excellent standard. Ashley was polite and very professional."_ _"Ashley was super responsive and did an amazing job"_ _"Ashley came out at short notice to do an electrical safety check on my new property"_
 
-**[Want to see what our customers say? Check out our reviews](/reviews/)**
+**[Want to see what customers say? Check out our reviews](/reviews/)**
 
 ## Frequently Asked Questions
 

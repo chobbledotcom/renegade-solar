@@ -26,8 +26,8 @@ In 2016, I worked in the Channel Islands on high-end mansions and apartments, pr
 
 After returning to Manchester, I established Renegade Electrical in 2018.
 
-Like most people today, I am genuinely concerned about climate change. I understand the need for renewable solutions that suit everybody's needs - whether that's a commercial business trying to cut energy costs or a family trying to save money. At Renegade Solar, we have a solution for you.
+Like most people today, I'm concerned about climate change. I understand the need for renewable solutions that suit different needs - whether that's a commercial business trying to cut energy costs or a family trying to save money. At Renegade Solar, we have options for you.
 
-I am continually amazed at how much power these modern solar panels can generate on a rooftop in the North of England. I use quality [DMEGC](/dmegc-solar-panel-installer-manchester/) and Trina Vertex panels that perform well even in our northern climate. Together with battery storage, you will be amazed at how much money you can save!
+Modern solar panels generate useful power even on a rooftop in the North of England. I use quality [DMEGC](/dmegc-solar-panel-installer-manchester/) and Trina Vertex panels that perform well in our northern climate. Together with battery storage, you can save considerable money.
 
 **[Contact us](/contact/) for a quotation for solar panel installation.**

@@ -12,19 +12,19 @@ gallery_tags: [electric-vehicle]
 
 We install, maintain and relocate EV chargers for homes and businesses across the North West. As a [NAPIT-registered](/accreditations/napit/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we'll sort everything from the initial survey to final testing and certification. Whether you're looking for a standalone charger or want it integrated with your [solar panels](/services/solar-and-battery-installations/) and [home battery](/services/home-battery-installations/), we've got you covered.
 
-## What Our Customers Say
+## What Customers Say
 
-Our customers appreciate the clear advice, fair pricing and tidy workmanship we provide. Here's what some recent EV charger customers have said:
+Customers appreciate the clear advice, fair pricing and tidy workmanship. Here's what some recent EV charger customers have said:
 
-> "Ashley fitted an EV charger for me and provided lots of brilliant advice prior to doing so, as I was clueless on the whole thing. His advice even allowed me to keep costs down and his prices were the best quotes I had, with nothing reduced on the quality of his work."
+> "Ashley fitted an EV charger for me and provided lots of useful advice prior to doing so, as I was clueless on the whole thing. His advice even allowed me to keep costs down and his prices were the best quotes I had, with nothing reduced on the quality of his work."
 
-> "Ashley was friendly, knowledgeable and did a great job. He ensured that our new GivEnergy charger was properly integrated with the solar and battery system. During the job he found an earthing fault from previous work - and fixed this small job at no extra cost."
+> "Ashley was friendly, knowledgeable and did a good job. He ensured that our new GivEnergy charger was properly integrated with the solar and battery system. During the job he found an earthing fault from previous work - and fixed this small job at no extra cost."
 
-> "Ashley was amazing! He removed my EV charger from my old house and came back and reinstalled at my new house... would highly recommend and wouldn't use anybody else now for any electrical work."
+> "Ashley removed my EV charger from my old house and came back and reinstalled at my new house... would highly recommend and wouldn't use anybody else now for any electrical work."
 
 ## Solar + EV Integration
 
-If you've got solar panels or are thinking about getting them, we can set up your EV charger to work seamlessly with the system. This means you can charge your car using excess solar energy, potentially bringing your charging costs down to almost nothing during sunny periods. We've experience with GivEnergy systems and can configure smart charging to match solar generation and time-of-use tariffs like Octopus Intelligent Go. By getting your EV charger properly integrated with your home energy system, you'll maximise the benefits of both technologies and further reduce your carbon footprint.
+If you've got solar panels or are thinking about getting them, we can set up your EV charger to work with the system. This means you can charge your car using excess solar energy, potentially bringing your charging costs down substantially during sunny periods. We've experience with GivEnergy systems and can configure smart charging to match solar generation and time-of-use tariffs like Octopus Intelligent Go. By getting your EV charger integrated with your home energy system, you'll increase the benefits of both technologies and reduce your carbon footprint.
 
 ## Installation Process
 
@@ -36,7 +36,7 @@ We supply and install various EV chargers depending on your needs. Standard 7kW 
 
 ## Financial Benefits
 
-Installing an EV charger at home doesn't just provide convenience - it delivers significant savings. Home charging is typically 30-60% cheaper than using public charging points. With a smart tariff like Octopus Go, you can charge overnight at rates far below standard electricity prices. If you integrate with solar panels, you can reduce charging costs even further, especially during summer months. There's also the added bonus of increasing your property value - EV-ready homes are becoming increasingly desirable as more drivers make the switch to electric. Just like with our [battery installations](/services/home-battery-installations/), time-of-use tariffs can significantly cut your energy costs.
+Installing an EV charger at home provides convenience and savings. Home charging is typically 30-60% cheaper than using public charging points. With a smart tariff like Octopus Go, you can charge overnight at rates well below standard electricity prices. If you integrate with solar panels, you can reduce charging costs further, especially during summer months. EV-ready homes are also becoming more desirable as more drivers switch to electric. Just like with our [battery installations](/services/home-battery-installations/), time-of-use tariffs can cut your energy costs.
 
 ## Coverage Area
 

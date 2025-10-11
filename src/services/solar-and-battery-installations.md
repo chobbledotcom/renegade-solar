@@ -12,13 +12,13 @@ gallery_tags:
 
 # Solar and Battery Installations in Manchester
 
-When it comes to solar and battery installations you need an electrician who combines technical expertise with attention to detail and outstanding customer service.
+For solar and battery installations you need an electrician with technical expertise and attention to detail.
 
-Renegade Solar is here to guide you through every step of your solar and battery installation journey.
+Renegade Solar guides you through every step of your solar and battery installation.
 
-Our commitment to providing honest advice, competitive pricing, and exceptional workmanship means you can rely on us to deliver a solar solution that maximises your energy independence while ensuring the highest safety standards.
+I provide honest advice, competitive pricing, and quality workmanship to deliver a solar solution that increases your energy independence while meeting safety standards.
 
-With our proven track record of reliability and customer satisfaction, you can rest assured your solar installation is in capable hands.
+With a track record of reliability and customer satisfaction, your solar installation is in capable hands.
 
 ## Design and Planning
 
@@ -30,17 +30,17 @@ From start to finish, you will have a personal design specialist going through t
 
 ## Installation
 
-All installations are carried out courteously and professionally with the minimum possible disruption to you, your family or your business.
+All installations are carried out professionally with minimal disruption to you, your family or your business.
 
 ## Commissioning
 
-Governed by the country's leading standards, your installation will be tested and commissioned with the very highest regard to safety and legislation.
+Your installation will be tested and commissioned to safety and regulatory standards.
 
 ## Aftercare
 
-Always available to provide further assistance with your new installation with 2 years routine maintenance included in all our installations.
+Available to provide assistance with your new installation. 2 years routine maintenance included in all installations.
 
-All equipment comes with at least a 5 year warranty and some panels come with warranty of up to 30 years. We use [DMEGC](/dmegc-solar-panel-installer-manchester/) and Trina Vertex panels, both of which offer excellent long-term warranties and performance.
+All equipment comes with at least a 5 year warranty and some panels come with warranty of up to 30 years. We use [DMEGC](/dmegc-solar-panel-installer-manchester/) and Trina Vertex panels, both of which offer long-term warranties and good performance.
 
 <a class="btn primary-btn" href="/contact/">Contact Renegade Solar</a>
 
