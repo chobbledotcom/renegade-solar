@@ -9,11 +9,11 @@ icon: /assets/icons/car.svg
 gallery_tags: [electric-vehicle]
 ---
 
-Professional EV charger installations throughout Stockport, including [Bramhall](/solar-panel-installer-bramhall/), Marple Bridge and surrounding areas. NAPIT-registered service with smart charging technology for electric cars.
+I provide professional EV charger installations throughout Stockport, including [Bramhall](/solar-panel-installer-bramhall/), Marple Bridge and surrounding areas. NAPIT-registered service with smart charging technology for electric cars.
 
 ## Stockport EV Charging Solutions
 
-We provide expert EV charger installations across the Stockport area, working with all property types from traditional homes to modern developments.
+I provide expert EV charger installations across the Stockport area, working with all property types from traditional homes to modern developments.
 
 ## Making the Switch to Electric
 
@@ -23,15 +23,15 @@ Public chargers cost 30-60p per kWh. Home charging on a time-of-use tariff like 
 
 ## Installation Details
 
-We can get your charger installed in a day. They're all weatherproof units, so mounting them outside is no issue - garage wall, house wall, wherever suits your parking. Cable needs to run from your consumer unit to the charger, and if that means going outside, we use heavy duty armoured cable designed for it.
+I can get your charger installed in a day. They're all weatherproof units, so mounting them outside is no issue - garage wall, house wall, wherever suits your parking. Cable needs to run from your consumer unit to the charger, and if that means going outside, I use heavy duty armoured cable designed for it.
 
 Minimal mess, quick turnaround. Your consumer unit needs to be up to current standards, but if you've already got solar panels or a battery, it'll be sorted. Even if you don't have solar kit, you can still get on a cheap overnight electricity tariff for car charging.
 
-## What We Install
+## What I Install
 
-Running **Solax** or **AlphaESS** solar and battery gear? We fit their chargers - they work well together. We're also an **Octopus Energy Trusted Partner**, which means we install any of [Octopus's EV chargers](https://octopus.energy/get-an-ev-charger/). Those are smart - they wait for cheap rates before charging your car automatically.
+Running **Solax** or **AlphaESS** solar and battery gear? I fit their chargers - they work well together. I'm also an **Octopus Energy Trusted Partner**, which means I install any of [Octopus's EV chargers](https://octopus.energy/get-an-ev-charger/). Those are smart - they wait for cheap rates before charging your car automatically.
 
-Prefer a different charger? Order what you want and we'll fit it.
+Prefer a different charger? Order what you want and I'll fit it.
 
 ## Why a 7kW Charger
 
@@ -53,6 +53,6 @@ A standard granny charger (the ones that plug into a normal socket) takes all da
 
 ## Stockport Coverage
 
-We regularly serve customers throughout Stockport with the same professional approach and competitive pricing that's earned us excellent reviews across Greater Manchester.
+I regularly serve customers throughout Stockport with the same professional approach and competitive pricing that's earned me excellent reviews across Greater Manchester.
 
-**Get your EV charger installed professionally. [Contact us](/contact/) for your free consultation.**
+**Get your EV charger installed professionally. [Contact me](/contact/) for your free consultation.**
