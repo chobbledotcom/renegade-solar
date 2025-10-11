@@ -16,11 +16,11 @@ We install, maintain and relocate EV chargers for homes and businesses across th
 
 Customers appreciate the clear advice, fair pricing and tidy workmanship. Here's what some recent EV charger customers have said:
 
-> "Ashley fitted an EV charger for me and provided lots of useful advice prior to doing so, as I was clueless on the whole thing. His advice even allowed me to keep costs down and his prices were the best quotes I had, with nothing reduced on the quality of his work."
+> "Ashley fitted an EV charger for me and provided lots of brilliant advice prior to doing so, as I was clueless on the whole thing. His advice even allowed me to keep costs down and his prices were the best quotes I had, with nothing reduced on the quality of his work."
 
-> "Ashley was friendly, knowledgeable and did a good job. He ensured that our new GivEnergy charger was properly integrated with the solar and battery system. During the job he found an earthing fault from previous work - and fixed this small job at no extra cost."
+> "Ashley was friendly, knowledgeable and did a great job. He ensured that our new GivEnergy charger was properly integrated with the solar and battery system. During the job he found an earthing fault from previous work - and fixed this small job at no extra cost."
 
-> "Ashley removed my EV charger from my old house and came back and reinstalled at my new house... would highly recommend and wouldn't use anybody else now for any electrical work."
+> "Ashley was amazing! He removed my EV charger from my old house and came back and reinstalled at my new house... would highly recommend and wouldn't use anybody else now for any electrical work."
 
 ## Solar + EV Integration
 
