@@ -7,9 +7,9 @@ order: 3
 ---
 # Electrical Testing
 
-Regular electrical testing isn't just a box-ticking exercise - it's about keeping your home and family safe. We carry out full electrical safety checks on properties of all sizes, whether you're a homeowner who wants to know their home electrics are safe or a landlord who needs to meet legal requirements.
+Regular electrical testing is about keeping your home and family safe. We carry out full electrical safety checks on properties of all sizes, whether you're a homeowner who wants to know their home electrics are safe or a landlord who needs to meet legal requirements.
 
-Our approach is straightforward: we'll check everything that needs checking, explain what we've found in plain English, and only recommend work that actually needs doing. You won't get any hard sell or unnecessary jobs from us.
+Our approach is straightforward: we'll check everything that needs checking, explain what we've found in plain English, and only recommend work that actually needs doing. No hard sell or unnecessary jobs.
 
 The testing process includes:
 
