@@ -9,7 +9,7 @@ icon: /assets/icons/car.svg
 gallery_tags: [electric-vehicle]
 ---
 
-Professional EV charger installations throughout Whitefield. Based just down the road in Prestwich, we understand exactly what Whitefield residents need for home EV charging and provide expert solutions tailored to the area's diverse property types.
+Professional EV charger installations throughout Whitefield. Based just down the road in Prestwich, I understand exactly what Whitefield residents need for home EV charging and provide expert solutions tailored to the area's diverse property types.
 
 ## Why Whitefield Residents Choose Home EV Charging
 
@@ -21,15 +21,15 @@ Professional EV charger installations throughout Whitefield. Based just down the
 
 ## Whitefield Property Types and EV Solutions
 
-**Victorian and Edwardian terraces** around central Whitefield often have rear access through back streets, making them ideal for installing chargers in back yards with cable runs to front parking. We've done loads of these installations where residents park on the main roads through town. Most have been upgraded with modern electrical systems that can easily handle 7kW charging, though we check each property properly.
+**Victorian and Edwardian terraces** around central Whitefield often have rear access through back streets, making them ideal for installing chargers in back yards with cable runs to front parking. I've done loads of these installations where residents park on the main roads through town. Most have been upgraded with modern electrical systems that can easily handle 7kW charging, though I check each property properly.
 
 **1930s and post-war semis** are common throughout Whitefield, particularly around the Besses area. These typically have driveways perfect for wall-mounted chargers, and the electrical systems usually cope with modern EV charging without any bother. These family homes often benefit from future-proofing for second EVs as the kids grow up.
 
-**Modern developments** around the edges of Whitefield often come with adequate electrical supplies and proper parking, making installations dead straightforward. Some newer estates even benefit from shared charging setups that we can design for multiple residents.
+**Modern developments** around the edges of Whitefield often come with adequate electrical supplies and proper parking, making installations dead straightforward. Some newer estates even benefit from shared charging setups that I can design for multiple residents.
 
 ## Local Infrastructure and Installation
 
-The Metrolink stops are handy for getting into town, but they don't help when you need your car charged for weekend trips or family runs. The cracking electrical infrastructure around Whitefield means our installations rarely need supply upgrades, keeping costs down and getting your charger installed quickly without any fuss.
+The Metrolink stops are handy for getting into town, but they don't help when you need your car charged for weekend trips or family runs. The cracking electrical infrastructure around Whitefield means my installations rarely need supply upgrades, keeping costs down and getting your charger installed quickly without any fuss.
 
 ## The 2030 Switch
 
@@ -39,15 +39,15 @@ Public chargers cost a fortune. Time-of-use tariffs like Octopus Go let you char
 
 ## What Gets Installed
 
-If you've got **Solax** or **AlphaESS** solar panels or batteries, we fit their chargers. They integrate with their own kit nicely.
+If you've got **Solax** or **AlphaESS** solar panels or batteries, I fit their chargers. They integrate with their own kit nicely.
 
-We're an **Octopus Energy Trusted Partner** too, so we install the full [Octopus charger range](https://octopus.energy/get-an-ev-charger/). Smart chargers that automatically charge when rates are lowest - 7.5p per kWh on Octopus Go. You plug in, they handle the timing.
+I'm an **Octopus Energy Trusted Partner** too, so I install the full [Octopus charger range](https://octopus.energy/get-an-ev-charger/). Smart chargers that automatically charge when rates are lowest - 7.5p per kWh on Octopus Go. You plug in, they handle the timing.
 
-Picked out a different charger? Order it and we'll install it.
+Picked out a different charger? Order it and I'll install it.
 
 ## How It Works
 
-Chargers are weatherproof, so outside mounting is fine. Garage, house wall, doesn't matter. We run heavy duty armoured cable from your consumer unit to the charger - it's designed for outdoor installation if needed.
+Chargers are weatherproof, so outside mounting is fine. Garage, house wall, doesn't matter. I run heavy duty armoured cable from your consumer unit to the charger - it's designed for outdoor installation if needed.
 
 Done in a day, minimal mess. Consumer unit needs to meet current standards, but if you've had solar or battery fitted, it already will. You don't need solar to get cheap overnight rates though - time-of-use tariffs are available to anyone.
 
@@ -59,15 +59,15 @@ Over a year, typical Whitefield families save £1,000-1,800 compared to relying 
 
 ## Installation Know-How for Whitefield Properties
 
-We've got bags of experience with Whitefield's mix of property types, from creative solutions for terraced houses to straightforward driveway installations for semis and modern homes. Where needed, we'll upgrade older electrical panels to handle modern EV charging safely and legally. 
+I've got bags of experience with Whitefield's mix of property types, from creative solutions for terraced houses to straightforward driveway installations for semis and modern homes. Where needed, I'll upgrade older electrical panels to handle modern EV charging safely and legally.
 
-Our installations respect the character of different areas around Whitefield with neat, unobtrusive mounting that won't upset the neighbours. Most installations get completed within a day, often just a few hours for straightforward properties.
+My installations respect the character of different areas around Whitefield with neat, unobtrusive mounting that won't upset the neighbours. Most installations get completed within a day, often just a few hours for straightforward properties.
 
 ## Local Knowledge Advantage
 
-Being based just down the road means we know Bury Council's requirements like the back of our hand, plus any considerations for different areas around Whitefield. Having worked on hundreds of local properties, we can quickly spot the best charging solutions for different house types and electrical setups. 
+Being based just down the road means I know Bury Council's requirements like the back of my hand, plus any considerations for different areas around Whitefield. Having worked on hundreds of local properties, I can quickly spot the best charging solutions for different house types and electrical setups.
 
-Our local base means proper competitive pricing without the travel charges that out-of-area installers whack on - and we're always nearby if you need any support down the line.
+My local base means proper competitive pricing without the travel charges that out-of-area installers whack on - and I'm always nearby if you need any support down the line.
 
 ## What Our Customers Say
 
@@ -77,8 +77,8 @@ Our local base means proper competitive pricing without the travel charges that 
 
 ## Complete Installation Service
 
-We provide free property surveys and consultations with OZEV grant-approved smart chargers and full NAPIT electrical certification. Our service includes smart tariff optimisation, solar and battery integration, consumer unit upgrades when needed, same-day completion in most cases, and ongoing local support.
+I provide free property surveys and consultations with OZEV grant-approved smart chargers and full NAPIT electrical certification. My service includes smart tariff optimisation, solar and battery integration, consumer unit upgrades when needed, same-day completion in most cases, and ongoing local support.
 
-We cover all areas of Whitefield including the town centre, Besses, Higher Whitefield, Lower Whitefield, and surrounding areas. Being based nearby in Prestwich means we can get to you quickly and provide proper ongoing support when you need it.
+I cover all areas of Whitefield including the town centre, Besses, Higher Whitefield, Lower Whitefield, and surrounding areas. Being based nearby in Prestwich means I can get to you quickly and provide proper ongoing support when you need it.
 
-**Your local EV charging specialists - based nearby, working for Whitefield residents. Ready to start saving on your daily driving? [Contact us](/contact/) for your free consultation.**
+**Your local EV charging specialist - based nearby, working for Whitefield residents. Ready to start saving on your daily driving? [Contact me](/contact/) for your free consultation.**
