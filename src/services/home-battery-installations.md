@@ -10,7 +10,7 @@ gallery_tags:
 
 # Home Battery Installations in Manchester
 
-Transform your home's energy efficiency with a professional battery storage system. Store cheap off-peak electricity and use it when prices are higher, delivering significant savings all year round - even without solar panels.
+I can transform your home's energy efficiency with a professional battery storage system. Store cheap off-peak electricity and use it when prices are higher, delivering significant savings all year round - even without solar panels.
 
 ## How home batteries save you money
 
@@ -22,20 +22,20 @@ One of our Prestwich customers with a **6kWh Solax battery system** told us:
 
 > "During summer this new solar and battery system means our electricity bills are close to zero. In fact, in some months we sent enough electricity back to the grid that we ended up in credit with our supplier! In winter the days are shorter and so the panels don't generate enough to cover the whole day, but that's fine because we still save a tonne of money by charging the battery overnight."
 
-## Battery systems we install
+## Battery systems I install
 
-We work with leading manufacturers including:
+I work with leading manufacturers including:
 
 - **Solax** - Reliable systems with excellent smart integration
 - **AlphaESS** - Advanced batteries with great performance and monitoring
 
-Our battery systems range from 6kWh to larger capacities depending on your home's energy usage. During your free consultation, we'll assess your electricity bills and recommend the optimal battery size for maximum savings.
+My battery systems range from 6kWh to larger capacities depending on your home's energy usage. During your free consultation, I'll assess your electricity bills and recommend the optimal battery size for maximum savings.
 
 ## Smart integration features
 
 ### Home automation compatibility
 
-Our battery systems can integrate with home automation platforms, allowing you to:
+My battery systems can integrate with home automation platforms, allowing you to:
 
 - Schedule charging during cheapest electricity periods
 - Leave capacity for solar panel top-ups
@@ -47,17 +47,17 @@ Battery systems can work alongside EV chargers, maximising the use of stored ene
 
 ### Grid tie capability
 
-Sell excess stored energy back to your electricity supplier. We provide all necessary documentation to set up export payments with suppliers like 100Green and others.
+Sell excess stored energy back to your electricity supplier. I provide all necessary documentation to set up export payments with suppliers like 100Green and others.
 
 ## Installation process
 
 ### 1. Free Survey & Consultation
 
-We assess your property's electrical system and discuss your energy usage patterns to recommend the optimal battery solution.
+I assess your property's electrical system and discuss your energy usage patterns to recommend the optimal battery solution.
 
 ### 2. Flexible Installation
 
-Batteries can be installed in various locations - we've fitted systems next to driveways, in garages, and other suitable spaces with minimal disruption to your home.
+Batteries can be installed in various locations - I've fitted systems next to driveways, in garages, and other suitable spaces with minimal disruption to your home.
 
 ### 3. Professional Commissioning
 
@@ -65,7 +65,7 @@ All installations are tested and commissioned to the highest safety standards wi
 
 ### 4. Smart Setup
 
-We configure your system for optimal performance with your chosen tariff and any existing solar panels or planned future installations.
+I configure your system for optimal performance with your chosen tariff and any existing solar panels or planned future installations.
 
 ## What our customers say
 
@@ -101,11 +101,11 @@ We configure your system for optimal performance with your chosen tariff and any
 
 ## Can I add a battery to existing solar?
 
-Absolutely! We regularly integrate battery systems with existing solar installations. Our experience with [DMEGC solar panels](/dmegc-solar-panel-installer-manchester/) and other quality brands ensures seamless integration that maximises the performance of both systems.
+Absolutely! I regularly integrate battery systems with existing solar installations. My experience with [DMEGC solar panels](/dmegc-solar-panel-installer-manchester/) and other quality brands ensures seamless integration that maximises the performance of both systems.
 
 ## Planning & permissions
 
-Most home battery installations don't require planning permission as they're typically installed as standalone units in suitable locations around your property. We handle all electrical regulations and provide necessary certifications.
+Most home battery installations don't require planning permission as they're typically installed as standalone units in suitable locations around your property. I handle all electrical regulations and provide necessary certifications.
 
 ## Financial benefits
 
@@ -116,10 +116,10 @@ Most home battery installations don't require planning permission as they're typ
 
 ## Coverage area
 
-We serve the entire Greater Manchester area from our Prestwich base, with extensive experience in [Blackley](/solar-panel-installer-blackley/), [Middleton](/solar-panel-installer-middleton/), [Stockport](/solar-panel-installer-stockport/), [Altrincham](/solar-panel-installer-altrincham/), and throughout [Trafford](/solar-panel-installer-trafford/).
+I serve the entire Greater Manchester area from my Prestwich base, with extensive experience in [Blackley](/solar-panel-installer-blackley/), [Middleton](/solar-panel-installer-middleton/), [Stockport](/solar-panel-installer-stockport/), [Altrincham](/solar-panel-installer-altrincham/), and throughout [Trafford](/solar-panel-installer-trafford/).
 
 ## Get started
 
-Ready to slash your electricity bills with a home battery system? We provide free consultations with honest advice about the best solution for your home and energy usage patterns.
+Ready to slash your electricity bills with a home battery system? I provide free consultations with honest advice about the best solution for your home and energy usage patterns.
 
 **[Contact us today](/contact/) for your free home battery consultation and quote.**
