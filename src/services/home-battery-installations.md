@@ -10,7 +10,7 @@ gallery_tags:
 
 # Home Battery Installations in Manchester
 
-Transform your home's energy efficiency with a professional battery storage system. Our home battery installations allow you to store cheap off-peak electricity and use it when prices are higher, delivering significant savings all year round - even without solar panels.
+Transform your home's energy efficiency with a professional battery storage system. Store cheap off-peak electricity and use it when prices are higher, delivering significant savings all year round - even without solar panels.
 
 ## How home batteries save you money
 

@@ -38,7 +38,7 @@ I've seen DMEGC installations in Prestwich, Blackley, and across Greater Manches
 
 ## The technical bits that matter
 
-The Infinity RT series uses what's called TOPCon technology – Tunnel Oxide Passivated Contact, if you want the full name. Without getting too technical, it means electrons move more efficiently through the panel, which translates to better performance and less power loss over time.
+The Infinity RT series uses TOPCon technology – Tunnel Oxide Passivated Contact. Without getting too technical, it means electrons move more efficiently through the panel, which translates to better performance and less power loss over time.
 
 DMEGC panels also have excellent bifacial performance on some models, meaning they can capture reflected light from your roof surface. On a light-coloured roof, this can boost your generation by a few percent.
 

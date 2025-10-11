@@ -27,7 +27,7 @@ We designed a system for a carpet and interior design warehouse spending £700 m
 
 ## Why flat and pitched roofs both work well
 
-Flat roofs give us flexibility that pitched roofs don't - we can mount panels to point south regardless of building orientation. This is why retail units, warehouses, and commercial properties with large flat roofs are perfect candidates. Stockport's commercial properties often have extensive unused flat roof space that could be generating thousands in annual savings. Pitched roofs on larger properties, factories, or hotels offer excellent potential too. We provide multiple design options with detailed financial analysis for each approach so you can make an informed decision about which delivers the best return for your business.
+Flat roofs give us flexibility that pitched roofs don't - we can mount panels to point south regardless of building orientation. This is why retail units, warehouses, and commercial properties with large flat roofs are perfect candidates. Stockport's commercial properties often have extensive unused flat roof space that could be generating thousands in annual savings. Pitched roofs on larger properties, factories, or hotels offer excellent potential too. We provide multiple design options with detailed financial analysis for each approach.
 
 If you have spare land, grass verges, or outdoor space, ground-mounted solar supplements rooftop installations or powers [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles. We've installed ground-mounted systems offering free staff charging powered entirely by solar - valuable employee benefit at zero ongoing cost.
 
