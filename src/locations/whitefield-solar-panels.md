@@ -9,16 +9,16 @@ tags: [whitefield]
 gallery_tags: [solar-panels]
 ---
 
-Based just down the road in Prestwich, Renegade Solar knows Whitefield well. We've probably fitted solar panels and batteries to buildings just like yours, and can offer some real world knowledge about the amount of energy your house is likely to generate, store, and consume.
+Based just down the road in Prestwich, I know Whitefield well. I've probably fitted solar panels and batteries to buildings just like yours, and can offer some real world knowledge about the amount of energy your house is likely to generate, store, and consume.
 
-We've installed solar panels on:
+I've installed solar panels on:
 
 - Traditional terraced houses with slate roofs
 - Semi-detached homes with large roof areas
 - Modern new-build properties
 - Commercial buildings with flat roofs
 
-And we've even installed ground-mounted solar panels for properties with large gardens!
+And I've even installed ground-mounted solar panels for properties with large gardens!
 
 ## How Do Solar Panel Perform In The Rain?
 
@@ -30,7 +30,7 @@ Of course! A [a battery-only installation](/services/home-battery-installations/
 
 ## Reviews From Whitefield & Nearby Customers
 
-Check our [our Checkatrade profile](https://www.checkatrade.com/trades/renegadeelectrical/reviews) where we have a **9.61/10 rating** to read some of the many reviews we've received from customers in or close to Whitefield. To quote from some of those:
+Check out [my Checkatrade profile](https://www.checkatrade.com/trades/renegadeelectrical/reviews) where I have a **9.61/10 rating** to read some of the many reviews I've received from customers in or close to Whitefield. To quote from some of those:
 
 > "I would have no hesitation in recommending him to anyone."
 
@@ -52,8 +52,8 @@ I'm also regularly passing through, which means arranging an appointment should 
 
 ## Whitefield Coverage Areas
 
-We serve every part of Whitefield and other towns in North Manchester - from Besse's up to Sunnybank, down towards Radcliffe, or across to Hollins and Heywood. We'll cover anywhere in Manchester, really - but we prefer to work close to home, in Prestwich, Whitefield, Middleton and Bury.
+I serve every part of Whitefield and other towns in North Manchester - from Besse's up to Sunnybank, down towards Radcliffe, or across to Hollins and Heywood. I'll cover anywhere in Manchester, really - but I prefer to work close to home, in Prestwich, Whitefield, Middleton and Bury.
 
 ## Okay, I'm Interested!
 
-Great! We would love to hear from you and advise you about your home or business's potential for solar power generation and / or battery storage. **[Click here for our contact details](/contact/)** - and we'll be in touch with 48 hours!
+Great! I would love to hear from you and advise you about your home or business's potential for solar power generation and / or battery storage. **[Click here for my contact details](/contact/)** - and I'll be in touch within 48 hours!
