@@ -1,35 +1,5 @@
 [
 	{
-		"filename": "ashley-hat.jpg",
-		"alt": "On a rainy Manchester roof installing solar panels",
-		"tags": ["ash"],
-		"order": 10
-	},
-	{
-		"filename": "ashley.jpg",
-		"alt": "Solar panel array in the garden waiting to be installed",
-		"tags": ["ash"],
-		"order": 8
-	},
-	{
-		"filename": "ashley-roof.jpg",
-		"alt": "Ashley working on a roof above Manchester",
-		"tags": ["ash"],
-		"order": 16
-	},
-	{
-		"filename": "ashley-on-roof-red-slate-panels.jpg",
-		"alt": "Ash on a red tile Manchester roof with modern, flush solar panels",
-		"tags": ["ash"],
-		"order": 9
-	},
-	{
-		"filename": "ashley-panels-ground.jpg",
-		"alt": "Solar panels on a ground installation in a large Manchester garden",
-		"tags": ["ash"],
-		"order": 13
-	},
-	{
 		"filename": "solar-panels.jpg",
 		"alt": "Solar panels being installed on a traditional Manchester slate roof",
 		"tags": ["solar-panels"],
