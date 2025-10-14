@@ -1,9 +1,6 @@
 ---
-link_title: Documents
 title: Documents & Certifications
 description: Insurance documents and professional certifications for Renegade Solar, MCS certified solar installer in Manchester
-order: 6
-tags: top_link
 permalink: /documents/
 layout: page.html
 noindex: false
