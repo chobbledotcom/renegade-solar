@@ -1,6 +1,7 @@
 <div class="services-list">
   {% assign sorted_services = collections.service | sort: 'data.order' %}
   {% for service in sorted_services %}
+  {% if service.data.root %}
   <a href="{{ service.url }}">
     {% if service.data.icon %}
     <img src="/assets/icons/{{ service.data.icon }}" alt="" eleventy:ignore>
@@ -12,5 +13,6 @@
       {% endif %}
     </span>
   </a>
+  {% endif %}
   {%- endfor -%}
 </div>
