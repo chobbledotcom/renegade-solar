@@ -51,7 +51,7 @@ content:
     label: Services
     path: src/services
     type: collection
-    subfolders: false
+    subfolders: true
     view:
       fields: [title, icon, snippet]
       primary: title
