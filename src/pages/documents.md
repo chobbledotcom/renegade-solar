@@ -77,6 +77,12 @@ Listed on Green Economy's curated marketplace of trusted green technology provid
 
 ---
 
+## Consumer Protection
+
+**[View our Complaints Procedure](/complaints/)** for information about our customer service standards and complaint resolution process.
+
+---
+
 ## Ready to Work with a Fully Certified Installer?
 
 All our certifications demonstrate our commitment to quality workmanship, consumer protection, and professional standards.
