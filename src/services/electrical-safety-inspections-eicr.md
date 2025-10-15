@@ -3,7 +3,7 @@ title: Electrical Safety Inspections (EICR)
 snippet: Just £150 with same-day certificates and no hard sells.
 icon: /assets/icons/check.svg
 location_pages: true
-order: 4
+order: 6
 ---
 
 # Electrical Safety Inspections (EICR) - Greater Manchester

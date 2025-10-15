@@ -14,7 +14,7 @@ If your business is spending hundreds or thousands each month on electricity, co
 
 ## Why commercial properties benefit more than domestic
 
-Commercial electricity prices have soared in recent years, and businesses have been hit harder than domestic customers. We recently spoke to a [Prestwich](/commercial-solar-installations-prestwich/) baker spending £10,000 monthly on electricity who nearly went under because of it. Another client, a carpet warehouse in [Bolton](/servics/commercial-solar-installations/bolton/), spends £700 each month. Our 50-panel flat roof design brings that to zero with a three-year payback. After that, it's 20+ years of free electricity and protection from future price rises.
+Commercial electricity prices have soared in recent years, and businesses have been hit harder than domestic customers. We recently spoke to a [Prestwich](/services/commercial-solar-installations/prestwich/) baker spending £10,000 monthly on electricity who nearly went under because of it. Another client, a carpet warehouse in [Bolton](/services/commercial-solar-installations/bolton/), spends £700 each month. Our 50-panel flat roof design brings that to zero with a three-year payback. After that, it's 20+ years of free electricity and protection from future price rises.
 
 The mathematics work well for commercial properties because businesses use electricity during the day when solar generation is at its peak. Unlike domestic properties where most consumption happens in the evening (requiring [battery storage](/services/home-battery-installations/) to maximise savings), commercial properties consume energy as it's generated. This means you're using nearly every kilowatt-hour your panels produce, which significantly improves the return on investment.
 
@@ -60,7 +60,7 @@ The main requirement is that you must own the building - solar installations on 
 
 ## Coverage across Greater Manchester
 
-Based in [Prestwich](/commercial-solar-installations-prestwich/), we serve businesses throughout Greater Manchester and the wider North West. We've completed commercial installations in [Bolton](/services/commercial-solar-installations/bolton/), [Bury](/commercial-solar-installations-bury/), [Whitefield](/commercial-solar-installations-whitefield/), [Crumpsall](/commercial-solar-installations-crumpsall/), [Middleton](/commercial-solar-installations-middleton/), [Stockport](/commercial-solar-installations-stockport/), and surrounding areas.
+Based in [Prestwich](/services/commercial-solar-installations/prestwich/), we serve businesses throughout Greater Manchester and the wider North West. We've completed commercial installations in [Bolton](/services/commercial-solar-installations/bolton/), [Bury](/services/commercial-solar-installations/bury/), [Whitefield](/services/commercial-solar-installations/whitefield/), [Crumpsall](/services/commercial-solar-installations/crumpsall/), [Middleton](/services/commercial-solar-installations/middleton/), [Stockport](/services/commercial-solar-installations/stockport/), and surrounding areas.
 
 ## Why work with us
 
