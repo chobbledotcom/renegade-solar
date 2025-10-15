@@ -17,7 +17,7 @@ The economics work particularly well for commercial properties because businesse
 
 ## Crumpsall commercial properties that see strong returns
 
-Crumpsall's industrial estates house businesses with high electricity consumption - factories running machinery see excellent returns from commercial solar. We're currently working with a carpet warehouse in [Bolton](/commercial-solar-installations-bolton/) that reduced £700 monthly bills to zero with flat roof solar and three-year payback. Shops, cafes, and restaurants along Crumpsall Lane benefit from commercial solar's rapid payback because daytime consumption means you're using generated energy immediately.
+Crumpsall's industrial estates house businesses with high electricity consumption - factories running machinery see excellent returns from commercial solar. We're currently working with a carpet warehouse in [Bolton](/services/commercial-solar-installations/bolton/) that reduced £700 monthly bills to zero with flat roof solar and three-year payback. Shops, cafes, and restaurants along Crumpsall Lane benefit from commercial solar's rapid payback because daytime consumption means you're using generated energy immediately.
 
 Healthcare facilities including medical centres and care homes running equipment and heating around the clock see strong returns from solar, particularly when combined with [battery storage](/services/home-battery-installations/) to maximise usage of generated energy. Cold storage facilities and warehouses with large roofs are perfect for commercial solar - we've also installed ground-mounted systems powering [EV charging](/services/electric-vehicle-charger-installations/) for staff vehicles as a valuable employee benefit.
 

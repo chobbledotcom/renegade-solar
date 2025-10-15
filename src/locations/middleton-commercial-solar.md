@@ -17,7 +17,7 @@ Commercial properties see better financial returns than domestic ones because bu
 
 ## Middleton businesses that see the best returns
 
-Middleton's industrial areas house factories and manufacturing facilities with heavy machinery consumption - high electricity usage means excellent returns from commercial solar. Retail outlets with large flat or pitched roofs are perfect candidates because daytime consumption aligns with solar generation. We're currently working with a carpet warehouse in [Bolton](/commercial-solar-installations-bolton/) that reduced £700 monthly bills to zero with three-year payback using flat roof solar.
+Middleton's industrial areas house factories and manufacturing facilities with heavy machinery consumption - high electricity usage means excellent returns from commercial solar. Retail outlets with large flat or pitched roofs are perfect candidates because daytime consumption aligns with solar generation. We're currently working with a carpet warehouse in [Bolton](//services/commercial-solar-installations/bolton/) that reduced £700 monthly bills to zero with three-year payback using flat roof solar.
 
 Cafes, bakeries, restaurants, and pubs running commercial kitchens and refrigeration throughout the day benefit enormously from commercial solar's rapid payback. We recently spoke to a [Prestwich](/commercial-solar-installations-prestwich/) baker spending £10,000 monthly who nearly went under because of rising electricity costs - commercial solar could eliminate most of that expense. Distribution centres and storage facilities with large flat roofs generate substantial daytime energy exactly when businesses need it most.
 

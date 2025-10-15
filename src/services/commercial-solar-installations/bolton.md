@@ -1,7 +1,8 @@
 ---
 title: Commercial Solar Installations in Bolton | Renegade Solar
 description: Commercial solar for Bolton businesses. Carpet warehouse cuts £700/month to zero with 3-year payback. Flat roofs, factories, retail - we cover Bolton.
-permalink: /commercial-solar-installations-bolton/
+redirect_from:
+  - /commercial-solar-installations-bolton/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Bolton
 icon: /assets/icons/commercial-solar.svg

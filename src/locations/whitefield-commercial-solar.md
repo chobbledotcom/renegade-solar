@@ -23,7 +23,7 @@ Food businesses including cafes, restaurants, and bakeries running commercial ki
 
 ## Real example from Bolton
 
-I'm currently working with a carpet and interior design warehouse in [Bolton](/commercial-solar-installations-bolton/) spending £700 monthly on electricity. My 50-panel flat roof design brings that to zero with three-year payback. I also designed a 115-panel option covering both flat and pitched roofs with four-year payback. Both eliminate electricity costs and provide 20+ years of free energy while selling excess back to the grid through Smart Export Guarantee.
+I'm currently working with a carpet and interior design warehouse in [Bolton](/services/commercial-solar-installations/bolton/) spending £700 monthly on electricity. My 50-panel flat roof design brings that to zero with three-year payback. I also designed a 115-panel option covering both flat and pitched roofs with four-year payback. Both eliminate electricity costs and provide 20+ years of free energy while selling excess back to the grid through Smart Export Guarantee.
 
 ## Why flat roofs work so well
 
