@@ -1,18 +1,18 @@
 <div class="services-list">
   {% assign sorted_services = collections.service | sort: 'data.order' %}
   {% for service in sorted_services %}
-  {% unless service.data.tags contains 'bolton' or service.data.tags contains 'altrincham' or service.data.tags contains 'blackley' or service.data.tags contains 'bury' or service.data.tags contains 'cheetham-hill' or service.data.tags contains 'crumpsall' or service.data.tags contains 'middleton' or service.data.tags contains 'prestwich' or service.data.tags contains 'radcliffe' or service.data.tags contains 'stockport' or service.data.tags contains 'trafford' or service.data.tags contains 'whitefield' or service.data.tags contains 'bramhall' or service.data.tags contains 'failsworth' or service.data.tags contains 'hyde' or service.data.tags contains 'marple' or service.data.tags contains 'rushholme' %}
+  {% if service.data.root %}
   <a href="{{ service.url }}">
     {% if service.data.icon %}
     <img src="/assets/icons/{{ service.data.icon }}" alt="" eleventy:ignore>
     {% endif %}
     <span>
-      {{ service.data.title %}
+      {{ service.data.title }}
       {% if show_snippet and service.data.snippet %}
       <small>{{ service.data.snippet }}</small>
       {% endif %}
     </span>
   </a>
-  {% endunless %}
+  {% endif %}
   {%- endfor -%}
 </div>
