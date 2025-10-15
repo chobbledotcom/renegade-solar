@@ -8,68 +8,68 @@ noindex: true
 
 # Complaints Procedure
 
-A complaint is any expression of dissatisfaction by our customers where they want us to do something about it.
+We define a complaint as any statement of dissatisfaction from our customers regarding our products or services that requires a response or resolution.
 
-We always aim to provide a high standard of care in all our products and services. Where a customer has a complaint, we will consider it and try to find an agreed course of action to resolve the complaint quickly and effectively, in a fair and honest way, to the customer's satisfaction.
+Our commitment is to deliver exceptional standards across everything we do. When customers raise concerns, we carefully review each case and work collaboratively to reach a resolution that is both prompt and fair, ensuring customer satisfaction throughout the process.
 
-## Who Can Complain
+## Eligibility to Raise Concerns
 
-Anyone affected by Renegade Electrical's products or services can make a complaint.
+Any individual impacted by our products or services may submit a complaint to Renegade Electrical.
 
-A representative may complain for the affected person if they:
+Third parties may lodge complaints on behalf of the affected individual when:
 
-- have died
-- cannot make a complaint themselves, or
-- have given consent for the representative to act on their behalf
+- the individual has passed away
+- the individual is unable to raise concerns themselves, or
+- explicit permission has been granted for representation
 
-If you are not happy about making a complaint yourself and you do not know someone who can talk or write to us on your behalf, we will be happy to find someone from an independent organisation to act as an advocate for you.
+Should you prefer not to raise concerns directly and lack a suitable representative, we can arrange for an independent advocate to support you through this process.
 
-## Methods Of Complaint
+## How to Submit Complaints
 
-You can complain:
+Complaints may be submitted through the following channels:
 
-- in person
-- by telephone
-- through an advocate or representative
-- by letter
-- by email
+- face-to-face discussions
+- telephone calls
+- via an advocate or authorised representative
+- written correspondence
+- electronic mail
 
-## Responsibility
+## Accountability
 
-The Managing Director has overall responsibility for dealing with all complaints made about Renegade Electrical products and services.
+Overall accountability for managing complaints about our products and services rests with the Managing Director.
 
-We will provide, as far as is reasonably practical:
+We commit to providing, wherever reasonably achievable:
 
-- any help you need to understand the complaints procedure; or
-- advice on where you may get that help.
+- assistance required to navigate our complaints procedure; or
+- guidance on accessing such assistance.
 
-## Time Limits
+## Timeframes for Submission
 
-You should complain as soon as you can after the date on which the event occurred or came to your notice. If you complain more than six months later, we may not be able to investigate properly. But we shall also consider whether you had good reason for not making the complaint sooner and whether, despite the delay, it is still possible to investigate the complaint effectively and fairly.
+We recommend raising concerns promptly following the incident or when you first become aware of it. Complaints submitted beyond six months may present investigation challenges. However, we will assess whether valid reasons existed for the delay and determine if a thorough and equitable investigation remains feasible.
 
-## The Procedure
+## Our Process
 
-1. We will take the details of the complaint and record them in our Complaints Log.
-2. We will inform the customer that we will do our best to resolve the complaint but that they have a right to pursue the complaint if we cannot reach a satisfactory resolution, see paragraph below "Further Steps".
-3. For complaints by phone, if we can't resolve the matter immediately we will ask the customer to put the complaint in writing, in an email or letter, so that there is a clear record for everybody. We will offer help with if the customer needs it.
-4. If necessary, we may have to ask the customer to provide us with paperwork or other material. We will note anything received from the customer in the Complaints Log.
-5. If we need to inspect a solar PV system, products or visit the customer to investigate the complaint, we will do so within 7 days of receiving the complaint. If the customer is without heating or hot water as a result of the situation that led to the complaint, we will attend their property within 24 hours.
-6. If a visit is necessary, we will let the customer know the outcome as soon as possible after the visit. We will also record this in the Complain Log.
-7. We will keep a note of contact made, or attempted contacts, to and from the customer while we are trying to resolve the complaint, including telephone conversations.
-8. We will respond to the customer with our findings and a summary of actions/communications within 10 working days of receiving the complaint.
-9. Whenever we can, we will aim to sort the complaint out more quickly than this and informally, for example with a phone call to give advice that solves the problem. We will still log complaints resolved in this way.
-10. We will not take, or threaten to take, action against a customer through the courts without first trying to solve the problem as set out here and in Renewable Energy Consumer Code's dispute resolution process.
-11. We will regularly review the Complaints Log, to identify any actions we may need to take to prevent complaints recurring.
+1. Upon receipt, we document all complaint details in our Complaints Log.
+2. We inform customers of our commitment to finding a resolution whilst advising them of their right to escalate matters if an agreement cannot be reached (see "Escalation Options" below).
+3. When telephone complaints cannot be immediately resolved, we request written submission via email or letter to ensure accurate record-keeping. We provide support with this when needed.
+4. Where appropriate, we may request supporting documentation or evidence from customers. All received materials are logged systematically.
+5. When inspection of solar PV installations, products, or site visits are required, we schedule these within 7 days of the complaint. For urgent matters affecting heating or hot water provision, we attend within 24 hours.
+6. Following any necessary visits, we communicate outcomes promptly and update our records accordingly.
+7. All correspondence and attempted communication with customers is documented throughout the resolution process, including telephone discussions.
+8. We provide customers with our findings and a comprehensive summary of actions taken within 10 working days of complaint receipt.
+9. Where possible, we prioritise faster, informal resolution methods, such as advisory telephone calls that address concerns directly. These are still formally recorded.
+10. Legal action will not be initiated or threatened against customers without first exhausting the resolution processes outlined here and within the Renewable Energy Consumer Code's dispute framework.
+11. Regular reviews of our Complaints Log inform preventative measures to reduce future occurrences.
 
-## Further Steps
+## Escalation Options
 
-If we cannot resolve a complaint and the customer is not satisfied with the remedy offered, we will advise where they can pursue their complaint.
+When internal resolution proves unsuccessful or customers remain dissatisfied with proposed remedies, we provide guidance on external complaint channels.
 
 ### MCS Certification Body
 
-If the complaint is partly or wholly about technical aspects of the installation of a solar PV system, we will direct them to our MCS installer certification body:
+For concerns relating wholly or partially to technical installation aspects of solar PV systems, we refer customers to our MCS installer certification body:
 
-The MCS Helpdesk operates Monday – Friday, 9.00am – 4.30pm. The Helpdesk is closed on bank holidays.
+The MCS Helpdesk is available Monday to Friday, 9.00am to 4.30pm (closed on bank holidays).
 
 - **Phone:** 0333 103 8130
 - **Email:** hello@mcscertified.com
@@ -77,20 +77,11 @@ The MCS Helpdesk operates Monday – Friday, 9.00am – 4.30pm. The Helpdesk is 
 
 ### Renewable Energy Consumer Code (RECC)
 
-If the complaint is partly or wholly about the customer service aspects of the installation of a solar PV system we will direct them to our consumer code body the Renewable Energy Consumer Code:
+For matters involving customer service aspects of solar PV installations, whether wholly or partially, we direct customers to the Renewable Energy Consumer Code:
 
-The RECC dispute resolution process is set out in the 'How to Complain' section of the RECC website: [recc.org.uk/consumers/how-to-complain](https://www.recc.org.uk/consumers/how-to-complain)
+Details of the RECC dispute resolution procedure can be found in the 'How to Complain' section at: [recc.org.uk/consumers/how-to-complain](https://www.recc.org.uk/consumers/how-to-complain)
 
-### Energy Performance Certificates
-
-If the complaint is partly or wholly about an Energy Performance Certificate, we will direct them to the Energy Assessor Accreditation Scheme.
-
-- **Phone:** 0300 123 1234
-- **Website:** [accreditationscheme.co.uk](https://www.accreditationscheme.co.uk)
-
-We will cooperate with the scheme complaint-handlers to assist them to resolve the complaint.
-
-**Please note:** schemes will not normally investigate a complaint until we have had an opportunity to respond and resolve matters.
+**Please note:** External schemes typically require us to have had the opportunity to address and resolve concerns before accepting investigations.
 
 ---
 
