@@ -25,6 +25,7 @@ layout: base.html
 
       {% assign all_services = collections.service | sort: 'data.order' %}
       {% for service in all_services %}
+      {% if service.data.root %}
       {% unless location_service_icons contains service.data.icon %}
       <a href="{{ service.url }}">
         {% if service.data.icon %}
@@ -33,6 +34,7 @@ layout: base.html
         <span> {{ service.data.title }} </span>
       </a>
       {% endunless %}
+      {% endif %}
       {%- endfor -%}
     </div>
   </div>
