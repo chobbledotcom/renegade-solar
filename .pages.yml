@@ -1,3 +1,8 @@
+settings:
+  hide: true
+  content:
+    merge: true
+
 media:
   - name: accreditation-logos
     label: Accreditation Logos
