@@ -5,7 +5,7 @@ description: Commercial solar installations across Greater Manchester. Cut £700
 icon: /assets/icons/commercial-solar.svg
 order: 3
 root: true
-location_pages: false
+location_pages: true
 gallery_tags: [commercial]
 ---
 
