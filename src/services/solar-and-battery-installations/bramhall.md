@@ -36,7 +36,7 @@ The main factor affecting performance in Bramhall is tree shading rather than we
 
 Most Bramhall properties are suited to 4-6kW systems (10-15 panels). Larger homes often benefit from 6-8kW systems to match higher energy consumption. I size systems based on your actual usage and roof characteristics, not just by maximising panel count.
 
-For properties with [EV chargers](/solar-panel-installer-stockport/#ev-charging), I typically recommend larger systems (6kW+) and a battery to make best use of the solar generation for vehicle charging.
+For properties with [EV chargers](/services/electric-vehicle-charger-installations/stockport/), I typically recommend larger systems (6kW+) and a battery to make best use of the solar generation for vehicle charging.
 
 ## Battery storage and time-of-use tariffs
 
@@ -58,7 +58,7 @@ Installation typically takes 1-2 days with minimal disruption. I'm tidy, respect
 
 ## Nearby areas
 
-I also cover surrounding areas including [Stockport](/solar-panel-installer-stockport/), Cheadle Hulme, Hazel Grove, and Poynton.
+I also cover surrounding areas including [Stockport](/services/solar-and-battery-installations/stockport/), Cheadle Hulme, Hazel Grove, and Poynton.
 
 ## Get started
 

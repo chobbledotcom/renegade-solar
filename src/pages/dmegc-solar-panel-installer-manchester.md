@@ -74,7 +74,7 @@ I'll discuss both options during your survey and recommend what makes most sense
 
 ## Areas we cover
 
-I'm based in Prestwich and cover the whole of Greater Manchester. I've completed DMEGC installations in [Blackley](/solar-panel-installer-blackley/), [Middleton](/solar-panel-installer-middleton/), [Failsworth](/solar-panel-installer-failsworth/), [Radcliffe](/solar-panel-installer-radcliffe/), [Stockport](/solar-panel-installer-stockport/), [Altrincham](/solar-panel-installer-altrincham/), and throughout [Trafford](/solar-panel-installer-trafford/).
+I'm based in Prestwich and cover the whole of Greater Manchester. I've completed DMEGC installations in [Blackley](/services/solar-and-battery-installations/blackley/), [Middleton](/services/solar-and-battery-installations/middleton/), [Failsworth](/services/solar-and-battery-installations/failsworth/), [Radcliffe](/services/solar-and-battery-installations/radcliffe/), [Stockport](/services/solar-and-battery-installations/stockport/), [Altrincham](/services/solar-and-battery-installations/altrincham/), and throughout [Trafford](/services/solar-and-battery-installations/trafford/).
 
 Being local means no call-out charges for surveys and quick response times if you ever need anything sorting after installation.
 

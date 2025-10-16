@@ -10,7 +10,7 @@ icon: /assets/icons/car.svg
 gallery_tags: [electric-vehicle]
 ---
 
-I provide professional EV charger installations throughout Stockport, including [Bramhall](/solar-panel-installer-bramhall/), Marple Bridge and surrounding areas. NAPIT-registered service with smart charging technology for electric cars.
+I provide professional EV charger installations throughout Stockport, including [Bramhall](/services/solar-and-battery-installations/bramhall/), Marple Bridge and surrounding areas. NAPIT-registered service with smart charging technology for electric cars.
 
 ## Stockport EV Charging Solutions
 
