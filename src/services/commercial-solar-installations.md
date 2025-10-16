@@ -61,7 +61,7 @@ The main requirement is that you must own the building - solar installations on 
 
 ## Coverage across Greater Manchester
 
-Based in [Prestwich](/services/commercial-solar-installations/prestwich/), we serve businesses throughout Greater Manchester and the wider North West. We've completed commercial installations in [Bolton](/services/commercial-solar-installations/bolton/), [Bury](/services/commercial-solar-installations/bury/), [Whitefield](/services/commercial-solar-installations/whitefield/), [Crumpsall](/services/commercial-solar-installations/crumpsall/), [Middleton](/services/commercial-solar-installations/middleton/), [Stockport](/services/commercial-solar-installations/stockport/), and surrounding areas.
+Based in Prestwich, we serve businesses throughout Greater Manchester and the wider North West. We've completed commercial installations in {% serviceAreaLinks page %} and surrounding areas.
 
 ## Why work with us
 
