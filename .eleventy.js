@@ -50,6 +50,49 @@ module.exports = async (eleventyConfig) => {
 		return Image.generateHTML(metadata, imageAttributes);
 	});
 
+	eleventyConfig.addShortcode("serviceAreaLinks", async (currentPage) => {
+		const inputPath = currentPage.inputPath;
+		const fileSlug = currentPage.fileSlug;
+
+		const dirPath = path.dirname(inputPath);
+		const areaDir = path.join(dirPath, fileSlug);
+
+		try {
+			const files = await fs.readdir(areaDir);
+			const mdFiles = files
+				.filter(file => file.endsWith(".md"))
+				.map(file => file.replace(".md", ""))
+				.sort();
+
+			if (mdFiles.length === 0) {
+				return "";
+			}
+
+			const baseUrl = currentPage.url;
+			const links = mdFiles.map(area => {
+				const title = area
+					.split("-")
+					.map(word => word.charAt(0).toUpperCase() + word.slice(1))
+					.join(" ");
+				return `[${title}](${baseUrl}${area}/)`;
+			});
+
+			if (links.length === 1) {
+				return links[0];
+			}
+
+			if (links.length === 2) {
+				return `${links[0]} and ${links[1]}`;
+			}
+
+			const allButLast = links.slice(0, -1).join(", ");
+			const last = links[links.length - 1];
+			return `${allButLast}, and ${last}`;
+		} catch (error) {
+			return "";
+		}
+	});
+
 	return {
 		dir: {
 			input: "src",

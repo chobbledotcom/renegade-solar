@@ -115,4 +115,4 @@ I can usually get you booked in as soon as you call. Whether you're a landlord w
 
 **Ready to book your electrical safety inspection? [Get in touch today](/contact/)**
 
-I cover [Altrincham](/services/electrical-safety-inspections-eicr/altrincham/), [Blackley](/services/electrical-safety-inspections-eicr/blackley/), [Bury](/services/electrical-safety-inspections-eicr/bury/), [Middleton](/services/electrical-safety-inspections-eicr/middleton/), [Prestwich](/services/electrical-safety-inspections-eicr/prestwich/), [Radcliffe](/services/electrical-safety-inspections-eicr/radcliffe/), [Stockport](/services/electrical-safety-inspections-eicr/stockport/), [Trafford](/services/electrical-safety-inspections-eicr/trafford/), and [Whitefield](/services/electrical-safety-inspections-eicr/whitefield/) with dedicated local EICR services.
+I cover {% serviceAreaLinks page %} with dedicated local EICR services.
