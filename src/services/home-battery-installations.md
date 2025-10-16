@@ -117,7 +117,7 @@ Most home battery installations don't require planning permission as they're typ
 
 ## Coverage area
 
-I serve the entire Greater Manchester area from my Prestwich base, with extensive experience in [Blackley](/solar-panel-installer-blackley/), [Middleton](/solar-panel-installer-middleton/), [Stockport](/solar-panel-installer-stockport/), [Altrincham](/solar-panel-installer-altrincham/), and throughout [Trafford](/solar-panel-installer-trafford/).
+I serve the entire Greater Manchester area from my Prestwich base, with extensive experience in [Blackley](/services/solar-and-battery-installations/blackley/), [Middleton](/services/solar-and-battery-installations/middleton/), [Stockport](/services/solar-and-battery-installations/stockport/), [Altrincham](/services/solar-and-battery-installations/altrincham/), and throughout [Trafford](/services/solar-and-battery-installations/trafford/).
 
 ## Get started
 
