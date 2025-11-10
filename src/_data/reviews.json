@@ -434,6 +434,10 @@
         "rating": 9.67
       },
       "publishedAt": "2025-01-04T18:46:10.637Z",
+      "reviewer": {
+        "id": "067681c5-0c28-7194-9920-e05134032f5c",
+        "displayName": "Dawn N"
+      },
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -1792,6 +1796,10 @@
         "rating": 10
       },
       "publishedAt": "2023-05-21T10:22:06.000Z",
+      "reviewer": {
+        "id": "066ebf5c-482e-7343-8820-d5e412deb3e5",
+        "displayName": "Claire S"
+      },
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
