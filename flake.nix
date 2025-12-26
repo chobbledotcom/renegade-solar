@@ -28,8 +28,8 @@
 
               EOF
 
-              git pull
-            '';
+            git pull
+          '';
         };
       };
     };
