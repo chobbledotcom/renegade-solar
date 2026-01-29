@@ -43,7 +43,7 @@ Check out [our Checkatrade profile](https://www.checkatrade.com/trades/renegadee
 
 > "Ashley was very professional on time, great price and excellent work would recommend"
 
-With over 15 years working as an electrician in both Prestwich and Whitefield, and abroad in the Channel Islands, we have a wealth of experience which means we've seen basically every job before. No matter how old your electrics are, or how your house is laid out, we're sure we can help you get a solar panel and battery set up you'll love and which will save you some serious money over the long run.
+With over 15 years working as an electrician in both Prestwich and Whitefield, and abroad in the Channel Islands, Ashley has a wealth of experience which means he's seen basically every job before. No matter how old your electrics are, or how your house is laid out, we're sure we can help you get a solar panel and battery set up you'll love and which will save you some serious money over the long run.
 
 ## Local Benefits
 

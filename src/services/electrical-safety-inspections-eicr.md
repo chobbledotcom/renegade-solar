@@ -73,11 +73,11 @@ What you need to do is pretty straightforward: give existing tenants the report 
 
 **No panic, no pressure.** If we spot issues, we'll explain everything clearly - what's wrong, why it matters, and what needs doing. You'll get fair quotes for any work with no hidden costs or inflated prices. We can fix what we find too, so why get someone else involved? Remedial work gets scheduled within a month, which gives you time to sort things out properly.
 
-We've been doing this for 20+ years, so we've seen it all. Most problems aren't as scary as they sound once you understand what's actually going on. **[If you need electrical problems fixed after an inspection, we handle all types of electrical work](/services/)**
+Ashley's been doing this for 20+ years, so he's seen it all. Most problems aren't as scary as they sound once you understand what's actually going on. **[If you need electrical problems fixed after an inspection, we handle all types of electrical work](/services/)**
 
 ## Why Choose Us for Your EICR?
 
-**NAPIT Registered (66870)** with proper qualifications you can verify online. **20+ years experience** means we know what we're looking at and how to explain it clearly.
+**NAPIT Registered (66870)** with proper qualifications you can verify online. Ashley's **20+ years experience** means he knows what he's looking at and how to explain it clearly.
 
 **Honest approach** - we check everything that needs checking and only recommend what actually needs doing. No hard sell, no unnecessary jobs, no trying to scare you into work you don't need.
 

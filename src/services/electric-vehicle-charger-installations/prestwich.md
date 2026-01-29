@@ -62,7 +62,7 @@ We specialise in Victorian terrace installations, having solved countless challe
 
 ## Local Knowledge Advantage
 
-Being based here means we understand Bury Council's requirements and any considerations for properties near conservation areas or the Prestwich Village Character Area. Having worked on hundreds of Prestwich properties, we quickly identify the best charging solutions for different house types and electrical configurations. Our local base means competitive pricing without travel charges that out-of-area installers add.
+Being based here means we understand Bury Council's requirements and any considerations for properties near conservation areas or the Prestwich Village Character Area. Having worked on hundreds of Prestwich properties, Ashley quickly identifies the best charging solutions for different house types and electrical configurations. Our local base means competitive pricing without travel charges that out-of-area installers add.
 
 ## What Our Customers Say
 

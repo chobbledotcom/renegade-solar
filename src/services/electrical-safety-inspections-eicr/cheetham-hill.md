@@ -31,7 +31,7 @@ Getting an EICR before buying could save you thousands. Common issues in Cheetha
 
 ## Victorian Terraces to Modern Flats
 
-Cheetham Hill's older properties often have mixed-era wiring, consumer units without RCD protection, and overloaded circuits. Even newer developments can have issues from rushed construction. We've seen it all, so we know exactly what to check.
+Cheetham Hill's older properties often have mixed-era wiring, consumer units without RCD protection, and overloaded circuits. Even newer developments can have issues from rushed construction. Ashley's seen it all, so he knows exactly what to check.
 
 If we find problems, we'll explain them clearly without scaremongering. Common fixes include consumer unit upgrades, additional RCD protection, and proper earthing. We handle all remedial work ourselves, so you won't need to find another electrician.
 

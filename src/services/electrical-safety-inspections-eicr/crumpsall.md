@@ -31,7 +31,7 @@ Get an EICR before completing. Crumpsall's mix of post-war semis, Victorian terr
 
 ## We Know Crumpsall Properties
 
-Post-war semis often have deteriorating wiring. Victorian terraces near the hospital have mixed-era electrics. Even new builds can have corners cut – and we've inspected them all.
+Post-war semis often have deteriorating wiring. Victorian terraces near the hospital have mixed-era electrics. Even new builds can have corners cut – and Ashley's inspected them all.
 
 If repairs are needed, we'll handle everything. Consumer unit upgrades, RCD protection, proper earthing – all at fair prices with no pressure.
 

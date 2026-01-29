@@ -24,6 +24,6 @@ We've built our reputation on being honest and reliable - just have a look at [o
 
 Whether you need a full "Electrical Installation Condition Report" (EICR) or just want someone to check over a few concerns, give Renegade Solar a call or drop us a message.
 
-We cover the whole Greater Manchester area and can usually sort out testing at fairly short notice if needed.
+We cover the whole Greater Manchester area and Ashley can usually sort out testing at fairly short notice if needed.
 
 **To contact us about electrical testing and inspection, [click here](/contact/)**
