@@ -91,6 +91,8 @@ I've been doing this for 20+ years, so I've seen it all. Most problems aren't as
 
 **Do I need to prepare anything?** Just make sure I can get to your fuse box. If it's behind boxes or in a cupboard, clear some space so I can work safely.
 
+**Do you work evenings or weekends?** Normal business hours only, but I'm pretty flexible on scheduling to fit around your needs.
+
 **How do I get my certificates?** Digital copies as standard, with physical copies available if you want them. Everything gets sorted the same day.
 
 **What if you find serious problems?** I'll talk you through everything and prioritise safety. Emergency situations get sorted before I leave - I won't walk away from anything dangerous.
