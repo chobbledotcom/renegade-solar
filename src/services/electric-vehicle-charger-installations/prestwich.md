@@ -10,7 +10,7 @@ icon: /assets/icons/car.svg
 gallery_tags: [electric-vehicle]
 ---
 
-I'm Ashley, and I run Renegade Solar from right here in Prestwich. I provide expert EV charger installations throughout the local area. As a NAPIT-registered installer and Octopus Energy Trusted Partner, I understand exactly what Prestwich residents need for home EV charging.
+We're Renegade Solar, led by Ashley, and we're based right here in Prestwich. We provide expert EV charger installations throughout the local area. As a NAPIT-registered installer and Octopus Energy Trusted Partner, we understand exactly what Prestwich residents need for home EV charging.
 
 ## Why Prestwich Residents Need Home EV Charging
 
@@ -22,15 +22,15 @@ I'm Ashley, and I run Renegade Solar from right here in Prestwich. I provide exp
 
 ## Prestwich Property Types and EV Solutions
 
-**Victorian terraces** dominate central Prestwich, particularly around Bury New Road. These traditional houses often have rear access and yards, making them perfect for installing chargers in back gardens with cable runs to front street parking. I've completed dozens of these installations where residents park on Bury New Road or side streets. Many Victorian terraces have been modernised with adequate electrical capacity for 7kW charging, though I assess each property individually. For terraces without dedicated parking, I work creatively with residents to install chargers accessible from regular street parking spots.
+**Victorian terraces** dominate central Prestwich, particularly around Bury New Road. These traditional houses often have rear access and yards, making them perfect for installing chargers in back gardens with cable runs to front street parking. We've completed dozens of these installations where residents park on Bury New Road or side streets. Many Victorian terraces have been modernised with adequate electrical capacity for 7kW charging, though we assess each property individually. For terraces without dedicated parking, we work creatively with residents to install chargers accessible from regular street parking spots.
 
 **1930s semi-detached homes** are common around Prestwich Village and Sedgley Park. These properties typically have driveways perfect for wall-mounted chargers, and their electrical systems usually handle modern EV charging loads easily. These family homes often benefit from multiple charging points or future-proofing for second EVs as household needs grow.
 
-**Modern developments** around Prestwich Hills and newer builds often come EV-ready with adequate electrical supplies and dedicated parking, making installations straightforward. Some developments even benefit from shared charging facilities that I can design and install for multiple residents.
+**Modern developments** around Prestwich Hills and newer builds often come EV-ready with adequate electrical supplies and dedicated parking, making installations straightforward. Some developments even benefit from shared charging facilities that we can design and install for multiple residents.
 
 ## Local Infrastructure and Installation
 
-The cracking grid infrastructure in Prestwich means my installations rarely need supply upgrades, keeping costs down and getting your charger installed quickly. Most Prestwich properties have the electrical capacity needed, making the whole process dead straightforward.
+The cracking grid infrastructure in Prestwich means our installations rarely need supply upgrades, keeping costs down and getting your charger installed quickly. Most Prestwich properties have the electrical capacity needed, making the whole process dead straightforward.
 
 ## Charging Speed Matters
 
@@ -38,19 +38,19 @@ With a proper 7kW charger, you can get your car fully charged overnight during t
 
 The new petrol and diesel car ban coming in 2030 means more people are switching to electric. Manchester's motorway connections - M60, M62 - mean there's no shortage of rapid chargers when you're doing longer trips. But for everyday driving around Prestwich and Manchester, home charging at 7.5p per kWh beats paying 30-60p at a public charger.
 
-## Which Chargers I Fit
+## Which Chargers We Fit
 
-I'm an **Octopus Energy Trusted Partner**, so I install their full [range of EV chargers](https://octopus.energy/get-an-ev-charger/). These are smart units that automatically charge when electricity is cheapest. You plug in whenever, the charger does the rest. On Octopus Go that's 7.5p per kWh in the early hours.
+We're an **Octopus Energy Trusted Partner**, so we install their full [range of EV chargers](https://octopus.energy/get-an-ev-charger/). These are smart units that automatically charge when electricity is cheapest. You plug in whenever, the charger does the rest. On Octopus Go that's 7.5p per kWh in the early hours.
 
-If you've got **Solax** or **AlphaESS** solar panels or batteries, their chargers integrate nicely with those systems. I fit them too.
+If you've got **Solax** or **AlphaESS** solar panels or batteries, their chargers integrate nicely with those systems. We fit them too.
 
-Bought a charger yourself already? No problem. I'll install whatever you've ordered.
+Bought a charger yourself already? No problem. We'll install whatever you've ordered.
 
 ## The Actual Installation Work
 
-Chargers are weatherproof, so I can mount them wherever works for your parking - garage wall, house wall, doesn't matter. If I need to run cable from your consumer unit to the far side of the property, I use heavy duty armoured cable that's made for outdoor installation.
+Chargers are weatherproof, so we can mount them wherever works for your parking - garage wall, house wall, doesn't matter. If we need to run cable from your consumer unit to the far side of the property, we use heavy duty armoured cable that's made for outdoor installation.
 
-Most jobs are wrapped up in a day, and I keep mess to a minimum. Your consumer unit needs to meet current standards, but if you've already had solar or battery work done, it'll be fine. Even without solar, you can get a time-of-use electricity tariff for cheap overnight car charging.
+Most jobs are wrapped up in a day, and we keep mess to a minimum. Your consumer unit needs to meet current standards, but if you've already had solar or battery work done, it'll be fine. Even without solar, you can get a time-of-use electricity tariff for cheap overnight car charging.
 
 ## Real Savings for Prestwich Families
 
@@ -58,11 +58,11 @@ A daily Manchester commute (15-mile round trip) costs £1.50 with home charging 
 
 ## Installation Expertise for Prestwich Properties
 
-I specialise in Victorian terrace installations, having solved countless challenging setups from rear-yard mounting to creative cable routing for front street parking. Where needed, I upgrade older electrical panels to handle modern EV charging safely and legally. My installations respect Prestwich's character areas with neat, unobtrusive mounting that maintains property aesthetics. Most Prestwich installations complete within a day, often just a few hours for straightforward properties.
+We specialise in Victorian terrace installations, having solved countless challenging setups from rear-yard mounting to creative cable routing for front street parking. Where needed, we upgrade older electrical panels to handle modern EV charging safely and legally. Our installations respect Prestwich's character areas with neat, unobtrusive mounting that maintains property aesthetics. Most Prestwich installations complete within a day, often just a few hours for straightforward properties.
 
 ## Local Knowledge Advantage
 
-Being based here means I understand Bury Council's requirements and any considerations for properties near conservation areas or the Prestwich Village Character Area. Having worked on hundreds of Prestwich properties, I quickly identify the best charging solutions for different house types and electrical configurations. My local base means competitive pricing without travel charges that out-of-area installers add.
+Being based here means we understand Bury Council's requirements and any considerations for properties near conservation areas or the Prestwich Village Character Area. Having worked on hundreds of Prestwich properties, we quickly identify the best charging solutions for different house types and electrical configurations. Our local base means competitive pricing without travel charges that out-of-area installers add.
 
 ## What Our Customers Say
 
@@ -72,6 +72,6 @@ Being based here means I understand Bury Council's requirements and any consider
 
 ## Complete Installation Service
 
-I provide free property surveys and consultations, specialising in Victorian terrace installations with OZEV grant-approved chargers and full NAPIT electrical certification. My service includes smart tariff optimisation, solar and battery integration, consumer unit upgrades when needed, same-day completion, and ongoing local support. I install throughout Prestwich including Prestwich Village, Sedgley Park, Central Prestwich, Prestwich Hills, Simister, and all surrounding areas. Being based here means I can respond quickly to calls and provide ongoing support when needed.
+We provide free property surveys and consultations, specialising in Victorian terrace installations with OZEV grant-approved chargers and full NAPIT electrical certification. Our service includes smart tariff optimisation, solar and battery integration, consumer unit upgrades when needed, same-day completion, and ongoing local support. We install throughout Prestwich including Prestwich Village, Sedgley Park, Central Prestwich, Prestwich Hills, Simister, and all surrounding areas. Being based here means we can respond quickly to calls and provide ongoing support when needed.
 
-**Your local EV charging specialist - based in Prestwich, working for Prestwich residents. Ready to start charging at home? [Contact me today](/contact/) for your free EV charger consultation.**
+**Your local EV charging specialist - based in Prestwich, working for Prestwich residents. Ready to start charging at home? [Contact us today](/contact/) for your free EV charger consultation.**

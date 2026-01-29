@@ -9,6 +9,6 @@ layout: services.html
 noindex: false
 ---
 
-# My Services
+# Our Services
 
-I'm proud to offer the following services to customers across Greater Manchester and the wider North West UK:
+We're proud to offer the following services to customers across Greater Manchester and the wider North West UK:

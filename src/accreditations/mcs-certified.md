@@ -18,15 +18,15 @@ MCS certification is mandatory for homeowners wishing to access government schem
 
 ### Internationally Recognised Standards
 
-My MCS certification ensures all installations meet rigorous technical standards that are aligned with international quality benchmarks.
+Our MCS certification ensures all installations meet rigorous technical standards that are aligned with international quality benchmarks.
 
 ### Quality-Assured Equipment
 
-I only install MCS-certified solar products that have been independently tested for performance, durability and safety – protecting your investment for years to come.
+We only install MCS-certified solar products that have been independently tested for performance, durability and safety – protecting your investment for years to come.
 
 ### Technical Expertise
 
-My MCS status confirms I've demonstrated the technical knowledge and practical skills needed to design and install efficient, effective solar systems throughout North Manchester.
+Our MCS status confirms we've demonstrated the technical knowledge and practical skills needed to design and install efficient, effective solar systems throughout North Manchester.
 
 ### Consumer Protection
 
@@ -34,8 +34,8 @@ MCS certification includes membership in a consumer code (like HIES), providing 
 
 ## Verified Credentials
 
-You can easily check my MCS certification on the [official MCS website](https://mcscertified.com/find-an-installer/) using my certification number: **NAP-66870**
+You can easily check our MCS certification on the [official MCS website](https://mcscertified.com/find-an-installer/) using our certification number: **NAP-66870**
 
 ## Ready For Quality-Assured Solar Power?
 
-[Contact me today](/contact/) to discuss how an MCS-certified solar installation can reduce your energy bills and carbon footprint while meeting the highest industry standards.
+[Contact us today](/contact/) to discuss how an MCS-certified solar installation can reduce your energy bills and carbon footprint while meeting the highest industry standards.

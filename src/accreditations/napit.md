@@ -18,7 +18,7 @@ NAPIT registered installers undergo rigorous assessments to verify their technic
 
 ### Proper Certification
 
-As a NAPIT registered installer, I can provide all essential certificates that demonstrate your installation meets regulatory requirements. This documentation is vital for:
+As a NAPIT registered installer, we can provide all essential certificates that demonstrate your installation meets regulatory requirements. This documentation is vital for:
 
 - Selling your property
 - Insurance purposes
@@ -28,7 +28,7 @@ As a NAPIT registered installer, I can provide all essential certificates that d
 
 ### Technical Expertise
 
-NAPIT membership requires ongoing professional development. This means I stay current with the latest technologies and regulations in solar panel installation, ensuring you receive the most up-to-date advice and solutions.
+NAPIT membership requires ongoing professional development. This means we stay current with the latest technologies and regulations in solar panel installation, ensuring you receive the most up-to-date advice and solutions.
 
 ### Consumer Protection
 
@@ -36,6 +36,6 @@ NAPIT provides a complaints procedure and work quality guarantee, giving you add
 
 ### Verified Credentials
 
-My NAPIT membership provides independent verification of my qualifications and expertise. You can check my credentials [directly through the NAPIT website using the registration number 66870](https://search.napit.org.uk/member/66870/renegade-electrical-ltd).
+Our NAPIT membership provides independent verification of our qualifications and expertise. You can check our credentials [directly through the NAPIT website using the registration number 66870](https://search.napit.org.uk/member/66870/renegade-electrical-ltd).
 
 For safe, compliant solar panel installation in Prestwich from a trusted NAPIT registered installer, [contact Renegade Solar today](/contact/).

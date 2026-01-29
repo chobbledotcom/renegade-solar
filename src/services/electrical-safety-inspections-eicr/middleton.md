@@ -43,7 +43,7 @@ Penalties for non-compliance are substantial - fines up to £30,000, plus local 
 
 If we find problems like an outdated consumer unit or inadequate wiring (more common in older Middleton properties), you can use this information in purchase negotiations or make informed decisions about proceeding.
 
-**Our satisfied customers say:** _"Ashley came out at short notice to do an electrical safety check on my new property"_ - that's the responsive service Middleton residents expect.
+**Our satisfied customers say:** _"Ashley came out at short notice to do an electrical safety check on our new property"_ - that's the responsive service Middleton residents expect.
 
 ## Understanding Middleton's Property Types
 

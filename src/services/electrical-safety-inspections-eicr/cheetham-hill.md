@@ -13,7 +13,7 @@ tags: [cheetham-hill, eicr]
 
 # EICR Electrical Safety Inspections in Cheetham Hill
 
-Need an EICR in Cheetham Hill? I'm Ashley from Renegade Solar, based in nearby Prestwich. It's £150 plus VAT for any domestic property, same day certificate, no hidden extras. As a NAPIT-registered electrician with over 20 years' experience, I know exactly what to look for in Cheetham Hill's varied properties.
+Need an EICR in Cheetham Hill? We're Renegade Solar, led by Ashley, based in nearby Prestwich. It's £150 plus VAT for any domestic property, same day certificate, no hidden extras. As a NAPIT-registered electrician with over 20 years' experience, we know exactly what to look for in Cheetham Hill's varied properties.
 
 ## £150 plus VAT Fixed Price - No Surprises
 
@@ -21,9 +21,9 @@ Whether you've got a compact Victorian terrace or a modern apartment, it's £150
 
 ## For Cheetham Hill Landlords
 
-The [law requires](https://www.legislation.gov.uk/uksi/2020/312/part/2/made) an EICR every five years and for each new tenancy. Penalties reach £30,000 for non-compliance. I'll get you sorted quickly – usually within a few days of calling.
+The [law requires](https://www.legislation.gov.uk/uksi/2020/312/part/2/made) an EICR every five years and for each new tenancy. Penalties reach £30,000 for non-compliance. We'll get you sorted quickly – usually within a few days of calling.
 
-You'll get the report within 28 days as required, but I actually provide it same day. If I find any C1 or C2 issues, I'll explain exactly what needs fixing and I'll provide fair quotes for the work.
+You'll get the report within 28 days as required, but we actually provide it same day. If we find any C1 or C2 issues, we'll explain exactly what needs fixing and we'll provide fair quotes for the work.
 
 ## For Property Buyers
 
@@ -31,16 +31,16 @@ Getting an EICR before buying could save you thousands. Common issues in Cheetha
 
 ## Victorian Terraces to Modern Flats
 
-Cheetham Hill's older properties often have mixed-era wiring, consumer units without RCD protection, and overloaded circuits. Even newer developments can have issues from rushed construction. I've seen it all, so I know exactly what to check.
+Cheetham Hill's older properties often have mixed-era wiring, consumer units without RCD protection, and overloaded circuits. Even newer developments can have issues from rushed construction. We've seen it all, so we know exactly what to check.
 
-If I find problems, I'll explain them clearly without scaremongering. Common fixes include consumer unit upgrades, additional RCD protection, and proper earthing. I handle all remedial work myself, so you won't need to find another electrician.
+If we find problems, we'll explain them clearly without scaremongering. Common fixes include consumer unit upgrades, additional RCD protection, and proper earthing. We handle all remedial work ourselves, so you won't need to find another electrician.
 
 ## Why Choose Renegade Solar?
 
-I'm minutes away in Prestwich, so you'll get a quick response and no travel charges. My [9.9/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) speaks for itself. I explain everything in plain English, not electrical jargon. When you need quick service, I can often come out the same day – just like I did for a recent Blackley customer who needed urgent electrical repairs.
+We're minutes away in Prestwich, so you'll get a quick response and no travel charges. Our [9.9/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) speaks for itself. We explain everything in plain English, not electrical jargon. When you need quick service, we can often come out the same day – just like we did for a recent Blackley customer who needed urgent electrical repairs.
 
 ## Book Your EICR Today
 
 Don't risk safety or legal problems. Get your EICR sorted by someone who knows Cheetham Hill properties – and who won't rip you off.
 
-**£150 plus VAT all-in for peace of mind. [Contact me today](/contact/) to book your Cheetham Hill EICR.**
+**£150 plus VAT all-in for peace of mind. [Contact us today](/contact/) to book your Cheetham Hill EICR.**

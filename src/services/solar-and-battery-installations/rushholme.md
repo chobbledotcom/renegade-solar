@@ -10,19 +10,19 @@ tags: [rusholme]
 gallery_tags: [rusholme]
 ---
 
-Looking for a solar panel installer in Rusholme? I'm Ashley from Renegade Solar, working across Manchester from my Prestwich base. With a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification, I specialise in solar installations on all types of properties.
+Looking for a solar panel installer in Rusholme? We're Renegade Solar, led by Ashley, working across Manchester from our Prestwich base. With a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification, we specialise in solar installations on all types of properties.
 
 ## Flat Roof Solar Specialists
 
-Rusholme has plenty of properties with flat roofs – whether that's extensions on Victorian houses or commercial buildings. I've completed several flat roof solar installations in the area, and our gallery shows the quality of work you can expect.
+Rusholme has plenty of properties with flat roofs – whether that's extensions on Victorian houses or commercial buildings. We've completed several flat roof solar installations in the area, and our gallery shows the quality of work you can expect.
 
-Flat roofs actually offer some advantages for solar: you can angle the panels optimally regardless of which way your roof faces, and installation is often quicker than on pitched roofs. I use proper mounting systems that won't compromise your roof's waterproofing.
+Flat roofs actually offer some advantages for solar: you can angle the panels optimally regardless of which way your roof faces, and installation is often quicker than on pitched roofs. We use proper mounting systems that won't compromise your roof's waterproofing.
 
 ## Why Choose Renegade Solar
 
 As an MCS-certified installer (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)), your system will qualify for the Smart Export Guarantee. That means you'll get paid for electricity you export back to the grid – something you can't access without MCS certification.
 
-I'm also NAPIT-registered (66870) for electrical safety, an Octopus Energy Trusted Partner, and part of Green Economy's network of sustainable businesses. I handle all the paperwork for grid connection and Smart Export Guarantee applications, so you don't need to worry about the admin side.
+We're also NAPIT-registered (66870) for electrical safety, an Octopus Energy Trusted Partner, and part of Green Economy's network of sustainable businesses. We handle all the paperwork for grid connection and Smart Export Guarantee applications, so you don't need to worry about the admin side.
 
 ## Solar Works in Manchester
 
@@ -32,7 +32,7 @@ According to [Ofgem's latest data](https://www.ofgem.gov.uk/publications/smart-e
 
 ## Traditional Roofs Too
 
-Not got a flat roof? No problem. I've installed solar on all types of Rusholme properties – Victorian terraces with slate roofs, semi-detached houses with tiles, modern builds. Whatever your property type, I'll give you honest advice about what'll work.
+Not got a flat roof? No problem. We've installed solar on all types of Rusholme properties – Victorian terraces with slate roofs, semi-detached houses with tiles, modern builds. Whatever your property type, we'll give you honest advice about what'll work.
 
 ## Battery Storage Makes Sense
 
@@ -42,10 +42,10 @@ For Rusholme households wanting to properly cut their energy bills, battery stor
 
 ## Local Service
 
-Being based in Prestwich means I'm just up the road from Rusholme. No travel charges added to your quote, and if you ever need anything sorting, I'm nearby. I've worked across Manchester for over 15 years, so I know the housing stock well.
+Being based in Prestwich means we're just up the road from Rusholme. No travel charges added to your quote, and if you ever need anything sorting, we're nearby. We've worked across Manchester for over 15 years, so we know the housing stock well.
 
 ## Ready to Cut Your Energy Bills?
 
-With energy prices staying high, solar panels with battery storage offer genuine savings. I'll give you straightforward advice about what'll work for your property – no pressure, no overselling.
+With energy prices staying high, solar panels with battery storage offer genuine savings. We'll give you straightforward advice about what'll work for your property – no pressure, no overselling.
 
 [Get in touch](/contact/) today to discuss solar for your Rusholme property.

@@ -17,7 +17,7 @@ For solar and battery installations you need an electrician with technical exper
 
 Renegade Solar guides you through every step of your solar and battery installation.
 
-I provide honest advice, competitive pricing, and quality workmanship to deliver a solar solution that significantly increases your energy independence while meeting safety standards.
+We provide honest advice, competitive pricing, and quality workmanship to deliver a solar solution that significantly increases your energy independence while meeting safety standards.
 
 With a strong track record of reliability and customer satisfaction, your solar installation is in capable hands.
 

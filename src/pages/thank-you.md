@@ -6,4 +6,4 @@ noindex: true
 ---
 # Contact Renegade Solar
 
-Thank you! Your enquiry has been received and I will be in touch shortly.
+Thank you! Your enquiry has been received and we will be in touch shortly.

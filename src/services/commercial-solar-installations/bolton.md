@@ -24,7 +24,7 @@ Bolton's industrial heritage means many factories and manufacturing facilities w
 
 Hotels and hospitality businesses running kitchens, heating, and facilities throughout the day benefit from solar's rapid payback and long-term savings. Bolton's commercial properties often have extensive roof space that's currently generating zero value - we can turn that into decades of cost savings.
 
-## Real numbers from our Bolton client
+## Real numbers from Our Bolton client
 
 This family-owned warehouse bought their building in the 1980s and now spends £700 monthly on electricity. They've got a massive flat roof that's perfect for solar. We designed two options: 50+ panels covering just the flat roof brings their bills to zero with three-year payback, or 115 panels covering both flat and pitched roofs with four-year payback and maximum generation. Both options eliminate electricity costs and provide 20+ years of free energy after payback. They're currently planning to convert their top floor to storage units and will proceed with the installation once that's done.
 
@@ -34,7 +34,7 @@ Flat roofs give us flexibility that pitched roofs don't - we can mount panels po
 
 If you have spare land, grass verges, or outdoor space, ground-mounted solar supplements rooftop installations or powers [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles. We've installed ground-mounted systems for businesses offering free staff charging powered entirely by solar - valuable employee benefit at zero ongoing electricity cost.
 
-## Requirements and our approach
+## Requirements and Our approach
 
 You must own the building (not leased), have sufficient roof space or land, and ideally high electricity consumption for best returns. Commercial electricity prices have soared in recent years - many Bolton businesses face bills that have doubled or tripled. For businesses on tight margins, reducing £700-£10,000 monthly costs to near zero can be transformative.
 

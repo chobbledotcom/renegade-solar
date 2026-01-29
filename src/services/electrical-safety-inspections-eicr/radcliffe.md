@@ -89,7 +89,7 @@ We can sort out any electrical problems we find during the inspection. No need t
 
 **What about older houses?** These are our bread and butter. We know what to look for and how to explain what needs doing without trying to worry you unnecessarily.
 
-**How quickly can you fit me in?** Usually within a few days for EICR work. Radcliffe is well within our regular service area.
+**How quickly can you fit us in?** Usually within a few days for EICR work. Radcliffe is well within our regular service area.
 
 **Any extra charges for coming to Radcliffe?** No travel costs - £150 plus VAT is the complete price for domestic EICR inspections.
 

@@ -9,6 +9,6 @@ tags: location
 
 # Renegade Solar in Prestwich
 
-I'm Ashley, and I run Renegade Solar from right here in Prestwich. I serve the local community with professional solar panel installations, battery storage systems, and electrical services.
+We're Renegade Solar, led by Ashley, and we're based right here in Prestwich. We serve the local community with professional solar panel installations, battery storage systems, and electrical services.
 
-As your local renewable energy specialist, I understand the unique characteristics of properties in Prestwich and can provide tailored solutions for your home or business.
+As your local renewable energy specialist, we understand the unique characteristics of properties in Prestwich and can provide tailored solutions for your home or business.

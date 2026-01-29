@@ -11,7 +11,7 @@ tags: [stockport, eicr]
 
 # EICR Electrical Safety Inspections in Stockport
 
-I provide professional electrical safety inspections throughout Stockport as a NAPIT-registered electrician. £150 plus VAT for all domestic properties with same day certificates - covering everything from period terraces to modern developments.
+We provide professional electrical safety inspections throughout Stockport as NAPIT-registered electricians. £150 plus VAT for all domestic properties with same day certificates - covering everything from period terraces to modern developments.
 
 ## Stockport's Rich Property Heritage
 
@@ -21,13 +21,13 @@ Stockport boasts an impressive variety of properties, from beautiful Victorian a
 
 **Modern developments** across Stockport should theoretically be problem-free, but industry data shows that electrical installation faults still affect 1 in 5 new builds due to workmanship issues or construction shortcuts.
 
-## My Stockport EICR Service - £150 plus VAT Fixed Price
+## Our Stockport EICR Service - £150 Plus VAT Fixed Price
 
 **£150 plus VAT for any domestic property in Stockport** - from compact Victorian terraces to substantial family homes, the price stays consistent.
 
-Same day certificate provision with quick scheduling options. EICR inspections are more flexible than major electrical installations, so I can often accommodate short notice requests.
+Same day certificate provision with quick scheduling options. EICR inspections are more flexible than major electrical installations, so we can often accommodate short notice requests.
 
-**[Need a Stockport EICR? Contact me today](/contact/)**
+**[Need a Stockport EICR? Contact us today](/contact/)**
 
 ## For Stockport Landlords
 
@@ -41,7 +41,7 @@ Non-compliance consequences are serious - fines up to £30,000, plus local autho
 
 **Get an EICR before any money changes hands.** Stockport's property market represents significant investments, so understanding electrical condition before purchase completion makes financial sense.
 
-If I identify issues like outdated consumer units or inadequate electrical installations (particularly relevant in older Stockport properties), you can factor repair costs into purchase negotiations or make informed decisions about proceeding.
+If we identify issues like outdated consumer units or inadequate electrical installations (particularly relevant in older Stockport properties), you can factor repair costs into purchase negotiations or make informed decisions about proceeding.
 
 Much better to discover potential electrical upgrade costs during your buying process than face unexpected expenses after completion.
 
@@ -63,7 +63,7 @@ Much better to discover potential electrical upgrade costs during your buying pr
 
 ## Comprehensive Electrical Assessment
 
-**Detailed visual inspection** of all accessible electrical installations, including wiring systems, switches, sockets, and consumer unit arrangements. I assess for damage, overheating evidence, and general installation condition.
+**Detailed visual inspection** of all accessible electrical installations, including wiring systems, switches, sockets, and consumer unit arrangements. We assess for damage, overheating evidence, and general installation condition.
 
 **Technical electrical testing** using professionally calibrated equipment. This encompasses continuity testing, insulation resistance measurement, earth fault loop impedance assessment, and RCD operational verification.
 
@@ -71,36 +71,36 @@ Much better to discover potential electrical upgrade costs during your buying pr
 
 ## Stockport Local Knowledge
 
-I work extensively throughout Stockport and understand the electrical characteristics common to different property types and localities. Whether dealing with a carefully preserved period property or a modern home requiring installation verification, local experience provides valuable insight.
+We work extensively throughout Stockport and understand the electrical characteristics common to different property types and localities. Whether dealing with a carefully preserved period property or a modern home requiring installation verification, local experience provides valuable insight.
 
 Stockport's varied housing stock means electrical installations can differ significantly even within similar property types. Recognising what's acceptable and what requires attention needs experience with local building patterns.
 
 ## When Issues Are Discovered
 
-**Clear assessment without sales pressure.** If I find electrical problems, I provide straightforward explanations of what's wrong, why it matters, and what options exist. You receive honest quotes for necessary work without inflated pricing or unnecessary additions.
+**Clear assessment without sales pressure.** If we find electrical problems, we provide straightforward explanations of what's wrong, why it matters, and what options exist. You receive honest quotes for necessary work without inflated pricing or unnecessary additions.
 
-I can handle any electrical work identified during inspection. No need to coordinate multiple specialists - I'll schedule required work within a month.
+We can handle any electrical work identified during inspection. No need to coordinate multiple specialists - we'll schedule required work within a month.
 
-**[Need electrical work after inspection? I provide complete electrical services](/services/)**
+**[Need electrical work after inspection? We provide complete electrical services](/services/)**
 
 ## Stockport EICR Questions
 
-**Do you understand Stockport properties?** Yes, I work regularly throughout the borough and know the electrical characteristics common to different property ages and types.
+**Do you understand Stockport properties?** Yes, we work regularly throughout the borough and know the electrical characteristics common to different property ages and types.
 
-**What about period property conversions?** These present interesting electrical challenges. I understand how to assess installations where modern safety requirements meet heritage property constraints.
+**What about period property conversions?** These present interesting electrical challenges. We understand how to assess installations where modern safety requirements meet heritage property constraints.
 
-**How quickly can you schedule?** Usually within a few days for EICR inspections. Stockport is well within my established service area.
+**How quickly can you schedule?** Usually within a few days for EICR inspections. Stockport is well within our established service area.
 
 **Any additional charges for Stockport?** No travel costs - £150 plus VAT covers complete domestic EICR inspection service.
 
-**Do you work with local professionals?** I provide inspection services for buyers, sellers, landlords, tenants, and property professionals throughout Stockport.
+**Do you work with local professionals?** we provide inspection services for buyers, sellers, landlords, tenants, and property professionals throughout Stockport.
 
 ## Professional Electrical Safety Standards
 
 **NAPIT registered electrician with 20+ years experience** serving Stockport's diverse property community.
 
-I understand that Stockport property owners expect professional service that matches the area's standards. Same day certificates, clear explanations, competitive pricing, and reliable work that provides confidence in electrical safety.
+We understand that Stockport property owners expect professional service that matches the area's standards. Same day certificates, clear explanations, competitive pricing, and reliable work that provides confidence in electrical safety.
 
-Whether you're a landlord maintaining rental compliance, a buyer protecting a substantial investment, or a homeowner seeking electrical safety assurance, I deliver the inspection service that meets Stockport's expectations.
+Whether you're a landlord maintaining rental compliance, a buyer protecting a substantial investment, or a homeowner seeking electrical safety assurance, we deliver the inspection service that meets Stockport's expectations.
 
 **[Book your Stockport EICR inspection today](/contact/)**

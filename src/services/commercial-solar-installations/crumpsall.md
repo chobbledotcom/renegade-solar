@@ -32,7 +32,7 @@ Flat roofs let us mount panels pointing south regardless of building orientation
 
 Commercial electricity prices have soared in recent years - many Crumpsall businesses face bills that have doubled or tripled. Reducing £700-£10,000 monthly costs to near zero can transform business viability while providing protection from future price rises and demonstrating environmental commitment increasingly valued by customers.
 
-## Requirements and our approach
+## Requirements and Our approach
 
 You must own the building (not leased), have sufficient roof space or land, and ideally high electricity consumption for best returns. As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we provide honest advice - if solar doesn't make financial sense for your business, we'll tell you. We also handle all [electrical certifications](/services/electrical-testing/) and grid connection requirements so you can earn income from excess generation.
 
