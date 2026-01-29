@@ -1,6 +1,6 @@
 ---
-title: EICR Electrical Safety Inspections in Prestwich | £150 Same Day Certificate
-description: Professional EICR electrical inspections in Prestwich. £150 all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Victorian terraces specialist.
+title: EICR Electrical Safety Inspections in Prestwich | £150 plus VAT Same Day Certificate
+description: Professional EICR electrical inspections in Prestwich. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Victorian terraces specialist.
 link_title: EICR Inspection
 heading: EICR Inspections in Prestwich
 icon: /assets/icons/check.svg
@@ -11,7 +11,7 @@ tags: [prestwich, eicr]
 
 # EICR Electrical Safety Inspections in Prestwich
 
-Need an EICR in Prestwich? I'm Ashley from Renegade Solar, your local NAPIT-registered electrician. I provide professional electrical safety inspections for £150 - same day certificates, no waiting around.
+Need an EICR in Prestwich? I'm Ashley from Renegade Solar, your local NAPIT-registered electrician. I provide professional electrical safety inspections for £150 plus VAT - same day certificates, no waiting around.
 
 ## Why Prestwich Properties Need Regular EICRs
 
@@ -26,9 +26,9 @@ Prestwich has a brilliant mix of Victorian terraced houses and more modern prope
 
 The newer developments around Prestwich have their own challenges too. Research shows 1 in 5 new builds have electrical faults from poor workmanship or rushed installation work.
 
-## My Prestwich EICR Service - £150 Fixed Price
+## My Prestwich EICR Service - £150 plus VAT Fixed Price
 
-**£150 for any domestic property in Prestwich** - whether you're in a compact Victorian terrace or a larger modern house, the price stays the same.
+**£150 plus VAT for any domestic property in Prestwich** - whether you're in a compact Victorian terrace or a larger modern house, the price stays the same.
 
 I can usually fit you in quickly - EICR inspections slot in easier than bigger electrical jobs, and you get all your certificates on the same day. No waiting for paperwork in the post.
 
@@ -89,13 +89,13 @@ I can handle any electrical problems I discover during inspection - why involve 
 
 **How quickly can you fit me in?** Usually within a few days. Prestwich isn't a long journey for me, so I can often accommodate short notice requests.
 
-**Do you charge extra to come to Prestwich?** No travel charges - £150 is £150 wherever you are in Prestwich.
+**Do you charge extra to come to Prestwich?** No travel charges - £150 plus VAT wherever you are in Prestwich.
 
 ## Book Your Prestwich EICR
 
 **Professional EICR inspections from a local electrician who knows Prestwich properties.**
 
-£150 all domestic properties. Same day certificates. NAPIT registered with 20+ years experience.
+£150 plus VAT all domestic properties. Same day certificates. NAPIT registered with 20+ years experience.
 
 Whether you're a landlord needing compliance, a buyer protecting your investment, or a homeowner wanting peace of mind, I'll sort you out with a proper inspection at a fair price.
 

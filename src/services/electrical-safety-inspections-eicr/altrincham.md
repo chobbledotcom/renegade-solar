@@ -1,6 +1,6 @@
 ---
-title: EICR Electrical Safety Inspections in Altrincham | £150 Same Day Certificate
-description: Professional EICR electrical inspections in Altrincham. £150 all domestic properties, same day certificates. NAPIT registered, specialist in period properties and modern developments.
+title: EICR Electrical Safety Inspections in Altrincham | £150 plus VAT Same Day Certificate
+description: Professional EICR electrical inspections in Altrincham. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, specialist in period properties and modern developments.
 link_title: EICR Inspection
 heading: EICR Inspections in Altrincham
 icon: /assets/icons/check.svg
@@ -11,7 +11,7 @@ tags: [altrincham, eicr]
 
 # EICR Electrical Safety Inspections in Altrincham
 
-Professional electrical safety inspections in Altrincham from NAPIT-registered electricians. £150 for all domestic properties with same day certificates - no matter whether you're in a Georgian townhouse or a modern apartment.
+Professional electrical safety inspections in Altrincham from NAPIT-registered electricians. £150 plus VAT for all domestic properties with same day certificates - no matter whether you're in a Georgian townhouse or a modern apartment.
 
 ## Altrincham's Diverse Property Portfolio
 
@@ -21,9 +21,9 @@ Altrincham's got everything from beautiful Georgian and Victorian properties aro
 
 **Modern developments and conversions** might seem like they'd be problem-free, but research shows 1 in 5 new builds still have electrical faults. Poor workmanship during rushed construction phases can create issues that only show up during proper testing.
 
-## Our Altrincham EICR Service - £150 All Properties
+## Our Altrincham EICR Service - £150 plus VAT All Properties
 
-**Fixed price of £150 for any domestic property in Altrincham** - whether you're in a compact conversion flat or a substantial family home, the price doesn't change.
+**Fixed price of £150 plus VAT for any domestic property in Altrincham** - whether you're in a compact conversion flat or a substantial family home, the price doesn't change.
 
 We provide same day certificates and can usually fit you in quickly. EICR inspections are easier to schedule than major electrical work, so we can often accommodate requests at short notice.
 
@@ -91,7 +91,7 @@ We can handle any electrical issues discovered during inspection. Why complicate
 
 **How quickly can you schedule an inspection?** Usually within a few days. Altrincham is well within our regular coverage area.
 
-**Any additional charges for Altrincham?** No travel charges - £150 covers everything for domestic properties.
+**Any additional charges for Altrincham?** No travel charges - £150 plus VAT covers everything for domestic properties.
 
 **Do you work with local estate agents?** We work with buyers, sellers, landlords, and tenants throughout Altrincham. Professional service that estate agents and solicitors trust.
 

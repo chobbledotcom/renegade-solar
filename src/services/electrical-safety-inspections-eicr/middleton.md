@@ -1,6 +1,6 @@
 ---
-title: EICR Electrical Safety Inspections in Middleton | £150 Same Day Certificate
-description: Professional EICR electrical inspections in Middleton. £150 all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electrical safety experts.
+title: EICR Electrical Safety Inspections in Middleton | £150 plus VAT Same Day Certificate
+description: Professional EICR electrical inspections in Middleton. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electrical safety experts.
 link_title: EICR Inspection
 heading: EICR Inspections in Middleton
 icon: /assets/icons/check.svg
@@ -11,7 +11,7 @@ tags: [middleton, eicr]
 
 # EICR Electrical Safety Inspections in Middleton
 
-Professional electrical safety inspections throughout Middleton from experienced NAPIT-registered electricians. £150 for all domestic properties - same day certificates, no waiting around.
+Professional electrical safety inspections throughout Middleton from experienced NAPIT-registered electricians. £150 plus VAT for all domestic properties - same day certificates, no waiting around.
 
 ## Middleton's Varied Housing Stock
 
@@ -21,9 +21,9 @@ Middleton has a good mix of properties, from traditional terraced houses around 
 
 **Modern housing developments** around Middleton should be more straightforward, but even recent builds can have problems. Research shows that electrical installation faults affect 1 in 5 new builds, often due to poor workmanship or construction shortcuts.
 
-## Our Middleton EICR Service - £150 All Properties
+## Our Middleton EICR Service - £150 plus VAT All Properties
 
-**£150 for any domestic property in Middleton** - whether you're in a compact terrace or a larger family home, the price stays the same.
+**£150 plus VAT for any domestic property in Middleton** - whether you're in a compact terrace or a larger family home, the price stays the same.
 
 We provide same day certificates and can usually schedule inspections quickly. EICR testing fits around other electrical work more easily, so we can often accommodate requests at short notice.
 
@@ -91,7 +91,7 @@ We can handle any electrical work discovered during inspection. No need to coord
 
 **How quickly can you schedule?** Usually within a few days for EICR inspections. Middleton is well within our regular service area.
 
-**Any extra charges for Middleton?** No travel charges - £150 covers everything for domestic EICR inspections.
+**Any extra charges for Middleton?** No travel charges - £150 plus VAT covers everything for domestic EICR inspections.
 
 **Do you work with local estate agents?** We provide inspection services for buyers, sellers, landlords, and tenants throughout the Middleton area.
 

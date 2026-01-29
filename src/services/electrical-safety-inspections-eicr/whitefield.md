@@ -1,6 +1,6 @@
 ---
-title: EICR Electrical Safety Inspections in Whitefield | £150 Same Day Certificate
-description: Professional EICR electrical inspections in Whitefield. £150 all domestic properties, same day certificates. NAPIT registered, Victorian terrace and modern home specialist.
+title: EICR Electrical Safety Inspections in Whitefield | £150 plus VAT Same Day Certificate
+description: Professional EICR electrical inspections in Whitefield. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, Victorian terrace and modern home specialist.
 link_title: EICR Inspection
 heading: EICR Inspections in Whitefield
 icon: /assets/icons/check.svg
@@ -11,7 +11,7 @@ tags: [whitefield, eicr]
 
 # EICR Electrical Safety Inspections in Whitefield
 
-Professional electrical safety inspections throughout Whitefield from a local NAPIT-registered electrician. £150 for all domestic properties - same day certificates whether you're in a Victorian terrace or modern family home.
+Professional electrical safety inspections throughout Whitefield from a local NAPIT-registered electrician. £150 plus VAT for all domestic properties - same day certificates whether you're in a Victorian terrace or modern family home.
 
 ## Whitefield's Mix of Housing Stock
 
@@ -21,9 +21,9 @@ Whitefield's got a great variety of properties, from the Victorian terraces arou
 
 **Modern developments** around Whitefield might seem straightforward, but even new builds can have issues. Research consistently shows that 1 in 5 new builds have electrical installation faults, often from poor workmanship or shortcuts during construction.
 
-## Our Whitefield EICR Service - £150 Fixed Price
+## Our Whitefield EICR Service - £150 plus VAT Fixed Price
 
-**£150 for any domestic property in Whitefield** - from compact terraced houses to larger family homes, the price stays the same.
+**£150 plus VAT for any domestic property in Whitefield** - from compact terraced houses to larger family homes, the price stays the same.
 
 Same day service with all certificates provided immediately. I can usually schedule EICR inspections quickly since they're easier to fit around other work.
 
@@ -91,7 +91,7 @@ I can handle remedial electrical work discovered during inspection. No need to f
 
 **How quickly can you schedule?** Usually within a few days for EICR inspections. Whitefield is within my core service area.
 
-**Any travel charges for Whitefield?** No additional costs - £150 covers everything for domestic EICR inspections.
+**Any travel charges for Whitefield?** No additional costs - £150 plus VAT covers everything for domestic EICR inspections.
 
 **Do you work with local estate agents?** I provide inspection services for buyers, sellers, landlords, and tenants throughout Whitefield.
 

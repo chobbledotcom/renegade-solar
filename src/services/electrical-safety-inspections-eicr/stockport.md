@@ -1,6 +1,6 @@
 ---
-title: EICR Electrical Safety Inspections in Stockport | £150 Same Day Certificate
-description: Professional EICR electrical inspections in Stockport. £150 all domestic properties, same day certificates. NAPIT registered, period properties and modern homes specialist.
+title: EICR Electrical Safety Inspections in Stockport | £150 plus VAT Same Day Certificate
+description: Professional EICR electrical inspections in Stockport. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, period properties and modern homes specialist.
 link_title: EICR Inspection
 heading: EICR Inspections in Stockport
 icon: /assets/icons/check.svg
@@ -11,7 +11,7 @@ tags: [stockport, eicr]
 
 # EICR Electrical Safety Inspections in Stockport
 
-I provide professional electrical safety inspections throughout Stockport as a NAPIT-registered electrician. £150 for all domestic properties with same day certificates - covering everything from period terraces to modern developments.
+I provide professional electrical safety inspections throughout Stockport as a NAPIT-registered electrician. £150 plus VAT for all domestic properties with same day certificates - covering everything from period terraces to modern developments.
 
 ## Stockport's Rich Property Heritage
 
@@ -21,9 +21,9 @@ Stockport boasts an impressive variety of properties, from beautiful Victorian a
 
 **Modern developments** across Stockport should theoretically be problem-free, but industry data shows that electrical installation faults still affect 1 in 5 new builds due to workmanship issues or construction shortcuts.
 
-## My Stockport EICR Service - £150 Fixed Price
+## My Stockport EICR Service - £150 plus VAT Fixed Price
 
-**£150 for any domestic property in Stockport** - from compact Victorian terraces to substantial family homes, the price stays consistent.
+**£150 plus VAT for any domestic property in Stockport** - from compact Victorian terraces to substantial family homes, the price stays consistent.
 
 Same day certificate provision with quick scheduling options. EICR inspections are more flexible than major electrical installations, so I can often accommodate short notice requests.
 
@@ -91,7 +91,7 @@ I can handle any electrical work identified during inspection. No need to coordi
 
 **How quickly can you schedule?** Usually within a few days for EICR inspections. Stockport is well within my established service area.
 
-**Any additional charges for Stockport?** No travel costs - £150 covers complete domestic EICR inspection service.
+**Any additional charges for Stockport?** No travel costs - £150 plus VAT covers complete domestic EICR inspection service.
 
 **Do you work with local professionals?** I provide inspection services for buyers, sellers, landlords, tenants, and property professionals throughout Stockport.
 
