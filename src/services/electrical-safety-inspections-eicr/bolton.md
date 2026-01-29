@@ -1,6 +1,6 @@
 ---
-title: EICR Electrical Safety Inspections in Bolton | £150 Same Day Certificate
-description: Professional EICR electrical inspections in Bolton. £150 all domestic properties, same day certificates. NAPIT registered, terraced houses and commercial premises specialist.
+title: EICR Electrical Safety Inspections in Bolton | £150 plus VAT Same Day Certificate
+description: Professional EICR electrical inspections in Bolton. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, terraced houses and commercial premises specialist.
 link_title: EICR Inspection
 heading: EICR Inspections in Bolton
 icon: /assets/icons/check.svg
@@ -11,7 +11,7 @@ tags: [bolton, eicr]
 
 # EICR Electrical Safety Inspections in Bolton
 
-Professional electrical safety inspections throughout Bolton from NAPIT-registered electricians. £150 for all domestic properties with same day certificates - covering everything from traditional terraced houses to modern developments and commercial premises.
+Professional electrical safety inspections throughout Bolton from NAPIT-registered electricians. £150 plus VAT for all domestic properties with same day certificates - covering everything from traditional terraced houses to modern developments and commercial premises.
 
 ## Bolton's Property Landscape
 
@@ -23,9 +23,9 @@ As the UK's largest town with 280,000 residents, Bolton features a distinctive h
 
 **Modern developments** should theoretically be problem-free, but industry data shows that electrical installation faults still affect 1 in 5 new builds due to workmanship issues or construction shortcuts.
 
-## Our Bolton EICR Service - £150 Fixed Price
+## Our Bolton EICR Service - £150 plus VAT Fixed Price
 
-**£150 for any domestic property in Bolton** - from compact terraced houses to substantial family homes, the price stays consistent.
+**£150 plus VAT for any domestic property in Bolton** - from compact terraced houses to substantial family homes, the price stays consistent.
 
 Same day certificate provision with quick scheduling options. EICR inspections are more flexible than major electrical installations, so we can often accommodate short notice requests.
 
@@ -85,7 +85,7 @@ We can handle any electrical work identified during inspection. No need to coord
 
 **How quickly can you schedule?** Usually within a few days for EICR inspections. Bolton is well within our established service area, easily accessible via the M61.
 
-**Any additional charges for Bolton?** No travel costs - £150 covers complete domestic EICR inspection service.
+**Any additional charges for Bolton?** No travel costs - £150 plus VAT covers complete domestic EICR inspection service.
 
 **Do you work with local professionals?** We provide inspection services for buyers, sellers, landlords, tenants, and property professionals throughout Bolton.
 

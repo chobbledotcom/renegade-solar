@@ -1,6 +1,6 @@
 ---
-title: EICR Electrical Safety Inspections in Trafford | £150 Same Day Certificate
-description: Professional EICR electrical inspections in Trafford. £150 all domestic properties, same day certificates. NAPIT registered, specialist in period properties and executive homes.
+title: EICR Electrical Safety Inspections in Trafford | £150 plus VAT Same Day Certificate
+description: Professional EICR electrical inspections in Trafford. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, specialist in period properties and executive homes.
 link_title: EICR Inspection
 heading: EICR Inspections in Trafford
 icon: /assets/icons/check.svg
@@ -11,7 +11,7 @@ tags: [trafford, eicr]
 
 # EICR Electrical Safety Inspections in Trafford
 
-Professional electrical safety inspections throughout Trafford from NAPIT-registered electricians. £150 for all domestic properties - same day certificates for everything from period properties to executive developments.
+Professional electrical safety inspections throughout Trafford from NAPIT-registered electricians. £150 plus VAT for all domestic properties - same day certificates for everything from period properties to executive developments.
 
 ## Trafford's Premium Property Market
 
@@ -21,9 +21,9 @@ Trafford boasts some of Greater Manchester's most desirable properties, from stu
 
 **Executive developments and conversions** across Trafford should meet high standards, but even premium new builds can have issues. Research consistently shows electrical installation faults in 1 in 5 new properties, regardless of price point, often due to subcontractor quality variations.
 
-## Our Trafford EICR Service - £150 All Properties
+## Our Trafford EICR Service - £150 plus VAT All Properties
 
-**£150 for any domestic property in Trafford** - whether you're in a substantial period house or a luxury apartment conversion, our pricing remains consistent.
+**£150 plus VAT for any domestic property in Trafford** - whether you're in a substantial period house or a luxury apartment conversion, our pricing remains consistent.
 
 Same day certificate provision with flexible scheduling. EICR inspections integrate more easily than major electrical projects, allowing us to accommodate requests efficiently.
 
@@ -91,7 +91,7 @@ We can handle any electrical work identified during inspection to the standards 
 
 **How quickly can you schedule inspections?** Usually within a few days for EICR assessments. Trafford is a core part of our service area.
 
-**Any premium charges for Trafford?** No additional costs - £150 provides complete domestic EICR inspection service regardless of property value.
+**Any premium charges for Trafford?** No additional costs - £150 plus VAT provides complete domestic EICR inspection service regardless of property value.
 
 **Do you work with local property professionals?** We provide inspection services for buyers, sellers, landlords, tenants, and property professionals throughout Trafford's market.
 

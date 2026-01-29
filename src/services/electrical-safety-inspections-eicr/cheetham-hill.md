@@ -1,6 +1,6 @@
 ---
-title: EICR Electrical Safety Inspections in Cheetham Hill | £150 Same Day Certificate
-description: Professional EICR electrical inspections in Cheetham Hill. £150 all domestic properties, same day certificates. NAPIT registered, 20+ years experience.
+title: EICR Electrical Safety Inspections in Cheetham Hill | £150 plus VAT Same Day Certificate
+description: Professional EICR electrical inspections in Cheetham Hill. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience.
 link_title: EICR Inspection
 heading: EICR Inspections in Cheetham Hill
 icon: /assets/icons/check.svg
@@ -13,11 +13,11 @@ tags: [cheetham-hill, eicr]
 
 # EICR Electrical Safety Inspections in Cheetham Hill
 
-Need an EICR in Cheetham Hill? I'm Ashley from Renegade Solar, based in nearby Prestwich. It's £150 for any domestic property, same day certificate, no hidden extras. As a NAPIT-registered electrician with over 20 years' experience, I know exactly what to look for in Cheetham Hill's varied properties.
+Need an EICR in Cheetham Hill? I'm Ashley from Renegade Solar, based in nearby Prestwich. It's £150 plus VAT for any domestic property, same day certificate, no hidden extras. As a NAPIT-registered electrician with over 20 years' experience, I know exactly what to look for in Cheetham Hill's varied properties.
 
-## £150 Fixed Price - No Surprises
+## £150 plus VAT Fixed Price - No Surprises
 
-Whether you've got a compact Victorian terrace or a modern apartment, it's £150. That includes everything – the inspection, certificate, and report. No travel charges, no VAT surprises, just £150.
+Whether you've got a compact Victorian terrace or a modern apartment, it's £150 plus VAT. That includes everything – the inspection, certificate, and report. No travel charges, no hidden extras, just £150 plus VAT.
 
 ## For Cheetham Hill Landlords
 
@@ -43,4 +43,4 @@ I'm minutes away in Prestwich, so you'll get a quick response and no travel char
 
 Don't risk safety or legal problems. Get your EICR sorted by someone who knows Cheetham Hill properties – and who won't rip you off.
 
-**£150 all-in for peace of mind. [Contact me today](/contact/) to book your Cheetham Hill EICR.**
+**£150 plus VAT all-in for peace of mind. [Contact me today](/contact/) to book your Cheetham Hill EICR.**

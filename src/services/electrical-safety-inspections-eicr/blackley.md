@@ -1,6 +1,6 @@
 ---
-title: EICR Electrical Safety Inspections in Blackley | £150 Same Day Certificate
-description: Professional EICR electrical inspections in Blackley. £150 all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electrical safety experts.
+title: EICR Electrical Safety Inspections in Blackley | £150 plus VAT Same Day Certificate
+description: Professional EICR electrical inspections in Blackley. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electrical safety experts.
 link_title: EICR Inspection
 heading: EICR Inspections in Blackley
 icon: /assets/icons/check.svg
@@ -11,7 +11,7 @@ tags: [blackley, eicr]
 
 # EICR Electrical Safety Inspections in Blackley
 
-Professional electrical safety inspections throughout Blackley from experienced NAPIT-registered electricians. £150 for all domestic properties - same day certificates with no waiting around.
+Professional electrical safety inspections throughout Blackley from experienced NAPIT-registered electricians. £150 plus VAT for all domestic properties - same day certificates with no waiting around.
 
 ## Blackley's Established Housing Areas
 
@@ -21,9 +21,9 @@ Blackley has a solid mix of properties, from traditional terraced houses and cou
 
 **Council-built properties and modern developments** around Blackley should be more straightforward, but even these can have issues. Research shows that 1 in 5 properties can have electrical installation problems, often from maintenance issues or modifications over the years.
 
-## Our Blackley EICR Service - £150 All Properties
+## Our Blackley EICR Service - £150 plus VAT All Properties
 
-**£150 for any domestic property in Blackley** - whether you're in a compact terrace, council property, or larger family home, the price doesn't change.
+**£150 plus VAT for any domestic property in Blackley** - whether you're in a compact terrace, council property, or larger family home, the price doesn't change.
 
 We provide same day certificates and can usually fit you in quickly. EICR inspections are easier to schedule around other electrical work, so we can often help with short notice requests.
 
@@ -91,7 +91,7 @@ We can sort out any electrical problems we find during the inspection. No need t
 
 **How quickly can you fit me in?** Usually within a few days for EICR work. Blackley is well within our regular service area.
 
-**Any extra charges for coming to Blackley?** No travel costs - £150 is the complete price for domestic EICR inspections.
+**Any extra charges for coming to Blackley?** No travel costs - £150 plus VAT is the complete price for domestic EICR inspections.
 
 **Do you work with local housing associations?** We provide inspection services for all types of property owners, tenants, and housing providers throughout the Blackley area.
 

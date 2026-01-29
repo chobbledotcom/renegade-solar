@@ -1,6 +1,6 @@
 ---
-title: EICR Electrical Safety Inspections in Bury | £150 Same Day Certificate
-description: Professional EICR electrical inspections in Bury. £150 all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electricians.
+title: EICR Electrical Safety Inspections in Bury | £150 plus VAT Same Day Certificate
+description: Professional EICR electrical inspections in Bury. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electricians.
 link_title: EICR Inspection
 heading: EICR Inspections in Bury
 icon: /assets/icons/check.svg
@@ -11,7 +11,7 @@ tags: [bury, eicr]
 
 # EICR Electrical Safety Inspections in Bury
 
-Professional electrical safety inspections throughout Bury from experienced NAPIT-registered electricians. £150 for all domestic properties - same day certificates, no waiting around.
+Professional electrical safety inspections throughout Bury from experienced NAPIT-registered electricians. £150 plus VAT for all domestic properties - same day certificates, no waiting around.
 
 ## Bury's Diverse Housing Stock
 
@@ -21,9 +21,9 @@ Bury has an interesting mix of properties, from traditional terraced houses arou
 
 **Modern housing developments** around Bury should be more straightforward, but even recent builds can have problems. Industry research shows that electrical installation faults affect 1 in 5 new properties, often due to poor workmanship or construction shortcuts.
 
-## Our Bury EICR Service - £150 All Properties
+## Our Bury EICR Service - £150 plus VAT All Properties
 
-**£150 for any domestic property in Bury** - whether you're in a compact terrace or a larger family home, the price remains the same.
+**£150 plus VAT for any domestic property in Bury** - whether you're in a compact terrace or a larger family home, the price remains the same.
 
 We provide same day certificates and can usually schedule inspections quickly. EICR testing fits around other electrical work more easily, so we can often accommodate requests at short notice.
 
@@ -91,7 +91,7 @@ We can handle any electrical work discovered during inspection. No need to coord
 
 **How quickly can you fit me in?** Usually within a few days for EICR inspections. Bury is well within our regular service area.
 
-**Any extra charges for Bury?** No travel charges - £150 is the complete price for domestic EICR inspections.
+**Any extra charges for Bury?** No travel charges - £150 plus VAT is the complete price for domestic EICR inspections.
 
 **Do you work with local estate agents?** We provide inspection services for buyers, sellers, landlords, and tenants throughout the Bury area.
 

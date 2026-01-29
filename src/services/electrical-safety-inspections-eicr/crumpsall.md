@@ -1,6 +1,6 @@
 ---
-title: EICR Electrical Safety Inspections in Crumpsall | £150 Same Day Certificate
-description: Professional EICR electrical inspections in Crumpsall. £150 all domestic properties, same day certificates. NAPIT registered, 20+ years experience.
+title: EICR Electrical Safety Inspections in Crumpsall | £150 plus VAT Same Day Certificate
+description: Professional EICR electrical inspections in Crumpsall. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience.
 link_title: EICR Inspection
 heading: EICR Inspections in Crumpsall
 icon: /assets/icons/check.svg
@@ -13,11 +13,11 @@ tags: [crumpsall, eicr]
 
 # EICR Electrical Safety Inspections in Crumpsall
 
-Need an EICR in Crumpsall? I'm Ashley from Renegade Solar, just down the road in Prestwich. It's £150 flat rate, same day certificate, no hidden charges. NAPIT-registered with 20+ years' experience and a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/).
+Need an EICR in Crumpsall? I'm Ashley from Renegade Solar, just down the road in Prestwich. It's £150 plus VAT flat rate, same day certificate, no hidden charges. NAPIT-registered with 20+ years' experience and a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/).
 
-## £150 All-In - Guaranteed
+## £150 plus VAT All-In - Guaranteed
 
-Semi-detached, Victorian terrace, bungalow, or flat – it's £150. No VAT surprises, no travel charges, no "extras" discovered halfway through. Just £150 for complete peace of mind.
+Semi-detached, Victorian terrace, bungalow, or flat – it's £150 plus VAT. No travel charges, no "extras" discovered halfway through. Just £150 plus VAT for complete peace of mind.
 
 ## Crumpsall Landlords - Stay Legal
 
@@ -43,4 +43,4 @@ Minutes away in Prestwich means quick response and no travel charges. My Checkat
 
 Don't risk fines, failed sales, or electrical dangers. Book your EICR with someone who knows Crumpsall – and who won't take advantage.
 
-**£150 for complete electrical safety certification. [Contact me now](/contact/) to book your Crumpsall EICR.**
+**£150 plus VAT for complete electrical safety certification. [Contact me now](/contact/) to book your Crumpsall EICR.**

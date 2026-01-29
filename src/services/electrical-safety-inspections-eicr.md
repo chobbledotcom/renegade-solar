@@ -1,6 +1,6 @@
 ---
 title: Electrical Safety Inspections (EICR)
-snippet: Just £150 with same-day certificates and no hard sells.
+snippet: Just £150 plus VAT with same-day certificates and no hard sells.
 icon: /assets/icons/check.svg
 location_pages: true
 order: 6
@@ -17,9 +17,9 @@ An **Electrical Installation Condition Report (EICR)** is basically a comprehens
 
 You definitely need one if you're a landlord - it's the law, every 5 years and for new tenants. Buying a house? Get it done before any money changes hands. Selling a property? Buyers will probably want to see one. And if you haven't had your electrics checked in years, it's recommended every 10 years anyway.
 
-## My EICR Service - £150 All Domestic Properties
+## My EICR Service - £150 Plus VAT All Domestic Properties
 
-**Fixed price of £150 for any domestic property** - doesn't matter if it's a one-bed flat or a five-bed house. You get your inspection and all certificates on the same day with no waiting around for paperwork. I can usually fit you in as soon as you call since EICR inspections slot in easier than my bigger electrical jobs.
+**Fixed price of £150 plus VAT for any domestic property** - doesn't matter if it's a one-bed flat or a five-bed house. You get your inspection and all certificates on the same day with no waiting around for paperwork. I can usually fit you in as soon as you call since EICR inspections slot in easier than my bigger electrical jobs.
 
 **[Ready to book your EICR? Get in touch today](/contact/)**
 
@@ -109,7 +109,7 @@ I've been doing this for 20+ years, so I've seen it all. Most problems aren't as
 
 ## Book Your EICR Today
 
-**£150 for any domestic property. Same day certificates. No hard sell.**
+**£150 plus VAT for any domestic property. Same day certificates. No hard sell.**
 
 I can usually get you booked in as soon as you call. Whether you're a landlord who needs to tick the legal boxes, a buyer who wants to know what they're getting into, or just someone who wants to sleep better knowing their electrics are safe - I'll sort you out.
 

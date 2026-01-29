@@ -1,17 +1,17 @@
 ---
-description: Professional EICR electrical inspections in Radcliffe. £150 all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electrical safety experts.
+description: Professional EICR electrical inspections in Radcliffe. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electrical safety experts.
 heading: EICR Inspections in Radcliffe
 icon: /assets/icons/check.svg
 link_title: EICR Inspection
 redirect_from:
   - /radcliffe-eicr-inspections/
 tags: [radcliffe, eicr]
-title: EICR Electrical Safety Inspections in Radcliffe | £150 Same Day Certificate
+title: EICR Electrical Safety Inspections in Radcliffe | £150 plus VAT Same Day Certificate
 ---
 
 # EICR Electrical Safety Inspections in Radcliffe
 
-Professional electrical safety inspections throughout Radcliffe from experienced NAPIT-registered electricians. £150 for all domestic properties - same day certificates with no waiting around.
+Professional electrical safety inspections throughout Radcliffe from experienced NAPIT-registered electricians. £150 plus VAT for all domestic properties - same day certificates with no waiting around.
 
 ## Radcliffe's Established Housing Areas
 
@@ -21,9 +21,9 @@ Radcliffe has a solid mix of properties, from traditional terraced houses around
 
 **Modern housing estates** around Radcliffe should be more straightforward, but even recent builds can surprise you. Industry research shows that 1 in 5 new builds still have electrical installation problems, often from poor workmanship or corners cut during construction.
 
-## Our Radcliffe EICR Service - £150 All Properties
+## Our Radcliffe EICR Service - £150 plus VAT All Properties
 
-**£150 for any domestic property in Radcliffe** - whether you're in a compact terrace or a larger family home, the price doesn't change.
+**£150 plus VAT for any domestic property in Radcliffe** - whether you're in a compact terrace or a larger family home, the price doesn't change.
 
 We provide same day certificates and can usually fit you in quickly. EICR inspections are easier to schedule around other electrical work, so we can often help with short notice requests.
 
@@ -91,7 +91,7 @@ We can sort out any electrical problems we find during the inspection. No need t
 
 **How quickly can you fit me in?** Usually within a few days for EICR work. Radcliffe is well within our regular service area.
 
-**Any extra charges for coming to Radcliffe?** No travel costs - £150 is the complete price for domestic EICR inspections.
+**Any extra charges for coming to Radcliffe?** No travel costs - £150 plus VAT is the complete price for domestic EICR inspections.
 
 **Do you work with local estate agents?** We do inspections for buyers, sellers, landlords, and tenants throughout the Radcliffe area.
 
