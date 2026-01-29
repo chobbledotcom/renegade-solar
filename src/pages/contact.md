@@ -17,4 +17,7 @@ Our business hours are **9am to 5pm**, **Monday to Friday**, but if you drop us 
 - **WhatsApp:** [Click here](https://wa.me/447868643147)
 - **Facebook:** [@RenSolarManchester](https://www.facebook.com/RenSolarManchester)
 
+- **Company Registration Number:** [11368812](https://find-and-update.company-information.service.gov.uk/company/11368812)
+- **VAT Number:** 501531837
+
 Or send us a message through the contact form below.
