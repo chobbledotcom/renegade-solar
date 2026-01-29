@@ -69,8 +69,6 @@ If we cannot resolve a complaint or the customer is not satisfied with what we o
 
 If the complaint is about technical parts of a solar PV system installation, we will direct the customer to our MCS installer certification body.
 
-The MCS Helpdesk is open Monday to Friday, 9.00am to 4.30pm (closed on bank holidays).
-
 - **Phone:** 0333 103 8130
 - **Email:** hello@mcscertified.com
 - **Website:** [mcscertified.com/about-us/contact-us](https://mcscertified.com/about-us/contact-us/)
