@@ -4,6 +4,6 @@ permalink: /accreditations/
 layout: accreditations.html
 noindex: false
 ---
-# My Accreditations
+# Our Accreditations
 
-Click through the links below to read about the accreditations I've achieved for Renegade Solar
+Click through the links below to read about the accreditations we've achieved for Renegade Solar

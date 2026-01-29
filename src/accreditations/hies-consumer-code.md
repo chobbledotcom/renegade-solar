@@ -12,7 +12,7 @@ When you're looking for a solar panel installer it's important to choose someone
 
 ## What is the HEIS Consumer Code?
 
-The HEIS Consumer Code is a set of standards that approved solar installers must follow. As a member, I am committed to:
+The HEIS Consumer Code is a set of standards that approved solar installers must follow. As a member, we are committed to:
 
 - Providing clear information before, during and after your installation
 - Using fair contracts with transparent terms
@@ -31,10 +31,10 @@ Many homeowners in Manchester are now considering solar panels to reduce energy 
 
 ## Local Experience Matters
 
-As a North Manchester-based electrician with over 15 years of experience, I understand the specific requirements for solar installations in Prestwich, Whitefield, Middleton, and all nearby towns. My background in both domestic and commercial electrical work provides the knowledge needed to handle solar panel systems of all sizes.
+As a North Manchester-based team with over 15 years of experience, we understand the specific requirements for solar installations in Prestwich, Whitefield, Middleton, and all nearby towns. Our background in both domestic and commercial electrical work provides the knowledge needed to handle solar panel systems of all sizes.
 
 ## Get in Touch
 
-If you're considering solar panels for your home, [contact me](/contact/) to discuss your options. I can provide clear information about the process, costs, and benefits of switching to solar energy.
+If you're considering solar panels for your home, [contact us](/contact/) to discuss your options. We can provide clear information about the process, costs, and benefits of switching to solar energy.
 
 [Renegade Solar - HEIS Consumer Code member serving Prestwich and North Manchester](https://search.hiesscheme.org.uk/renegade-electrical-ltd-R302-047)

@@ -38,4 +38,4 @@ We serve all areas of Bury including the town centre, Ramsbottom, Tottington, Wh
 
 ## Get Your Free Assessment
 
-As MCS-certified installers (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)), we handle everything from initial survey to final commissioning. [Contact us](/contact/) today for a no-obligation consultation about solar panels or battery storage for your Bury property.
+As MCS-certified installers (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)), Ashley oversees everything from initial survey to final commissioning. [Contact us](/contact/) today for a no-obligation consultation about solar panels or battery storage for your Bury property.

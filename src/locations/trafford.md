@@ -10,6 +10,6 @@ tags: location
 
 # Trafford
 
-Serving the Trafford area with expert solar panel installations and comprehensive electrical services. As MCS-certified installers, we provide reliable renewable energy solutions with personal oversight throughout the entire process.
+Serving the Trafford area with expert solar panel installations and comprehensive electrical services. As MCS-certified installers, we provide reliable renewable energy solutions with personal oversight from Ashley throughout the entire process.
 
 Our local knowledge of Trafford's properties ensures installations that are perfectly matched to your home or business requirements.

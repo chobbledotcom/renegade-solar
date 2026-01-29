@@ -78,4 +78,4 @@ We serve all parts of Blackley and surrounding towns, including:
 
 ## Start Your Solar Journey Today
 
-As MCS-certified installers (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)), we handle every aspect of your installation from initial survey to final commissioning.
+As MCS-certified installers (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)), Ashley personally oversees every aspect of your installation from initial survey to final commissioning.

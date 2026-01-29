@@ -10,7 +10,7 @@ tags: [prestwich]
 gallery_tags: [solar-panels]
 ---
 
-I'm Ashley, and I run Renegade Solar from right here in Prestwich. I understand the area well and know all about the types of properties in Prestwich and their suitability for renewable energy generation.
+We're Renegade Solar, led by Ashley, and we're based right here in Prestwich. We understand the area well and know all about the types of properties in Prestwich and their suitability for renewable energy generation.
 
 Whether your house is a:
 
@@ -19,7 +19,7 @@ Whether your house is a:
 - New-build or re-roofed building with tiles
 - Commercial flat-roofed property
 
-Or even if you've got a big garden and want to install solar panels there, I'm sure I can help.
+Or even if you've got a big garden and want to install solar panels there, we're sure we can help.
 
 ## Doesn't It Rain Too Much?
 
@@ -45,16 +45,16 @@ We fitted [solar panels and a battery](/services/solar-and-battery-installations
 
 ## A Trustworthy Local Electricity Expert
 
-My years of experience working in Prestwich mean I:
+Our years of experience working in Prestwich mean we:
 
-- Am comfortable dealing with houses of any age
+- Are comfortable dealing with houses of any age
 - Can tackle almost any electrical job - nothing is too big or too small
 - Know other local tradespeople who can help out
-- Am regularly in the area - useful for emergencies!
+- Are regularly in the area - useful for emergencies!
 
 ## Prestwich Coverage Areas
 
-I serve all parts of Prestwich and surrounding towns, including:
+We serve all parts of Prestwich and surrounding towns, including:
 
 - Heaton Park
 - Sedgley Park
@@ -65,6 +65,6 @@ I serve all parts of Prestwich and surrounding towns, including:
 
 ## Let's Get Started!
 
-I'm an MCS-certified installer (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)), and I handle every aspect of your installation from initial survey to final commissioning.
+We're an MCS-certified installer (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)), and Ashley personally oversees every aspect of your installation from initial survey to final commissioning.
 
 [Get in touch](/contact/) today to start the ball rolling!

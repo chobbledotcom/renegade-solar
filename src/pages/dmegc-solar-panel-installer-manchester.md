@@ -8,11 +8,11 @@ layout: page.html
 noindex: false
 ---
 
-## Why we use DMEGC solar panels
+## Why We use DMEGC solar panels
 
 When you're looking at solar panels, you need something that's actually going to perform in Manchester weather and last for decades. DMEGC panels tick both boxes.
 
-I've been fitting DMEGC modules across North Manchester for a while now, and they're really quality kit. They're not the only panels I install – I also rate the Trina Vertex series – but DMEGC are consistently reliable and their warranty terms are excellent.
+We've been fitting DMEGC modules across North Manchester for a while now, and they're really quality kit. They're not the only panels we install – we also rate the Trina Vertex series – but DMEGC are consistently reliable and their warranty terms are excellent.
 
 ## What makes DMEGC panels different
 
@@ -34,7 +34,7 @@ Here's the thing about solar panels in Manchester – they don't need blazing su
 
 DMEGC's N-type technology performs better than older P-type panels in cloudy conditions and lower light levels. And the rain actually helps by keeping the panels clean, washing off dust and grime that would otherwise reduce efficiency.
 
-I've seen DMEGC installations in Prestwich, Blackley, and across Greater Manchester consistently hit their predicted output figures. They work.
+We've seen DMEGC installations in Prestwich, Blackley, and across Greater Manchester consistently hit their predicted output figures. They work.
 
 ## The technical bits that matter
 
@@ -52,29 +52,29 @@ Cheaper panels degrade faster, perform worse in our climate, and often come with
 
 ## Battery storage with DMEGC panels
 
-DMEGC panels work brilliantly with battery storage systems. I typically pair them with Solax or AlphaESS batteries, depending on what suits your setup.
+DMEGC panels work brilliantly with battery storage systems. We typically pair them with Solax or AlphaESS batteries, depending on what suits your setup.
 
 The combination means you can store excess generation during the day and use it in the evening when everyone's home and electricity is expensive. During summer, you can run your house almost entirely on solar and stored power. In winter, the panels still generate decent amounts and you can top up the battery overnight on cheap tariffs.
 
 ## Installation process
 
-I handle every DMEGC installation personally, from the initial survey through to commissioning and grid connection. Being MCS-certified (NAP-66870) means your system qualifies for the Smart Export Guarantee, so you get paid for excess electricity you export back to the grid.
+Ashley personally oversees every DMEGC installation, from the initial survey through to commissioning and grid connection. Being MCS-certified (NAP-66870) means your system qualifies for the Smart Export Guarantee, so you get paid for excess electricity you export back to the grid.
 
-The installation itself is straightforward on most properties. I'll assess your roof during the free survey, plan the optimal layout for your available space, and handle all the paperwork including building control notifications and DNO applications.
+The installation itself is straightforward on most properties. We'll assess your roof during the free survey, plan the optimal layout for your available space, and handle all the paperwork including building control notifications and DNO applications.
 
-Most residential installations take 1-2 days depending on system size. I keep disruption to a minimum and tidy up afterwards.
+Most residential installations take 1-2 days depending on system size. We keep disruption to a minimum and tidy up afterwards.
 
 ## What about Trina Vertex panels?
 
-Like I said at the start, DMEGC aren't the only quality panels out there. I also fit Trina Vertex series panels, which are equally reliable and come with similar specifications.
+Like we said at the start, DMEGC aren't the only quality panels out there. We also fit Trina Vertex series panels, which are equally reliable and come with similar specifications.
 
 The choice often comes down to what's available, pricing at the time, and what suits your specific roof layout. Both DMEGC and Trina manufacture excellent N-type modules that'll serve you well for decades.
 
-I'll discuss both options during your survey and recommend what makes most sense for your property and budget.
+We'll discuss both options during your survey and recommend what makes most sense for your property and budget.
 
-## Areas we cover
+## Areas We cover
 
-I'm based in Prestwich and cover the whole of Greater Manchester. I've completed DMEGC installations in [Blackley](/services/solar-and-battery-installations/blackley/), [Middleton](/services/solar-and-battery-installations/middleton/), [Failsworth](/services/solar-and-battery-installations/failsworth/), [Radcliffe](/services/solar-and-battery-installations/radcliffe/), [Stockport](/services/solar-and-battery-installations/stockport/), [Altrincham](/services/solar-and-battery-installations/altrincham/), and throughout [Trafford](/services/solar-and-battery-installations/trafford/).
+We're based in Prestwich and cover the whole of Greater Manchester. We've completed DMEGC installations in [Blackley](/services/solar-and-battery-installations/blackley/), [Middleton](/services/solar-and-battery-installations/middleton/), [Failsworth](/services/solar-and-battery-installations/failsworth/), [Radcliffe](/services/solar-and-battery-installations/radcliffe/), [Stockport](/services/solar-and-battery-installations/stockport/), [Altrincham](/services/solar-and-battery-installations/altrincham/), and throughout [Trafford](/services/solar-and-battery-installations/trafford/).
 
 Being local means no call-out charges for surveys and quick response times if you ever need anything sorting after installation.
 
@@ -82,6 +82,6 @@ Being local means no call-out charges for surveys and quick response times if yo
 
 If you're specifically interested in DMEGC panels, or just want honest advice about what'll work best on your property, [get in touch](/contact/) for a free survey.
 
-I'll give you straightforward information about expected generation, system costs, and realistic payback times. No pressure, no overselling – just advice from someone who knows what they're doing.
+We'll give you straightforward information about expected generation, system costs, and realistic payback times. No pressure, no overselling – just advice from someone who knows what they're doing.
 
 **[Contact Renegade Solar today](/contact/) for your free solar panel survey.**

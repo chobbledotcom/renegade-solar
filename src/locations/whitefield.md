@@ -10,6 +10,6 @@ tags: location
 
 # Whitefield
 
-I deliver expert solar installations and electrical services throughout Whitefield. My MCS-certified approach ensures every project meets the highest standards while providing excellent value and customer service.
+We deliver expert solar installations and electrical services throughout Whitefield. Our MCS-certified approach ensures every project meets the highest standards while providing excellent value and customer service.
 
-I work with all property types in Whitefield, offering customised renewable energy solutions that maximise your investment and environmental impact.
+We work with all property types in Whitefield, offering customised renewable energy solutions that maximise your investment and environmental impact.

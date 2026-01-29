@@ -25,9 +25,9 @@ Whitefield's got a great variety of properties, from the Victorian terraces arou
 
 **£150 plus VAT for any domestic property in Whitefield** - from compact terraced houses to larger family homes, the price stays the same.
 
-Same day service with all certificates provided immediately. I can usually schedule EICR inspections quickly since they're easier to fit around other work.
+Same day service with all certificates provided immediately. We can usually schedule EICR inspections quickly since they're easier to fit around other work.
 
-**[Ready to book your Whitefield EICR? Contact me today](/contact/)**
+**[Ready to book your Whitefield EICR? Contact us today](/contact/)**
 
 ## For Whitefield Landlords
 
@@ -41,7 +41,7 @@ Non-compliance penalties are substantial - fines up to £30,000, plus authoritie
 
 **Get an EICR before any money changes hands.** Whitefield's family-friendly properties are significant investments, so you want to know about any electrical issues upfront.
 
-If I find problems like an outdated fuse box or inadequate wiring (more common in older Whitefield properties), you can use this information to negotiate repair costs or make informed decisions about proceeding with the purchase.
+If we find problems like an outdated fuse box or inadequate wiring (more common in older Whitefield properties), you can use this information to negotiate repair costs or make informed decisions about proceeding with the purchase.
 
 Much better to discover electrical issues during your buying process than face unexpected costs after moving in.
 
@@ -63,7 +63,7 @@ Much better to discover electrical issues during your buying process than face u
 
 ## Comprehensive Electrical Assessment
 
-**Thorough visual inspection** of all accessible wiring, switches, sockets, and consumer unit installations. I check for damage, overheating signs, and general condition.
+**Thorough visual inspection** of all accessible wiring, switches, sockets, and consumer unit installations. We check for damage, overheating signs, and general condition.
 
 **Technical electrical testing** using properly calibrated equipment. This includes continuity testing, insulation resistance measurement, earth fault loop impedance testing, and RCD operation verification.
 
@@ -71,36 +71,36 @@ Much better to discover electrical issues during your buying process than face u
 
 ## Local Knowledge of Whitefield
 
-I know Whitefield well and understand the electrical issues common to different property types and areas. Whether you're dealing with a period property that's been carefully maintained or a newer home where you want to verify installation quality, local experience helps.
+We know Whitefield well and understand the electrical issues common to different property types and areas. Whether you're dealing with a period property that's been carefully maintained or a newer home where you want to verify installation quality, local experience helps.
 
 Whitefield's mix of property ages means electrical systems can vary significantly even within the same street. Understanding what's normal and what needs attention requires experience with local housing stock.
 
 ## When Problems Are Found
 
-**Honest assessment without pressure.** If I discover electrical issues, I explain clearly what's wrong, why it matters, and what options you have. Fair quotes for any necessary work without inflated pricing.
+**Honest assessment without pressure.** If we discover electrical issues, we explain clearly what's wrong, why it matters, and what options you have. Fair quotes for any necessary work without inflated pricing.
 
-I can handle remedial electrical work discovered during inspection. No need to find additional contractors - I'll schedule necessary work within a month.
+We can handle remedial electrical work discovered during inspection. No need to find additional contractors - we'll schedule necessary work within a month.
 
-**[Need electrical repairs or upgrades? I provide comprehensive electrical services](/services/)**
+**[Need electrical repairs or upgrades? We provide comprehensive electrical services](/services/)**
 
 ## Whitefield EICR Frequently Asked Questions
 
-**Do you know Whitefield properties well?** Yes, I work regularly throughout the area and understand the common electrical characteristics of different property types and ages.
+**Do you know Whitefield properties well?** Yes, we work regularly throughout the area and understand the common electrical characteristics of different property types and ages.
 
-**What about MetroLink effects on electrical systems?** Interesting question - I haven't seen specific issues related to the tram line, but I understand how transport infrastructure can sometimes affect older properties.
+**What about MetroLink effects on electrical systems?** Interesting question - we haven't seen specific issues related to the tram line, but we understand how transport infrastructure can sometimes affect older properties.
 
-**How quickly can you schedule?** Usually within a few days for EICR inspections. Whitefield is within my core service area.
+**How quickly can you schedule?** Usually within a few days for EICR inspections. Whitefield is within our core service area.
 
 **Any travel charges for Whitefield?** No additional costs - £150 plus VAT covers everything for domestic EICR inspections.
 
-**Do you work with local estate agents?** I provide inspection services for buyers, sellers, landlords, and tenants throughout Whitefield.
+**Do you work with local estate agents?** We provide inspection services for buyers, sellers, landlords, and tenants throughout Whitefield.
 
 ## Professional Electrical Safety Service
 
 **NAPIT registered with 20+ years electrical experience** serving Whitefield's diverse property market.
 
-I understand that Whitefield residents expect reliable, professional service. Same day certificates, clear explanations, competitive pricing, and quality work you can trust.
+We understand that Whitefield residents expect reliable, professional service. Same day certificates, clear explanations, competitive pricing, and quality work you can trust.
 
-Whether you're a landlord maintaining compliance, a buyer protecting your investment, or a homeowner wanting electrical safety confidence, I provide the inspection service that meets Whitefield's standards.
+Whether you're a landlord maintaining compliance, a buyer protecting your investment, or a homeowner wanting electrical safety confidence, we provide the inspection service that meets Whitefield's standards.
 
 **[Book your Whitefield EICR inspection - get in touch today](/contact/)**

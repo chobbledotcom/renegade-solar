@@ -10,13 +10,13 @@ tags: [failsworth]
 gallery_tags: [failsworth]
 ---
 
-Looking for a solar panel installer in Failsworth? I'm Ashley from Renegade Solar, operating across Greater Manchester from my base in Prestwich. With a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification, I handle solar installations on all types of properties.
+Looking for a solar panel installer in Failsworth? We're Renegade Solar, led by Ashley, operating across Greater Manchester from our base in Prestwich. With a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification, we handle solar installations on all types of properties.
 
 ## Why Choose Renegade Solar for Your Failsworth Property
 
-I've completed installations throughout Failsworth on everything from traditional terraced houses to commercial flat-roofed buildings. The photos in our gallery show recent work in the area – proper installations with attention to detail, from scaffolding setup through to final commissioning.
+We've completed installations throughout Failsworth on everything from traditional terraced houses to commercial flat-roofed buildings. The photos in our gallery show recent work in the area – proper installations with attention to detail, from scaffolding setup through to final commissioning.
 
-As an MCS-certified installer (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)), I ensure your system qualifies for the Smart Export Guarantee. Without MCS certification, you can't get paid for the electricity you export back to the grid – so this credential really matters.
+As an MCS-certified installer (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)), we ensure your system qualifies for the Smart Export Guarantee. Without MCS certification, you can't get paid for the electricity you export back to the grid – so this credential really matters.
 
 ## Solar Panels Work Well in Failsworth
 
@@ -26,9 +26,9 @@ According to [Ofgem's latest data](https://www.ofgem.gov.uk/publications/smart-e
 
 ## What Makes Renegade Solar Different
 
-I'm NAPIT-registered (66870) for electrical safety and an Octopus Energy Trusted Partner. As a member of Green Economy's curated network, I'm committed to sustainable installations that actually work properly. I handle everything from initial survey through to grid connection paperwork and Smart Export Guarantee applications.
+We're NAPIT-registered (66870) for electrical safety and an Octopus Energy Trusted Partner. As a member of Green Economy's curated network, we're committed to sustainable installations that actually work properly. Ashley oversees everything from initial survey through to grid connection paperwork and Smart Export Guarantee applications.
 
-Being based in Prestwich means I'm just down the road from Failsworth – no travel charges, and if you ever need anything sorting, I'm nearby.
+Being based in Prestwich means we're just down the road from Failsworth – no travel charges, and if you ever need anything sorting, we're nearby.
 
 ## Battery Storage for Maximum Savings
 
@@ -38,10 +38,10 @@ For Failsworth households wanting to properly cut their energy bills, battery st
 
 ## Flat Roof Installations
 
-Got a flat-roofed extension or commercial property? I've done plenty of flat roof solar installations in Failsworth using proper mounting systems that don't compromise your roof's waterproofing. These systems work brilliantly and often give you more flexibility with panel positioning than pitched roofs.
+Got a flat-roofed extension or commercial property? We've done plenty of flat roof solar installations in Failsworth using proper mounting systems that don't compromise your roof's waterproofing. These systems work brilliantly and often give you more flexibility with panel positioning than pitched roofs.
 
 ## Ready to Cut Your Energy Bills?
 
-With energy prices staying high, solar panels offer genuine savings for Failsworth residents. I'll give you honest advice about what'll work for your property – no pressure, no overselling, just straightforward information.
+With energy prices staying high, solar panels offer genuine savings for Failsworth residents. We'll give you honest advice about what'll work for your property – no pressure, no overselling, just straightforward information.
 
 [Get in touch](/contact/) today to discuss solar for your Failsworth property.

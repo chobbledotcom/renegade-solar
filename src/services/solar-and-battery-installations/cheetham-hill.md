@@ -14,23 +14,23 @@ gallery_tags: [solar-panels]
 
 # Solar Panel Installer in Cheetham Hill
 
-Looking for a solar panel installer in Cheetham Hill? I'm Ashley from Renegade Solar, based just down the road in Prestwich. With a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification (NAP-66870), I provide honest advice and quality installations that'll actually save you money.
+Looking for a solar panel installer in Cheetham Hill? We're Renegade Solar, led by Ashley, based just down the road in Prestwich. With a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification (NAP-66870), we provide honest advice and quality installations that'll actually save you money.
 
 ## Why Cheetham Hill Residents Choose Renegade Solar
 
-One Prestwich customer saved thousands when I gave them a second opinion: "Another electrician convinced us we needed a whole house rewire. After inspecting, Ashley let us know it was fully unnecessary and we just needed a new fuse board. He saved us thousands of pounds with that first visit."
+One Prestwich customer saved thousands when we gave them a second opinion: "Another electrician convinced us we needed a whole house rewire. After inspecting, Ashley let us know it was fully unnecessary and we just needed a new fuse board. He saved us thousands of pounds with that first visit."
 
-That's the difference with Renegade Solar – I won't sell you something you don't need. With over 15 years' experience as an electrician, I'll give you straight advice about whether solar's right for your property.
+That's the difference with Renegade Solar – we won't sell you something you don't need. With over 15 years' experience as an electrician, we'll give you straight advice about whether solar's right for your property.
 
 ## Solar Works Well in Cheetham Hill
 
 Your Victorian terrace, semi-detached house, or modern property can all benefit from solar panels. Even with Manchester weather, you'll get excellent returns. Rain actually helps by keeping panels clean, and according to [Ofgem's latest data](https://www.ofgem.gov.uk/publications/smart-export-guarantee-annual-report-april-2023-march-2024), over £30 million was paid out last year through the Smart Export Guarantee.
 
-As an MCS-certified installer, I ensure you qualify for these government payments. Without MCS certification, you can't access the [Smart Export Guarantee](https://www.ofgem.gov.uk/environmental-and-social-schemes/smart-export-guarantee-seg), so this credential really matters.
+As an MCS-certified installer, we ensure you qualify for these government payments. Without MCS certification, you can't access the [Smart Export Guarantee](https://www.ofgem.gov.uk/environmental-and-social-schemes/smart-export-guarantee-seg), so this credential really matters.
 
 ## What Makes Renegade Solar Different
 
-I'm NAPIT-registered (66870) for electrical safety, an Octopus Energy Trusted Partner, and a member of Green Economy's curated network of sustainable businesses. I handle everything from survey to commissioning, including all the paperwork for grid connection and Smart Export Guarantee applications. Being based in Prestwich, I'm just minutes away from Cheetham Hill – and there's no travel charges added to your quote.
+We're NAPIT-registered (66870) for electrical safety, an Octopus Energy Trusted Partner, and a member of Green Economy's curated network of sustainable businesses. Ashley oversees everything from survey to commissioning, including all the paperwork for grid connection and Smart Export Guarantee applications. Being based in Prestwich, we're just minutes away from Cheetham Hill – and there's no travel charges added to your quote.
 
 ## Battery Storage Maximises Your Savings
 
@@ -38,6 +38,6 @@ Adding battery storage means you'll use solar power in the evening when everyone
 
 ## Ready to Cut Your Energy Bills?
 
-With energy prices staying high, solar panels with battery storage offer real savings for Cheetham Hill residents. I'll give you honest advice about what'll work for your property – no pressure, no overselling.
+With energy prices staying high, solar panels with battery storage offer real savings for Cheetham Hill residents. We'll give you honest advice about what'll work for your property – no pressure, no overselling.
 
-**Get a straightforward quote from a local installer you can trust. [Contact me today](/contact/) to discuss solar for your Cheetham Hill property.**
+**Get a straightforward quote from a local installer you can trust. [Contact us today](/contact/) to discuss solar for your Cheetham Hill property.**

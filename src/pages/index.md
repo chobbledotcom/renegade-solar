@@ -10,15 +10,15 @@ order: 0
 
 # Local Solar Installation
 
-With a **{{ reviews.averageRating | round: 2 }}/10 rating from 80+ verified reviews on Checkatrade**, I provide solar panel and battery storage installation across North Manchester. As an [MCS-certified](/accreditations/mcs-certified/), [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), I install renewable energy systems that can significantly reduce your energy bills and carbon emissions.
+With a **{{ reviews.averageRating | round: 2 }}/10 rating from 80+ verified reviews on Checkatrade**, we provide solar panel and battery storage installation across North Manchester. As an [MCS-certified](/accreditations/mcs-certified/), [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we install renewable energy systems that can significantly reduce your energy bills and carbon emissions.
 
 # Personal Service
 
-Unlike national companies, I personally handle every aspect of your installation. From the initial free home survey through to system design and installation, you'll deal directly with me at every stage. I provide clear advice and aftercare to ensure your system performs well for years.
+Unlike national companies, our director Ashley personally oversees every installation. From the initial free home survey through to system design and installation, Ashley is your direct point of contact at every stage. We provide clear advice and aftercare to ensure your system performs well for years.
 
 ## Certified Installation
 
-Every installation includes government-backed certifications: [MCS](/accreditations/mcs-certified/), [TrustMark](/accreditations/trustmark/) and [NAPIT](/accreditations/napit/). I use quality components with manufacturer warranties, and install monitoring technology so you can track your energy production. Work is neat and tidy, with guidance on getting the most from your system.
+Every installation includes government-backed certifications: [MCS](/accreditations/mcs-certified/), [TrustMark](/accreditations/trustmark/) and [NAPIT](/accreditations/napit/). We use quality components with manufacturer warranties, and install monitoring technology so you can track your energy production. Work is neat and tidy, with guidance on getting the most from your system.
 
 ## Financial Benefits
 
@@ -34,6 +34,6 @@ Recent Checkatrade reviews:
 
 ## Get Started
 
-Free consultation to discuss your options. I'll explain the systems available, answer your questions, and provide a proposal for your home. [Click here to get in touch.](/contact/)
+Free consultation to discuss your options. We'll explain the systems available, answer your questions, and provide a proposal for your home. [Click here to get in touch.](/contact/)
 
 _MCS Certified (NAP-66870) · TrustMark Registered · Octopus Energy Partner · 9.6/10 on Checkatrade_

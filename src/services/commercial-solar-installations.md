@@ -19,7 +19,7 @@ Commercial electricity prices have soared in recent years, and businesses have b
 
 The mathematics work well for commercial properties because businesses use electricity during the day when solar generation is at its peak. Unlike domestic properties where most consumption happens in the evening (requiring [battery storage](/services/home-battery-installations/) to maximise savings), commercial properties consume energy as it's generated. This means you're using nearly every kilowatt-hour your panels produce, which significantly improves the return on investment.
 
-## Real examples from our commercial clients
+## Real examples from Our commercial clients
 
 We're currently working with a carpet and interior design warehouse that owns their building in Bolton. They've got a massive flat roof and were spending £700 monthly on electricity. Our design includes two options: 50+ panels covering just the flat roof, which reduces their bills to zero with three-year payback, or a larger 115-panel system covering both the flat roof and the pitched roof sections. Even with the bigger installation, payback is still only four years. After that point, they're looking at decades of free energy while selling excess back to the grid through the Smart Export Guarantee.
 

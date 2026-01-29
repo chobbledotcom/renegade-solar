@@ -89,7 +89,7 @@ We can handle any electrical work discovered during inspection. No need to coord
 
 **What about older properties?** These are bread and butter work for us. We know what to look for and how to explain necessary improvements without trying to create unnecessary worry.
 
-**How quickly can you fit me in?** Usually within a few days for EICR inspections. Bury is well within our regular service area.
+**How quickly can you fit us in?** Usually within a few days for EICR inspections. Bury is well within our regular service area.
 
 **Any extra charges for Bury?** No travel charges - £150 plus VAT is the complete price for domestic EICR inspections.
 

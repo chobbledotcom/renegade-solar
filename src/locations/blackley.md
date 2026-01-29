@@ -12,4 +12,4 @@ tags: location
 
 Serving Blackley with professional solar panel installations and comprehensive electrical services. Our MCS-certified team understands the local area and provides tailored renewable energy solutions for every property type.
 
-From initial consultation to final commissioning, we handle every aspect of your solar installation with care and expertise.
+From initial consultation to final commissioning, Ashley personally oversees every aspect of your solar installation.
