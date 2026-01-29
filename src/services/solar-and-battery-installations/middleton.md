@@ -30,7 +30,7 @@ With the right solar setup, you could generate enough power to cover most of you
 
 You'll benefit from our local knowledge when you choose Renegade Solar. Being just minutes away from Middleton means you'll receive **prompt, attentive service** whenever you need it. You won't have to worry about planning considerations as we have excellent relationships with Rochdale Council for any permissions you might need.
 
-You could have complete peace of mind with our MCS-certified installation service (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)). We'll handle everything from the initial survey through to commissioning your system. With our comprehensive [electrical testing](/services/electrical-testing/), you can be confident your installation meets the highest safety standards.
+You could have complete peace of mind with our MCS-certified installation service (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)). Ashley oversees everything from the initial survey through to commissioning your system. With our comprehensive [electrical testing](/services/electrical-testing/), you can be confident your installation meets the highest safety standards.
 
 ## Available Throughout Middleton
 

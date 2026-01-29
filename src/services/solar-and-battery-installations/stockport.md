@@ -26,7 +26,7 @@ For properties where conventional solar installation isn't suitable (due to shad
 
 ## Local Knowledge & Personal Service
 
-What sets us apart from national installers is our personal approach. We personally handle every aspect of your installation - from initial survey through design and installation to final commissioning. There are no salespeople, no call centres, and no subcontractors.
+What sets us apart from national installers is our personal approach. Ashley personally oversees every aspect of your installation - from initial survey through design and installation to final commissioning. He's your direct point of contact throughout, not a salesperson or a call centre.
 
 Our local knowledge means we understand Stockport's planning requirements and have experience with the specific property types in areas like [Bramhall](/services/solar-and-battery-installations/bramhall/) and [Marple](/services/solar-and-battery-installations/marple/). We can typically complete most installations within a week with minimal disruption to your household.
 

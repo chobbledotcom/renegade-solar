@@ -65,6 +65,6 @@ We serve all parts of Prestwich and surrounding towns, including:
 
 ## Let's Get Started!
 
-We're an MCS-certified installer (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)), and we handle every aspect of your installation from initial survey to final commissioning.
+We're an MCS-certified installer (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)), and Ashley personally oversees every aspect of your installation from initial survey to final commissioning.
 
 [Get in touch](/contact/) today to start the ball rolling!

@@ -27,7 +27,7 @@ With a strong track record of reliability and customer satisfaction, your solar 
   <img src="/assets/photos/flat-solar-panels.jpg" alt="Flat solar panels on a roof in Manchester" eleventy:ignore />
 </div>
 
-From start to finish, you will have a personal design specialist going through the different types of installation: on roof, in roof, ground mounted or flat roof. While tailoring a design and quote to suit you, your home or property and your energy needs, every project is different but large or small will all get the same attention to detail.
+From start to finish, Ashley will be your personal point of contact, going through the different types of installation: on roof, in roof, ground mounted or flat roof. While tailoring a design and quote to suit you, your home or property and your energy needs, every project is different but large or small will all get the same attention to detail.
 
 ## Installation
 

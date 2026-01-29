@@ -22,7 +22,7 @@ If you're buying or building a new property in Hyde, getting solar installed ear
 
 As an MCS-certified installer (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)), your system will qualify for the Smart Export Guarantee. Without MCS certification, you can't get paid for electricity you export back to the grid – so this really matters.
 
-We're NAPIT-registered (66870) for electrical safety, an Octopus Energy Trusted Partner, and part of Green Economy's curated network of sustainable businesses. We handle everything from initial survey through to grid connection and Smart Export Guarantee applications.
+We're NAPIT-registered (66870) for electrical safety, an Octopus Energy Trusted Partner, and part of Green Economy's curated network of sustainable businesses. Ashley oversees everything from initial survey through to grid connection and Smart Export Guarantee applications.
 
 ## Traditional Properties Too
 

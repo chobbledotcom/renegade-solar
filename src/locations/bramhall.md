@@ -12,4 +12,4 @@ tags: location
 
 Renegade Solar provides professional solar panel installations and electrical services throughout Bramhall. Our MCS-certified team delivers high-quality renewable energy solutions tailored to Bramhall's diverse property types, from Victorian homes in the village to larger detached properties around Bramhall Park.
 
-We understand the specific challenges of working in Bramhall - the conservation area considerations, tree shading from mature streets, and the mix of period and modern properties. Every installation is handled personally by Ashley Merritt, a fully qualified electrician with over 15 years of experience.
+We understand the specific challenges of working in Bramhall - the conservation area considerations, tree shading from mature streets, and the mix of period and modern properties. Every installation is personally overseen by Ashley Merritt, a fully qualified electrician with over 15 years of experience.

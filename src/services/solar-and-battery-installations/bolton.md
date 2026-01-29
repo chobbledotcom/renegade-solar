@@ -12,7 +12,7 @@ gallery_tags: [solar-panels]
 
 [Renegade Solar](/about/) provides expert [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Bolton. As an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, we bring our expertise directly to Bolton homeowners and businesses looking to reduce energy bills and carbon footprints.
 
-We've successfully installed solar systems on a wide variety of Bolton properties - from traditional terraced houses to larger detached homes and commercial buildings. Each installation is personally handled by [Ashley Merritt](/about/), a fully qualified electrician with over 15 years of experience who understands the unique characteristics of Bolton's diverse housing stock.
+We've successfully installed solar systems on a wide variety of Bolton properties - from traditional terraced houses to larger detached homes and commercial buildings. Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 15 years of experience who understands the unique characteristics of Bolton's diverse housing stock.
 
 ## Solar Performance in Bolton
 
@@ -32,7 +32,7 @@ For properties where conventional solar installation isn't suitable (due to shad
 
 ## Local Knowledge & Personal Service
 
-What sets us apart from national installers is our personal approach. Ashley personally handles every aspect of your installation - from initial survey through design and installation to final commissioning. There are no salespeople, no call centres, and no subcontractors.
+What sets us apart from national installers is our personal approach. Ashley personally oversees every aspect of your installation - from initial survey through design and installation to final commissioning. He's your direct point of contact throughout, not a salesperson or a call centre.
 
 Our local knowledge means we understand Bolton's planning requirements and have experience with the specific property types across the borough. We can typically complete most installations within a week with minimal disruption.
 

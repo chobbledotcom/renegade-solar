@@ -12,7 +12,7 @@ gallery_tags: [solar-panels]
 
 [Renegade Solar](/about/) provides [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Marple, including Rose Hill, Hawk Green, Marple Bridge, and Mellor. As an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, we work with homeowners across Marple looking to cut their energy bills.
 
-We've fitted solar systems on all sorts of Marple properties - Victorian terraces along Stockport Road, the semis and detached houses on the side streets up towards Mellor, and the newer builds near Hawk Green. Each installation is handled personally by [Ashley Merritt](/about/), a fully qualified electrician with over 15 years of experience who understands the quirks of older properties and the straightforward approach needed for newer ones.
+We've fitted solar systems on all sorts of Marple properties - Victorian terraces along Stockport Road, the semis and detached houses on the side streets up towards Mellor, and the newer builds near Hawk Green. Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 15 years of experience who understands the quirks of older properties and the straightforward approach needed for newer ones.
 
 ## Solar Panels in Marple's Climate
 
@@ -34,7 +34,7 @@ Listed buildings need Listed Building Consent on top of planning permission, whi
 
 ## Local Service
 
-Ashley handles everything personally - initial survey, system design, installation, and final testing. No salespeople, no call centres, no subcontractors turning up on the day. You get the same person throughout.
+Ashley personally oversees everything - initial survey, system design, installation, and final testing. No salespeople, no call centres, no subcontractors turning up on the day. He's your point of contact from start to finish.
 
 We understand Marple's property types and can typically complete installations within a week with minimal disruption. Cable runs are planned to be as neat as possible, and we clean up properly when we're done.
 

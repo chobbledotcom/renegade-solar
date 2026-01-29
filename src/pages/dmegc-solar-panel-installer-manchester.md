@@ -58,7 +58,7 @@ The combination means you can store excess generation during the day and use it 
 
 ## Installation process
 
-We handle every DMEGC installation personally, from the initial survey through to commissioning and grid connection. Being MCS-certified (NAP-66870) means your system qualifies for the Smart Export Guarantee, so you get paid for excess electricity you export back to the grid.
+Ashley personally oversees every DMEGC installation, from the initial survey through to commissioning and grid connection. Being MCS-certified (NAP-66870) means your system qualifies for the Smart Export Guarantee, so you get paid for excess electricity you export back to the grid.
 
 The installation itself is straightforward on most properties. We'll assess your roof during the free survey, plan the optimal layout for your available space, and handle all the paperwork including building control notifications and DNO applications.
 

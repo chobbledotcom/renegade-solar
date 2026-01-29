@@ -41,6 +41,6 @@ Adding batteries lets you store solar power for evening use, or cheap overnight 
 
 ## Get Started Today
 
-With energy costs staying high, solar offers real savings for Crumpsall residents. We'll handle everything from survey to grid connection paperwork.
+With energy costs staying high, solar offers real savings for Crumpsall residents. Ashley oversees everything from survey to grid connection paperwork.
 
 **Get honest advice from a local installer. [Contact us](/contact/) for a straightforward quote on solar for your Crumpsall property.**

@@ -14,7 +14,7 @@ With a **{{ reviews.averageRating | round: 2 }}/10 rating from 80+ verified revi
 
 # Personal Service
 
-Unlike national companies, we personally handle every aspect of your installation. From the initial free home survey through to system design and installation, you'll deal directly with us at every stage. We provide clear advice and aftercare to ensure your system performs well for years.
+Unlike national companies, our director Ashley personally oversees every installation. From the initial free home survey through to system design and installation, Ashley is your direct point of contact at every stage. We provide clear advice and aftercare to ensure your system performs well for years.
 
 ## Certified Installation
 
