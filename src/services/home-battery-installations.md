@@ -100,7 +100,7 @@ We configure your system for optimal performance with your chosen tariff and any
 - **Certification:** Full electrical certification provided
 - **Smart features:** App control and energy monitoring included
 
-## Can We add a battery to existing solar?
+## Can I add a battery to existing solar?
 
 Yes. We regularly integrate battery systems with existing solar installations. Our experience with [DMEGC solar panels](/dmegc-solar-panel-installer-manchester/) and other quality brands ensures proper integration that significantly improves the performance of both systems.
 

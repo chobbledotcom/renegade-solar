@@ -25,7 +25,7 @@ And we've even installed ground-mounted solar panels for properties with large g
 
 It feels like we're never more than a day or two away from a rainy day in Manchester (although we were surprised to learn that [we're not even close to being the rainiest city](https://blog.scienceandindustrymuseum.org.uk/manchester-our-rainy-city/)!), but you might be surprised to learn that this isn't actually a problem for solar panel set ups. In fact, the rain helps keep the panels clean, which _increases_ their efficiency!
 
-## Can We Just Get A Battery?
+## Can I Just Get A Battery?
 
 Of course! A [a battery-only installation](/services/home-battery-installations/) can still save you a significant amount on your bills each day, as long as you're on a "Time of Use" tariff, and most energy companies offer this now. These tariffs mean you can charge your battery overnight when the electricity is cheaper (as little as 1/3rd) the price in some instances, ready to use throughout the day! While a little energy is lost in the process of filling your battery, this is easily offset by using the cheaper electricity for more of your day.
 

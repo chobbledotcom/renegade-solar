@@ -89,17 +89,17 @@ We've been doing this for 20+ years, so we've seen it all. Most problems aren't 
 
 **How long does an EICR take?** A few hours, but really it's a day's job. You're not left without power though - we work around you so there's minimal disruption.
 
-**Do we need to prepare anything?** Just make sure we can get to your fuse box. If it's behind boxes or in a cupboard, clear some space so we can work safely.
+**Do I need to prepare anything?** Just make sure we can get to your fuse box. If it's behind boxes or in a cupboard, clear some space so we can work safely.
 
 **Do you work evenings or weekends?** Normal business hours only, but we're pretty flexible on scheduling to fit around your needs.
 
-**How do we get our certificates?** Digital copies as standard, with physical copies available if you want them. Everything gets sorted the same day.
+**How do I get my certificates?** Digital copies as standard, with physical copies available if you want them. Everything gets sorted the same day.
 
-**What if you find serious problems?** we'll talk you through everything and prioritise safety. Emergency situations get sorted before we leave - we won't walk away from anything dangerous.
+**What if you find serious problems?** We'll talk you through everything and prioritise safety. Emergency situations get sorted before we leave - we won't walk away from anything dangerous.
 
-**Do you cover our area?** we cover Prestwich, Whitefield, Bury, Radcliffe, Altrincham, Trafford, and Stockport with no travel charges. Same service, same price wherever you are.
+**Do you cover my area?** We cover Prestwich, Whitefield, Bury, Radcliffe, Altrincham, Trafford, and Stockport with no travel charges. Same service, same price wherever you are.
 
-**How do we pay?** Bank transfer with payment in advance. We'll send you a proper invoice so everything's above board for your records.
+**How do I pay?** Bank transfer with payment in advance. We'll send you a proper invoice so everything's above board for your records.
 
 **Can you check your work afterwards?** Yes, we can do follow-up inspections to confirm everything's been fixed properly. That's a separate charge depending on what was done originally.
 

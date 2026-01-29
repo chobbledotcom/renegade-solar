@@ -13,7 +13,7 @@ tags: [cheetham-hill, eicr]
 
 # EICR Electrical Safety Inspections in Cheetham Hill
 
-Need an EICR in Cheetham Hill? We're Renegade Solar, led by Ashley, based in nearby Prestwich. It's £150 plus VAT for any domestic property, same day certificate, no hidden extras. As a NAPIT-registered electrician with over 20 years' experience, we know exactly what to look for in Cheetham Hill's varied properties.
+Need an EICR in Cheetham Hill? We're Renegade Solar, led by Ashley, based in nearby Prestwich. It's £150 plus VAT for any domestic property, same day certificate, no hidden extras. With NAPIT registration and over 20 years' experience, we know exactly what to look for in Cheetham Hill's varied properties.
 
 ## £150 plus VAT Fixed Price - No Surprises
 

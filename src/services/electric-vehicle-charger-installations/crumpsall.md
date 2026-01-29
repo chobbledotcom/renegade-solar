@@ -14,7 +14,7 @@ gallery_tags: [electric-vehicle]
 
 # EV Charger Installations in Crumpsall
 
-Need an EV charger in Crumpsall? We're Renegade Solar, led by Ashley, based in nearby Prestwich. As a NAPIT-registered electrician and Octopus Energy Trusted Partner, we'll get your home charging sorted – without the hassle.
+Need an EV charger in Crumpsall? We're Renegade Solar, led by Ashley, based in nearby Prestwich. NAPIT-registered and an Octopus Energy Trusted Partner, we'll get your home charging sorted – without the hassle.
 
 ## Cut Your Transport Costs by 85%
 

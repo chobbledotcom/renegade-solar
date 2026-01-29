@@ -93,7 +93,7 @@ We can handle remedial electrical work discovered during inspection. No need to 
 
 **Any travel charges for Whitefield?** No additional costs - £150 plus VAT covers everything for domestic EICR inspections.
 
-**Do you work with local estate agents?** we provide inspection services for buyers, sellers, landlords, and tenants throughout Whitefield.
+**Do you work with local estate agents?** We provide inspection services for buyers, sellers, landlords, and tenants throughout Whitefield.
 
 ## Professional Electrical Safety Service
 

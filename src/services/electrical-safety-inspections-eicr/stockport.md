@@ -93,7 +93,7 @@ We can handle any electrical work identified during inspection. No need to coord
 
 **Any additional charges for Stockport?** No travel costs - £150 plus VAT covers complete domestic EICR inspection service.
 
-**Do you work with local professionals?** we provide inspection services for buyers, sellers, landlords, tenants, and property professionals throughout Stockport.
+**Do you work with local professionals?** We provide inspection services for buyers, sellers, landlords, tenants, and property professionals throughout Stockport.
 
 ## Professional Electrical Safety Standards
 

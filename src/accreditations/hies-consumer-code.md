@@ -31,7 +31,7 @@ Many homeowners in Manchester are now considering solar panels to reduce energy 
 
 ## Local Experience Matters
 
-As a North Manchester-based electrician with over 15 years of experience, we understand the specific requirements for solar installations in Prestwich, Whitefield, Middleton, and all nearby towns. Our background in both domestic and commercial electrical work provides the knowledge needed to handle solar panel systems of all sizes.
+As a North Manchester-based team with over 15 years of experience, we understand the specific requirements for solar installations in Prestwich, Whitefield, Middleton, and all nearby towns. Our background in both domestic and commercial electrical work provides the knowledge needed to handle solar panel systems of all sizes.
 
 ## Get in Touch
 
