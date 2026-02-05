@@ -20,7 +20,7 @@ We've completed numerous successful EV charger installations throughout Middleto
 
 Petrol and diesel cars are on their way out - government's set 2030 as the cut-off for new ones. Middleton's well connected to Manchester's motorways (M60, M62), which means rapid chargers for longer journeys aren't difficult to find. But for regular driving around town, home charging is where the savings are.
 
-A 7kW charger gets your car fully charged overnight when electricity is cheapest - 7.5p per kWh on something like Octopus Go. Public chargers? 30-60p per kWh. That adds up fast if you're charging regularly.
+A 7kW charger gets your car fully charged overnight when electricity is cheapest - 7.5p per kWh on something like Octopus Go. Public chargers? 50-80p per kWh ((zapmap.com)[https://www.zapmap.com/ev-stats/charging-price-index]). That adds up fast if you're charging regularly.
 
 Granny chargers that plug into normal sockets are too slow - they take all day, which means you miss the cheap overnight window and end up paying daytime rates.
 

@@ -26,7 +26,7 @@ Mess is minimal. Your consumer unit will need to be up to date, but if you've al
 
 Got **Solax** or **AlphaESS** gear already? Their chargers work nicely with their own solar and battery kit. We fit those regularly. We're also an **Octopus Energy Trusted Partner**, so we can get you any of the chargers from [Octopus's range](https://octopus.energy/get-an-ev-charger/).
 
-The Octopus ones are smart - they'll wait until electricity is dirt cheap (7.5p per kWh on Octopus Go) before charging your car. That's a massive difference from the 30-60p you'd pay at a public charger. You just plug in when you get home and forget about it.
+The Octopus ones are smart - they'll wait until electricity is dirt cheap (7.5p per kWh on Octopus Go) before charging your car. That's a massive difference from the 50-80p you'd pay at a public charger ((rac.co.uk)[https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/]). You just plug in when you get home and forget about it.
 
 Or if you've already picked out a charger yourself, that's fine too. Order it and we'll fit it.
 

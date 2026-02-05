@@ -14,7 +14,7 @@ Professional EV charger installations throughout Altrincham. As a NAPIT-register
 
 ## Why Altrincham Residents Choose Home EV Charging
 
-**Expensive public charging** is becoming a real issue. While there are chargers dotted around at local supermarkets and Altrincham Interchange, they're all dead expensive at 60-80p per kWh during peak times. Compare that to home charging on a smart tariff like Octopus Go at just 7.5p per kWh overnight, and you'll save a few tenners every time you charge.
+**Expensive public charging** is becoming a real issue. While there are chargers dotted around at local supermarkets and Altrincham Interchange, they're all dead expensive at 60-80p per kWh during peak times ((zapmap.com)[https://www.zapmap.com/ev-stats/charging-price-index]). Compare that to home charging on a smart tariff like Octopus Go at just 7.5p per kWh overnight, and you'll save a few tenners every time you charge.
 
 **Perfect for commuting patterns** - Most Altrincham residents work in Manchester, with many using the tram or driving to Piccadilly. Having a fully charged car every morning means you can skip the expensive public chargers entirely for daily driving. Plus, if you're heading to Manchester Airport (just 15 minutes away), you'll arrive with a full battery and avoid those expensive airport charging fees.
 
@@ -44,7 +44,7 @@ Altrincham's beautiful Victorian and Edwardian homes present unique opportunitie
 
 ## Why a 7kW Charger Matters
 
-Granny chargers that plug into a normal socket take forever - all day to charge your car, which means you're stuck paying daytime electricity rates. A proper 7kW wall charger gets it done overnight during the cheap window. On Octopus Go that's 7.5p per kWh compared to 30-60p at public chargers.
+Granny chargers that plug into a normal socket take forever - all day to charge your car, which means you're stuck paying daytime electricity rates. A proper 7kW wall charger gets it done overnight during the cheap window. On Octopus Go that's 7.5p per kWh compared to 50-80p at public chargers.
 
 Altrincham's got good motorway access (M56, M60, M6), so rapid chargers for long trips are easy to find. But for commuting to Manchester or running around locally, home charging is miles cheaper. Plus with the government banning new petrol and diesel cars in 2030, we're all heading electric anyway.
 

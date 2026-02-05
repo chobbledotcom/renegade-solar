@@ -18,7 +18,7 @@ Need an EV charger installed in Cheetham Hill? We're Renegade Solar, led by Ashl
 
 ## Save Thousands on Charging Costs
 
-Public charging at Manchester Fort costs 30-60p per kWh. Home charging on Octopus Go costs just 7.5p overnight. That daily commute into Manchester? Under £2 at home versus over £10 at public chargers. Over a year, you'll save £1,500-2,000 by charging at home.
+Public charging at Manchester Fort costs 50-80p per kWh ((rac.co.uk)[https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/]). Home charging on Octopus Go costs just 7.5p overnight. That daily commute into Manchester? Under £2 at home versus over £10 at public chargers. Over a year, you'll save £1,500-2,000 by charging at home.
 
 The [government's EV grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) covers up to £350 off installation costs. We're OZEV-approved and handle all the paperwork, making the process straightforward.
 
@@ -34,7 +34,7 @@ Minimal mess, and your consumer unit needs to be up to spec. If you've got solar
 
 ## What Goes In
 
-We're an **Octopus Energy Trusted Partner**, so we fit any of the [Octopus EV chargers](https://octopus.energy/get-an-ev-charger/). Smart units that charge your car when rates are cheapest - 7.5p per kWh on Octopus Go versus the 30-60p you'd pay at a public charger. Just plug in, they handle the timing.
+We're an **Octopus Energy Trusted Partner**, so we fit any of the [Octopus EV chargers](https://octopus.energy/get-an-ev-charger/). Smart units that charge your car when rates are cheapest - 7.5p per kWh on Octopus Go versus the 50-80p you'd pay at a public charger. Just plug in, they handle the timing.
 
 Got **Solax** or **AlphaESS** kit? Their chargers integrate with their solar and battery systems. We fit those too.
 

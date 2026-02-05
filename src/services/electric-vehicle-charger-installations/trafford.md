@@ -18,7 +18,7 @@ We serve the entire Trafford area with professional EV charger installations, fr
 
 ## Cost Comparison
 
-Public chargers cost 30-60p per kWh. Get on a time-of-use tariff like Octopus Go and you're paying 7.5p overnight at home. That's a massive difference for anyone doing regular driving. Manchester's motorway network (M60, M56, M6) means rapid chargers aren't hard to find for long trips, but daily charging at home is way cheaper.
+Public chargers cost 50-80p per kWh ((zapmap.com)[https://www.zapmap.com/ev-stats/charging-price-index]). Get on a time-of-use tariff like Octopus Go and you're paying 7.5p overnight at home. That's a massive difference for anyone doing regular driving. Manchester's motorway network (M60, M56, M6) means rapid chargers aren't hard to find for long trips, but daily charging at home is way cheaper.
 
 With the 2030 ban on new petrol and diesel cars approaching, more people are making the switch. A 7kW home charger gets your car charged overnight during the cheap window. Granny chargers that plug into regular sockets? They take all day, so you end up charging during expensive daytime rates.
 
