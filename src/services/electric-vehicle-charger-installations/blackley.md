@@ -26,7 +26,7 @@ Installations are wrapped up in a day, mess is minimal. Your consumer unit needs
 
 ## The Chargers We Fit
 
-We're an **Octopus Energy Trusted Partner**, so we install the full [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/). These are smart chargers that automatically charge when electricity is cheapest - you just plug in and they sort the rest. On Octopus Go that's 7.5p per kWh overnight, compared to 30-60p at public chargers.
+We're an **Octopus Energy Trusted Partner**, so we install the full [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/). These are smart chargers that automatically charge when electricity is cheapest - you just plug in and they sort the rest. On Octopus Go that's 7.5p per kWh overnight, compared to 50-80p at public chargers ((rac.co.uk)[https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/]).
 
 If you're running **Solax** or **AlphaESS** solar panels or batteries, their chargers integrate nicely. We fit those regularly.
 
@@ -34,7 +34,7 @@ Already ordered a charger yourself? That's fine. We'll install whatever you've g
 
 ## Electric Cars Are Coming
 
-The 2030 ban on new petrol and diesel cars is getting closer. Blackley's well connected to Manchester's motorways (M60, M62), so rapid chargers for longer trips aren't hard to find. But for everyday driving - work, shops, school runs - home charging at 7.5p per kWh beats paying 30-60p at public chargers every time.
+The 2030 ban on new petrol and diesel cars is getting closer. Blackley's well connected to Manchester's motorways (M60, M62), so rapid chargers for longer trips aren't hard to find. But for everyday driving - work, shops, school runs - home charging at 7.5p per kWh beats paying 50-80p at public chargers every time.
 
 ## Customer Testimonials
 

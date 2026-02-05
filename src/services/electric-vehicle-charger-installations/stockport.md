@@ -20,7 +20,7 @@ We provide expert EV charger installations across the Stockport area, working wi
 
 Petrol and diesel cars are being phased out - the government's set 2030 as the cut-off for new ones. Stockport's right on the motorway network (M60, M56, M6), so you've got plenty of options for rapid charging when you're heading further afield. But for your everyday driving, a home charger is the way to go.
 
-Public chargers cost 30-60p per kWh. Home charging on a time-of-use tariff like Octopus Go? 7.5p overnight. That's a massive saving for anyone doing regular journeys.
+Public chargers cost 50-80p per kWh ((zapmap.com)[https://www.zapmap.com/ev-stats/charging-price-index]). Home charging on a time-of-use tariff like Octopus Go? 7.5p overnight. That's a massive saving for anyone doing regular journeys.
 
 ## Installation Details
 

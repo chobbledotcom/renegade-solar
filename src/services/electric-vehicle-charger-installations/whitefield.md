@@ -14,7 +14,7 @@ Professional EV charger installations throughout Whitefield. Based just down the
 
 ## Why Whitefield Residents Choose Home EV Charging
 
-**Public charging's a proper pain** - While there are chargers dotted around at local supermarkets and petrol stations, they're all dead expensive at 60-80p per kWh and often occupied when you need them most. Even the planned charging points around Greater Manchester will cost far more than charging at home overnight on a smart tariff.
+**Public charging's a proper pain** - While there are chargers dotted around at local supermarkets and petrol stations, they're all dead expensive at 60-80p per kWh ((zapmap.com)[https://www.zapmap.com/ev-stats/charging-price-index]) and often occupied when you need them most. Even the planned charging points around Greater Manchester will cost far more than charging at home overnight on a smart tariff.
 
 **Perfect for commuting patterns** - Whether you're nipping into Manchester city centre via the A56 or heading to work in Bury, having your car fully charged every morning saves you a few tenners every time compared to public charging. Plus if you're off to the Trafford Centre or Manchester Airport, you'll arrive with a full battery without paying through the nose.
 
@@ -34,7 +34,7 @@ The Metrolink stops are handy for getting into town, but they don't help when yo
 
 ## The 2030 Switch
 
-New petrol and diesel cars are getting banned in 2030, so electric's the future whether we like it or not. Whitefield's got decent motorway links (M60, M62), which means finding rapid chargers for longer trips isn't difficult. But for daily driving, home charging at 7.5p per kWh makes way more sense than paying 30-60p at public chargers.
+New petrol and diesel cars are getting banned in 2030, so electric's the future whether we like it or not. Whitefield's got decent motorway links (M60, M62), which means finding rapid chargers for longer trips isn't difficult. But for daily driving, home charging at 7.5p per kWh makes way more sense than paying 50-80p at public chargers.
 
 Public chargers cost a fortune. Time-of-use tariffs like Octopus Go let you charge overnight for peanuts. A 7kW home charger gets your car fully topped up during that cheap window. Try that with a granny charger that plugs into a regular socket - it'll take all day and cost you loads more.
 

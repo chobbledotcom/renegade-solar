@@ -18,7 +18,7 @@ Need an EV charger in Crumpsall? We're Renegade Solar, led by Ashley, based in n
 
 ## Cut Your Transport Costs by 85%
 
-Public charging costs 30-60p per kWh. Home charging on Octopus Go? Just 7.5p overnight. Your daily Manchester commute drops from over £10 to under £2. That's £1,500-2,000 saved annually for typical Crumpsall families.
+Public charging costs 50-80p per kWh ((rac.co.uk)[https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/]). Home charging on Octopus Go? Just 7.5p overnight. Your daily Manchester commute drops from over £10 to under £2. That's £1,500-2,000 saved annually for typical Crumpsall families.
 
 The [government grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) gives you up to £350 off installation. We're OZEV-approved and we'll handle all the paperwork.
 
@@ -30,7 +30,7 @@ Semi-detached with a drive? Perfect for a standard wall-mounted charger. Victori
 
 Granny chargers that plug into a regular socket? Useless for taking advantage of cheap overnight rates - they're too slow and take all day. You end up charging during expensive daytime electricity. A proper 7kW wall charger gets your car done overnight when rates are dirt cheap.
 
-Crumpsall's got good access to Manchester's motorways (M60, M62), so rapid chargers for long trips are around. But for everyday driving, home charging at 7.5p per kWh on Octopus Go beats paying 30-60p at public chargers. With the 2030 ban on new petrol and diesel cars coming, we're all heading electric anyway.
+Crumpsall's got good access to Manchester's motorways (M60, M62), so rapid chargers for long trips are around. But for everyday driving, home charging at 7.5p per kWh on Octopus Go beats paying 50-80p at public chargers. With the 2030 ban on new petrol and diesel cars coming, we're all heading electric anyway.
 
 ## What We Fit
 

@@ -12,7 +12,7 @@ Professional EV charger installations throughout Hale Barns. As a NAPIT-register
 
 ## Why Hale Barns residents choose home EV charging
 
-**Public charging is expensive** - chargers at supermarkets and service stations typically cost 60-80p per kWh during peak times. Compare that to home charging on a smart tariff like Octopus Go at 7.5p per kWh overnight, and the savings add up quickly.
+**Public charging is expensive** - chargers at supermarkets and service stations typically cost 60-80p per kWh during peak times ((zapmap.com)[https://www.zapmap.com/ev-stats/charging-price-index]). Compare that to home charging on a smart tariff like Octopus Go at 7.5p per kWh overnight, and the savings add up quickly.
 
 **Perfect for commuting patterns** - Most Hale Barns residents travel for work, whether driving to Manchester or further afield. Having a fully charged car every morning means you can skip expensive public chargers entirely for daily driving. And with Manchester Airport just 15 minutes away, you'll arrive with a full battery rather than paying airport charging fees.
 

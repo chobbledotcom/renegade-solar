@@ -26,7 +26,7 @@ Mess is kept to a minimum. Consumer unit needs to be up to current standards - i
 
 Running **Solax** or **AlphaESS** solar panels or batteries? We fit their EV chargers - they work well with their own systems.
 
-As an **Octopus Energy Trusted Partner**, we also install any of the [Octopus chargers](https://octopus.energy/get-an-ev-charger/). Smart units that charge automatically when rates are cheapest. On Octopus Go that's 7.5p per kWh overnight versus 30-60p you'd pay at a public charger.
+As an **Octopus Energy Trusted Partner**, we also install any of the [Octopus chargers](https://octopus.energy/get-an-ev-charger/). Smart units that charge automatically when rates are cheapest. On Octopus Go that's 7.5p per kWh overnight versus 50-80p you'd pay at a public charger ((zapmap.com)[https://www.zapmap.com/ev-stats/charging-price-index]).
 
 Got a charger in mind already? Order it and we'll fit it.
 

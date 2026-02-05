@@ -28,7 +28,7 @@ For businesses across Bolton's growing economy, workplace charging is becoming e
 
 ## Chargers We Install
 
-We're an **Octopus Energy Trusted Partner**, which means we can install any of the chargers from [Octopus's EV charger programme](https://octopus.energy/get-an-ev-charger/). These are proper smart chargers that'll charge your car automatically when electricity is cheapest - usually overnight. If you're on something like Octopus Go, that's 7.5p per kWh compared to the 30-60p you'd pay at a public charger. The charger does all the thinking for you, so you just plug in whenever and it waits for the cheap rates.
+We're an **Octopus Energy Trusted Partner**, which means we can install any of the chargers from [Octopus's EV charger programme](https://octopus.energy/get-an-ev-charger/). These are proper smart chargers that'll charge your car automatically when electricity is cheapest - usually overnight. If you're on something like Octopus Go, that's 7.5p per kWh compared to the 50-80p you'd pay at a public charger ((rac.co.uk)[https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/]). The charger does all the thinking for you, so you just plug in whenever and it waits for the cheap rates.
 
 We also fit **Solax** and **AlphaESS** chargers if you've got their solar panels or batteries already. They talk to each other nicely. But honestly, if you've got a charger you want from anywhere else, just order it and we'll fit it. We're not fussy.
 

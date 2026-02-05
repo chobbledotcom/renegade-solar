@@ -16,7 +16,7 @@ We're Renegade Solar, led by Ashley, and we're based right here in Prestwich. We
 
 **Public charging is dear and a right faff** - While there are chargers dotted around at local supermarkets and the big Tesco, they're all pricey for daily use and often occupied when you need them most. Bury Council's got plans for public charging points in Prestwich town centre, but these will inevitably cost more than home charging and they're designed for the odd top-up, not your daily commute.
 
-**Perfect for Manchester commuting** - Whether you're nipping into town via Bury New Road or taking the M60 to Trafford Park, having a fully charged car every morning means you'll never have to bother with expensive public charging for your daily runs. Compare home charging on Octopus Go at just 7.5p overnight versus 30-60p+ at public chargers, and you'll save a few tenners every time you charge.
+**Perfect for Manchester commuting** - Whether you're nipping into town via Bury New Road or taking the M60 to Trafford Park, having a fully charged car every morning means you'll never have to bother with expensive public charging for your daily runs. Compare home charging on Octopus Go at just 7.5p overnight versus 50-80p at public chargers ((rac.co.uk)[https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/]), and you'll save a few tenners every time you charge.
 
 **Slow charging works a treat** - Your home charger won't be a supercharger like you'll find at some public spots, but that's absolutely fine because you can charge slowly overnight when the leccy is dead cheap. Who needs rapid charging when you're tucked up in bed anyway?
 
@@ -36,7 +36,7 @@ The cracking grid infrastructure in Prestwich means our installations rarely nee
 
 With a proper 7kW charger, you can get your car fully charged overnight during the cheap electricity window. A granny charger that plugs into a regular socket? That'll take all day, which means you'll be charging during expensive daytime rates. Not ideal.
 
-The new petrol and diesel car ban coming in 2030 means more people are switching to electric. Manchester's motorway connections - M60, M62 - mean there's no shortage of rapid chargers when you're doing longer trips. But for everyday driving around Prestwich and Manchester, home charging at 7.5p per kWh beats paying 30-60p at a public charger.
+The new petrol and diesel car ban coming in 2030 means more people are switching to electric. Manchester's motorway connections - M60, M62 - mean there's no shortage of rapid chargers when you're doing longer trips. But for everyday driving around Prestwich and Manchester, home charging at 7.5p per kWh beats paying 50-80p at a public charger.
 
 ## Which Chargers We Fit
 
