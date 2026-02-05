@@ -44,7 +44,7 @@ Jobs get done in a day, mess is kept minimal. Your consumer unit needs to meet c
 
 ## Comprehensive Installation
 
-When you enquire with us, a qualified electrician assesses your property - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved.
+When you book a survey, Ashley visits personally - you're dealing directly with the electrician who understands what your property needs, not someone reading from a sales script.
 
 - Detailed electrical system assessment
 - OZEV grant-approved charging units

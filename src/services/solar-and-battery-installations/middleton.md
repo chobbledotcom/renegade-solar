@@ -28,9 +28,7 @@ With the right solar setup, you could generate enough power to cover most of you
 
 ## Expert Support Throughout Your Solar Journey
 
-When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved.
-
-You'll benefit from our local knowledge when you choose Renegade Solar. Being just minutes away from Middleton means you'll receive **prompt, attentive service** whenever you need it. You won't have to worry about planning considerations as we have excellent relationships with Rochdale Council for any permissions you might need.
+Ashley personally handles surveys and system design - you won't be passed to a salesperson working from a script. That means you get technical advice from someone who actually understands your electrical setup, not generic recommendations. Being just minutes away from Middleton means you'll receive **prompt, attentive service** whenever you need it. You won't have to worry about planning considerations as we have excellent relationships with Rochdale Council for any permissions you might need.
 
 You could have complete peace of mind with our MCS-certified installation service (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)). Ashley oversees everything from the initial survey through to commissioning your system. With our comprehensive [electrical testing](/services/electrical-testing/), you can be confident your installation meets the highest safety standards.
 

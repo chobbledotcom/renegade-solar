@@ -1,8 +1,6 @@
 ---
 title: EV Charger Installations in Hale Barns | Renegade Solar
 description: Expert EV charger installations in Hale Barns by NAPIT-registered electrician. Any charger brand, any vehicle. Professional service with smart charging and solar integration.
-redirect_from:
-  - /ev-charger-installer-hale-barns/
 link_title: EV Charger Installs
 heading: EV Charger Installations in Hale Barns
 tags: [hale-barns]

@@ -46,7 +46,7 @@ A standard granny charger (the ones that plug into a normal socket) takes all da
 
 ## Complete EV Charging Package
 
-When you enquire with us, a qualified electrician assesses your property - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved.
+We skip the sales rep and send Ashley straight out - he's the electrician who'll be doing the work, so you get proper technical advice about what your property actually needs.
 
 - Free property survey and assessment
 - Smart chargers with app control

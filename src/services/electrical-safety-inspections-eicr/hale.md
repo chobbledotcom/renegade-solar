@@ -4,8 +4,6 @@ description: Professional EICR electrical inspections in Hale. £150 plus VAT al
 link_title: EICR Inspection
 heading: EICR Inspections in Hale
 icon: /assets/icons/check.svg
-redirect_from:
-  - /hale-eicr-inspections/
 tags: [hale, eicr]
 ---
 

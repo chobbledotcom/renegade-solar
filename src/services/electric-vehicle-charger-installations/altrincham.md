@@ -74,7 +74,7 @@ Over a year, typical Altrincham residents save £1,500-2,500 versus relying on p
 
 ## Installation Process for Altrincham Properties
 
-**Survey and consultation** - A qualified electrician assesses your property's electrical capacity, parking arrangements, and usage requirements - you won't be visited by a salesperson. This means you get honest, technically informed advice from someone who understands the work involved. Many Altrincham homes have ample electrical headroom for EV charging.
+**Survey and consultation** - Ashley assesses your property's electrical capacity, parking arrangements, and usage requirements himself. No salespeople involved, just honest technical advice from someone who actually understands the electrical work. Many Altrincham homes have ample electrical headroom for EV charging.
 
 **Planning considerations** - For listed buildings or conservation areas around Bowdon and central Altrincham, we handle any necessary notifications and ensure discrete, appropriate installations.
 

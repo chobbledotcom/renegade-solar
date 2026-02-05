@@ -1,8 +1,6 @@
 ---
 title: Solar Panel Installer in Hale Barns | Renegade Solar
 description: MCS-certified solar panel and battery installations in Hale Barns. Expert advice on larger properties and system sizing from a local installer. 0% VAT, 30-year panel warranty.
-redirect_from:
-  - /solar-panel-installer-hale-barns/
 link_title: Solar Panel Installs
 heading: Solar Panel Installer in Hale Barns
 icon: /assets/icons/solar-panel.svg

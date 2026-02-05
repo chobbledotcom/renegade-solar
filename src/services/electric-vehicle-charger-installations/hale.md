@@ -1,8 +1,6 @@
 ---
 title: EV Charger Installations in Hale | Renegade Solar
 description: Expert EV charger installations in Hale by NAPIT-registered electrician. Any charger brand, any vehicle. Professional service with smart charging and solar integration.
-redirect_from:
-  - /ev-charger-installer-hale/
 link_title: EV Charger Installs
 heading: EV Charger Installations in Hale
 tags: [hale]

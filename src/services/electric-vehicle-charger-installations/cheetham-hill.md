@@ -48,9 +48,7 @@ A 7kW charger tops up your car overnight during the cheap window. Granny charger
 
 ## Why Choose Renegade Solar?
 
-When you enquire with us, a qualified electrician assesses your property - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved.
-
-We're based minutes away in Prestwich, so there's no travel charges or waiting around. We'll give you honest advice about the best charger for your needs and budget. Most installations complete in half a day, and we handle everything – including any electrical upgrades you might need. One Blackley customer had their charger installed within days of first contact – that's the quick turnaround you can expect.
+We're based minutes away in Prestwich, so there's no travel charges or waiting around. When Ashley comes to assess your property, you're getting advice from a qualified electrician who understands what's actually needed - not a salesperson working through a list of upsells. We'll give you honest advice about the best charger for your needs and budget. Most installations complete in half a day, and we handle everything – including any electrical upgrades you might need. One Blackley customer had their charger installed within days of first contact – that's the quick turnaround you can expect.
 
 ## Ready to Start Saving?
 

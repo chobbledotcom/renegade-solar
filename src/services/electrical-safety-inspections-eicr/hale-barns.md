@@ -4,8 +4,6 @@ description: Professional EICR electrical inspections in Hale Barns. £150 plus 
 link_title: EICR Inspection
 heading: EICR Inspections in Hale Barns
 icon: /assets/icons/check.svg
-redirect_from:
-  - /hale-barns-eicr-inspections/
 tags: [hale-barns, eicr]
 ---
 
