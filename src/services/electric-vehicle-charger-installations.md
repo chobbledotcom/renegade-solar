@@ -29,7 +29,7 @@ If you've got solar panels or are thinking about getting them, we can set up you
 
 ## Installation Process
 
-The process is straightforward. We'll pop round to look at your property's electrical setup, discuss your requirements and recommend suitable options. You'll get a quote with no hidden costs. Installation is typically done in a day with minimal disruption. Afterward, we'll provide all necessary certification and show you how to use your new charging system. Our NAPIT registration means you'll receive proper electrical certification that may be required by your insurance or when selling your property. We apply the same professional approach as with our [electrical testing](/services/electrical-testing/) services.
+The process is straightforward. A qualified electrician will visit to assess your property's electrical setup, discuss your requirements and recommend suitable options - you won't be visited by a salesperson. This means you get honest, technically informed advice from someone who understands the work involved. You'll get a quote with no hidden costs. Installation is typically done in a day with minimal disruption. Afterward, we'll provide all necessary certification and show you how to use your new charging system. Our NAPIT registration means you'll receive proper electrical certification that may be required by your insurance or when selling your property. We apply the same professional approach as with our [electrical testing](/services/electrical-testing/) services.
 
 ## Charger Options
 

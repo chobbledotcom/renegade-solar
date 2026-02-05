@@ -46,7 +46,9 @@ We serve all parts of Hyde and the surrounding areas, including Gee Cross, Flowe
 
 ## Honest Advice, Quality Work
 
-With over 15 years' experience as an electrician, we'll give you straight advice about whether solar's right for your property. No pressure, no overselling – just honest information about costs, returns, and what you can realistically expect.
+When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved.
+
+With over 15 years' experience, we'll give you straight advice about whether solar's right for your property. No pressure, no overselling – just honest information about costs, returns, and what you can realistically expect.
 
 One Prestwich customer put it well: "Another electrician convinced us we needed a whole house rewire. After inspecting, Ashley let us know it was fully unnecessary and we just needed a new fuse board. He saved us thousands of pounds with that first visit."
 

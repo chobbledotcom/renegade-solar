@@ -52,6 +52,6 @@ A 7kW charger gets your car topped up overnight during the cheap window. Try doi
 
 ## Local Expertise
 
-Based nearby in Prestwich, we understand Bury's diverse housing stock and can recommend the most suitable EV charging solution for your specific property and driving requirements.
+No call centres or pushy sales reps - when you get in touch, Ashley comes out to assess your property himself. He's a qualified electrician, so you get proper technical advice rather than a script. Based nearby in Prestwich, we understand Bury's diverse housing stock and can recommend the most suitable EV charging solution for your specific property and driving requirements.
 
 **Ready to install your home EV charger? [Contact us](/contact/) for a free consultation and quote.**

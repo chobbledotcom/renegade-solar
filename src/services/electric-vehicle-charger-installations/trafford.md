@@ -44,6 +44,8 @@ Jobs get done in a day, mess is kept minimal. Your consumer unit needs to meet c
 
 ## Comprehensive Installation
 
+When you book a survey, Ashley visits personally - you're dealing directly with the electrician who understands what your property needs, not someone reading from a sales script.
+
 - Detailed electrical system assessment
 - OZEV grant-approved charging units
 - Smart chargers with mobile app control

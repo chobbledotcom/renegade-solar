@@ -12,7 +12,7 @@ gallery_tags: [solar-panels]
 
 We provide [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Bramhall, from the Victorian terraces near the village to the large detached properties around Bramhall Park. We're an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, and we know the specific challenges that Bramhall properties present - the mix of period homes, tree-lined streets, and where the conservation area restrictions apply.
 
-We work in Bramhall regularly, and every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 15 years of experience.
+When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 15 years of experience.
 
 ## Bramhall property types and solar suitability
 

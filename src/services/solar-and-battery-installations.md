@@ -27,7 +27,9 @@ With a strong track record of reliability and customer satisfaction, your solar 
   <img src="/assets/photos/flat-solar-panels.jpg" alt="Flat solar panels on a roof in Manchester" eleventy:ignore />
 </div>
 
-From start to finish, Ashley will be your personal point of contact, going through the different types of installation: on roof, in roof, ground mounted or flat roof. While tailoring a design and quote to suit you, your home or property and your energy needs, every project is different but large or small will all get the same attention to detail.
+When you enquire with Renegade, a qualified electrician surveys your property and designs your system - not a salesperson. Ashley will be your personal point of contact from start to finish, going through the different types of installation: on roof, in roof, ground mounted or flat roof. While tailoring a design and quote to suit you, your home or property and your energy needs, every project is different but large or small will all get the same attention to detail.
+
+This matters because we've seen other installers recommend unsuitable or even dangerous setups - like batteries in lofts, which contradicts NAPIT safety guidelines. When salespeople spec jobs instead of electricians, corners get cut. With Renegade, the person who surveys your property understands the technical requirements and won't recommend something inappropriate just to make a sale.
 
 ## Installation
 

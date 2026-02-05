@@ -22,7 +22,7 @@ Don't let Manchester's rainy reputation fool you! Solar panels perform excellent
 
 ## Local Installer Advantages
 
-Working with us means direct contact with Ashley throughout your entire project – no pushy salespeople or confusing quotes here! You'll enjoy **quick response times** for site visits and aftercare, backed by our deep understanding of Altrincham properties and planning considerations. We only use premium components with comprehensive warranties, and our **9.61/10 Checkatrade rating** from over 80 verified reviews speaks for itself.
+When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. Ashley is your direct contact throughout your entire project, giving you honest, technically informed advice from someone who understands the work involved. You'll enjoy **quick response times** for site visits and aftercare, backed by our deep understanding of Altrincham properties and planning considerations. We only use premium components with comprehensive warranties, and our **9.61/10 Checkatrade rating** from over 80 verified reviews speaks for itself.
 
 ## Battery Solutions
 

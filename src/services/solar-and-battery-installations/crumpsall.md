@@ -31,7 +31,7 @@ Last year, the [Smart Export Guarantee](https://www.ofgem.gov.uk/environmental-a
 
 ## Honest Advice, Fair Prices
 
-Here's what sets us apart: we saved one customer thousands by telling them they didn't need a full rewire, just a new fuse board. That's the honest approach we take with every customer.
+No sales team here - just Ashley, a qualified electrician who'll give you straight answers about what your property actually needs. We saved one customer thousands by telling them they didn't need a full rewire, just a new fuse board. That's the approach we take with everyone - honest advice, not upselling.
 
 We're NAPIT-registered for safety and an Octopus Energy Trusted Partner. But more importantly, we're local – just minutes from Crumpsall with no travel charges.
 

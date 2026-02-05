@@ -47,6 +47,8 @@ Our local knowledge means we:
 
 ## The Renegade Solar Difference in Blackley
 
+You won't find commission-hungry sales reps here. When you get in touch, you're speaking directly to Ashley - a qualified electrician who can actually answer your technical questions and won't recommend something unsuitable just to hit targets.
+
 We're not just another solar company - we're your neighbours. Our Prestwich base means:
 
 - Quick response times to Blackley

@@ -30,6 +30,8 @@ As an MCS-certified installer, we ensure you qualify for these government paymen
 
 ## What Makes Renegade Solar Different
 
+When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved.
+
 We're NAPIT-registered (66870) for electrical safety, an Octopus Energy Trusted Partner, and a member of Green Economy's curated network of sustainable businesses. Ashley oversees everything from survey to commissioning, including all the paperwork for grid connection and Smart Export Guarantee applications. Being based in Prestwich, we're just minutes away from Cheetham Hill – and there's no travel charges added to your quote.
 
 ## Battery Storage Maximises Your Savings

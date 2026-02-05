@@ -52,6 +52,6 @@ The 2030 ban on new petrol and diesel cars is getting closer. Blackley's well co
 
 ## Why Choose Local Installation
 
-Our proximity to Blackley means quick response times for surveys and installations, plus ongoing support when you need it. We understand the local housing mix and can recommend the most cost-effective charging solution.
+We don't do sales teams. Ashley visits to assess your property himself - as a qualified electrician, he'll tell you what you actually need rather than trying to upsell you. Our proximity to Blackley means quick response times for surveys and installations, plus ongoing support when you need it. We understand the local housing mix and can recommend the most cost-effective charging solution.
 
 **Ready to charge at home? [Contact us](/contact/) for your free EV charger consultation and quote.**

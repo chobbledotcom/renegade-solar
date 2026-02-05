@@ -47,7 +47,7 @@ With over 15 years working as an electrician in both Prestwich and Whitefield, a
 
 ## Local Benefits
 
-Because we're based so close to Whitefield we know plenty of other local tradespeople we've dealt with over the years who can collaborate with us when working in homes and businesses in Whitefield - for example, a scaffolding company to get access to your roof to fit panels.
+Ashley handles every survey personally - you're getting advice from a qualified electrician who understands your electrical setup, not a salesperson reading from a brochure. Because we're based so close to Whitefield we know plenty of other local tradespeople we've dealt with over the years who can collaborate with us when working in homes and businesses in Whitefield - for example, we use the same scaffolding company every time to get access to your roof to fit panels.
 
 We're also regularly passing through, which means arranging an appointment should be really easy.
 

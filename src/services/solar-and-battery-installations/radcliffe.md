@@ -30,6 +30,6 @@ Our experience serving the Greater Manchester area means we understand Radcliffe
 
 ## Why Choose Local Installation
 
-Based in nearby Prestwich, we provide quick response times for surveys and installations throughout Radcliffe, plus we understand the local electrical infrastructure and housing requirements.
+The person who assesses your property actually understands the electrical work involved - because that's Ashley, a qualified electrician, not a sales rep chasing commission. Based in nearby Prestwich, we provide quick response times for surveys and installations throughout Radcliffe, plus we understand the local electrical infrastructure and housing requirements.
 
 **Ready to start generating your own electricity? [Contact us](/contact/) for your free solar panel consultation.**
