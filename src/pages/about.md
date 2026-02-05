@@ -12,8 +12,6 @@ noindex: false
 
 ## About Renegade Solar
 
-![Ashley Merritt, installing solar panels on a roof](/assets/photos/ashley-hat.jpg)
-
 Renegade Solar is led by Ashley Merritt, based in North Manchester, with over 15 years' experience as an electrician, including 10 years in commercial projects.
 
 In 2016, Ashley worked in the Channel Islands on high-end mansions and apartments, providing electrical services for:
