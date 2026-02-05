@@ -66,6 +66,8 @@ Our installations respect the character of different areas around Whitefield wit
 
 ## Local Knowledge Advantage
 
+When you enquire with us, a qualified electrician assesses your property - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved.
+
 Being based just down the road means we know Bury Council's requirements like the back of our hand, plus any considerations for different areas around Whitefield. Having worked on hundreds of local properties, Ashley can quickly spot the best charging solutions for different house types and electrical setups.
 
 Our local base means proper competitive pricing without the travel charges that out-of-area installers whack on - and we're always nearby if you need any support down the line.

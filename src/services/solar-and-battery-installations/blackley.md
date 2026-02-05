@@ -47,6 +47,8 @@ Our local knowledge means we:
 
 ## The Renegade Solar Difference in Blackley
 
+When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved.
+
 We're not just another solar company - we're your neighbours. Our Prestwich base means:
 
 - Quick response times to Blackley

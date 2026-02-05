@@ -48,6 +48,8 @@ Install's done in a day, mess is minimal. Your consumer unit needs to be up to c
 
 ## Local, Reliable, Honest
 
+When you enquire with us, a qualified electrician assesses your property - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved.
+
 Being minutes away in Prestwich means no travel charges and quick response. Our [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) from 80+ reviews shows we do the job right. We can typically get your charger installed within days of first contact – just like a recent Blackley customer who went from enquiry to installation in less than a week.
 
 ## Stop Wasting Money

@@ -26,6 +26,8 @@ According to [Ofgem's latest data](https://www.ofgem.gov.uk/publications/smart-e
 
 ## What Makes Renegade Solar Different
 
+When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved.
+
 We're NAPIT-registered (66870) for electrical safety and an Octopus Energy Trusted Partner. As a member of Green Economy's curated network, we're committed to sustainable installations that actually work properly. Ashley oversees everything from initial survey through to grid connection paperwork and Smart Export Guarantee applications.
 
 Being based in Prestwich means we're just down the road from Failsworth – no travel charges, and if you ever need anything sorting, we're nearby.

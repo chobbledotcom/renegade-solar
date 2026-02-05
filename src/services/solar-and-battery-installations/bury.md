@@ -30,6 +30,8 @@ We've installed systems across Bury that consistently exceed expectations, even 
 
 ## Local Knowledge, Personal Service
 
+When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved.
+
 Being based in Prestwich means we understand Bury properties inside and out. We know how to work with older electrical systems in period homes, navigate planning considerations for different areas, understand typical energy usage patterns in local homes, and recommend the best battery solutions for your specific needs.
 
 ## Coverage Areas

@@ -54,7 +54,7 @@ Sell excess stored energy back to your electricity supplier. We provide all nece
 
 ### 1. Free Survey & Consultation
 
-We assess your property's electrical system and discuss your energy usage patterns to recommend the optimal battery solution.
+A qualified electrician assesses your property's electrical system and discusses your energy usage patterns to recommend the optimal battery solution - you won't be visited by a salesperson. This matters because we've seen other installers recommend batteries in unsuitable locations like lofts, which contradicts safety guidelines. When an electrician specs the job, you get honest advice about what will actually work safely in your home.
 
 ### 2. Flexible Installation
 

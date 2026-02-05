@@ -52,7 +52,7 @@ Most jobs are done in a day, mess is minimal. Your fuse board needs to be up to 
 
 ## Complete EV Charging Package
 
-Every installation begins with a free property survey and assessment to ensure the perfect charger solution for your needs. We install smart chargers with app control, giving you complete visibility and control over your car's charging from your smartphone.
+Every installation begins with a free property survey by a qualified electrician - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved. We install smart chargers with app control, giving you complete visibility and control over your car's charging from your smartphone.
 
 All our installations are OZEV grant-approved and come with full NAPIT electrical certification, ensuring compliance with current regulations. We can integrate your charger with existing [solar panels](/services/solar-and-battery-installations/) and [battery systems](/services/home-battery-installations/) for renewable vehicle charging.
 

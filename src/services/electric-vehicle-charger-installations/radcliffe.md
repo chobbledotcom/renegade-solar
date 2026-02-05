@@ -47,6 +47,8 @@ A proper 7kW charger tops your car up overnight during cheap rate periods. Grann
 
 ## Local Advantage
 
+When you enquire with us, a qualified electrician assesses your property - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved.
+
 Our proximity to Radcliffe means quick response times for surveys and installations, plus ongoing support when you need it. We understand the local housing mix and can recommend the most cost-effective charging solution.
 
 ## Customer Experience

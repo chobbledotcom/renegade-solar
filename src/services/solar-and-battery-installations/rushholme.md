@@ -42,6 +42,8 @@ For Rusholme households wanting to properly cut their energy bills, battery stor
 
 ## Local Service
 
+When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved.
+
 Being based in Prestwich means we're just up the road from Rusholme. No travel charges added to your quote, and if you ever need anything sorting, we're nearby. We've worked across Manchester for over 15 years, so we know the housing stock well.
 
 ## Ready to Cut Your Energy Bills?

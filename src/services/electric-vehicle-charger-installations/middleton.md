@@ -58,6 +58,8 @@ Install's done in a day, minimal mess. Your consumer unit needs to be up to spec
 
 ## Local Knowledge Advantage
 
+When you enquire with us, a qualified electrician assesses your property - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved.
+
 Our extensive experience in Middleton means we understand the area's electrical infrastructure and can quickly identify the best charging solution for your property type and requirements.
 
 **Get your free EV charger quote today. [Contact us](/contact/) to discuss your home charging needs.**

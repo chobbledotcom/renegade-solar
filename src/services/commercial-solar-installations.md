@@ -45,7 +45,7 @@ For businesses in rural locations or where grid connection is prohibitively expe
 
 ## How the installation process works
 
-We start by assessing your property and reviewing your electricity usage to understand your consumption patterns. From there, we create detailed designs showing projected energy generation, cost savings, and payback period based on your actual usage data. Most commercial clients get multiple design options - perhaps flat roof only, pitched roof only, or a combined approach - with detailed financial analysis for each.
+When you contact us, a qualified electrician assesses your property and reviews your electricity usage - not a salesperson working from a script. We understand the technical requirements and can give you honest advice about what will actually work for your business. From there, we create detailed designs showing projected energy generation, cost savings, and payback period based on your actual usage data. Most commercial clients get multiple design options - perhaps flat roof only, pitched roof only, or a combined approach - with detailed financial analysis for each.
 
 All installations are completed with minimal disruption to your business operations. We coordinate timing to suit your needs and ensure work is finished efficiently. After installation, we handle all the grid connection requirements, provide necessary [electrical certifications](/services/electrical-testing/), and set up Smart Export Guarantee arrangements so you can earn income from excess electricity generation. Our [MCS certification](/accreditations/mcs-certified/) ensures every installation meets the highest standards.
 

@@ -22,6 +22,8 @@ We offer comprehensive energy solutions tailored to your needs. Our **premium [s
 
 ## Local Expertise Benefits
 
+When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved.
+
 Our local knowledge gives you significant advantages. We understand planning requirements for conservation areas and have extensive experience with architectural styles across Trafford. You'll benefit from **accurate performance predictions** based on local data and enjoy direct contact with Ashley, our founder and installer. Every system we design respects your property's unique character while maximising energy production.
 
 ## Areas Covered
