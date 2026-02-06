@@ -1,7 +1,150 @@
 {
-  "total": 97,
-  "averageRating": 9.855670103092784,
+  "total": 100,
+  "averageRating": 9.8567,
   "reviews": [
+    {
+      "id": "019b0399-5431-7fb9-840b-594bbd398cc0",
+      "companyId": 1110420,
+      "type": "WORK_CARRIED",
+      "status": "PUBLISHED",
+      "title": "Solar installation",
+      "review": "We were looking for an off grid solar installation for our allotment. Renegade gave us a very good quote for the job and so we chose them. This turned out to be a great decision. Ashley did a site inspection and we tweaked the initial design to better suit our location. The installation went ahead on the planned date and the work was completed to a very high standard. We had some additional work carried out at the same time, some due to Ashleys recommendation (e.g. swapping our lighting for LED).\nI highly recommend Renegade as a trustworthy and competent company.",
+      "createdAt": "2025-12-09T14:52:19.471Z",
+      "updatedAt": "2025-12-10T15:00:08.396Z",
+      "legacyId": "",
+      "consumerId": "",
+      "categoryId": 1871,
+      "topLevelCategoryId": 1172,
+      "location": {
+        "postcode": "SK4"
+      },
+      "verified": "VERIFIED",
+      "rating": {
+        "qualityOfWorkmanship": 10,
+        "reliabilityAndTimekeeping": 9,
+        "communication": 10,
+        "rating": 9.67
+      },
+      "publishedAt": "2025-12-10T15:00:08.396Z",
+      "name": "Renegade Electrical Ltd",
+      "uniqueName": "renegadeelectrical",
+      "mediaAttachments": [],
+      "category": {
+        "id": 1871,
+        "label": "Solar Battery Storage",
+        "name": "solar-battery-storage"
+      }
+    },
+    {
+      "id": "019aa7d6-1304-7139-b9e6-16445ba36885",
+      "companyId": 1110420,
+      "type": "WORK_CARRIED",
+      "status": "PUBLISHED",
+      "title": "Renegade Electrical Ltd are brilliant!",
+      "review": "Renegade Electrical Ltd have been great. They replaced my electric fuse box really quickly and for a really reasonable price too. Would highly recommend 👌",
+      "createdAt": "2025-11-21T19:13:36.478Z",
+      "updatedAt": "2025-11-22T19:30:08.877Z",
+      "legacyId": "",
+      "consumerId": "068ddb05-19fe-78f6-a320-1e72b2dbf827",
+      "jobId": "0199a1fb-0c75-7a8d-8f58-fdb39d91ab23",
+      "categoryId": 12,
+      "topLevelCategoryId": 12,
+      "location": {
+        "postcode": "M5"
+      },
+      "verified": "VERIFIED",
+      "rating": {
+        "qualityOfWorkmanship": 10,
+        "reliabilityAndTimekeeping": 10,
+        "communication": 10,
+        "rating": 10
+      },
+      "publishedAt": "2025-11-22T19:30:08.877Z",
+      "reviewer": {
+        "id": "068ddb05-19fe-78f6-a320-1e72b2dbf827",
+        "displayName": ""
+      },
+      "name": "Renegade Electrical Ltd",
+      "uniqueName": "renegadeelectrical",
+      "mediaAttachments": [],
+      "category": {
+        "id": 12,
+        "label": "Electrician",
+        "name": "electrician"
+      }
+    },
+    {
+      "id": "019a8e19-ab53-704d-a973-6ea9ff84227b",
+      "companyId": 1110420,
+      "type": "WORK_CARRIED",
+      "status": "PUBLISHED",
+      "title": "Renegade Electricals - Exceptional service!",
+      "review": "In a word...outstanding! Renegade Electricals installed a 10 panel PV system with battery/inverter for us and we're extremely happy with it. Ashley was easy to deal with, reassuring and very professional providing full documentation and keeping us informed throughout the process. His customer service was exceptional and technical knowledge formidable. The panels, even in winter in the grim/grey north west, are producing impressive stats and its great entertainment watching the Alpha-ESS app showing the panels filling the battery up during the day, then discharging in the evening. RECOMMENDED!",
+      "createdAt": "2025-11-16T19:17:18.944Z",
+      "updatedAt": "2025-11-17T19:30:08.363Z",
+      "legacyId": "",
+      "consumerId": "",
+      "categoryId": 1174,
+      "topLevelCategoryId": 1172,
+      "location": {
+        "postcode": "PR7"
+      },
+      "verified": "VERIFIED",
+      "rating": {
+        "qualityOfWorkmanship": 10,
+        "reliabilityAndTimekeeping": 10,
+        "communication": 10,
+        "rating": 10
+      },
+      "publishedAt": "2025-11-17T19:30:08.363Z",
+      "mediaAttachmentIds": [
+        "019a8e19-0c4b-7219-bd6d-c659380727ff",
+        "019a8e19-0d28-7727-baa7-ce3289472d95",
+        "019a8e19-2c26-7456-b05d-06919e6b9050",
+        "019a8e19-5142-7252-b114-e0b02a42ffb4"
+      ],
+      "name": "Renegade Electrical Ltd",
+      "uniqueName": "renegadeelectrical",
+      "mediaAttachments": [
+        {
+          "id": "019a8e19-0c4b-7219-bd6d-c659380727ff",
+          "mimetype": "image/jpeg",
+          "isPublished": true,
+          "status": "PASSED_BY_AI",
+          "url": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71J2X58V0JAD6F11D3VHNN.IMG_6767.JPEG?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=JDi%2F8PvPy4Z5q5uFg1jRx0Fx8GKA%2BmF6b1Tks7cpv1KxwmtKRSe%2B%2FYUtY%2B%2F0z2OVNJm%2F72BZEF60Q%2FiyUz1FxFtenYbjppZkPmPdIJybEZkOc7eKLdag7Y1kKzZNNAWaLxegDtrrMS93NZAnjNnG7t0subdP5m7vQZyAxRe%2B8js1Ol4Mihy3%2BiZ2q7kt1aEEtuKuC%2BQXqSyX9fwKmzMROcf0lYP3clHPLb7Y8iK4ZHtLaUcGiwjUBM1f64NuBniSi2%2Fwq7ybiGbva27GjQJm%2Btlndc%2BlGpLUMLVheskVva9aZs%2F3pX0h%2FnOIV9%2Flx0Ah%2FrtLT1OV%2B1UrVRCEZobqWA%3D%3D",
+          "thumbnailUrl": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71J2X58V0JAD6F11D3VHNN.IMG_6767.thumb.JPEG?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=JoO656IF4MoxZrpJVABIjZ5oclapwhuBCMVaZFoBBuOdXJGZMZQmFaKpEFOdPvn8DT%2BzMbfGPRxJKzG1xp7CcAJW1ZqKisJdhoz2aRuf6MhAMtAb0vV9eNcoJXRj%2B9SXORH8wF8hTecYZ0fHjh%2B%2B7sqvfUlS6YHXwZ8SnR06c5oPxhmBo%2BrvLivS9M2JnqTd%2BALa1dV9KBwg3pAHYtODY8T2sQWN2KW8%2BG1huyUj507cpXF37pdgZ7dMzX6dbvampT7VtiL6qeXtVUHru3OH8El%2FNsABlmVjRXX7R0RjN8JiiLDIjZOgKFR1Tr4OcEGC6wrG9ckS1w1wYlrZ0wo%2Ftw%3D%3D"
+        },
+        {
+          "id": "019a8e19-0d28-7727-baa7-ce3289472d95",
+          "mimetype": "image/jpeg",
+          "isPublished": true,
+          "status": "PASSED_BY_AI",
+          "url": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71J35HP4YHBN61559CZ15F.IMG_6768.JPEG?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=Aev4%2F9eEvm3z6Qz1dI%2BM6n5pqvGrFgUl7w1JQPHmaA%2BE0YJMJkDSR7pJXC4bQQWGE2YKRiadPVZx6XLIXjCVFL5%2BxkhdKu2AmxbSj5ZPjpR9NVBaklURy5aiyuSCzOi0tBxtfkMVyv2KVI8lqp0QDAxGro6khc50V7ToGBQjZMkyItC%2FYrM%2FQ7gDH%2Fn75%2Fn392CNPgORDx51vhN9InTgA3Oyskt2VV8s8elkCv2aG8jMB%2BcyiYyJWotUIRY7H7JCBxamBf%2BR8FCUbi%2FEMOH7T%2B4eSD5kJkI0uSNoPD2mzJisNeC4Lzh2VXr%2BMDpYol%2Fz83eMxBixH1LIQp0MgNiR8w%3D%3D",
+          "thumbnailUrl": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71J35HP4YHBN61559CZ15F.IMG_6768.thumb.JPEG?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=YSEc1RVd2pdmXoV4lak9vwoRWjHTpPPgpmRk8Fn0mvfl3U%2FV%2FunaDxKeuF21S%2FWNGELaQfWY2Kr7UtMK5ySMFyou6V7AwqAnNWiQFhbuab%2BnxSfEuGNwCarCsqQlTQMC9dC6SZqMp%2BSQh9ENSYcSHenRTBPCUiaT3Wue0pkr9Zl694ITtjeW08%2F48erX36mkWQrPqWlhNAWdIAr7MPcBMLBe2k2pZIE9CrFIgjTzrr4z6d92o0vjBCHE7U4e1sDsP5HI5ul4abzr%2FdA6KesJkgJ4Pc5q3I5HDgg5YhwG55lA9kfv6%2FUVNnvNBJO6mKkeLXGorEy0izFoY7qG3kuZUg%3D%3D"
+        },
+        {
+          "id": "019a8e19-2c26-7456-b05d-06919e6b9050",
+          "mimetype": "image/jpeg",
+          "isPublished": true,
+          "status": "PASSED_BY_AI",
+          "url": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71JAVM2VPFKN4RK9Z6SVRP.Screenshot_16-11-2025_105918_cloud.alphaess.com.jpeg?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=iXm3Y1vvewVhHABIEdG5UY0S3kJrXdAVYhK%2FJ8ldBXUZesNIM7%2B7Zq99pWdfCkTVQlB%2B8UFZ1ALBCRR2rbvkEM%2BrvGF0H54KHuTMcLr4JaAvrQy6v%2FygepTST3Xsag6Yj9pYP9ZNyPOZSBuTi0SC0CWQZ%2F%2FZsbSvb1DQ0ZNckL1YWpLYzZcoVo8grXHyWGql3MTpelrgMsFrxO6RepdEAdDRKNe0nTHxaogbkkTkuJ8t6JgnkQkWVobqG6HvT%2Bmw2emIKeMUwcQyM68dREol7%2BtIN7Rgn%2BVenQI1V6skX9FYAmXeQ%2BuO1V9cV5BIVa2bBcCirzsx1utBvgQz2z6RJQ%3D%3D",
+          "thumbnailUrl": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71JAVM2VPFKN4RK9Z6SVRP.Screenshot_16-11-2025_105918_cloud.alphaess.com.thumb.jpeg?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=S3sbZ853K8QnEKokwnWZs37Oawuym35Kjq4EwAOPcberGZ6kt5kLuecW03w3hZkC%2F%2Fwjg90WCScWSZDNsu47UG%2FvRtUYUSOna%2FYcmuD6G1HIU525Q9ZNIVp%2FwdnUKpwhwmWfvEIM119DDZgZCLX3DPO7G4gxLYtJQuUqCVRUFq7efkxAIH2tiLnkTRqNzRW4Z%2BdrIwQzkYxXFroX3Riy%2B%2B1wTOwHIP4KZWIFlgRCFzUkGOF9fzaXbS0miKDUo1WRHN%2BMJs2f9h%2BdhXSL5qPeXOBldVvIt3ZhlSJdOPSHRti6WXT7Q8w3VJuykLmPHb6TaGX5bQd082ixtOAz2ilrAg%3D%3D"
+        },
+        {
+          "id": "019a8e19-5142-7252-b114-e0b02a42ffb4",
+          "mimetype": "image/jpeg",
+          "isPublished": true,
+          "status": "PASSED_BY_AI",
+          "url": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71JM4ZY39BFY9FBV43N7Z3.IMG_6764.JPEG?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=nLKspzRHq2Vqia4bfSjBa70wzY5tC%2FSrMZ%2FCqZKSocDwrkx5Yk3zl%2FWeM5pjaoehc0fdHZBNWhYE%2BMbvlS9uCikwDP%2BtBbQ9cDXie1z%2BqR2hBdv4DjOREaEYznpRONd%2F3iZ6xJCXRGH8RjX3rFeOVwfFEWnpogHeAY7dyilWTWZx6yq5R9%2BRvwInD4ZbToE6%2FdAlieivnEk9ainpemEPjvoLxK4PkB276Z1ezHcvazon5hcLLHg1CAjeEvkIoSqA3%2Bm5ZFUZrPHb3B7DOTr%2FhC9bBAXelD3rFjV%2F%2FlqP%2FLFD%2B8345QecZyrne41RAV25JvH%2FJsewJL3qcnm0wCxWMQ%3D%3D",
+          "thumbnailUrl": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71JM4ZY39BFY9FBV43N7Z3.IMG_6764.thumb.JPEG?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=TX4C0plsDJQxEOK2thLUQ8COmPPkZX9sVPtwZMD4TNrrqtvqMwueR38rGK6p1cbUm9j4XZggZ9qmmBUMZoslkcBwf%2B9EL7Q0xNFKsY%2FQheh0LLLmTcm76nAx5j3ULprzB%2FKG9i9S3kcdsaB%2FvsSyK9Tg4pyn%2BNRCSToRJFXO8eTWjqjVbgu0OhjQHm76D4YwHn96KOcYU6%2BeWs0e4IcF4gtQVO2B11OTDFhYAChuA2AuyTsqizwCsKHzm20OjlnEyeNr8s7qL98jsTocYMiENfj7jmShq2HOQubRmtTOwM5vEV%2FUxtJL%2FxSXXL6bc4ZN0iZdReDxSU5v8%2F4NL0pmeQ%3D%3D"
+        }
+      ],
+      "category": {
+        "id": 1174,
+        "label": "Solar Panel Installation",
+        "name": "solar-panel-installation"
+      }
+    },
     {
       "id": "01972cee-99dc-76e5-ba83-5484fb4c6eeb",
       "companyId": 1110420,
