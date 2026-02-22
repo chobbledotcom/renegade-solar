@@ -172,93 +172,218 @@ Each of these could then have their own service sub-pages. Saddleworth in partic
 
 ---
 
-## 5. Questions to Ask About Solar Installs in Oldham
+## 5. Research Findings & Questions for Ashley
 
-These questions will help gather first-hand knowledge to create authentic, detailed content for the Oldham pages. The answers will differentiate the content from generic competitor pages.
+We've split this into two parts. **Part A** covers the factual/technical stuff we've already researched — things like how east-west roofs affect output, what stone slate roofs mean for installation, conservation area rules, etc. These are included so Ashley can see what we've found, correct anything that's wrong, and add his own practical experience on top.
 
-### Your Experience in the Oldham Area
+**Part B** is the stuff only Ashley can answer — his experience in the area, pricing, how he'd pitch to customers, photos he might have, etc.
 
-1. Have you done any installations in Oldham borough (beyond Failsworth)? If so, where — Chadderton, Royton, Shaw, Lees, Saddleworth, central Oldham? What were the properties like?
+---
 
-2. What's your experience with the typical Victorian terraced houses you find in Oldham — the old Accrington red-brick mill worker terraces? Do they present any particular challenges for solar (roof condition, access, shading from neighbouring chimneys)?
+### Part A: What We've Researched (For Ashley to Confirm, Correct, or Add To)
 
-3. Have you worked on any properties in the Saddleworth villages (Uppermill, Greenfield, Delph, Dobcross, Diggle)? These are quite different from central Oldham — stone-built, rural, potentially conservation area. Any experience or thoughts?
+#### East-West Facing Roofs (Many Oldham Terraces)
 
-4. Failsworth is technically part of the Oldham borough. You've done work there — are there specific photos or stories from those jobs we could reference on the new Oldham pages to show you're already active in the area?
+Many Oldham terraces have roofs running parallel to the street, giving east and west slopes rather than south-facing. Our research says:
 
-5. Have you had any enquiries from Oldham that didn't convert? If so, what were the common reasons? Price comparison with other local installers? Property suitability issues?
+- East or west facing panels produce **15-20% less per panel** than south-facing (Energy Saving Trust, MCS data).
+- But you can install panels on **both slopes**, potentially doubling the available roof area and producing **more total energy** than south-only.
+- East-west setups **match household usage better** — morning generation (breakfast, getting ready) and evening generation (cooking, returning home) rather than peak at midday when nobody's in.
+- This means **higher self-consumption** and potentially less need for battery storage.
+- On flat roofs, east-west arrays can generate **~30% more total power** than south-facing on the same footprint.
 
-### Property Types & Technical Considerations
+**Question for Ashley:** Does this match your experience? For a typical Oldham terrace with east-west slopes, do you usually recommend panels on both sides? Roughly how many panels can you fit on each slope of a 2-bed or 3-bed mid-terrace?
 
-6. Oldham has the highest proportion of terraced houses in Greater Manchester (nearly 49% of sales). For a typical 2-bed or 3-bed terrace in places like Chadderton or Royton, what size system would you typically recommend? How many panels can you realistically fit?
+#### Elevation & Wind Exposure
 
-7. Many Oldham terraces have the roof running parallel to the street, meaning east-west facing slopes rather than south-facing. How much does this affect output in practice? Do you ever recommend panels on both east and west slopes?
+Oldham sits higher than Manchester — central Oldham around 200m, parts of Saddleworth 300-400m+. Our research says:
 
-8. Chimney stacks on terraced houses can cause shading issues. How do you handle this — panel-level optimisers, micro-inverters, or just positioning around the shading? Are there terraces where it's genuinely not worth doing?
+- The altitude effect on solar output is **negligible** at these elevations — maybe 1-2% gain from thinner atmosphere, but offset by more cloud cover on the Pennine slopes.
+- **Wind loading is the real concern**, not yield. MCS 012 requires altitude correction factors for wind load calculations. Exposed hilltop sites get significantly higher design wind pressures.
+- Panels must be fixed to **rafters, not tiling battens** — critical at exposed sites.
+- If roof loading increases by 15%+, formal Building Regulations approval (Part A) is needed.
 
-9. Oldham sits on higher ground than Manchester (some areas are 200m+ above sea level). Does the elevation, wind exposure, or weather pattern make any practical difference to installations or panel performance?
+**Question for Ashley:** Have you had to spec heavier-duty fixings for exposed properties in areas like Saddleworth or upper Oldham? Does the wind exposure add meaningful cost to an installation, or is it just part of your standard calculations?
 
-10. A lot of the older terraced stock in Oldham has stone slate roofs rather than modern tiles. Does this affect installation — different fixings, weight considerations, any specialist requirements?
+#### Stone Slate Roofs
 
-11. Some Oldham properties still have older electrical systems — old fuse boxes, no RCD protection. How often do you encounter this, and what's the typical additional cost for a consumer unit upgrade alongside a solar install?
+Many older properties in Saddleworth and parts of Oldham have Yorkstone/stone flag roofs. Our research says:
 
-12. For the larger detached homes in Saddleworth, what size systems are you typically recommending? 6kW? 8kW? More? What kind of savings can these homeowners expect?
+- Solar **can** be installed on stone slate, but it's **significantly more complex**.
+- Standard shortcut systems (e.g. Solar Limpets) **explicitly exclude stone slate**. You need traditional rafter-mount brackets with lead flashing.
+- Slates must be **temporarily removed** to access rafters — risk of cracking irreplaceable stone slates.
+- Stone slate weighs ~125 kg/m² vs ~45 kg/m² for concrete tiles. However, the proportional load increase from panels (~10-15 kg/m²) is smaller on an already-heavy roof.
+- Installation takes **up to 5 days** (vs 1-2 for standard roofs).
+- Expect a **30%+ cost premium** over standard installations.
+- Sourcing **replacement stone slates** if any are damaged is difficult and expensive.
 
-### Battery Storage & EV Specific to Oldham
+**Question for Ashley:** Have you done any installations on stone slate roofs? Is the 30% premium roughly right, or is it more/less in practice? Would you be comfortable advertising this as something you can do, or would you rather steer these customers toward an in-roof system or an alternative approach?
 
-13. For Oldham's terraced houses with lower energy consumption, does a battery still make financial sense, or would you sometimes recommend panels only? What's the threshold where you'd say a battery isn't worth it?
+#### Consumer Unit Upgrades on Older Terraces
 
-14. Many Oldham terraces have no driveway — just street parking or a rear yard. How does this affect EV charger installations? Do you run cables through to rear yards? What about charging from a front-mounted charger when you park on the street?
+Many Oldham terraces still have old fuse boxes. Our research says:
 
-15. For commuters from Oldham into Manchester (common route — 20-30 minute drive or Metrolink tram), what kind of daily charging costs would a typical EV use? How does this compare to petrol for the same commute?
+- A consumer unit upgrade costs approximately **£400-£600** in the North of England.
+- It's **not technically mandatory** in all cases, but practically required on most older terraces — BS 7671 Section 712 requires the existing board to safely accommodate the new PV circuit, and MCS-certified installers can't certify against a non-compliant board.
+- Properties built **before 2008** typically lack RCD protection that meets current standards.
+- Since September 2022, **Type AC RCDs are no longer permitted** — consumer units need Type A RCCBs or RCBOs.
+- Surge protection (SPDs) is now effectively mandatory.
+- On older terraced stock, the majority — likely **well over half** — will need an upgrade.
 
-### Commercial & Landlord Market
+**Question for Ashley:** Is the £400-£600 figure right for what you charge? How often do you encounter this on the kind of terraces you'd see in Oldham — more like 50% of jobs, or closer to 80%+? Do you include this as a line item in your standard quotes, or is it an additional cost that comes up after the survey?
 
-16. Oldham has a significant landlord/buy-to-let market, particularly in central areas. Do landlords enquire about solar? Is there a business case for a landlord to install solar on a rental property, or does it only make sense if they're paying the electricity bill?
+#### Battery Viability for Small Terraces
 
-17. Oldham town centre still has old mill buildings and commercial/industrial units. Have you done any solar installs on these types of properties? What are the opportunities and challenges?
+For a typical 2-bed Oldham terrace using 2,500-3,000 kWh/year:
 
-18. Are there types of commercial businesses in Oldham where solar would be a particularly good fit — takeaways, corner shops, small manufacturing, warehouses?
+- On a **standard flat-rate tariff**, battery payback is likely **10-12+ years** — uncomfortably close to the battery's warranty lifespan.
+- On a **time-of-use tariff** (Octopus Go/Agile), payback drops to **7-10 years**, which is within warranty.
+- Expert consensus: for low-consumption homes on standard tariffs, **panels first, battery later** is the better advice.
+- A **4-5 kWh battery** is the maximum useful size at this consumption level — anything larger is underutilised.
+- Self-consumption without a battery is already high if the household uses energy during the day (e.g. working from home).
+- The money is often better spent **maximising panel capacity first**, especially where roof space is limited.
 
-### Pricing & Competition
+**Question for Ashley:** Do you agree with the "panels first, battery later" advice for small terraces? Or do you find that most customers want the battery regardless? What's your honest threshold — when do you tell someone a battery isn't worth it for them? And does the Octopus partnership affect your recommendation (i.e. do you always recommend a time-of-use tariff with a battery)?
 
-19. How does your pricing compare to the competitors active in Oldham? Greentech Renewables in Bury advertise 0% finance — do you offer anything similar, or do you compete on price/quality/service?
+#### EV Commuting Costs (Oldham to Manchester)
 
-20. E-Verve Energy advertises solar in Greater Manchester "from £3,395." Is that realistic for a decent system, or is it a loss-leader / minimal spec quote? What would a typical Renegade installation cost for an Oldham terrace?
+For a typical Oldham-to-Manchester commute (~9 miles each way, 250 working days):
 
-21. Trust Renewables position themselves as a social enterprise. Does that angle resonate with customers, or do people ultimately choose on price and reviews?
+| Scenario | Annual Cost | Daily Cost |
+|----------|-----------|-----------|
+| **Petrol (40 mpg)** | ~£675 | ~£2.70 |
+| **EV, home standard tariff** | ~£315-360 | ~£1.25 |
+| **EV, off-peak tariff (7p/kWh)** | ~£90-135 | ~£0.32 |
+| **EV, home solar** | ~£0 | ~£0 |
+| **EV, public rapid** | ~£900-1,125 | ~£3.42 |
 
-22. Some competitors offer in-roof (integrated) solar panels. Do you offer these? Are they popular for terraced houses where aesthetics matter?
+- A typical daily commute needs ~4.5 kWh — easily covered by surplus solar from a 4kW+ system in summer months.
+- Smart strategy: export solar at ~15p/kWh and charge overnight at 7p/kWh on an EV tariff, netting 8p/kWh profit per unit.
+- Public rapid charging is **more expensive than petrol** — not viable for daily commuting.
 
-23. Logic Renewables are based right in the Oldham area (Shaw/Royton). Do you see them as your main local competitor? Any thoughts on how to differentiate?
+**Question for Ashley:** These are the numbers we'd use on the EV charger pages. Anything look off? Do you have a go-to example or real customer story you use when explaining EV savings?
 
-### Grants, Schemes & Local Knowledge
+#### Landlord Business Case
 
-24. Oldham Council has active ECO4 and Local Authority Flex schemes offering grants for energy improvements. Have any of your customers used these? How does the process work — does the homeowner apply separately, or can you help facilitate?
+Oldham has a big buy-to-let market. Our research says the business case is strong and getting stronger:
 
-25. Are you aware of the Oldham Green New Deal initiatives — the community solar schemes, the Wrigley Head solar farm, the Energy Futures project? Could any of this be referenced in the content to show alignment with the council's direction?
+- **EPC C deadline confirmed**: All privately rented properties in England must be EPC C by **1 October 2030**. 52% of rental stock is currently below C. Cost cap is £10,000 per property.
+- Solar panels improve EPC by approximately **18 points** (roughly one band, e.g. D to C).
+- Landlords **can claim SEG payments** even when tenants use the electricity — the SEG contract is separate from the supply contract.
+- Solar adds **6-7% to property value** (Swansea University 2024 study analysing ~5 million Zoopla listings).
+- 0% VAT on solar until **March 2027**.
+- The **Warm Homes: Local Grant** offers up to £15,000 per eligible property (EPC D-G, income ≤£36,000). First property fully funded; subsequent properties require 50% landlord contribution.
 
-26. Oldham Community Power has put solar on local schools. Have you ever done any public sector or community installations? Would you be interested in this kind of work?
+**Question for Ashley:** Do you get many enquiries from landlords? The EPC C 2030 deadline seems like a big opportunity — are you seeing landlords starting to act on this, or is it still on the horizon for most? Would you be open to us positioning you as someone who can help landlords hit EPC C specifically?
 
-27. For Oldham properties in conservation areas (parts of Saddleworth, some central Oldham areas), what are the practical limitations for solar? Do you ever recommend standalone battery systems for properties where roof panels aren't possible?
+#### ECO4 & LA Flex Grants
 
-### Content & Marketing
+Our research turned up an important limitation:
 
-28. What would you say to an Oldham homeowner who's on the fence about solar — maybe they think Manchester doesn't get enough sun, or that their terraced house is too small?
+- ECO4 **does** fund solar PV, but **only where the property has or is getting electric heating or a heat pump**. Solar alone on a gas-heated home does not qualify.
+- Oldham Council runs an active LA Flex scheme. Income threshold: **£31,000 gross household income**. Also covers health/vulnerability routes (GP/NHS referral for cold-related conditions).
+- The process is **installer-facilitated** — the installer checks eligibility, submits the application, and the grant is paid directly to the installer. Homeowner doesn't apply to government.
+- Oldham's approved delivery partners are **0800 Repair** and **Improveasy**.
+- The scheme runs until **December 2026**, but supplier budgets may run out earlier.
+- Eligible measures in Oldham include solar panels, solar batteries, and air source heat pumps.
 
-29. Is there anything specific about Oldham properties or the local area that you'd want highlighted on the website — something that national companies wouldn't know or bother mentioning?
+**Question for Ashley:** Given the electric-heating-only restriction, is ECO4 relevant for your typical customers, or is it mainly useful when you're doing a heat pump + solar package? Are you registered with Oldham Council's scheme, or would that be worth pursuing? Have any of your customers gone through ECO4?
 
-30. If a customer in Chadderton or Royton calls you, how quickly could you typically get out there for a survey? Same day? Next day? Within the week?
+#### Conservation Areas (Saddleworth & Central Oldham)
 
-31. Do you have any existing Oldham-area customers who might provide testimonials or case studies we could use (with their permission)?
+Several areas in Saddleworth and central Oldham are conservation areas. Our research says:
 
-32. Are there any particular panel brands or battery systems you'd recommend specifically for Oldham's terraced houses — maybe something compact or particularly efficient for limited roof space?
+- **Roof-mounted solar panels are generally permitted development** in conservation areas — no planning permission needed, provided panels don't protrude more than 200mm from the roof slope and don't exceed the ridge line.
+- **Wall-mounted panels need planning permission** if the wall faces a public highway.
+- **December 2023 relaxation**: Flat roof solar is now PD in conservation areas (up to 600mm protrusion), reversing the previous restriction.
+- **Listed buildings are completely different** — always need Listed Building Consent, regardless of whether they're in a conservation area or not.
+- No evidence of a specific Article 4 Direction in Saddleworth removing solar PD rights, but this should be verified with Oldham Council.
+- Recommendation: apply for a **Lawful Development Certificate (LDC)** before installation in conservation areas, as a belt-and-braces measure.
 
-33. For Saddleworth specifically — these are often premium properties with higher energy bills. Would you pitch the service differently here compared to, say, a 2-bed terrace in central Oldham?
+**Question for Ashley:** Have you done any installations in conservation areas? Do you routinely apply for LDCs, or is that overkill in practice? For listed buildings in Saddleworth where roof panels aren't possible, would you recommend a ground-mounted system or a standalone battery instead?
 
-34. The Metrolink tram runs through Oldham (Shaw, Derker, Oldham Mumps, Oldham King Street, Freehold, South Chadderton, Hollinwood). Is there any angle around EV chargers and public transport — e.g., people who drive to a tram stop and park?
+#### Metrolink Tram (Corrected Info)
 
-35. What's the single strongest reason someone in Oldham should choose Renegade over a competitor who's already based in the area?
+The original draft listed 7 stops — the actual count is **10** through the Oldham borough (north to south):
+
+1. Shaw and Crompton
+2. Derker
+3. Oldham Mumps
+4. Oldham Central
+5. Oldham King Street
+6. Westwood
+7. Freehold
+8. South Chadderton
+9. Hollinwood
+10. Failsworth
+
+**Four stops have park-and-ride**: Hollinwood (~195 spaces), Oldham Mumps (~254 spaces), Derker (smaller), Shaw and Crompton (limited). Journey time from Oldham Central to Manchester city centre is ~32 minutes.
+
+This is relevant for the EV charger page — commuters who drive to a park-and-ride stop and leave their car all day are a natural audience for home EV charging. Charge overnight on off-peak, drive to the tram, come home to a charged car. No need for expensive public chargers.
+
+---
+
+### Part B: Questions Only Ashley Can Answer
+
+These are the things we can't Google — your experience, your opinions, your stories. These are what will make the Oldham pages sound like they're written by someone who actually knows the area, not a content mill.
+
+#### Your Experience in the Oldham Area
+
+1. Have you done any installations in Oldham borough beyond Failsworth? If so, where — Chadderton, Royton, Shaw, Lees, Saddleworth, central Oldham? What were the properties like?
+
+2. What's your experience with the typical Oldham terraces — the old Accrington red-brick mill worker houses? Any particular challenges you've encountered (roof condition, access between tight rows, shading from neighbouring chimneys)?
+
+3. Have you worked on any properties in the Saddleworth villages (Uppermill, Greenfield, Delph, Dobcross, Diggle)? These are a different world from central Oldham — stone-built, rural, bigger properties. Any experience or thoughts?
+
+4. Are there specific photos or stories from the Failsworth jobs we could reference on the Oldham pages to show you're already active in the borough?
+
+5. Have you had any enquiries from Oldham that didn't convert? What were the reasons — price comparison with local competitors, property suitability issues, something else?
+
+#### Technical (Your Specific Approach)
+
+6. For a typical 2-bed or 3-bed terrace in Chadderton or Royton, what size system would you recommend? How many panels can you realistically fit on one slope?
+
+7. Chimney stacks on terraced houses cause shading. What's your standard approach — panel-level optimisers, micro-inverters, or positioning around the shading? At what point do you tell someone their roof genuinely won't work?
+
+8. Many Oldham terraces have no driveway — just street parking or a rear yard. How do you handle EV charger installations in that situation? Do you run cables through to rear yards, or is a front-mounted charger with a cable across the pavement an option?
+
+9. For the larger detached homes in Saddleworth, what size systems are you typically recommending? 6kW? 8kW? More?
+
+#### Pricing & Competition
+
+10. How does your pricing compare to the competitors active in Oldham? Greentech Renewables in Bury advertise 0% finance — do you offer anything similar, or is your pitch purely price/quality/service?
+
+11. E-Verve Energy advertises solar in Greater Manchester "from £3,395." Is that realistic for a usable system, or is it a loss-leader / bare-minimum spec? What would a typical Renegade installation cost for an Oldham terrace?
+
+12. Trust Renewables position themselves as a social enterprise — "people and planet before profit." Does that kind of angle resonate with customers in practice, or do people ultimately choose on price and reviews?
+
+13. Some competitors offer in-roof (integrated) solar panels. Do you offer these? Are they popular for terraced houses where aesthetics matter, or do most people not care?
+
+14. Logic Renewables are based right in Oldham (Shaw/Royton) — they're the most genuinely local competitor. Any thoughts on how to differentiate against someone who's actually based there?
+
+#### Commercial & Local Opportunities
+
+15. Oldham town centre still has old mill buildings and commercial/industrial units. Have you done any solar installs on these types of properties? What are the opportunities and challenges with them?
+
+16. Are there types of commercial businesses in Oldham where solar would be a particularly good fit? Takeaways running fryers all day, small manufacturers, cold storage, warehouses with big flat roofs?
+
+17. Oldham Community Power has put solar on local schools. Have you ever done public sector or community installations? Would you be interested in this kind of work?
+
+#### Content & Marketing
+
+18. What would you say to an Oldham homeowner who's on the fence — thinks Manchester doesn't get enough sun, or that their terraced house is too small? What's your real-life comeback?
+
+19. Is there anything specific about Oldham properties or the local area that you'd want highlighted — something national companies wouldn't know or bother mentioning?
+
+20. If a customer in Chadderton or Royton calls, how quickly can you typically get out for a survey? Same day? Next day? Within the week?
+
+21. Do you have any existing Oldham-area customers who might provide testimonials or case studies (with permission)?
+
+22. Any particular panel brands or battery systems you'd recommend for Oldham's terraced houses — compact panels, high-efficiency options for limited roof space?
+
+23. For Saddleworth specifically — premium properties, higher energy bills. Would you pitch the service differently there compared to a 2-bed terrace in central Oldham?
+
+24. What's the single strongest reason someone in Oldham should choose Renegade over a competitor who's already based in the area?
 
 ---
 
