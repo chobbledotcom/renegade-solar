@@ -2,7 +2,7 @@
 title: HIES Consumer Code
 logo: /assets/accreditation-logos/hies-consumer-code.png
 tooltip: A consumer protection organisation covering the installation of home energy products
-url: https://search.hiesscheme.org.uk/renegade-electrical-ltd-R302-047
+url: https://search.hiesscheme.org.uk/renegade-electrical-ltd-R399-800
 snippet: HIES Consumer Code membership provides homeowners with comprehensive consumer protection throughout the solar panel installation process.
 ---
 
@@ -37,4 +37,4 @@ As a North Manchester-based team with over 15 years of experience, we understand
 
 If you're considering solar panels for your home, [contact us](/contact/) to discuss your options. We can provide clear information about the process, costs, and benefits of switching to solar energy.
 
-[Renegade Solar - HEIS Consumer Code member serving Prestwich and North Manchester](https://search.hiesscheme.org.uk/renegade-electrical-ltd-R302-047)
+[Renegade Solar - HEIS Consumer Code member serving Prestwich and North Manchester](https://search.hiesscheme.org.uk/renegade-electrical-ltd-R399-800)

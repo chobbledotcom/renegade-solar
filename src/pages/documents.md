@@ -53,7 +53,7 @@ TrustMark is the UK Government's only endorsed quality scheme for tradespeople w
 
 The Home Energy Installation Systems (HIES) Consumer Code provides comprehensive consumer protection throughout the solar panel installation process.
 
-[Verify on HIES Website](https://search.hiesscheme.org.uk/renegade-electrical-ltd-R302-047) | [Learn More](/accreditations/hies-consumer-code/)
+[Verify on HIES Website](https://search.hiesscheme.org.uk/renegade-electrical-ltd-R399-800) | [Learn More](/accreditations/hies-consumer-code/)
 
 ## Checkatrade Member
 
