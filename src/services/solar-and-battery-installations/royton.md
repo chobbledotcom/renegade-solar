@@ -1,6 +1,6 @@
 ---
 title: Solar Panel Installer in Royton | Renegade Solar
-description: MCS-certified solar panel and battery installations in Royton. Terraced house specialists with 9.86/10 Checkatrade rating. Based nearby in Prestwich.
+description: MCS-certified solar panel and battery installations in Royton. Local installer based in Prestwich with personal service from a qualified electrician.
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Royton
 icon: /assets/icons/solar-panel.svg
@@ -8,36 +8,26 @@ tags: [royton]
 gallery_tags: [solar-panels]
 ---
 
-Looking for a solar panel installer in Royton? We're Renegade Solar, based in Prestwich, serving the whole [Oldham](/oldham/) borough. Ashley, a qualified electrician, personally handles surveys, system design, and installation — no salespeople, no subcontractors.
+We're Renegade Solar, based in Prestwich, serving the whole [Oldham](/oldham/) borough. Ashley, a qualified electrician, surveys your property and installs your system personally.
 
-## Royton properties and solar
+## Royton — a growing area
 
-Royton has a mix of terraces and semis, and property prices have grown 41.5% over five years — homeowners here are investing in their properties. Solar is one of the smartest investments you can make, adding around 4% to your property value while cutting energy bills by £350-570 per year.
+Royton property prices have grown over 40% in the last five years. Homeowners here are putting money into their homes, and solar is one of the best returns you'll get — it adds around 4% to your property value while cutting your energy bills from day one.
 
-**Terraced homes**: 3-4kW systems with 8-10 panels. East-west roof orientations are common and work well with panels on both slopes.
+The housing stock is mostly terraces and semis around Royton centre and along Rochdale Road, with newer family homes on the fringes towards [Shaw](/shaw/). The terraces typically suit 3-4kW systems; the semis and larger homes can take 4-6kW.
 
-**Semi-detached homes**: 4-6kW systems with 10-15 panels. More roof space gives better generation and faster payback.
+## East-west roofs are fine
 
-A 4kW system in the Oldham area produces around 3,250 kWh per year. With energy bills averaging £1,850 for Oldham households, solar makes a real difference.
+Many of Royton's terraces have roofs running parallel to the street. Some installers will tell you south-facing is the only option worth having — we disagree. Panels on both east and west slopes generate more total energy than south-only, and the spread of generation across morning and evening actually matches when you're using electricity. We design systems around your actual roof, not a textbook ideal.
 
-## Battery storage and smart tariffs
+## Batteries — honest advice
 
-For Royton's family homes with higher energy consumption, combining solar with battery storage and a time-of-use tariff like [Octopus Go](https://octopus.energy/tariffs/) maximises savings. The battery charges from cheap overnight electricity and solar during the day, then powers your home during expensive peak hours.
+For a typical Royton terrace using 2,500-3,000 kWh a year, a battery on a standard tariff has a long payback. Our advice: maximise your panels first. If you're on a time-of-use tariff like [Octopus Go](https://octopus.energy/tariffs/), the battery maths change — payback drops to 7-10 years and the savings are real. As an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we'll help you work out what makes sense for your usage.
 
-As an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we help you get set up on the right tariff to make the most of your system.
+## Old fuse boxes
 
-## Consumer unit upgrades
-
-Many Royton properties still have old fuse boxes. If yours needs upgrading to meet current safety standards, we include it in your quote upfront — no surprises after the survey.
-
-## Why choose Renegade
-
-- **9.86/10 Checkatrade rating** from over 100 verified reviews
-- **[MCS-certified](/accreditations/mcs-certified/)** — qualifies you for Smart Export Guarantee payments
-- **One person, start to finish** — Ashley surveys, designs, and installs
-- **All the certifications** — [NAPIT](/accreditations/napit/), [TrustMark](/accreditations/trustmark/), [HIES](/accreditations/hies-consumer-code/)
-- **No travel charges** from Prestwich
+A lot of Royton's older properties still have fuse boxes that don't meet current standards. If yours needs upgrading, we include it in the quote — it's not a nasty surprise that appears after the survey.
 
 ## Get started
 
-[Contact us](/contact/) for honest advice about solar for your Royton property. Ashley will respond within 48 hours to arrange a survey.
+[Contact us](/contact/) for straightforward advice about solar for your Royton property. Ashley will respond within 48 hours to arrange a survey.

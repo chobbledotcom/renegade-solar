@@ -9,26 +9,26 @@ tags: [saddleworth, eicr]
 
 # EICR Electrical Safety Inspections in Saddleworth
 
-Professional electrical safety inspections across Saddleworth's villages — Uppermill, Greenfield, Delph, Dobcross, Diggle, and Denshaw. £150 plus VAT for all domestic properties — same day certificates.
+£150 plus VAT for any domestic property across Saddleworth — Uppermill, Greenfield, Delph, Dobcross, Diggle, and Denshaw. Same day certificates. No travel charges from Prestwich.
 
-## Saddleworth's older properties
+## Stone-built properties and their quirks
 
-Many Saddleworth homes are older stone-built properties with electrical systems that have evolved over decades. Thicker stone walls and different construction methods mean earthing arrangements and wiring routes can be unusual compared to standard brick-built homes. These properties need assessment by someone who understands what they're looking at.
+Many Saddleworth homes are older stone-built properties, and their electrics reflect that. Thick stone walls mean wiring routes can be unconventional — cables may follow unexpected paths through the building because chasing into stone isn't as simple as brick. Earthing arrangements in stone properties sometimes differ from standard brick-built homes, and we occasionally find moisture-related issues where stone walls meet electrical installations.
 
-## £150 plus VAT — all domestic properties
+Properties that have been through multiple rounds of renovation — and most Saddleworth homes have — can end up with a patchwork of different-era wiring. A proper EICR sorts through what's been done when and tells you whether any of it needs attention.
 
-Same price whether you're in a stone cottage in Delph or a larger detached home in Uppermill. No travel charges from Prestwich. Same day certificates with clear, understandable reports.
+## For buyers — £393k average means the stakes are higher
+
+Saddleworth's premium property prices mean you're making a major investment. Hidden electrical issues in older stone properties can be expensive to put right — £150 for an EICR before purchase is cheap insurance against discovering a £3,000-5,000 rewiring need after you've completed.
+
+Older stone cottages and converted farm buildings in particular can harbour surprises. We'd rather find them before your money changes hands.
 
 ## For landlords
 
-**EICR every 5 years plus one for each new tenant.** Fines up to £30,000 for non-compliance. If you're also considering [solar panels](/services/solar-and-battery-installations/saddleworth/) to meet the 2030 EPC C deadline, an EICR is a sensible first step — it identifies any consumer unit or wiring upgrades needed before solar installation.
+**EICR every 5 years plus one for each new tenant.** Fines up to £30,000 for non-compliance. If you're also considering [solar panels](/services/solar-and-battery-installations/saddleworth/) to meet the 2030 EPC C deadline, start with an EICR — it identifies whether consumer unit or wiring upgrades are needed before a solar system can be connected.
 
-## For property buyers
+## What's included
 
-Saddleworth's average property prices around £393k mean you're making a significant investment. Get an EICR before purchase to understand the condition of the electrical installation. Older stone properties in particular can have hidden electrical issues that are expensive to rectify after completion.
-
-## Thorough testing
-
-Comprehensive visual inspection plus calibrated technical testing — continuity, insulation resistance, earth fault loop impedance, and RCD operation checks. If we find issues, we explain clearly what's wrong and can handle remedial work.
+Full visual inspection of all accessible electrical installations. Calibrated testing — continuity, insulation resistance, earth fault loop impedance, RCD operation checks. Same day certificate with clear explanations of any findings.
 
 **[Book your Saddleworth EICR inspection — contact us today](/contact/)**

@@ -1,6 +1,6 @@
 ---
 title: Solar Panel Installer in Chadderton | Renegade Solar
-description: MCS-certified solar panel and battery installations in Chadderton. Terraced house specialists with 9.86/10 Checkatrade rating. Based nearby in Prestwich.
+description: MCS-certified solar panel and battery installations in Chadderton. Based nearby in Prestwich, already working in Failsworth. Personal service from a qualified electrician.
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Chadderton
 icon: /assets/icons/solar-panel.svg
@@ -8,34 +8,32 @@ tags: [chadderton]
 gallery_tags: [solar-panels, failsworth]
 ---
 
-Looking for a solar panel installer in Chadderton? We're Renegade Solar, based in Prestwich — just a short drive away. We already work in nearby [Failsworth](/services/solar-and-battery-installations/failsworth/) and cover the whole [Oldham](/oldham/) borough.
+We're Renegade Solar, based in Prestwich and already installing solar in neighbouring [Failsworth](/services/solar-and-battery-installations/failsworth/). Chadderton's next door — we know the area and the housing stock.
 
-Ashley, a qualified electrician, handles your survey, designs your system, and oversees the installation. No salespeople, no handoffs.
+Ashley, a qualified electrician, handles your survey and installation personally. No sales team, no subcontractors.
 
-## Chadderton's housing stock
+## Chadderton properties
 
-Chadderton has a good mix of terraced and semi-detached homes, with average prices around £215k. This variety means a range of roof types and sizes, but most properties here are well-suited to solar.
+Chadderton sits between Failsworth and Royton, straddling the M60. The housing is a proper mix — Victorian terraces around Chadderton Hall Park, 1930s semis on the estates off Burnley Lane, and newer builds towards Foxdenton. Each needs a different approach.
 
-**Terraced houses**: Typical 3-4kW systems with 8-10 panels. Many have east-west roof orientations which work well — panels on both slopes generate more total energy and match morning/evening household usage better than south-only setups.
+The terraces along Broadway and Middleton Road typically suit 3-4kW systems. With roofs running parallel to the street, you'll often get east and west slopes rather than south-facing — but that's not a problem. Panels on both sides generate more total energy and match when you actually use electricity (mornings and evenings) rather than producing everything at midday.
 
-**Semi-detached homes**: Usually 4-6kW systems with room for 10-15 panels. More roof space and often a south-facing aspect make these ideal for solar.
+The semis have more roof space — usually room for a 4-6kW system. If you've got a south-facing rear roof, that's ideal, but we work with whatever orientation you've got.
 
-Chadderton's proximity to the M60 makes it popular with commuters. Combine solar with [battery storage](/services/home-battery-installations/) and an [EV charger](/services/electric-vehicle-charger-installations/chadderton/) to maximise your savings.
+## M60 commuters
 
-## What you can expect to save
+Chadderton's M60 access is one of its big selling points. If you're commuting by car, adding an [EV charger](/services/electric-vehicle-charger-installations/chadderton/) alongside solar makes the economics even better. Charge from your panels in summer, from cheap overnight rates in winter. Your daily fuel cost drops from pounds to pennies.
 
-A 4kW system in the Oldham area produces around 3,250 kWh per year. For an average Chadderton household spending £1,850 annually on energy, that translates to savings of £350-570 per year — more with battery storage or a smart tariff like [Octopus Go](https://octopus.energy/tariffs/).
+## Already working next door
 
-Solar also adds around 4% to your property value — a meaningful boost on a £215k home.
+We've completed installations throughout Failsworth — you can see examples in our [gallery](/gallery/). Chadderton is the same drive for us. No travel charges, and if anything ever needs sorting, we're nearby.
 
-## Why choose Renegade
+## What to expect
 
-- **9.86/10 Checkatrade rating** from over 100 verified reviews
-- **[MCS-certified](/accreditations/mcs-certified/)** — your system qualifies for Smart Export Guarantee payments
-- **One person, start to finish** — Ashley surveys, designs, and installs
-- **Already working in the area** — [Failsworth](/services/solar-and-battery-installations/failsworth/) installations completed
-- **2 years routine maintenance included**
+A 4kW system in this area produces around 3,250 kWh per year. For a typical Chadderton household, that's savings of £350-570 annually on energy bills. Solar also adds around 4% to your property value — worth having on a £215k home.
+
+As an [MCS-certified installer](/accreditations/mcs-certified/), your system qualifies for Smart Export Guarantee payments — you get paid for electricity you export to the grid.
 
 ## Get started
 
-[Contact us](/contact/) for a no-obligation chat about solar for your Chadderton property. We'll give you honest advice about what'll work — and we'll tell you if it won't.
+[Contact us](/contact/) for a no-obligation chat about solar for your Chadderton property. We'll give you honest advice — and we'll tell you if it won't work.

@@ -8,20 +8,26 @@ icon: /assets/icons/car.svg
 gallery_tags: [electric-vehicle]
 ---
 
-Expert EV charger installations in Chadderton from a NAPIT-registered electrician. Based nearby in Prestwich with no travel charges. Ashley assesses your property and installs your charger personally — no salespeople, no call centres.
+EV charger installations in Chadderton from a NAPIT-registered electrician. Based nearby in Prestwich, already working in neighbouring [Failsworth](/services/solar-and-battery-installations/failsworth/). Ashley assesses your property and installs your charger personally.
 
-## Home charging saves serious money
+## M60 commuters — stop paying for petrol
 
-Chadderton's M60 access makes it popular with commuters. A typical commute to Manchester costs around £675 a year in petrol. On a home EV charger with an off-peak tariff (7p/kWh), that drops to £90-135. Add [solar panels](/services/solar-and-battery-installations/chadderton/) and your summer commuting costs drop to zero.
+Chadderton's biggest selling point is the M60 access. If you're driving to Manchester, Stockport, or anywhere on the motorway network, you're spending roughly £675 a year on petrol for a typical commute. On a home EV charger with an off-peak tariff (7.5p/kWh on Octopus Go), that drops to around £100. And public rapid chargers at 50-80p per kWh? More expensive than petrol — avoid them for daily use.
 
-Public rapid charging costs 50-80p per kWh — more expensive than petrol. Home charging on a smart tariff is the only option that makes financial sense for daily driving.
+Pair the charger with [solar panels](/services/solar-and-battery-installations/chadderton/) and your summer commute is free. The panels generate enough surplus during daylight hours to cover a 9-mile each-way commute easily.
 
-## Smart chargers
+## Terraces without driveways
 
-We're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/) and fit chargers from Octopus's range, plus **SolaX** and **AlphaESS** units that integrate with their solar and battery kit. Smart chargers wait until off-peak rates kick in before charging — you plug in and forget about it.
+Plenty of Chadderton's terraces along Broadway and Middleton Road have no off-street parking. We can still install a charger — options include front-mounted units with proper cable management or running armoured cable through to a rear yard. Ashley will look at your specific setup and recommend what makes sense.
 
-## Quick installation
+## The chargers we fit
 
-Installation takes a day. Weatherproof units go wherever suits your parking. We run heavy-duty armoured cable for outdoor runs. Your consumer unit needs to be up to date — if it's not, we'll include the upgrade in your quote.
+We're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/) and install their smart charger range. Also fit **SolaX** and **AlphaESS** units if you've already got their solar or battery kit. Already bought your own charger? We'll install that too.
 
-**[Contact us](/contact/) for a free EV charger consultation and quote.**
+Smart chargers schedule charging during the cheapest overnight window automatically. Plug in, forget about it, wake up to a full battery.
+
+## Installation
+
+Done in a day. Full NAPIT electrical certification. If your consumer unit needs updating first, we include it in the quote.
+
+**[Contact us](/contact/) for a free consultation and quote.**

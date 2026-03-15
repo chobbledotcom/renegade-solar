@@ -9,22 +9,24 @@ tags: [lees, eicr]
 
 # EICR Electrical Safety Inspections in Lees
 
-Professional electrical safety inspections in Lees from experienced NAPIT-registered electricians. £150 plus VAT for all domestic properties — same day certificates, no waiting around.
+£150 plus VAT for any domestic property in Lees. Same day certificates. No travel charges from our Prestwich base.
 
-## £150 plus VAT — all domestic properties
+## The transition zone
 
-Same price for any domestic property in Lees. No travel charges from our Prestwich base. Same day certificates with clear reports.
+Lees sits where typical Oldham terraces start giving way to the larger properties heading up towards [Saddleworth](/saddleworth/). At the bottom end, you've got standard brick-built terraces and semis. Higher up towards Springhead and Grasscroft, the properties get bigger and older, with some stone construction.
+
+For the terraces, the common electrical issues are the same as across the Oldham borough — consumer units without modern RCD protection, earthing that's been left behind as regulations moved on, and circuits that have been extended without formal sign-off. For the larger properties, we sometimes find more complex wiring reflecting multiple rounds of renovation over the decades.
 
 ## For landlords
 
-**EICR every 5 years plus one for each new tenant.** Fines up to £30,000 for non-compliance. We provide fast turnaround for landlords across the [Oldham](/oldham/) borough.
+**EICR every 5 years plus one for each new tenant.** Fines up to £30,000 for non-compliance. If you're considering [solar panels](/services/solar-and-battery-installations/lees/) to meet the 2030 EPC C deadline, an EICR first tells you whether the consumer unit needs replacing — a job that can be done alongside the solar installation to save on labour costs.
 
 ## For buyers
 
-Get an EICR before purchase. If we find outdated consumer units or earthing issues, you can factor the cost into your negotiations.
+Get an EICR before purchase. At Lees' average prices around £240k, it's worth spending £150 to know what you're buying into electrically.
 
-## Thorough testing
+## What's included
 
-Comprehensive visual inspection plus calibrated technical testing — continuity, insulation resistance, earth fault loop impedance, and RCD operation checks. Same day documentation with clear explanations.
+Full visual inspection of wiring, sockets, switches, consumer units. Calibrated testing — continuity, insulation resistance, earth fault loop impedance, RCD checks. Same day certificate in plain English.
 
 **[Book your Lees EICR inspection — contact us today](/contact/)**

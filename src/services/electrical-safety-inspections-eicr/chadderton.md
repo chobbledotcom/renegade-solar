@@ -9,28 +9,26 @@ tags: [chadderton, eicr]
 
 # EICR Electrical Safety Inspections in Chadderton
 
-Professional electrical safety inspections in Chadderton from experienced NAPIT-registered electricians. £150 plus VAT for all domestic properties — same day certificates, no waiting around.
+£150 plus VAT for any domestic property in Chadderton. Same day certificates. No travel charges from our Prestwich base.
 
-## Chadderton's property types
+## What we see in Chadderton
 
-Chadderton's mix of terraced and semi-detached homes means varied electrical installations. Traditional terraces often have systems that have been extended over decades, while newer semis may still have issues from variable build quality.
+Chadderton's housing ranges from Victorian terraces around the Broadway area to 1930s semis and newer builds towards Foxdenton. The older terraces are the ones that keep us busy — electrical systems that started as basic lighting circuits in the 1900s, extended over the decades with whatever was standard practice at the time. Rewires layered on top of rewires, fuse boxes that predate RCD protection, and earthing arrangements that haven't kept pace with modern standards.
 
-We work regularly in the [Oldham](/oldham/) area and understand the common electrical characteristics across different property types.
-
-## £150 plus VAT — all domestic properties
-
-Same price whether you're in a compact terrace or a larger family home. No travel charges from our Prestwich base. Same day certificates with clear, understandable reports.
+The semis are generally in better shape electrically, but we still find issues — particularly where extensions or loft conversions have been wired by someone cutting corners.
 
 ## For landlords
 
-**EICR every 5 years plus one for each new tenant** — that's the legal requirement. Fines up to £30,000 for non-compliance. We provide fast turnaround for landlords managing multiple properties.
+Chadderton has a decent-sized rental market. **EICR every 5 years plus one for each new tenant** — that's the law. Fines up to £30,000 if you don't comply. We do fast turnaround for landlords managing multiple properties, and if we find issues, we can handle the [remedial work](/services/) and get you compliant quickly.
 
-## For property buyers
+If you're also thinking about [solar](/services/solar-and-battery-installations/chadderton/) to meet the 2030 EPC C deadline, an EICR is a sensible first step — it tells you whether the consumer unit needs replacing before we connect a solar system to it.
 
-Get an EICR before any money changes hands. If we find issues like an outdated consumer unit or inadequate earthing, you can use this in purchase negotiations.
+## For buyers
 
-## Thorough testing
+Average Chadderton property prices around £215k make it popular with first-time buyers. Get an EICR before you complete — if we find an outdated consumer unit or dodgy earthing, that's leverage in your negotiations and avoids a nasty surprise after you move in.
 
-Comprehensive visual inspection plus technical testing using calibrated professional equipment — continuity, insulation resistance, earth fault loop impedance, and RCD operation checks.
+## What's included
+
+Comprehensive visual inspection of all wiring, sockets, switches, and consumer units. Technical testing with calibrated equipment — continuity, insulation resistance, earth fault loop impedance, RCD checks. Same day certificate with a clear report in plain English.
 
 **[Book your Chadderton EICR inspection — contact us today](/contact/)**

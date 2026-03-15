@@ -10,16 +10,22 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Chadderton Businesses
 
-Chadderton's M60 corridor is home to plenty of commercial and industrial units with big roofs and high electricity bills. We're based nearby in [Prestwich](/services/commercial-solar-installations/prestwich/) and serve Chadderton businesses with [MCS-certified](/accreditations/mcs-certified/) commercial solar installations.
+Chadderton's M60 corridor has commercial and industrial units with exactly the right profile for solar — big flat roofs, high daytime electricity consumption, and bills that keep climbing. We're based nearby in [Prestwich](/services/commercial-solar-installations/prestwich/) and serve Chadderton businesses with [MCS-certified](/accreditations/mcs-certified/) commercial solar installations.
 
-Commercial properties use electricity during the day when solar generation peaks — you consume nearly every kilowatt-hour your panels produce. That means payback periods of typically 3-4 years, then 20+ years of dramatically reduced electricity costs.
+The key advantage of commercial solar over domestic is timing — businesses use electricity during the day when panels are generating. You consume nearly every unit your panels produce, which means payback of typically 3-4 years, then 20+ years of dramatically reduced costs.
 
-## Businesses that see the best returns
+## Where the returns are strongest
 
-**Industrial units and factories** with heavy machinery consumption see the fastest payback. **Warehouses** along the M60 corridor have large flat roofs ideal for solar. **Retail units, restaurants, and takeaways** running equipment all day align perfectly with solar generation patterns.
+The industrial estates and commercial units along Broadgate and the M60 corridor are ideal candidates. Warehouses, workshops, and light manufacturing units with flat roofs give us maximum flexibility — we mount panels at the optimal angle regardless of building orientation.
+
+Retail units, restaurants, and takeaways running commercial kitchens and equipment all day see strong alignment between generation and consumption. Cold storage and refrigeration businesses spend heavily on electricity round the clock — solar covers the daytime load and cuts the overall bill significantly.
+
+## Staff EV charging — a free employee benefit
+
+If you have parking space, combining commercial solar with [EV charging points](/services/electric-vehicle-charger-installations/chadderton/) for staff vehicles creates a genuine perk at zero ongoing electricity cost. Panels generate, chargers use the power, employees save money. It costs you nothing after the initial installation.
 
 ## Our approach
 
-You must own the building. We assess your property and electricity consumption, then design a system with detailed financial projections. If the numbers don't work, we'll tell you. We handle all grid connection requirements and [electrical certifications](/services/electrical-testing/).
+You need to own the building. We assess your property and consumption, then design a system with detailed financial projections covering energy generation, cost savings, and payback period. We handle all grid connection requirements and [electrical certifications](/services/electrical-testing/). If the numbers don't work, we'll tell you.
 
 **[Contact us today](/contact/) for a free commercial solar consultation.**

@@ -1,6 +1,6 @@
 ---
 title: Solar Panel Installer in Oldham | Renegade Solar
-description: MCS-certified solar panel and battery installations across Oldham. Terraced house specialists just 13 minutes from Prestwich. 9.86/10 Checkatrade rating. No salespeople — Ashley surveys, designs, and installs.
+description: MCS-certified solar panel and battery installations across Oldham. Terraced house specialists just 13 minutes from Prestwich. No salespeople — Ashley surveys, designs, and installs.
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Oldham
 icon: /assets/icons/solar-panel.svg
@@ -65,7 +65,7 @@ Solar panels also improve your EPC rating by approximately one band — particul
 There are installers based in the Oldham area, and plenty of national companies who'll send someone out. Here's what makes us different:
 
 - **One person, start to finish** — Ashley surveys, designs, and installs. No handoffs between sales teams and fitting crews.
-- **9.86/10 Checkatrade rating** from over 100 verified reviews. Check them yourself on [Checkatrade](https://www.checkatrade.com/trades/renegadeelectrical/).
+- **[9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/)** from over 100 verified reviews.
 - **All the certifications that matter** — [MCS](/accreditations/mcs-certified/), [NAPIT](/accreditations/napit/), [TrustMark](/accreditations/trustmark/), [HIES Consumer Code](/accreditations/hies-consumer-code/), [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/).
 - **We'll tell you if it won't work** — especially important for Oldham's terraced stock where some properties genuinely aren't suitable.
 - **2 years routine maintenance included** — we don't disappear after installation.
@@ -73,7 +73,7 @@ There are installers based in the Oldham area, and plenty of national companies 
 
 ## Nearby areas we cover
 
-We also serve [Failsworth](/services/solar-and-battery-installations/failsworth/), [Middleton](/services/solar-and-battery-installations/middleton/), [Prestwich](/services/solar-and-battery-installations/prestwich/), [Bury](/services/solar-and-battery-installations/bury/), and [Rochdale](/services/solar-and-battery-installations/rochdale/).
+We also serve [Failsworth](/services/solar-and-battery-installations/failsworth/), [Middleton](/services/solar-and-battery-installations/middleton/), [Prestwich](/services/solar-and-battery-installations/prestwich/), and [Bury](/services/solar-and-battery-installations/bury/).
 
 ## Get started
 

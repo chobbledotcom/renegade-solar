@@ -8,48 +8,38 @@ tags: [saddleworth]
 gallery_tags: [solar-panels]
 ---
 
-Looking for a solar panel installer in Saddleworth? We're Renegade Solar, based in Prestwich, covering the whole [Oldham](/oldham/) borough including Uppermill, Greenfield, Delph, Dobcross, Diggle, and Denshaw.
+We're Renegade Solar, based in Prestwich, covering the whole [Oldham](/oldham/) borough including Uppermill, Greenfield, Delph, Dobcross, Diggle, and Denshaw.
 
-Saddleworth is different from the rest of Oldham — larger detached and semi-detached homes, higher property values (averaging £393k), and bigger energy bills. That means bigger systems, better returns, and a stronger case for solar and battery storage. Ashley, a qualified electrician, personally handles every survey and installation.
+Saddleworth is a different proposition from the rest of Oldham. Bigger homes, higher energy bills, more roof space, and properties worth investing in (average around £393k). But it also comes with stone slate roofs, conservation areas, and exposed hilltop locations. Ashley, a qualified electrician, personally surveys and installs every system — and he'll be straight with you about what your property needs.
 
-## Saddleworth properties and solar potential
+## Bigger homes, bigger savings
 
-**Detached homes** with generous roof space can accommodate 6-8kW+ systems (15-20 panels). With higher energy consumption typical of larger homes, these systems deliver significant savings and fast payback.
+Saddleworth's detached homes can accommodate 6-8kW+ systems — 15-20 panels — producing enough to make a serious dent in higher energy bills. The payback is faster when you're offsetting more consumption, and with more surplus generation to store, [battery storage](/services/home-battery-installations/) makes financial sense from day one here.
 
-**Semi-detached properties** suit 4-6kW systems. Good roof space and decent orientation make most Saddleworth semis strong candidates for solar.
+Semi-detached properties suit 4-6kW systems. Good roof space and decent orientation make most Saddleworth semis strong candidates.
 
-**Stone-built properties** are common here. Solar can be installed on stone slate roofs, but it requires specialist knowledge — rafter-mount brackets with lead flashing rather than standard shortcut systems. Stone slates must be carefully removed and replaced, and installation takes longer. We'll be upfront about the additional complexity and cost during your survey.
+## Stone slate roofs
 
-## Elevation and exposure
+Many Saddleworth properties have Yorkstone or stone flag roofs. Solar can go on these, but it's more involved than a standard tile installation. Standard shortcut mounting systems don't work — you need rafter-mount brackets with lead flashing, and the slates have to be carefully removed and replaced. It takes longer and costs more (expect a premium over standard installations), but it's absolutely doable. We'll be upfront about the time and cost during your survey.
 
-Saddleworth sits higher than central Manchester — parts are 300-400m above sea level. The altitude has negligible effect on solar output, but wind loading is a real consideration. Exposed hilltop sites require heavier-duty fixings and proper wind load calculations, which we factor into every design. This is part of our standard engineering process, not an afterthought.
+If your stone slates are in poor condition and replacement slates are hard to source, we'll tell you. We'd rather have that conversation before taking your deposit than halfway through the job.
+
+## Exposed sites and wind loading
+
+Parts of Saddleworth are 300-400m above sea level. The altitude doesn't meaningfully affect solar output, but wind loading is a proper consideration. Exposed hilltop properties need heavier-duty fixings and MCS 012 requires altitude correction factors in the wind load calculations. We factor this into every design — panels must be fixed to rafters, not tiling battens, which matters most at exposed sites.
 
 ## Conservation areas
 
-Several Saddleworth areas are designated conservation areas. The good news: roof-mounted solar panels are generally permitted development in conservation areas, provided they don't protrude more than 200mm from the roof slope or exceed the ridge line. Wall-mounted panels facing a public highway need planning permission.
+Several Saddleworth villages have conservation area designations. Roof-mounted solar panels are generally permitted development — no planning permission needed — provided they don't protrude more than 200mm from the roof slope or exceed the ridge line.
 
-Listed buildings are different — they always need Listed Building Consent. For listed properties where roof panels aren't possible, we can discuss alternatives like ground-mounted systems.
+Listed buildings are a different matter — they always need Listed Building Consent. For listed properties where roof panels aren't possible, ground-mounted systems or standalone [battery installations](/services/home-battery-installations/) with a time-of-use tariff are alternatives worth considering.
 
-We'd recommend applying for a Lawful Development Certificate before installation in conservation areas as a belt-and-braces measure. We can guide you through this.
-
-## Battery storage — a strong case in Saddleworth
-
-Unlike smaller terraces where battery economics can be marginal, Saddleworth's larger homes with higher consumption make batteries worthwhile from day one. A bigger solar system generates more excess during the day, and a battery stores it for evening use when your larger home is drawing more power.
-
-Combined with a time-of-use tariff like [Octopus Go or Agile](https://octopus.energy/tariffs/), the savings compound significantly. As an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we set up the right tariff to maximise your returns.
+We'd recommend applying for a Lawful Development Certificate before installation in conservation areas. It's a belt-and-braces measure and we can guide you through it.
 
 ## EV charging
 
-Saddleworth's rural location means most households run at least one car. Combine solar with an [EV charger](/services/electric-vehicle-charger-installations/saddleworth/) and your fuel costs could drop to near zero — a 4.5kWh daily commute is easily covered by surplus solar generation in summer.
-
-## Why choose Renegade for Saddleworth
-
-- **9.86/10 Checkatrade rating** from over 100 verified reviews
-- **Experience with complex installations** — conservation areas, stone roofs, exposed sites
-- **[MCS-certified](/accreditations/mcs-certified/)** with [NAPIT](/accreditations/napit/), [TrustMark](/accreditations/trustmark/), and [HIES](/accreditations/hies-consumer-code/)
-- **One person, start to finish** — Ashley surveys, designs, and installs
-- **Honest advice** — we'll tell you exactly what your property needs, including any complications
+Most Saddleworth households run at least one car. Combine solar with an [EV charger](/services/electric-vehicle-charger-installations/saddleworth/) and your fuel costs could drop to near zero in summer — a 4.5kWh daily commute is easily covered by surplus generation from a decent-sized system.
 
 ## Get started
 
-[Contact us](/contact/) to discuss solar for your Saddleworth property. Ashley will give you straightforward advice about what'll work, what the challenges are, and what it'll cost.
+[Contact us](/contact/) to discuss solar for your Saddleworth property. Ashley will give you straightforward advice about what'll work, what the complications are, and what it'll cost. No pressure — just honest answers.

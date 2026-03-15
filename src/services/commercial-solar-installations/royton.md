@@ -10,16 +10,18 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Royton Businesses
 
-Royton businesses spending heavily on electricity can slash those costs with [commercial solar](/services/commercial-solar-installations/). We're based in [Prestwich](/services/commercial-solar-installations/prestwich/) and serve the whole [Oldham](/oldham/) area with [MCS-certified](/accreditations/mcs-certified/) installations.
+Royton has a mix of small businesses, workshops, and commercial premises that are well-suited to solar. If you're spending hundreds or thousands a month on electricity, commercial solar typically pays for itself in 3-4 years — then it's decades of dramatically reduced costs.
 
-Commercial properties benefit more from solar than domestic ones because businesses consume electricity during the day when generation peaks. Payback periods of typically 3-4 years, then decades of reduced costs.
+The reason commercial outperforms domestic is simple: businesses use electricity during the day when panels generate. You consume nearly every unit directly, which means the return on investment is faster and the savings are bigger.
 
-## Strong returns for Royton businesses
+## Small businesses benefit too
 
-Factories, workshops, retail units, and hospitality businesses all see excellent returns. Large flat roofs on commercial properties give us flexibility to mount panels at the optimal angle. If you have spare land, ground-mounted solar supplements rooftop installations.
+You don't need a warehouse to make commercial solar work. A shop or workshop in Royton with a decent-sized flat or pitched roof and monthly electricity bills over £300-400 can see meaningful returns. We design systems around your actual consumption — from modest setups for small retail units to larger arrays for light industrial premises.
+
+Flat roofs are particularly useful because we can angle panels optimally regardless of building orientation. Pitched roofs work well too — we provide multiple design options with financial analysis for each.
 
 ## Our approach
 
-We assess your property and consumption, design a system with detailed financial analysis, and handle all grid connections and certifications. You must own the building. If the numbers don't work, we'll tell you.
+We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), serving the whole [Oldham](/oldham/) area with [MCS-certified](/accreditations/mcs-certified/) installations. We assess your property and electricity usage, design a system with detailed financial projections, and handle all grid connections and certifications. You must own the building. If the numbers don't stack up, we'll say so — no point installing a system that doesn't make financial sense.
 
 **[Contact us today](/contact/) for a free commercial solar consultation.**

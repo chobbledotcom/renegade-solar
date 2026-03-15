@@ -8,20 +8,22 @@ icon: /assets/icons/car.svg
 gallery_tags: [electric-vehicle]
 ---
 
-Expert EV charger installations in Lees from a NAPIT-registered electrician. Based in Prestwich, covering the whole [Oldham](/oldham/) borough. Ashley personally assesses your property and installs your charger.
+EV charger installations in Lees from a NAPIT-registered electrician. Based in Prestwich, covering the whole [Oldham](/oldham/) borough. Ashley personally assesses your property and installs your charger.
 
-## Home charging vs public
+## Lees to Manchester — the real costs
 
-A typical commute to Manchester costs around £675 a year in petrol. Home charging on an off-peak tariff brings that down to £90-135. Combine with [solar panels](/services/solar-and-battery-installations/lees/) and summer commuting is free.
+Whether you're driving into Manchester or heading to Oldham town centre, home charging beats every alternative. A year of petrol commuting costs around £675. Home charging on Octopus Go's 7.5p/kWh overnight rate? About £100. And public rapid chargers at 50-80p per kWh are worse than petrol — they only make sense for occasional long trips.
 
-Public rapid charging at 50-80p per kWh is more expensive than petrol — home charging is the only approach that makes financial sense for daily driving.
+If you've got [solar panels](/services/solar-and-battery-installations/lees/), summer commuting costs nothing — surplus solar covers a typical daily drive with room to spare.
 
-## Smart chargers
+## Properties heading uphill
 
-We're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/) and fit their smart charger range, plus **SolaX** and **AlphaESS** units that integrate with solar and battery systems. Smart chargers wait for off-peak rates before charging. Plug in and forget.
+Lees runs from the valley bottom up towards Springhead and Grasscroft. The lower terraces are typical Oldham housing — some with driveways, some without. For terraces without off-street parking, we run armoured cable to rear yards or install front-mounted chargers with proper cable management.
 
-## Installation
+The larger properties higher up almost always have driveways or garages, making installation straightforward. Either way, it's a one-day job.
 
-Takes a day. Weatherproof units mount wherever suits your parking. Full NAPIT electrical certification included.
+## What we install
 
-**[Contact us](/contact/) for a free EV charger consultation and quote.**
+We're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/) and fit their smart charger range, plus **SolaX** and **AlphaESS** units. Smart chargers schedule overnight charging automatically at the cheapest rates. Got your own charger? We'll fit it. Full NAPIT certification provided.
+
+**[Contact us](/contact/) for a free consultation and quote.**

@@ -8,20 +8,26 @@ icon: /assets/icons/car.svg
 gallery_tags: [electric-vehicle]
 ---
 
-Expert EV charger installations in Royton from a NAPIT-registered electrician. Based nearby in Prestwich with no travel charges. Ashley personally assesses your property and installs your charger — no salespeople or call centres.
+EV charger installations in Royton from a NAPIT-registered electrician. Based in Prestwich, covering the whole [Oldham](/oldham/) borough. Ashley personally assesses and installs every charger.
 
-## Why home charging makes sense
+## The cost comparison that matters
 
-A typical Royton-to-Manchester commute costs around £675 a year in petrol. Switch to an EV with home charging on an off-peak tariff and that drops to £90-135. Combine with [solar panels](/services/solar-and-battery-installations/royton/) and summer commuting is essentially free.
+Royton homeowners are investing in their properties — and an EV charger is one of the better investments. A typical commute to Manchester costs around £675 a year in petrol. On a home charger with Octopus Go's 7.5p/kWh overnight rate, the same commute costs about £100. That's over £500 back in your pocket every year.
 
-Smart chargers wait until electricity drops to off-peak rates (7.5p/kWh on Octopus Go) before charging your car. Compare that to 50-80p at a public rapid charger. You plug in when you get home and forget about it.
+The worst option? Public rapid chargers at 50-80p per kWh — actually more expensive than filling up with petrol. Home charging is the only approach that makes daily driving affordable.
 
-## The chargers
+## Semis with driveways — straightforward installs
 
-We're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/) and fit their range of smart chargers, plus **SolaX** and **AlphaESS** units that integrate with solar and battery systems. Already bought a charger? We'll fit it.
+Royton has a good proportion of semis with off-street parking, which makes charger installation simple. We mount the unit on an exterior wall near your parking spot, run cable from your consumer unit, and you're charging by the end of the day.
 
-## Installation
+For terraces without driveways, we've got solutions too — armoured cable to rear yards, or front-mounted chargers with proper cable management.
 
-Takes a day. Weatherproof units mount wherever suits your parking. Heavy-duty armoured cable for outdoor runs. Full NAPIT electrical certification provided.
+## Solar and EV — the combination
 
-**[Contact us](/contact/) for a free EV charger consultation and quote.**
+If you've got [solar panels](/services/solar-and-battery-installations/royton/) or you're considering them, an EV charger completes the picture. Export your solar at 15p/kWh during the day, charge your car at 7p/kWh overnight — you actually come out ahead on the arbitrage. In summer, charge directly from solar and your fuel cost is genuinely zero.
+
+## What we install
+
+[Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/) — we fit their smart charger range plus **SolaX** and **AlphaESS** units. Or bring your own charger and we'll install it. Done in a day, full NAPIT certification.
+
+**[Contact us](/contact/) for a free consultation and quote.**

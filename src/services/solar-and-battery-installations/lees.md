@@ -1,6 +1,6 @@
 ---
 title: Solar Panel Installer in Lees | Renegade Solar
-description: MCS-certified solar panel and battery installations in Lees, Oldham. Local installer with 9.86/10 Checkatrade rating. Based in Prestwich.
+description: MCS-certified solar panel and battery installations in Lees, Oldham. Personal service from a qualified electrician based in Prestwich.
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Lees
 icon: /assets/icons/solar-panel.svg
@@ -8,33 +8,24 @@ tags: [lees]
 gallery_tags: [solar-panels]
 ---
 
-Looking for a solar panel installer in Lees? We're Renegade Solar, based in Prestwich, covering the whole [Oldham](/oldham/) borough. Ashley personally handles every survey and installation — no salespeople, just honest advice from a qualified electrician.
+We're Renegade Solar, based in Prestwich, covering the whole [Oldham](/oldham/) borough. Ashley, a qualified electrician, handles every survey and installation personally.
 
-## Lees properties and solar
+## Lees — between town and moor
 
-Sitting between central Oldham and [Saddleworth](/saddleworth/), Lees has a mix of terraced and semi-detached homes with average prices around £240k. The housing stock here offers good solar potential.
+Lees sits at the point where Oldham starts climbing towards [Saddleworth](/saddleworth/). The housing reflects that transition — you've got terraces and semis on the lower streets that are typical Oldham borough stock, and as you head uphill towards Springhead and Grasscroft, the properties get bigger, the views get better, and the roofs get more interesting.
 
-**Terraced homes**: 3-4kW systems with 8-10 panels. East-west orientations work well with panels on both roof slopes.
+The terraces around Lees centre suit 3-4kW systems. The semis and detached homes up the hill can take 4-6kW, sometimes more if the roof allows it. Average property prices around £240k mean solar's a proportionally significant investment — and the returns are genuine, with savings of £350-570 a year on typical energy bills.
 
-**Semi-detached homes**: 4-6kW systems with 10-15 panels, offering better generation and faster payback.
+## Grants worth knowing about
 
-A 4kW system in the Oldham area produces around 3,250 kWh per year, saving £350-570 annually on typical energy bills of £1,850.
+Oldham Council runs an active LA Flex scheme — if your household income is under £31,000, you may qualify for grant funding towards solar panels, batteries, or heat pumps. The scheme runs until December 2026 but budgets may run out early.
 
-## Smart savings
+On top of that, 0% VAT on domestic solar installations runs until 2027, and [MCS certification](/accreditations/mcs-certified/) (which we have) means your system qualifies for Smart Export Guarantee payments.
 
-Combine solar with [battery storage](/services/home-battery-installations/) and a time-of-use tariff to maximise your returns. As an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we help you get the most from your system — export solar at 15p/kWh during the day and charge your battery at 7p/kWh overnight.
+## Heading towards Saddleworth
 
-## Grants and incentives
-
-**0% VAT** on solar and battery installations until 2027. Your system qualifies for **Smart Export Guarantee** payments through our [MCS certification](/accreditations/mcs-certified/). Oldham Council also runs an active **LA Flex scheme** for eligible households.
-
-## Why choose Renegade
-
-- **9.86/10 Checkatrade rating** from over 100 verified reviews
-- **[MCS-certified](/accreditations/mcs-certified/)** with [NAPIT](/accreditations/napit/), [TrustMark](/accreditations/trustmark/), and [HIES](/accreditations/hies-consumer-code/) accreditations
-- **One person, start to finish** — Ashley surveys, designs, and installs
-- **No travel charges** from our Prestwich base
+If your property is further up towards Springhead or Grasscroft, you're getting into territory where stone slate roofs and higher wind exposure become factors. We cover this in detail on our [Saddleworth page](/services/solar-and-battery-installations/saddleworth/) — but the short version is we account for wind loading in every design, and we're upfront about any additional complexity or cost.
 
 ## Get started
 
-[Contact us](/contact/) for honest advice about solar for your Lees property.
+[Contact us](/contact/) for honest advice about solar for your Lees property. No salespeople — just a qualified electrician who'll tell you what works and what doesn't.

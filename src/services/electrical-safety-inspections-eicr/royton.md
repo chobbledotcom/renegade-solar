@@ -9,26 +9,24 @@ tags: [royton, eicr]
 
 # EICR Electrical Safety Inspections in Royton
 
-Professional electrical safety inspections in Royton from experienced NAPIT-registered electricians. £150 plus VAT for all domestic properties — same day certificates, no waiting around.
+£150 plus VAT for any domestic property in Royton. Same day certificates. No travel charges from Prestwich.
 
-## Royton properties
+## Royton's property market — protect your investment
 
-Royton's terraces and semi-detached homes have varied electrical histories. Older properties may have systems that have been modified over decades, and even newer builds can have issues. A proper EICR tells you exactly where you stand.
+Property prices in Royton have grown over 40% in five years. Whether you're buying into a growing market or you already own here, knowing the state of your electrics matters. An EICR tells you exactly where you stand — no guesswork.
 
-## £150 plus VAT — all domestic properties
-
-No travel charges from Prestwich. Same day certificates with clear reports explaining any findings in plain language.
+Royton's terraces and older semis are the properties where we most often find issues: consumer units without RCD protection, earthing that doesn't meet current standards, circuits that have been extended without proper thought. These aren't necessarily dangerous right now, but they're the kind of things that need addressing, especially before you connect a [solar system](/services/solar-and-battery-installations/royton/) or [EV charger](/services/electric-vehicle-charger-installations/royton/).
 
 ## For landlords
 
-**EICR every 5 years plus one for each new tenant.** Fines up to £30,000 for non-compliance. With the EPC C deadline approaching in 2030, an EICR is a good starting point for understanding what electrical upgrades your rental properties may need.
+**EICR every 5 years plus one for each new tenant.** Fines up to £30,000 for non-compliance. With the EPC C deadline in 2030, many Royton landlords are reviewing their properties — an EICR tells you whether the consumer unit needs upgrading, which often has to happen before solar can go in anyway.
 
 ## For buyers
 
-With Royton property prices growing 41.5% over five years, you're making a significant investment. Get an EICR before purchase to avoid unexpected electrical costs after moving in.
+Royton's price growth makes it attractive, but don't skip the electrical check. A £150 EICR could save you thousands if we find problems you can negotiate on before completion.
 
-## Thorough testing
+## What's included
 
-Comprehensive visual inspection plus calibrated technical testing — continuity, insulation resistance, earth fault loop impedance, and RCD operation checks.
+Full visual inspection plus calibrated technical testing — continuity, insulation resistance, earth fault loop impedance, RCD operation checks. Same day certificate with clear explanations.
 
 **[Book your Royton EICR inspection — contact us today](/contact/)**
