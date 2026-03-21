@@ -33,7 +33,7 @@ This matters because we've seen other installers recommend unsuitable or even da
 
 ## Installation
 
-All installations are carried out professionally with minimal disruption to you, your family or your business.
+All installations are carried out professionally with minimal disruption to you, your family or your business. We work with local roofers and scaffolders on every project, supporting tradespeople across Greater Manchester.
 
 ## Commissioning
 

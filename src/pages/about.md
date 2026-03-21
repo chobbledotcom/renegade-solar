@@ -28,4 +28,8 @@ Like most people today, we're concerned about climate change. We understand the 
 
 Modern solar panels generate substantial power even on a rooftop in the North of England. We use quality [DMEGC](/dmegc-solar-panel-installer-manchester/) and Trina Vertex panels that perform well in our northern climate. Together with battery storage, you can make significant savings on your energy bills.
 
+## Committed to Our Community
+
+We believe in giving back to the communities we serve. We prioritise local suppliers and contractors, sponsor Blackley Lions FC, support The Lighthouse Project charity, and are working with Manchester University on a mobile solar education unit for Greater Manchester. Read more in our [Social Value Policy](/social-value-policy/).
+
 **[Contact us](/contact/) for a quotation for solar panel installation.**

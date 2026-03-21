@@ -81,6 +81,10 @@ Listed on Green Economy's curated marketplace of trusted green technology provid
 
 **[View our Complaints Procedure](/complaints/)** for information about our customer service standards and complaint resolution process.
 
+## Social Value
+
+**[View our Social Value Policy](/social-value-policy/)** to see how we support local communities, the environment, and ethical business practices across Greater Manchester.
+
 ---
 
 ## Ready to Work with a Fully Certified Installer?
