@@ -26,7 +26,7 @@ We prioritise working with local roofers, scaffolders, and tradespeople on every
 
 We are currently working with the [University of Manchester](https://www.manchester.ac.uk/research/beacons/energy/) to design a mobile education unit that will travel around Greater Manchester teaching the public how solar energy works. We also offer advice and educational sessions on solar energy to homeowners and businesses who want to understand their options before committing.
 
-Every Christmas we donate new toys and clothes to [The Lighthouse Project](https://www.lighthouseproject.org.uk/), a local charity based in Middleton that supports families across North Manchester. We also proudly sponsor Blackley Lions FC, a grassroots football team in our local community.
+Every Christmas we donate new toys and clothes to [The Lighthouse Project](https://www.lighthouseproject.org.uk/), a local charity based in Middleton that supports families across North Manchester. We also proudly sponsor [Blackley Lions FC](https://www.facebook.com/p/Blackley-Lions-Jfc-100012519990378/), a grassroots football team in our local community.
 
 ## Employment & Skills
 
