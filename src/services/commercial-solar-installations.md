@@ -67,4 +67,6 @@ Based in Prestwich, we serve businesses throughout Greater Manchester and the wi
 
 As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we provide honest advice about whether solar makes financial sense for your specific business. If the numbers don't work, we'll tell you - we'd rather give honest assessments than oversell systems that won't deliver the returns you need. Our comprehensive service covers everything from initial design through to commissioning and aftercare, with professional installations that minimise disruption and deliver the savings we promise.
 
+We also prioritise working with local roofers, scaffolders, and contractors on every project, keeping investment in the Greater Manchester economy. Our [Social Value Policy](/social-value-policy/) outlines our wider commitment to supporting local communities and sustainable business practices.
+
 **[Contact us today](/contact/) for a free commercial solar consultation and detailed financial analysis.**

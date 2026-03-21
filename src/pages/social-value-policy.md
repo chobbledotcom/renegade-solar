@@ -54,7 +54,7 @@ We are committed to giving back to the communities we serve in North Manchester 
 | Measure | Value |
 |---|---|
 | Solar systems installed | 50+ |
-| Estimated CO2 saved | 25 tonnes of clean, green solar energy generated |
+| Clean green solar energy generated | 25 tonnes of CO2 saved |
 | Local suppliers | Prioritised across all projects |
 | Training opportunities | Ongoing investment in skills and apprenticeships |
 

@@ -36,7 +36,7 @@ Through their partnership programmes and business support services, Green Econom
 
 ## Building Manchester's Green Economy
 
-Manchester has ambitious carbon neutral goals, and solar installations play a crucial role in this transition. Our Green Economy membership reflects our commitment to supporting these local sustainability objectives while helping residents reduce energy bills.
+Manchester has ambitious carbon neutral goals, and solar installations play a crucial role in this transition. Our Green Economy membership reflects our commitment to supporting these local sustainability objectives while helping residents reduce energy bills. You can read more about how we give back to local communities in our [Social Value Policy](/social-value-policy/).
 
 Green Economy's partnerships with organisations like Greater Manchester Combined Authority (GMCA) ensure members stay informed about local environmental initiatives and funding opportunities that could benefit your renewable energy project.
 
