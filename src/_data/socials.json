@@ -18,5 +18,9 @@
   "google": {
     "text": "Check out Renegade Solar on Google Maps",
     "url": "https://maps.app.goo.gl/8j3vvkz4uCafyRPN7"
+  },
+  "trustpilot": {
+    "text": "Review Renegade Solar on Trustpilot",
+    "url": "https://uk.trustpilot.com/review/renegade-solar.co.uk"
   }
 }
