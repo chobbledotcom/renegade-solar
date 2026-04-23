@@ -1,6 +1,6 @@
 ---
 title: Page Not Found
-permalink: /not_found.html
+permalink: /bunnycdn_errors/404.html
 layout: empty.html
 noindex: true
 ---
