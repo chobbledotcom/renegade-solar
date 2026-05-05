@@ -1,8 +1,18 @@
 # Voice & Tone
 
-This site has a distinct voice: dry, plain-spoken, sceptical of marketing-speak, recognisably Mancunian without dialect cosplay. Think the rhythm of how people from Manchester actually talk, not a tourist-shop tea towel.
+This site has a distinct voice: dry, plain-spoken, sceptical of marketing-speak, recognisably Mancunian without dialect cosplay. It's how a tradesman from Manchester might write about his own work — not how a copywriter would write it for him.
 
 This is a guide, not a template. Slavish application is what makes copy sound generated.
+
+## The trap to avoid
+
+The source corpus below is people **talking**, spontaneously. Their rhetorical patterns — punchy fragments, lists of three with a comic third, deflating one-liners — work because they're spoken, not written. Lift those patterns straight into website copy and you've turned spontaneous wit into ad copy. You can hear the agency.
+
+The Manc-ness in this site should come from **content** (real places, real brands, real specifics) and **word choice** (a few quid, on the tools, a fair bit, hold up well) — not from sentence structure.
+
+### The WhatsApp test
+
+Read the line out loud. Could Ashley type it on his phone in the back of a van? If it has a copywriter's structure — a punchy fragment, a parallel-list closer, a one-line summary that "lands" — no, he wouldn't. Take the polish off.
 
 ## Source corpus
 
@@ -16,72 +26,61 @@ Don't lean on any single voice — that becomes a tribute act. The shared DNA ac
 - **Peter Kay** — *Phoenix Nights*, especially Brian Potter
 - **Sean Dyche** — press conferences (Burnley/Forest)
 - **Fred Dibnah** — Bolton steeplejack; the BBC documentaries. The voice for craft, materials, and proper specificity ("a good bit of mortar", "a proper old engine")
-- **John Prescott** — Hull, not Manchester, but the same plain-speaking working-class register; sceptical of polish, sceptical of media training
+- **John Prescott** — Hull, not Manchester, but the same plain-speaking working-class register; sceptical of polish
 - **Coronation Street** — for plain working dialogue
 
-When stuck, don't generate — read one of these.
+When stuck, don't generate — read one of these. But remember they're talking. Don't import their punchlines.
 
 ## Principles
 
-### 1. Specifics over abstractions
+### 1. First person where it makes sense
 
-"A Manchester roof", not "rooftops in the UK". "DMEGC and Trina Vertex", not "quality components". Brand names, place names, real numbers. The voice gets its credibility from being specific.
+"I run Renegade Solar from North Manchester" is more honest than "We provide solar installation services". Switching to "we" once you're talking about the team is natural. Small businesses talk like that — corporate voices don't.
+
+### 2. Specifics over abstractions
+
+Manchester roof, not "rooftops in the UK". DMEGC and Trina Vertex, not "quality components". Real charities by name. Real years. The voice gets its credibility from being specific.
 
 > "Madison Avenue guy who's just lost his job. Ivy League suit a bit scuzzed up, an outgrown layer cut and five o'clock shadow." — JCC
 
-### 2. Plain speech over marketing speech
+### 3. Plain word choice
 
-"On the tools" not "in the trade". "A few quid" not "significant savings". If you wouldn't say it down the pub, don't write it. Marketing language gives the game away that the writer doesn't know what they're talking about.
+"A few quid" not "significant savings". "Hold up well" not "perform reliably". "On the tools" not "in the trade". Trade vocabulary where appropriate. If you wouldn't say it down the pub, don't write it.
 
-### 3. Deflate the boast
+### 4. Looseness over polish
 
-The load-bearing move. Make a confident claim, then dryly undercut, qualify, or sit it next to a deflating image.
+Long sentences with sub-clauses. Hedges ("around fifteen years"). Asides in the middle of a thought. Sometimes a paragraph just stops because there's nothing else to say. The voice gets its texture from looseness, not from rhythm.
 
-> "They're all right, if you're not dead." — MES (on his record label)
-> "I want to moonwalk son, but life's a shithouse." — Brian Potter
-> "You told us to connect with the electorate, so I did." — John Prescott (on punching a protester)
+The opposite — short, polished sentences with parallel structure — is what marketing copy sounds like.
 
-### 4. Tag questions, sparingly
+### 5. No punchline closers
 
-The single most common cross-corpus tic: "doesn't it?", "isn't it?", "do they?". Lets the reader in instead of declaring at them. **One per page maximum.** Any more and it reads as parody.
+This is the single biggest failure mode when applying the voice. Specific patterns to avoid:
 
-> "Not everybody gets it with Morrissey, do they?" — JCC
-> "Did ya like that?" — Fred Dibnah (catchphrase, after a chimney came down)
+- Single-word or fragment closers: "The lot." / "That's the whole arrangement." / "No messing."
+- Cinematic one-line summaries: "Renegade Solar followed." / "And the rest is history."
+- Lists of three where the third item is comic or undercutting (Brian Potter satirises this; we don't do it earnestly).
+- The X / X / X — Y structure: "Not a call centre, not a regional manager, not a different installer — Ashley."
+- The "and yes, it works up here" handle-the-objection move.
 
-### 5. Lists of three, with the third undercutting
+These are copywriter devices. They turn a conversational sentence into a pitch.
 
-A pattern of three is a complete rhythm; the third item is where the comedy or specificity sits.
-
-> "Bigger, better, faster, stronger." — Brian Potter
-> "Scampi, chicken Kievs, garlic bread." — Brian Potter
-
-### 6. Self-interruption
-
-The voice corrects itself, qualifies, restarts. Em dashes. Brief asides. Sentences that change direction mid-flow.
-
-> "Well, my stuff ain't in the shops right now because... well, it's my fault, really. I've not done anything about it. I mean it's gonna happen, but not with me in charge." — JCC
-
-### 7. Trust the reader
+### 6. Trust the reader
 
 Don't explain the joke. Don't justify the claim. Don't repeat yourself. The voice is economical because it assumes intelligence on the other end.
 
-### 8. Direct address
+## Phrase pool (sparingly)
 
-"Do you like it?" pulls the reader into the conversation rather than addressing a generic audience. Use sparingly — once a page, not in every section.
+Words and turns of phrase that fit the voice when they appear naturally — never as 1:1 substitution:
 
-## Phrase pool (sparingly — never 1:1 substitution)
-
-- "the lot" (after a list)
-- "up here" / "round here"
 - "a few quid"
+- "a fair bit"
+- "hold up well"
 - "on the tools"
-- "no messing"
-- "and yes" (acknowledging an objection before answering it)
-- "stacks up"
-- "fair enough"
-- "doesn't it?", "isn't it?", "do they?"
+- "round here" / "up here"
+- "we've worked with for years"
 
-Rule: one or two per page, not one per paragraph. This is a starter pool; build it up over time as more pages get rewritten.
+Build this up over time as more copy gets written. One or two per page is plenty.
 
 ## No-go list
 
@@ -89,32 +88,29 @@ Burnt out by other northern brands and ad campaigns. Avoid:
 
 - "owt" / "nowt"
 - "our kid"
-- "champion"
-- "ay up"
-- "by 'eck" / "ee bah gum"
+- "champion" (as adjective)
+- "ay up" / "by 'eck" / "ee bah gum"
 - "proper" as intensifier ("proper good")
 - "dead" as intensifier ("dead happy")
 - "me" for "my" outside quoted speech
 - Phonetic accent spelling ("'appy", "summat", "fella")
+- "honest as the day is long" / "salt of the earth" / "no nonsense" — clichés about northern character that signal the writer isn't northern
 
-These can appear inside quotation marks if a customer says them. They don't belong in house voice.
+These can appear inside quotation marks if a customer or guest says them. They don't belong in house voice.
 
 ## Process
 
 1. Write the page in plain English first. Don't reach for the voice yet.
 2. Read it aloud. Mark every sentence that sounds like it could be on a brochure.
-3. Rewrite those sentences by changing the **rhythm**, not by substituting words. Break a long sentence. Drop a connector. Pull the verb forward. Add a list-of-three.
-4. Read aloud again. If you smirk, pull back.
-5. Aim for the voice in roughly one sentence in three, not every sentence. Uniformity is what makes generated copy obvious.
+3. Apply the WhatsApp test to each marked sentence: could Ashley type this on his phone? If not, take the polish off — usually by lengthening the sentence, adding a hedge, or breaking up a too-neat structure.
+4. Read aloud again. If you smirk, pull back further.
 
 ## Where to use it
 
 - About page
-- Homepage hero and section intros
+- Homepage section intros (not the SEO-heavy hero)
 - Headlines (where SEO allows)
 - Transitions and link text
-- Calls to action
-- Pull quotes
 
 ## Where NOT to use it
 
@@ -127,8 +123,14 @@ Inconsistency between pages is fine. Different pages have different jobs.
 
 ## Anti-patterns
 
-- Every paragraph ending with a tag question.
-- Substituting dialect words 1:1 for standard ones.
-- Making every page sound the same.
-- Trying to be funny. The voice is dry, not jokey. If a line gets a laugh, fine; if it's *for* the laugh, cut it.
-- "Honest as the day is long" / "salt of the earth" / "no nonsense" — clichés about northern character that signal the writer isn't northern.
+The specific failure modes of trying-too-hard:
+
+- **Fragment closers** — "The lot." / "That's the whole arrangement." / "No messing."
+- **Cinematic one-liners** — "Renegade Solar followed." / "And the rest is history."
+- **The deflating undercut** — used once it's a flourish; used as a pattern it's marketing.
+- **The rule-of-three list** — "Bigger, better, faster, stronger" is from Brian Potter, who is satirising marketing copy. Don't do it earnestly.
+- **The handle-the-objection move** — "and yes, it works up here" / "and yes, it makes sense even on a north-facing roof". Pure copywriter device.
+- **Em-dashes used to deliver punchlines** — "Not X, not Y, not Z — Ashley." Em-dashes used as ordinary explanatory asides ("we use Manchester roofers — most of them we've worked with for years") are fine.
+- **Tag questions on every paragraph** — even one per page is often too many. Use only when it genuinely lets the reader in.
+- **Trying to be funny** — the voice is dry, not jokey. If a line gets a laugh, fine. If it's *for* the laugh, cut it.
+- **Generic "northern" markers as a substitute for voice** — anyone can sprinkle in "a few quid". The voice has to live in *content* and *structure*, not just word choice.
