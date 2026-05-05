@@ -26,7 +26,7 @@ Commercial solar makes sense on its own because businesses use electricity durin
 
 - **Daytime EV charging** - staff cars on site through the working day, charging exactly when solar is generating
 - **No grid electricity bought** - solar covers the load directly, so the chargers cost nothing to run
-- **No fuel reimbursement claims** - if you currently reimburse staff mileage at HMRC rates, solar-powered charging eliminates the variable cost
+- **Fuel costs replaced by sunlight** - for any staff doing business mileage in EVs, the energy cost of that mileage drops close to zero
 
 For the business, **most commercial installations reduce monthly costs by 70-100%, with payback typically within 3-4 years**. The EV charging adds usage that improves your self-consumption ratio (more kWh used on site, fewer exported back to the grid), which generally improves payback further.
 
@@ -35,11 +35,11 @@ For the business, **most commercial installations reduce monthly costs by 70-100
 Depending on your site, we can design:
 
 - **Rooftop solar + wall-mounted chargers** - panels on the roof, chargers on the building wall facing the car park
-- **Ground-mounted solar + chargers on outdoor fuse boards** - useful where the roof isn't ideal but you have spare land or grass verge
-- **Solar carports** - a roof over the parking spaces that doubles as the panel array. Higher capital cost but combines weather protection for vehicles with on-site generation
-- **Hybrid setups** with [battery storage](/services/home-battery-installations/) so excess generation is stored for evening or weekend EV charging
+- **Ground-mounted solar + chargers on outdoor fuse boards** - useful where the roof isn't ideal but you have spare land or grass verge. We've installed exactly this kind of setup for businesses offering free staff EV charging.
 
-Which is right depends on your roof, your car park layout, your staff numbers, and how much you want to spend up front. We'll go through the options on the survey.
+If you're interested in solar carport structures (an elevated frame over parking that doubles as the panel array), let us know during the survey and we'll talk through whether that's the right fit and what's involved.
+
+Which approach is right depends on your roof, your car park layout, your staff numbers, and how much you want to spend up front. We'll go through the options on the survey.
 
 ## Charger options
 
@@ -47,9 +47,8 @@ We're not tied to a single manufacturer. Common installs:
 
 - **Standard 7kW units** for staff parking - charges most EVs fully during a working day
 - **22kW three-phase chargers** for sites with three-phase power - faster turnaround for fleet or shared use
-- [**GivEnergy chargers**](/givenergy-installer-manchester/) - if you want everything (panels, battery, chargers) under one ecosystem
+- [**GivEnergy chargers**](/givenergy-installer-manchester/) - integrate well if you're running GivEnergy battery and inverter kit
 - [**Octopus chargers**](/accreditations/octopus-trusted-partner/) - smart chargers that wait for the cheapest rates when grid charging is needed
-- [**Solax**](/solax-battery-installer-manchester/) and [**AlphaESS**](/alphaess-battery-installer-manchester/) chargers - integrate well with their respective battery ecosystems
 
 All chargers are OZEV grant-approved where applicable and include smart features for app control and energy monitoring.
 
@@ -67,15 +66,15 @@ The same basic requirements as commercial solar:
 - **Sufficient roof space, ground space, or both**
 - **A car park** with reasonable proximity to where the supply lands
 
-For Tier 1 commercial properties (warehouses, factories, retail) all three are usually present. For smaller offices it depends on the site.
+For most owner-occupied commercial properties (warehouses, factories, retail) all three are usually present. For smaller offices it depends on the site.
 
 ## Industrial experience
 
-Ashley's background includes 10 years on commercial projects and electrical work on industrial sites including the Jersey Recycling Centre. That experience means we understand three-phase supplies, plant and machinery loads, and how to plan an installation around shift patterns and staff parking turnover.
+Ashley's background includes 10 years on commercial projects and electrical work on industrial sites including the Jersey Recycling Centre. That experience means we understand three-phase supplies and plant and machinery loads.
 
 ## How the process works
 
-A qualified electrician visits your site, reviews your electricity usage, looks at the roof and the car park, and designs a system to suit. We typically present multiple options - a smaller "panels + chargers" build and a larger version with battery storage - with full financial analysis for each. After approval we install with minimal disruption to your operations and provide all certifications, grid connection paperwork and Smart Export Guarantee setup.
+A qualified electrician visits your site, reviews your electricity usage, looks at the roof and the car park, and designs a system to suit. We typically present multiple options at different system sizes with full financial analysis for each. After approval we install with minimal disruption to your operations and provide all certifications, grid connection paperwork and Smart Export Guarantee setup.
 
 ## Why work with us
 

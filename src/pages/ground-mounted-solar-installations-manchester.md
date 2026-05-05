@@ -59,7 +59,7 @@ We use quality [DMEGC](/dmegc-solar-panel-installer-manchester/) and [Trina Vert
 
 ## Planning permission
 
-Most domestic ground-mounted solar systems fall under permitted development, but the rules vary by property type, location and array size. If you're in a conservation area or close to a listed building, we'll talk you through what may be needed. We handle building control notifications and DNO (grid connection) applications as part of every install.
+Permitted Development for domestic ground-mounted solar in England has tight limits - in particular a maximum panel area of around 9 sq m and a maximum height of 4m, with a 5m boundary distance. Most domestic arrays bigger than a few panels exceed those limits, so will need a planning application. Conservation areas and listed buildings have additional restrictions. We'll talk you through what your specific install will need, and we handle building control notifications and DNO (grid connection) applications as part of every project.
 
 ## Installation process
 

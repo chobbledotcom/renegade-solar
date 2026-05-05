@@ -10,9 +10,9 @@ noindex: false
 
 ## Moving house with an EV charger? We'll move it for you
 
-If you've got a wall-mounted EV charger at your current property, it's an asset worth taking with you. Most chargers cost a few hundred pounds and the install adds more on top. Rather than leaving it behind for the new owners, we can professionally remove it from your old property and reinstall it at your new one.
+If you've got a wall-mounted EV charger at your current property, it's an asset worth taking with you - the hardware and the install both cost real money. Rather than leaving it behind for the new owners, we can professionally remove it from your old property and reinstall it at your new one.
 
-This isn't a service most installers actively offer. We do, and we do it regularly.
+This isn't a service most installers actively offer. We do.
 
 ## A real customer who did exactly this
 
@@ -22,7 +22,7 @@ That's the job in two steps - tidy removal at the old place, proper reinstall at
 
 ## Why this is worth doing
 
-A 7kW wall charger is a meaningful piece of kit. If you bought a quality charger and got it professionally installed, you're looking at potentially £800-£1,500+ to replace it brand new at your next house. Relocating costs a fraction of that.
+A 7kW wall charger is a meaningful piece of kit. Replacing it brand new at your next house means buying the unit again and paying for another full install - relocating is typically a fraction of that.
 
 Beyond the cost, there's also the question of compatibility. If you're already running an [Octopus Go](/octopus-go-battery-installer-manchester/) tariff, an OZEV-grant-approved charger, or a charger that's integrated with your home battery setup, you don't necessarily want to start over. Taking your existing charger means keeping the configuration you already know works.
 
@@ -33,7 +33,7 @@ Beyond the cost, there's also the question of compatibility. If you're already r
 - Disconnect the charger safely and isolate the supply
 - Remove the charger and any external cable runs
 - Make safe and tidy the consumer unit and any leftover wall fixings
-- Provide certification confirming the disconnection was carried out safely
+- Provide electrical certification for the work
 
 **Reinstall at the new property:**
 

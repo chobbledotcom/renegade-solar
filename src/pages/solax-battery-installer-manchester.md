@@ -30,7 +30,7 @@ Solax Power is a global energy company with products in **130+ markets**. They m
 - **EV chargers and heat pump products**
 - **SolaXCloud** monitoring app for app-based control of your system
 
-Capacities for residential batteries range from a few kWh up to larger 30+ kWh systems by adding modules. We typically size systems from 6kWh upwards depending on your usage.
+Solax residential batteries are designed to be stacked in modules so the total capacity can be sized to your home's usage. We typically size systems from 6kWh upwards depending on your usage.
 
 (Solax's own published product range is the source for the above - we'll confirm specific model details and warranty terms on your written quote.)
 

@@ -36,7 +36,7 @@ Manufacturing buildings come in every shape, and we design for whatever's there:
 
 ## Industrial experience
 
-Ashley's background includes 10 years on commercial projects and electrical work on industrial sites including the Jersey Recycling Centre. That experience translates directly to manufacturing environments - understanding three-phase supplies, plant and machinery loads, and how to plan an installation around shift patterns and production schedules.
+Ashley's background includes 10 years on commercial projects and electrical work on industrial sites including the Jersey Recycling Centre. That experience translates directly to manufacturing environments - understanding three-phase supplies and plant and machinery loads.
 
 ## What you need to qualify
 

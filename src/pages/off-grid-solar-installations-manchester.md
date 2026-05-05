@@ -18,16 +18,15 @@ We've successfully delivered several off-grid installations and can design syste
 
 The use cases we typically see:
 
-- **Mobile catering** - eliminating the need for diesel generators at events, festivals and street-food pitches
-- **Agricultural operations** - powering workshops, stables, polytunnels, milking parlours and outbuildings where running mains is uneconomic
-- **Remote offices and cabins** - sites where the grid connection cost would dwarf the running cost of a properly sized solar/battery system
-- **Yard buildings and storage** - where a small dedicated system makes more sense than extending the supply
+- **Mobile catering** - eliminating the need for diesel generators
+- **Agricultural operations** - powering buildings and equipment where running mains is uneconomic
+- **Remote offices** - sites where the grid connection cost would dwarf the running cost of a properly sized solar/battery system
 
 For each of these, the equation is the same: how much do you currently spend on generator fuel (or how much would the grid connection cost), and how does that compare to a one-time install of a solar/battery system that runs for decades?
 
 ## Why this works financially
 
-Off-grid solar removes ongoing fuel costs and removes the noise, fumes and maintenance overhead of running a generator. It positions your business as environmentally conscious - which matters for mobile caterers competing for events with sustainability requirements, and for agricultural businesses dealing with environmental schemes and grants.
+Off-grid solar removes ongoing fuel costs and removes the noise, fumes and maintenance overhead of running a generator. It also positions your business as environmentally conscious.
 
 ## Quality components, sensible sizing
 

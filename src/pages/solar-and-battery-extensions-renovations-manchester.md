@@ -58,7 +58,7 @@ We work with local roofers and scaffolders on every project, which means we can 
 
 > "Since then Ashley has fitted solar panels and a battery, a doorbell, new light sockets, outdoor lighting & power, a bathroom extractor fan, removed old ariels, and probably more stuff I can't remember."
 
-That's a customer in M25 who started with one job and kept coming back across a series of works on the property. That's how a lot of our renovation customers end up - one trade, one phone number, one electrician who knows the property.
+That's a customer in M25 who started with one job and kept coming back across a series of works on the property - one trade, one phone number, one electrician who knows the property.
 
 ## Why work with us
 
