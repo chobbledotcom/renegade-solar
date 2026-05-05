@@ -57,7 +57,7 @@ The Home Energy Installation Systems (HIES) Consumer Code provides comprehensive
 
 ## Checkatrade Member
 
-**Rating:** 9.6/10 from 80+ verified reviews
+**Rating:** {{ reviews.averageRating | round: 2 }}/10 from {{ reviews.total }}+ verified reviews
 
 Checkatrade is the UK's most trusted tradesperson directory with rigorous vetting processes.
 

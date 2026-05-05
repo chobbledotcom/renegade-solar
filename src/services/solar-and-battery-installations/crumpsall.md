@@ -15,7 +15,7 @@ gallery_tags: [solar-panels]
 
 # Solar Panel Installer in Crumpsall
 
-Looking for a solar installer in Crumpsall? We're Renegade Solar, led by Ashley, based just down the road in Prestwich. With MCS certification (NAP-66870) and a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) from 80+ reviews, we provide honest advice and quality installations.
+Looking for a solar installer in Crumpsall? We're Renegade Solar, led by Ashley, based just down the road in Prestwich. With MCS certification (NAP-66870) and a [{{ reviews.averageRating | round: 2 }}/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) from {{ reviews.total }}+ reviews, we provide honest advice and quality installations.
 
 ## Why Crumpsall Residents Trust Renegade Solar
 

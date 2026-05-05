@@ -34,7 +34,7 @@ The Metrolink stops are handy for getting into town, but they don't help when yo
 
 ## The 2030 Switch
 
-New petrol and diesel cars are getting banned in 2030, so electric's the future whether we like it or not. Whitefield's got decent motorway links (M60, M62), which means finding rapid chargers for longer trips isn't difficult. But for daily driving, home charging at 7.5p per kWh makes way more sense than paying 50-80p at public chargers.
+New petrol and diesel cars are getting banned in 2030, so electric's the future whether we like it or not. Whitefield's got decent motorway links (M60, M62), which means finding rapid chargers for longer trips isn't difficult. But for daily driving, home charging at 9.5p per kWh makes way more sense than paying 50-80p at public chargers.
 
 Public chargers cost a fortune. Time-of-use tariffs like Octopus Go let you charge overnight for peanuts. A 7kW home charger gets your car fully topped up during that cheap window. Try that with a granny charger that plugs into a regular socket - it'll take all day and cost you loads more.
 
@@ -42,7 +42,7 @@ Public chargers cost a fortune. Time-of-use tariffs like Octopus Go let you char
 
 If you've got **Solax** or **AlphaESS** solar panels or batteries, we fit their chargers. They integrate with their own kit nicely.
 
-We're an **Octopus Energy Trusted Partner** too, so we install the full [Octopus charger range](https://octopus.energy/get-an-ev-charger/). Smart chargers that automatically charge when rates are lowest - 7.5p per kWh on Octopus Go. You plug in, they handle the timing.
+We're an **Octopus Energy Trusted Partner** too, so we install the full [Octopus charger range](https://octopus.energy/get-an-ev-charger/). Smart chargers that automatically charge when rates are lowest - 9.5p per kWh on Octopus Go. You plug in, they handle the timing.
 
 Picked out a different charger? Order it and we'll install it.
 

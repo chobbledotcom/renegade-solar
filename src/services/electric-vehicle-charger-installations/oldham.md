@@ -38,7 +38,7 @@ Oldham has 10 Metrolink stops through the borough, with park-and-ride at Hollinw
 
 Got **SolaX** or **AlphaESS** gear already? Their chargers integrate with their own solar and battery kit. We fit those regularly. We're also an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), so we can get you any charger from [Octopus's range](https://octopus.energy/get-an-ev-charger/).
 
-The smart chargers wait until electricity drops to off-peak rates (7.5p/kWh on Octopus Go) before charging your car. Compare that to 50-80p at a public rapid charger. You plug in when you get home and forget about it.
+The smart chargers wait until electricity drops to off-peak rates (9.5p/kWh on Octopus Go) before charging your car. Compare that to 50-80p at a public rapid charger. You plug in when you get home and forget about it.
 
 Already bought a charger? That's fine — we'll fit it.
 

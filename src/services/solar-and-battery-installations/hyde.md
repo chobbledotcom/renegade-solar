@@ -10,7 +10,7 @@ tags: [hyde]
 gallery_tags: [hyde]
 ---
 
-Looking for a solar panel installer in Hyde? We're Renegade Solar, led by Ashley, working across Greater Manchester and beyond. With a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification, we've completed installations across Hyde including work on new build developments.
+Looking for a solar panel installer in Hyde? We're Renegade Solar, led by Ashley, working across Greater Manchester and beyond. With a [{{ reviews.averageRating | round: 2 }}/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification, we've completed installations across Hyde including work on new build developments.
 
 ## New Build Solar Specialists
 

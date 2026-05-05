@@ -13,7 +13,7 @@ tags: [crumpsall, eicr]
 
 # EICR Electrical Safety Inspections in Crumpsall
 
-Need an EICR in Crumpsall? We're Renegade Solar, led by Ashley, just down the road in Prestwich. It's £150 plus VAT flat rate, same day certificate, no hidden charges. NAPIT-registered with 20+ years' experience and a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/).
+Need an EICR in Crumpsall? We're Renegade Solar, led by Ashley, just down the road in Prestwich. It's £150 plus VAT flat rate, same day certificate, no hidden charges. NAPIT-registered with 20+ years' experience and a [{{ reviews.averageRating | round: 2 }}/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/).
 
 ## £150 plus VAT All-In - Guaranteed
 

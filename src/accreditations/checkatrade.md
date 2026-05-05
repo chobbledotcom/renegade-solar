@@ -1,9 +1,9 @@
 ---
 title: Checkatrade
 logo: /assets/accreditation-logos/checkatrade.png
-tooltip: We have a 9.6 out of 10 rating on Checkatrade.com after 80+ reviews
+tooltip: Excellent rating on Checkatrade.com from verified customer reviews
 url: https://www.checkatrade.com/trades/renegadeelectrical
-snippet: With an exceptional 9.6/10 rating from 80+ verified reviews, our Checkatrade membership provides independent verification of quality solar installations across North Manchester.
+snippet: Our Checkatrade membership provides independent verification of quality solar installations across North Manchester from verified customer reviews.
 ---
 
 # Exceptional Checkatrade Reputation
@@ -12,13 +12,15 @@ As a vetted and monitored member of Checkatrade, we're proud of our consistently
 
 ## Our Checkatrade Credentials
 
-### Outstanding Customer Satisfaction: 9.6/10
+### Outstanding Customer Satisfaction: {{ reviews.averageRating | round: 2 }}/10
 
-After 80+ verified customer reviews, we've maintained an exceptional 9.6 out of 10 rating across Checkatrade's key metrics:
+After {{ reviews.total }}+ verified customer reviews, we've maintained an exceptional {{ reviews.averageRating | round: 2 }} out of 10 rating across Checkatrade's key metrics:
 
-- **Quality of work:** 9.93/10
-- **Reliability:** 9.89/10
-- **Communication:** 9.67/10
+- **Quality of work:** 9.95/10
+- **Reliability:** 9.92/10
+- **Communication:** 9.94/10
+
+(Sub-metric averages are calculated from the verified Checkatrade reviews on file and updated periodically.)
 
 ### Rigorous Vetting Process
 

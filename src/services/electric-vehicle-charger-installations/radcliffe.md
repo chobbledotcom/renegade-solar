@@ -26,13 +26,13 @@ Mess is kept to a minimum. Consumer unit needs to be up to current standards - i
 
 Running **Solax** or **AlphaESS** solar panels or batteries? We fit their EV chargers - they work well with their own systems.
 
-As an **Octopus Energy Trusted Partner**, we also install any of the [Octopus chargers](https://octopus.energy/get-an-ev-charger/). Smart units that charge automatically when rates are cheapest. On Octopus Go that's 7.5p per kWh overnight versus 50-80p you'd pay at a public charger ((zapmap.com)[https://www.zapmap.com/ev-stats/charging-price-index]).
+As an **Octopus Energy Trusted Partner**, we also install any of the [Octopus chargers](https://octopus.energy/get-an-ev-charger/). Smart units that charge automatically when rates are cheapest. On Octopus Go that's 9.5p per kWh overnight versus 50-80p you'd pay at a public charger ((zapmap.com)[https://www.zapmap.com/ev-stats/charging-price-index]).
 
 Got a charger in mind already? Order it and we'll fit it.
 
 ## Why Home Charging
 
-The government's banning new petrol and diesel cars from 2030. Radcliffe's got access to motorways (M60, M66), so rapid chargers for longer trips are around. But for day-to-day driving, home charging at 7.5p per kWh beats public charging hands down.
+The government's banning new petrol and diesel cars from 2030. Radcliffe's got access to motorways (M60, M66), so rapid chargers for longer trips are around. But for day-to-day driving, home charging at 9.5p per kWh beats public charging hands down.
 
 A proper 7kW charger tops your car up overnight during cheap rate periods. Granny chargers that plug into normal sockets take forever - all day - which means you're charging during expensive daytime electricity. Not ideal.
 

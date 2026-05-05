@@ -10,7 +10,7 @@ tags: [failsworth]
 gallery_tags: [failsworth]
 ---
 
-Looking for a solar panel installer in Failsworth? We're Renegade Solar, led by Ashley, operating across Greater Manchester from our base in Prestwich. With a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification, we handle solar installations on all types of properties.
+Looking for a solar panel installer in Failsworth? We're Renegade Solar, led by Ashley, operating across Greater Manchester from our base in Prestwich. With a [{{ reviews.averageRating | round: 2 }}/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification, we handle solar installations on all types of properties.
 
 ## Why Choose Renegade Solar for Your Failsworth Property
 

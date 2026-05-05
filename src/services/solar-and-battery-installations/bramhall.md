@@ -1,6 +1,6 @@
 ---
 title: Solar Panel Installer in Bramhall | Renegade Solar
-description: MCS-certified solar panel installations in Bramhall. Expert advice on Victorian and Edwardian properties, conservation areas, and mature tree shading from a local installer with 9.6/10 Checkatrade rating.
+description: MCS-certified solar panel installations in Bramhall. Expert advice on Victorian and Edwardian properties, conservation areas, and mature tree shading from a local installer with excellent Checkatrade rating.
 redirect_from:
   - /solar-panel-installer-bramhall/
 link_title: Solar Panel Installations
@@ -46,7 +46,7 @@ For properties where roof-mounted solar isn't suitable - due to shading, orienta
 
 ## What customers say
 
-We maintain a **9.6/10 rating** on Checkatrade based on feedback from customers across Greater Manchester. People consistently mention our honesty about what'll actually work for their property, the quality of workmanship, and the fact that Ashley personally oversees every job - no salespeople or subcontractors.
+We maintain a **{{ reviews.averageRating | round: 2 }}/10 rating** on Checkatrade based on feedback from customers across Greater Manchester. People consistently mention our honesty about what'll actually work for their property, the quality of workmanship, and the fact that Ashley personally oversees every job - no salespeople or subcontractors.
 
 Check out the [customer reviews](/reviews/) to see what people think.
 

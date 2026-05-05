@@ -10,7 +10,7 @@ tags: [rusholme]
 gallery_tags: [rusholme]
 ---
 
-Looking for a solar panel installer in Rusholme? We're Renegade Solar, led by Ashley, working across Manchester from our Prestwich base. With a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification, we specialise in solar installations on all types of properties.
+Looking for a solar panel installer in Rusholme? We're Renegade Solar, led by Ashley, working across Manchester from our Prestwich base. With a [{{ reviews.averageRating | round: 2 }}/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification, we specialise in solar installations on all types of properties.
 
 ## Flat Roof Solar Specialists
 

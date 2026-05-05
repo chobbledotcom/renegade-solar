@@ -65,7 +65,7 @@ Solar panels also improve your EPC rating by approximately one band — particul
 There are installers based in the Oldham area, and plenty of national companies who'll send someone out. Here's what makes us different:
 
 - **One person, start to finish** — Ashley surveys, designs, and installs. No handoffs between sales teams and fitting crews.
-- **[9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/)** from over 100 verified reviews.
+- **[{{ reviews.averageRating | round: 2 }}/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/)** from {{ reviews.total }}+ verified reviews.
 - **All the certifications that matter** — [MCS](/accreditations/mcs-certified/), [NAPIT](/accreditations/napit/), [TrustMark](/accreditations/trustmark/), [HIES Consumer Code](/accreditations/hies-consumer-code/), [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/).
 - **We'll tell you if it won't work** — especially important for Oldham's terraced stock where some properties genuinely aren't suitable.
 - **2 years routine maintenance included** — we don't disappear after installation.

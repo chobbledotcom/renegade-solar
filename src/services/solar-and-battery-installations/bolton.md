@@ -1,6 +1,6 @@
 ---
 title: Solar Panel Installer in Bolton | Renegade Solar
-description: MCS-certified solar panel and battery installations in Bolton from Renegade Solar - a trusted local installer with 9.6/10 Checkatrade rating serving Bolton's diverse properties.
+description: MCS-certified solar panel and battery installations in Bolton from Renegade Solar - a trusted local installer with excellent Checkatrade rating serving Bolton's diverse properties.
 redirect_from:
   - /solar-panel-installer-bolton/
 link_title: Solar Panel Installs
@@ -38,7 +38,7 @@ Our local knowledge means we understand Bolton's planning requirements and have 
 
 ## What Our Customers Say
 
-Don't just take our word for it - check out our [customer reviews](/reviews/) where we maintain an exceptional **9.6/10 rating** on Checkatrade. Our customers consistently praise our honesty, professionalism, and the quality of our workmanship.
+Don't just take our word for it - check out our [customer reviews](/reviews/) where we maintain an exceptional **{{ reviews.averageRating | round: 2 }}/10 rating** on Checkatrade. Our customers consistently praise our honesty, professionalism, and the quality of our workmanship.
 
 As one recent customer noted: "Really professional job would highly recommend" - just one of many glowing testimonials from satisfied customers across Greater Manchester.
 
