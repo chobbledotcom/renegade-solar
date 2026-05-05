@@ -30,7 +30,7 @@ Many Blackley properties are ideal for [solar and battery installations](/servic
 - New-build developments with tile roofs
 - Flat-roofed properties, eg commercial buildings
 
-You might think that the constant Manchester rain means solar panels aren't viable, but the opposite is actually the case. Rain doesn't affect panel efficiency to any appreciable degree - it's all about the hours of sunshine, and in Manchester we get just as much of that as down south! And even better - the rain keeps the panels clean, removing dust and dirt build-up which blocks the sun's rays.
+Manchester rain doesn't make solar panels unviable. Panel efficiency depends on hours of daylight, and Manchester gets a similar amount to the south of England. The rain also helps keep panels clean, washing away dust and dirt build-up.
 
 We've found most homes in the M9 and M25 postcode areas can achieve excellent energy savings, even with north-facing roofs. We'll help you plan your panels to ensure the maximum possible efficiency regardless of your roof's orientation.
 
@@ -49,7 +49,7 @@ Our local knowledge means we:
 
 You won't find commission-hungry sales reps here. When you get in touch, you're speaking directly to Ashley - a qualified electrician who can actually answer your technical questions and won't recommend something unsuitable just to hit targets.
 
-We're not just another solar company - we're your neighbours. Our Prestwich base means:
+Our Prestwich base means:
 
 - Quick response times to Blackley
 - No call-out charges for local consultations

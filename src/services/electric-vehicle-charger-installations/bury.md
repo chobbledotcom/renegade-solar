@@ -10,7 +10,7 @@ icon: /assets/icons/car.svg
 gallery_tags: [electric-vehicle]
 ---
 
-Expert EV charger installations throughout Bury. We provide professional charging solutions for electric cars with smart technology and seamless integration with renewable energy systems.
+EV charger installations throughout Bury. Smart chargers that integrate with solar and battery systems where you've got them.
 
 ## Bury EV Charging Service
 
