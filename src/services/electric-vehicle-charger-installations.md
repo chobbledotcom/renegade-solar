@@ -23,9 +23,11 @@ Customers appreciate the clear advice, fair pricing and tidy workmanship. Here's
 
 > "Ashley was amazing! He removed my EV charger from my old house and came back and reinstalled at my new house... would highly recommend and wouldn't use anybody else now for any electrical work."
 
+If you're moving house, we offer a dedicated [EV charger relocation service](/ev-charger-relocation-manchester/) - removing the charger at the old property and reinstalling at the new one.
+
 ## Solar + EV Integration
 
-If you've got solar panels or are thinking about getting them, we can set up your EV charger to work with the system. This means you can charge your car using excess solar energy, potentially bringing your charging costs down to near zero during sunny periods. We've experience with GivEnergy systems and can configure smart charging to match solar generation and time-of-use tariffs like Octopus Intelligent Go. By getting your EV charger integrated with your home energy system, you'll get significantly more value from both technologies and reduce your carbon footprint.
+If you've got solar panels or are thinking about getting them, we can set up your EV charger to work with the system. This means you can charge your car using excess solar energy, potentially bringing your charging costs down to near zero during sunny periods. We've experience with [GivEnergy](/givenergy-installer-manchester/) systems and can configure smart charging to match solar generation and time-of-use tariffs like [Octopus Intelligent Go](/octopus-go-battery-installer-manchester/). By getting your EV charger integrated with your home energy system, you'll get significantly more value from both technologies and reduce your carbon footprint.
 
 ## Installation Process
 

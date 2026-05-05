@@ -16,7 +16,7 @@ Every installation is personally overseen by [Ashley Merritt](/about/), a fully 
 
 Hale's housing stock is predominantly larger detached properties with generous roof space - ideal for solar installations. Many homes here have higher energy consumption than the Manchester average, which means solar and battery systems can make a significant difference to energy bills.
 
-Period properties are common throughout Hale, including Victorian and Edwardian homes with slate roofs. These often have good south-facing aspects and solid roof structures. We're experienced with these property types and can advise on what's realistic for your specific situation.
+[Period properties](/solar-panels-conservation-areas-period-properties/) are common throughout Hale, including Victorian and Edwardian homes with slate roofs. These often have good south-facing aspects and solid roof structures. We're experienced with these property types and can advise on what's realistic for your specific situation.
 
 Parts of Hale fall within conservation areas, including South Hale and the area around Hale Station. This doesn't mean you can't have solar panels, but it does mean we need to consider visibility and may need to discuss planning with the local authority. As part of our MCS accreditation, we're trained on working with conservation requirements and can advise on what's achievable.
 

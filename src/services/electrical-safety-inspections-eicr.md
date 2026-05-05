@@ -53,7 +53,7 @@ Older houses have their own particular challenges. You're often dealing with old
 
 You'd think new builds would be perfect, but research shows **1 in 5 new builds have electrical faults**. Poor workmanship from rushed construction where corners get cut is surprisingly common. Loose connections that weren't properly tightened during installation, missing earth bonding that should be there but isn't, and incorrect installations like downlights where the earth wires have just been cut off rather than connected properly.
 
-Even if you've got a new build with an EIC certificate, an EICR can give you peace of mind that everything's actually been done right.
+Even if you've got a new build with an EIC certificate, an EICR can give you peace of mind that everything's actually been done right. Read more about our dedicated [EICR service for new build properties](/eicr-new-build-properties-manchester/).
 
 ## For Landlords - The Legal Bit
 
@@ -62,6 +62,8 @@ Even if you've got a new build with an EIC certificate, an EICR can give you pea
 What you need to do is pretty straightforward: give existing tenants the report within 28 days, give new tenants the report before they move in, and if we find C1, C2, or FI issues, get them fixed within 28 days. Keep records of everything because you'll need to prove compliance if anyone asks.
 
 **HMOs get the same treatment** - no different requirements, just the standard 5-year cycle. **[Need an EICR for your rental property? Book it in today](/contact/)**
+
+If you'd like to combine compliance with renewable upgrades for your portfolio, see our [solar, battery and EICR for landlords](/solar-and-eicr-for-landlords-manchester/) page.
 
 ## For Property Buyers - Protect Your Investment
 
