@@ -18,7 +18,7 @@ Need an EV charger in Crumpsall? We're Renegade Solar, led by Ashley, based in n
 
 ## Cut Your Transport Costs by 85%
 
-Public charging costs 50-80p per kWh ((rac.co.uk)[https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/]). Home charging on Octopus Go? Just 7.5p overnight. Your daily Manchester commute drops from over £10 to under £2. That's £1,500-2,000 saved annually for typical Crumpsall families.
+Public charging costs 50-80p per kWh ((rac.co.uk)[https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/]). Home charging on Octopus Go? Just 9.5p overnight. Your daily Manchester commute drops from over £10 to under £2. That's £1,500-2,000 saved annually for typical Crumpsall families.
 
 The [government grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) gives you up to £350 off installation. We're OZEV-approved and we'll handle all the paperwork.
 
@@ -30,11 +30,11 @@ Semi-detached with a drive? Perfect for a standard wall-mounted charger. Victori
 
 Granny chargers that plug into a regular socket? Useless for taking advantage of cheap overnight rates - they're too slow and take all day. You end up charging during expensive daytime electricity. A proper 7kW wall charger gets your car done overnight when rates are dirt cheap.
 
-Crumpsall's got good access to Manchester's motorways (M60, M62), so rapid chargers for long trips are around. But for everyday driving, home charging at 7.5p per kWh on Octopus Go beats paying 50-80p at public chargers. With the 2030 ban on new petrol and diesel cars coming, we're all heading electric anyway.
+Crumpsall's got good access to Manchester's motorways (M60, M62), so rapid chargers for long trips are around. But for everyday driving, home charging at 9.5p per kWh on Octopus Go beats paying 50-80p at public chargers. With the 2030 ban on new petrol and diesel cars coming, we're all heading electric anyway.
 
 ## What We Fit
 
-We're an **Octopus Energy Trusted Partner**, so we install their full [range of EV chargers](https://octopus.energy/get-an-ev-charger/). Smart chargers that wait for cheap rates before charging your car. You plug in when you get home, the charger handles the rest. On Octopus Go that's 7.5p per kWh overnight.
+We're an **Octopus Energy Trusted Partner**, so we install their full [range of EV chargers](https://octopus.energy/get-an-ev-charger/). Smart chargers that wait for cheap rates before charging your car. You plug in when you get home, the charger handles the rest. On Octopus Go that's 9.5p per kWh overnight.
 
 Got **Solax** or **AlphaESS** solar or battery kit? We fit their chargers too - they integrate nicely with their own systems.
 
@@ -48,7 +48,7 @@ Install's done in a day, mess is minimal. Your consumer unit needs to be up to c
 
 ## Local, Reliable, Honest
 
-No sales pitch, just straight answers. Ashley visits to assess your property himself - he's the electrician who'll be doing the work, so you know exactly who you're dealing with. Being minutes away in Prestwich means no travel charges and quick response. Our [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) from 80+ reviews shows we do the job right. We can typically get your charger installed within days of first contact – just like a recent Blackley customer who went from enquiry to installation in less than a week.
+No sales pitch, just straight answers. Ashley visits to assess your property himself - he's the electrician who'll be doing the work, so you know exactly who you're dealing with. Being minutes away in Prestwich means no travel charges and quick response. Our [{{ reviews.averageRating | round: 2 }}/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) from {{ reviews.total }}+ reviews shows we do the job right. We can typically get your charger installed within days of first contact – just like a recent Blackley customer who went from enquiry to installation in less than a week.
 
 ## Stop Wasting Money
 

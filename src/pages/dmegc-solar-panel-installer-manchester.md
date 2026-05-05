@@ -66,7 +66,7 @@ Most residential installations take 1-2 days depending on system size. We keep d
 
 ## What about Trina Vertex panels?
 
-Like we said at the start, DMEGC aren't the only quality panels out there. We also fit Trina Vertex series panels, which are equally reliable and come with similar specifications.
+Like we said at the start, DMEGC aren't the only quality panels out there. We also fit [Trina Vertex](/trina-vertex-solar-panel-installer-manchester/) series panels, which are equally reliable and come with similar specifications.
 
 The choice often comes down to what's available, pricing at the time, and what suits your specific roof layout. Both DMEGC and Trina manufacture excellent N-type modules that'll serve you well for decades.
 

@@ -1,6 +1,6 @@
 ---
 title: Solar Panel Installer in Marple | Renegade Solar
-description: MCS-certified solar panel installations in Marple, Rose Hill, Hawk Green and Mellor. Local electrician with 15 years experience and 9.6/10 Checkatrade rating.
+description: MCS-certified solar panel installations in Marple, Rose Hill, Hawk Green and Mellor. Local electrician with 20+ years experience and an excellent Checkatrade rating.
 redirect_from:
   - /solar-panel-installer-marple/
 link_title: Solar Panel Installs
@@ -40,7 +40,7 @@ We understand Marple's property types and can typically complete installations w
 
 ## What Customers Say
 
-Check our [customer reviews](/reviews/) - we've got a **9.6/10 rating** on Checkatrade. Customers consistently mention the quality of work, straightforward communication, and lack of sales pressure.
+Check our [customer reviews](/reviews/) - we've got a **{{ reviews.averageRating | round: 2 }}/10 rating** on Checkatrade. Customers consistently mention the quality of work, straightforward communication, and lack of sales pressure.
 
 As one customer put it: "Really professional job would highly recommend" - typical of the feedback we get from installations across Greater Manchester.
 

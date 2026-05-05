@@ -28,7 +28,7 @@ We have experience with larger installations - we've recently completed a 110-pa
 
 ## Equipment we install
 
-We're approved installers for **AlphaESS**, a Cheshire-based manufacturer of premium battery systems. AlphaESS produce high-quality inverters and batteries, and we're listed on their [find an installer](https://www.alpha-ess.com/) page. We're also **Solax approved installers**.
+We're approved installers for **AlphaESS**, who manufacture premium battery systems and have their UK office in Dursley, Gloucestershire. AlphaESS produce high-quality inverters and batteries, and we're listed on their [find an installer](https://www.alpha-ess.com/) page. We're also **Solax approved installers**.
 
 We use quality panels including DMEGC and Trina Vertex. If you have a preference for a specific manufacturer, we can accommodate that - we're not locked into exclusive deals that limit what we can offer.
 

@@ -12,7 +12,7 @@ EV charger installations in Shaw and Crompton from a NAPIT-registered electricia
 
 ## Tram commuters — the smart setup
 
-Shaw and Crompton's Metrolink stop with park-and-ride is perfect for EV owners. Charge overnight at 7.5p/kWh on Octopus Go, drive to the tram, take the 32-minute ride to Manchester city centre, come home to a charged car. Your daily commute costs pennies.
+Shaw and Crompton's Metrolink stop with park-and-ride is perfect for EV owners. Charge overnight at 9.5p/kWh on Octopus Go, drive to the tram, take the 32-minute ride to Manchester city centre, come home to a charged car. Your daily commute costs pennies.
 
 Compare that to driving the whole way (£675/year in petrol) or using public rapid chargers at the other end (50-80p per kWh — more expensive than petrol). The tram-and-charge approach wins every time.
 

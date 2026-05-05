@@ -11,7 +11,7 @@ gallery_tags: [commercial]
 
 # Commercial Solar Installations in Greater Manchester
 
-If your business is spending hundreds or thousands each month on electricity, commercial solar can cut those costs substantially - often to near zero. We design and install systems that deliver payback in as little as three years, with 20+ years of low-cost energy afterward. Whether you run a factory, retail outlet, hotel, cafe, or bakery, we'll create a tailored [solar and battery solution](/services/solar-and-battery-installations/) that makes financial sense.
+If your business is spending hundreds or thousands each month on electricity, commercial solar can cut those costs substantially - often to near zero. We design and install systems that deliver payback in as little as three years, with 20+ years of low-cost energy afterward. Whether you run a [factory](/solar-panels-for-factories-manchester/), retail outlet, [hotel](/solar-panels-for-hotels-manchester/), cafe, or [bakery](/solar-panels-for-bakeries-manchester/), we'll create a tailored [solar and battery solution](/services/solar-and-battery-installations/) that makes financial sense.
 
 ## Why commercial properties benefit more than domestic
 
@@ -21,13 +21,13 @@ The mathematics work well for commercial properties because businesses use elect
 
 ## Real examples from Our commercial clients
 
-We're currently working with a carpet and interior design warehouse that owns their building in Bolton. They've got a massive flat roof and were spending £700 monthly on electricity. Our design includes two options: 50+ panels covering just the flat roof, which reduces their bills to zero with three-year payback, or a larger 115-panel system covering both the flat roof and the pitched roof sections. Even with the bigger installation, payback is still only four years. After that point, they're looking at decades of free energy while selling excess back to the grid through the Smart Export Guarantee.
+We're currently working with a [carpet and interior design warehouse](/commercial-solar-for-warehouses-manchester/) that owns their building in Bolton. They've got a massive flat roof and were spending £700 monthly on electricity. Our design includes two options: 50+ panels covering just the flat roof, which reduces their bills to zero with three-year payback, or a larger 115-panel system covering both the flat roof and the pitched roof sections. Even with the bigger installation, payback is still only four years. After that point, they're looking at decades of free energy while selling excess back to the grid through the Smart Export Guarantee.
 
-We've also installed ground-mounted [solar panel systems](/services/solar-and-battery-installations/) connected to outdoor fuse boards for businesses wanting to offer free [EV charging](/services/electric-vehicle-charger-installations/) to staff. This eliminates ongoing fuel costs, provides a valuable employee benefit, and demonstrates environmental commitment - all powered entirely by solar with no recurring expenses.
+We've also installed [ground-mounted solar panel systems](/ground-mounted-solar-installations-manchester/) connected to outdoor fuse boards for businesses wanting to offer free [EV charging](/services/electric-vehicle-charger-installations/) to staff. This eliminates ongoing fuel costs, provides a valuable employee benefit, and demonstrates environmental commitment - all powered entirely by solar with no recurring expenses. Read more on our [solar carports and workplace EV charging](/solar-carports-workplace-ev-charging-manchester/) page.
 
 ## Why flat roofs work well for commercial solar
 
-Flat roofs give us flexibility that pitched roofs don't. We can mount panels to point south regardless of the building's orientation, which is why retail units, warehouses, and commercial properties with large flat roofs generate substantial energy throughout the day. Many commercial buildings have large flat roof spaces going unused - we can turn those into assets that produce savings for decades.
+[Flat roofs](/flat-roof-commercial-solar-manchester/) give us flexibility that pitched roofs don't. We can mount panels to point south regardless of the building's orientation, which is why retail units, warehouses, and commercial properties with large flat roofs generate substantial energy throughout the day. Many commercial buildings have large flat roof spaces going unused - we can turn those into assets that produce savings for decades.
 
 Pitched roofs still work well, particularly on factories, hotels (Premier Inns are a good example), or larger commercial buildings. These properties often have extensive roof space that's suitable for solar panel arrays that reduce operating costs. The key is ownership - you need to own the building rather than leasing it, and ideally you're planning to keep the property long-term to maximise your return from the installation.
 
@@ -41,7 +41,7 @@ Retail and hospitality businesses including hotels, shops, and commercial proper
 
 ## Off-grid commercial solar
 
-For businesses in rural locations or where grid connection is prohibitively expensive, we can design and install off-grid solar systems. These work well for mobile catering businesses (eliminating the need for diesel generators), remote offices, or agricultural operations. This approach eliminates ongoing generator fuel costs while positioning your business as environmentally conscious. We've successfully delivered several off-grid installations and can design systems sized to your specific power requirements.
+For businesses in rural locations or where grid connection is prohibitively expensive, we can design and install [off-grid solar systems](/off-grid-solar-installations-manchester/). These work well for mobile catering businesses (eliminating the need for diesel generators), remote offices, or agricultural operations. This approach eliminates ongoing generator fuel costs while positioning your business as environmentally conscious. We've successfully delivered several off-grid installations and can design systems sized to your specific power requirements.
 
 ## How the installation process works
 

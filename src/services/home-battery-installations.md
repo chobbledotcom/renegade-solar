@@ -15,7 +15,7 @@ Improve your home's energy efficiency with a professional battery storage system
 
 ## How home batteries save you money
 
-Off-peak electricity prices can be as little as **one third** the price of peak rates. Your battery automatically charges during cheap periods (typically overnight) and powers your home when electricity is expensive. This works well with smart tariffs like [Octopus Go](https://octopus.energy/tariffs/) and delivers significant savings even during winter when solar panels are less effective.
+Off-peak electricity prices can be as little as **one third** the price of peak rates. Your battery automatically charges during cheap periods (typically overnight) and powers your home when electricity is expensive. This works well with smart tariffs like [Octopus Go](/octopus-go-battery-installer-manchester/) and delivers significant savings even during winter when solar panels are less effective.
 
 ## Real customer results
 
@@ -27,8 +27,8 @@ One of our Prestwich customers with a **6kWh Solax battery system** told us:
 
 We work with quality manufacturers including:
 
-- **Solax** - Reliable systems with good smart integration
-- **AlphaESS** - Batteries with good performance and monitoring
+- [**Solax**](/solax-battery-installer-manchester/) - Reliable systems with good smart integration
+- [**AlphaESS**](/alphaess-battery-installer-manchester/) - Batteries with good performance and monitoring
 
 Our battery systems range from 6kWh to larger capacities depending on your home's energy usage. During your free consultation, we'll assess your electricity bills and recommend a suitable battery size.
 

@@ -12,7 +12,7 @@ EV charger installations in Royton from a NAPIT-registered electrician. Based in
 
 ## The cost comparison that matters
 
-Royton homeowners are investing in their properties — and an EV charger is one of the better investments. A typical commute to Manchester costs around £675 a year in petrol. On a home charger with Octopus Go's 7.5p/kWh overnight rate, the same commute costs about £100. That's over £500 back in your pocket every year.
+Royton homeowners are investing in their properties — and an EV charger is one of the better investments. A typical commute to Manchester costs around £675 a year in petrol. On a home charger with Octopus Go's 9.5p/kWh overnight rate, the same commute costs about £100. That's over £500 back in your pocket every year.
 
 The worst option? Public rapid chargers at 50-80p per kWh — actually more expensive than filling up with petrol. Home charging is the only approach that makes daily driving affordable.
 

@@ -14,7 +14,7 @@ MCS-certified solar panel and battery installations throughout Altrincham. Our N
 
 ## Solar Solutions for Altrincham Properties
 
-We install solar panels on a wide range of Altrincham properties. From **Victorian and Edwardian homes in conservation areas** to **modern detached and semi-detached properties**, we've got you covered. Our experience extends to contemporary new-builds, converted apartments in historic buildings, and commercial properties too. We skillfully work with slate roofs on period homes and tile roofs on newer properties, maximising energy generation while complementing your home's architectural style.
+We install solar panels on a wide range of Altrincham properties. From **[Victorian and Edwardian homes in conservation areas](/solar-panels-conservation-areas-period-properties/)** to **modern detached and semi-detached properties**, we've got you covered. Our experience extends to contemporary new-builds, converted apartments in historic buildings, and commercial properties too. We skillfully work with slate roofs on period homes and tile roofs on newer properties, maximising energy generation while complementing your home's architectural style.
 
 ## Solar Performance in Manchester's Climate
 
@@ -22,7 +22,7 @@ Don't let Manchester's rainy reputation fool you! Solar panels perform excellent
 
 ## Local Installer Advantages
 
-When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. Ashley is your direct contact throughout your entire project, giving you honest, technically informed advice from someone who understands the work involved. You'll enjoy **quick response times** for site visits and aftercare, backed by our deep understanding of Altrincham properties and planning considerations. We only use premium components with comprehensive warranties, and our **9.61/10 Checkatrade rating** from over 80 verified reviews speaks for itself.
+When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. Ashley is your direct contact throughout your entire project, giving you honest, technically informed advice from someone who understands the work involved. You'll enjoy **quick response times** for site visits and aftercare, backed by our deep understanding of Altrincham properties and planning considerations. We only use premium components with comprehensive warranties, and our **{{ reviews.averageRating | round: 2 }}/10 Checkatrade rating** from {{ reviews.total }}+ verified reviews speaks for itself.
 
 ## Battery Solutions
 

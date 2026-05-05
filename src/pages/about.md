@@ -22,6 +22,8 @@ In 2016, Ashley worked in the Channel Islands on high-end mansions and apartment
 - Domestic and commercial properties
 - Industrial sites, including the Jersey Recycling Centre
 
+We bring that experience to [solar, battery and electrical work for extensions, loft conversions and renovations](/solar-and-battery-extensions-renovations-manchester/) across Greater Manchester today.
+
 After returning to Manchester, Ashley established Renegade Electrical in 2018.
 
 Like most people today, we're concerned about climate change. We understand the need for renewable solutions that suit different needs - whether that's a commercial business trying to cut energy costs or a family trying to save money. At Renegade Solar, we have solutions for you.

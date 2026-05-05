@@ -14,7 +14,7 @@ gallery_tags: [solar-panels]
 
 # Solar Panel Installer in Cheetham Hill
 
-Looking for a solar panel installer in Cheetham Hill? We're Renegade Solar, led by Ashley, based just down the road in Prestwich. With a [9.61/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification (NAP-66870), we provide honest advice and quality installations that'll actually save you money.
+Looking for a solar panel installer in Cheetham Hill? We're Renegade Solar, led by Ashley, based just down the road in Prestwich. With a [{{ reviews.averageRating | round: 2 }}/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) and MCS certification (NAP-66870), we provide honest advice and quality installations that'll actually save you money.
 
 ## Why Cheetham Hill Residents Choose Renegade Solar
 

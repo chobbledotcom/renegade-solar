@@ -27,7 +27,7 @@ With a strong track record of reliability and customer satisfaction, your solar 
   <img src="/assets/photos/flat-solar-panels.jpg" alt="Flat solar panels on a roof in Manchester" eleventy:ignore />
 </div>
 
-When you enquire with Renegade, a qualified electrician surveys your property and designs your system - not a salesperson. Ashley will be your personal point of contact from start to finish, going through the different types of installation: on roof, in roof, ground mounted or flat roof. While tailoring a design and quote to suit you, your home or property and your energy needs, every project is different but large or small will all get the same attention to detail.
+When you enquire with Renegade, a qualified electrician surveys your property and designs your system - not a salesperson. Ashley will be your personal point of contact from start to finish, going through the different types of installation: on roof, in roof, [ground mounted](/ground-mounted-solar-installations-manchester/) or flat roof. While tailoring a design and quote to suit you, your home or property and your energy needs, every project is different but large or small will all get the same attention to detail.
 
 This matters because we've seen other installers recommend unsuitable or even dangerous setups - like batteries in lofts, which contradicts NAPIT safety guidelines. When salespeople spec jobs instead of electricians, corners get cut. With Renegade, the person who surveys your property understands the technical requirements and won't recommend something inappropriate just to make a sale.
 
@@ -43,7 +43,7 @@ Your installation will be tested and commissioned to safety and regulatory stand
 
 Available to provide assistance with your new installation. 2 years routine maintenance included in all installations.
 
-All equipment comes with at least a 5 year warranty and some panels come with warranty of up to 30 years. We use [DMEGC](/dmegc-solar-panel-installer-manchester/) and Trina Vertex panels, both of which offer long-term warranties and reliable performance.
+All equipment comes with at least a 5 year warranty and some panels come with warranty of up to 30 years. We use [DMEGC](/dmegc-solar-panel-installer-manchester/) and [Trina Vertex](/trina-vertex-solar-panel-installer-manchester/) panels, both of which offer long-term warranties and reliable performance.
 
 <a class="btn primary-btn" href="/contact/">Contact Renegade Solar</a>
 

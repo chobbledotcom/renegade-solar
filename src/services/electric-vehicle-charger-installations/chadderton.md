@@ -12,7 +12,7 @@ EV charger installations in Chadderton from a NAPIT-registered electrician. Base
 
 ## M60 commuters — stop paying for petrol
 
-Chadderton's biggest selling point is the M60 access. If you're driving to Manchester, Stockport, or anywhere on the motorway network, you're spending roughly £675 a year on petrol for a typical commute. On a home EV charger with an off-peak tariff (7.5p/kWh on Octopus Go), that drops to around £100. And public rapid chargers at 50-80p per kWh? More expensive than petrol — avoid them for daily use.
+Chadderton's biggest selling point is the M60 access. If you're driving to Manchester, Stockport, or anywhere on the motorway network, you're spending roughly £675 a year on petrol for a typical commute. On a home EV charger with an off-peak tariff (9.5p/kWh on Octopus Go), that drops to around £100. And public rapid chargers at 50-80p per kWh? More expensive than petrol — avoid them for daily use.
 
 Pair the charger with [solar panels](/services/solar-and-battery-installations/chadderton/) and your summer commute is free. The panels generate enough surplus during daylight hours to cover a 9-mile each-way commute easily.
 
