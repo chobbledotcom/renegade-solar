@@ -14,7 +14,7 @@ With a **{{ reviews.averageRating | round: 2 }}/10 rating from {{ reviews.total 
 
 # Personal Service
 
-Unlike national companies, our director Ashley personally oversees every installation. From the initial free home survey through to system design and installation, Ashley is your direct point of contact at every stage. We provide clear advice and aftercare to ensure your system performs well for years.
+You'll deal with Ashley. Not a call centre, not a regional manager, not a different installer every visit — Ashley. He'll do the survey, design the system, oversee the install, and pick up the phone afterwards. That's the whole arrangement.
 
 ## Certified Installation
 

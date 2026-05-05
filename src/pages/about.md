@@ -12,26 +12,16 @@ noindex: false
 
 ## About Renegade Solar
 
-Renegade Solar is led by Ashley Merritt, based in North Manchester, with over 15 years' experience as an electrician, including 10 years in commercial projects.
+Renegade Solar is Ashley Merritt — North Manchester, fifteen years on the tools, ten of those on commercial jobs.
 
-In 2016, Ashley worked in the Channel Islands on high-end mansions and apartments, providing electrical services for:
+In 2016 the work took him to the Channel Islands, fitting out high-end mansions and apartments — loft conversions, kitchens, extensions, domestic and commercial, industrial sites including the Jersey Recycling Centre. The lot. That's the experience we bring to [solar, battery and electrical work for extensions, loft conversions and renovations](/solar-and-battery-extensions-renovations-manchester/) across Greater Manchester today.
 
-- Loft conversions
-- Kitchens
-- Extensions
-- Domestic and commercial properties
-- Industrial sites, including the Jersey Recycling Centre
+Renegade Electrical was set up in 2018, once Ashley was back in Manchester. Renegade Solar followed.
 
-We bring that experience to [solar, battery and electrical work for extensions, loft conversions and renovations](/solar-and-battery-extensions-renovations-manchester/) across Greater Manchester today.
-
-After returning to Manchester, Ashley established Renegade Electrical in 2018.
-
-Like most people today, we're concerned about climate change. We understand the need for renewable solutions that suit different needs - whether that's a commercial business trying to cut energy costs or a family trying to save money. At Renegade Solar, we have solutions for you.
-
-Modern solar panels generate substantial power even on a rooftop in the North of England. We use quality [DMEGC](/dmegc-solar-panel-installer-manchester/) and Trina Vertex panels that perform well in our northern climate. Together with battery storage, you can make significant savings on your energy bills.
+Climate change isn't going anywhere. Whether you're a business trying to cut energy bills or a family trying to save a few quid, the case for solar is the same — and yes, it works up here. Modern panels do plenty of work on a Manchester roof. We fit [DMEGC](/dmegc-solar-panel-installer-manchester/) and Trina Vertex, both proven in the kind of weather they'll actually be sat in. Pair them with a battery and the savings stack up.
 
 ## Committed to Our Community
 
-We believe in giving back to the communities we serve. We prioritise local suppliers and contractors, sponsor Blackley Lions FC, support The Lighthouse Project charity, and are working with Manchester University on a mobile solar education unit for Greater Manchester. Read more in our [Social Value Policy](/social-value-policy/).
+Local where we can be. We work with Manchester roofers and scaffolders, sponsor Blackley Lions FC, support The Lighthouse Project, and are working with the University of Manchester on a mobile solar education unit. Read more in our [Social Value Policy](/social-value-policy/).
 
-**[Contact us](/contact/) for a quotation for solar panel installation.**
+**[Get in touch](/contact/) for a quote.**
