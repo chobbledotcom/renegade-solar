@@ -8,21 +8,31 @@ layout: page.html
 noindex: false
 ---
 
-## Why we fit Solax batteries and inverters
+## A Solax-approved installer who works on every system himself
 
-Solax is one of two manufacturers we install regularly across Greater Manchester for [home battery installations](/services/home-battery-installations/), alongside **AlphaESS**. Both are reliable systems with good smart integration - the choice between them tends to come down to availability, your existing equipment, and what suits your home's setup.
+Ashley is a **Solax-approved installer** based in Prestwich, North Manchester. Critically for a battery install, he's also a **20+ year electrician** who survey, designs, installs and commissions every system himself. No salesperson visits, no install crew you've never met.
+
+That matters with batteries. Battery installations done badly can be unsafe (we've seen [other installers recommend batteries in lofts, which contradicts NAPIT safety guidelines](/services/home-battery-installations/)) and they're expensive to put right. The way to avoid that is to have an electrician on the survey, not a sales rep with a clipboard.
 
 ## A real Solax customer in Prestwich
 
-One of our [Prestwich](/services/solar-and-battery-installations/prestwich/) customers running a **6kWh Solax battery system** told us:
+One of Ashley's [Prestwich](/services/solar-and-battery-installations/prestwich/) customers running a **6kWh Solax battery system** told us:
 
 > "During summer this new solar and battery system means our electricity bills are close to zero. In fact, in some months we sent enough electricity back to the grid that we ended up in credit with our supplier! In winter the days are shorter and so the panels don't generate enough to cover the whole day, but that's fine because we still save a tonne of money by charging the battery overnight."
 
-That's the year-round case for Solax in two sentences: solar surplus stored in summer, cheap overnight grid charging in winter, savings either way.
+That's the year-round case for a Solax battery in two sentences: solar surplus stored in summer, cheap overnight grid charging in winter, savings either way. Ashley installed that system, configured the smart tariff integration, and is the contact when anything needs adjusting.
+
+## Why hire Ashley specifically for a Solax install
+
+- **20+ years as an electrician.** The wiring back into your consumer unit determines whether the system works safely for the next 15 years. Ashley's been on the electrical side for two decades.
+- **The principal does the work.** Survey, design, install, commissioning, aftercare - all by him.
+- **Honest sizing.** He'll size the battery to your usage, not upsell capacity you don't need.
+- **One number to call afterwards.** Five years from now when the app does something odd, you'll get the person who installed it.
+- **Proper integration with your existing kit.** He's experienced with [GivEnergy](/givenergy-installer-manchester/), [Octopus chargers](/octopus-go-battery-installer-manchester/), and other ecosystems.
 
 ## What Solax makes
 
-Solax Power is a global energy company with products in **130+ markets**. They make:
+Solax Power is a global energy company with products in **130+ markets**. The product range:
 
 - **Residential energy storage systems** - all-in-one units and modular battery setups
 - **Hybrid and string inverters** for solar
@@ -30,9 +40,9 @@ Solax Power is a global energy company with products in **130+ markets**. They m
 - **EV chargers and heat pump products**
 - **SolaXCloud** monitoring app for app-based control of your system
 
-Solax residential batteries are designed to be stacked in modules so the total capacity can be sized to your home's usage. We typically size systems from 6kWh upwards depending on your usage.
+Solax residential batteries are designed to be stacked in modules so the total capacity can be sized to your home's usage. Ashley typically sizes systems from 6kWh upwards depending on your usage.
 
-(Solax's own published product range is the source for the above - we'll confirm specific model details and warranty terms on your written quote.)
+(Solax's own published product range is the source for the above - exact model details and warranty terms are confirmed on your written quote.)
 
 ## How a Solax battery saves you money
 
@@ -45,41 +55,35 @@ If you've also got solar, the battery stores excess generation during the day an
 Solax batteries integrate well with:
 
 - **Home automation** - schedule charging during the cheapest electricity periods, leave capacity for solar top-ups, monitor energy usage in real time
-- **EV chargers** - including Solax's own EV charger, so the home and the car can share stored energy
-- **Grid tie / Smart Export Guarantee** - sell excess stored energy back to your supplier; we provide all the documentation needed to set up export payments
+- **EV chargers** - including Solax's own EV charger
+- **Grid tie / Smart Export Guarantee** - sell excess stored energy back to your supplier; Ashley provides all the documentation needed to set up export payments
 
 ## Solax with existing solar
 
-We regularly add Solax battery systems to existing solar installations - whether the original system was ours or someone else's. The Solax cloud and inverter range can integrate with most reputable PV setups; we'll check compatibility during the survey.
+Ashley regularly adds Solax battery systems to existing solar installations - whether the original system was his or someone else's. The Solax cloud and inverter range integrates with most reputable PV setups; he checks compatibility during the survey.
 
-## Solax or AlphaESS - how to choose?
+## Solax or AlphaESS?
 
-Both are good. The choice tends to come down to:
+Both are reliable systems with good smart integration. The choice tends to come down to:
 
-- **Existing kit** - if you already have other Solax components (or AlphaESS), staying within one ecosystem means everything talks to each other through one app
+- **Existing kit** - if you already have other Solax components (or [AlphaESS](/alphaess-battery-installer-manchester/)), staying within one ecosystem means everything talks to each other through one app
 - **Availability and pricing** at the time of your install
-- **Specific feature requirements** - we go through them on the survey
+- **Specific feature requirements** - Ashley goes through them on the survey
 
-Either way, you're getting a system from a manufacturer that's been doing this at scale for years. Read more about [home battery installations](/services/home-battery-installations/) for the full picture.
+Read more about [home battery installations](/services/home-battery-installations/) for the full picture.
 
-## Installation process
-
-A qualified electrician (Ashley) assesses your property's electrical system and discusses your energy usage patterns to recommend the right battery size - **you won't be visited by a salesperson**. This matters because we've seen other installers recommend batteries in unsuitable locations like lofts, which contradicts NAPIT safety guidelines.
-
-Batteries can be installed in various locations - we've fitted systems next to driveways, in garages, and other suitable spaces with minimal disruption. All installations are tested and commissioned to the highest safety standards with full electrical certification provided.
-
-## Why work with us
+## Credentials
 
 - [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870)
 - [**TrustMark Registered**](/accreditations/trustmark/)
 - [**NAPIT Registered**](/accreditations/napit/) (66870)
 - [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
-- **9.6/10 on Checkatrade** from 80+ verified reviews
+- **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews
 - 5-year minimum warranty on all equipment
 - 2 years routine maintenance included on every installation
 
 ## Coverage
 
-Based in Prestwich, we install Solax battery systems across Greater Manchester and the wider North West.
+Based in Prestwich, Ashley installs Solax battery systems across Greater Manchester and the wider North West.
 
-**[Contact us today](/contact/)** for a free home battery consultation and quote.
+**[Contact Ashley](/contact/)** for a free home battery consultation and quote.

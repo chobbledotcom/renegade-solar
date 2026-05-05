@@ -8,15 +8,26 @@ layout: page.html
 noindex: false
 ---
 
-## Why we fit GivEnergy
+## The Ashley story for GivEnergy customers
 
-GivEnergy is a UK-based home energy company making batteries, inverters, EV chargers and gateway hardware. We have experience with GivEnergy systems and regularly fit their EV chargers as part of integrated [solar, battery and EV setups](/services/electric-vehicle-charger-installations/).
+A customer in Greater Manchester had solar and a battery already installed by someone else. They wanted a GivEnergy charger added and properly tied into the existing system. They hired Ashley. Here's what they said:
 
-The advantage of a single-ecosystem approach is that everything talks to each other - inverter, battery, charger, app - so smart charging matches solar generation and time-of-use tariffs without constantly being fiddled with.
+> "Ashley was friendly, knowledgeable and did a great job. He ensured that our new GivEnergy charger was properly integrated with the solar and battery system. During the job he found an earthing fault from previous work - and fixed this small job at no extra cost."
+
+That's the case for hiring Ashley specifically rather than a generic GivEnergy installer in three sentences. **He installs the new kit correctly, and while he's there he spots and fixes what previous installers got wrong.** Free.
+
+That doesn't happen because Ashley's being generous - it happens because he's been an electrician for **20+ years**. When someone with that depth of experience opens a consumer unit, they see things a recent solar trainee won't.
+
+## What you get when you hire Ashley for a GivEnergy install
+
+- **A 20+ year electrician fitting your kit, not just a solar installer.** Cabling, earthing, protection - the underlying electrical engineering is what determines whether your system works safely for the next 15 years.
+- **The principal does the work.** Ashley is the named director of Renegade Solar. He surveys, designs, installs, commissions. No salesperson, no install crew you've never met.
+- **One number to call afterwards.** When something's behaving oddly five years from now, you'll get the person who installed it.
+- **Honest answers up front.** If GivEnergy isn't the best fit for your house compared to a different brand or configuration, he'll tell you.
 
 ## What GivEnergy makes
 
-The GivEnergy range covers:
+GivEnergy is a UK-based home energy company. The product range covers:
 
 - **Inverters** - AC coupled, hybrid, and three-phase options
 - **Home batteries** - from compact home units up to stackable systems
@@ -27,44 +38,34 @@ The GivEnergy range covers:
 
 (GivEnergy's published product range is the source for the above - we'll confirm specific model details and warranty terms on your written quote.)
 
-## A real GivEnergy install we did
-
-A customer with solar and battery already in place came to us for a GivEnergy charger:
-
-> "Ashley was friendly, knowledgeable and did a great job. He ensured that our new GivEnergy charger was properly integrated with the solar and battery system. During the job he found an earthing fault from previous work - and fixed this small job at no extra cost."
-
-That's the kind of work we do regularly - making sure the new GivEnergy hardware is properly tied into whatever's already on the property, and putting right anything previous installers got wrong.
-
 ## Solar-diverting EV charging
 
-The GivEnergy 7kW charger supports solar-diverting charging - if your panels are generating more than the house is using, the surplus charges your car instead of being exported. Combined with [Octopus Intelligent Go](/octopus-go-battery-installer-manchester/), you can configure smart charging to match solar generation and time-of-use tariffs, so most of your charging happens at the cheapest times.
+The GivEnergy 7kW charger supports solar-diverting charging - if your panels are generating more than the house is using, the surplus charges your car instead of being exported. Combined with [Octopus Intelligent Go](/octopus-go-battery-installer-manchester/), Ashley can configure smart charging to match solar generation and time-of-use tariffs, so most of your charging happens at the cheapest times.
 
-For drivers commuting or doing daily mileage, the savings versus public charging are substantial - **home charging is typically 50-90% cheaper than using public charging points** ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). With a smart tariff like Octopus Go, you can charge overnight at rates well below standard electricity prices.
+For commuting drivers, the savings versus public charging are substantial - **home charging is typically 50-90% cheaper than using public charging points** ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)).
 
 ## Whole-home backup with All in One + Giv-Gateway
 
-For customers who want resilience against power cuts, the GivEnergy **All in One** (bidirectional inverter + 13.5kWh battery) paired with the **Giv-Gateway** can provide whole-home backup when the grid goes down. That's a different conversation from "save money on bills" - it's about keeping the lights on during a power cut. We can talk through whether that setup makes sense for your property during the survey.
+For customers who want resilience against power cuts, the GivEnergy **All in One** (bidirectional inverter + 13.5kWh battery) paired with the **Giv-Gateway** can provide whole-home backup when the grid goes down. That's a different conversation from "save money on bills" - it's about keeping the lights on. Ashley can talk through whether that setup makes sense for your property during the survey.
 
-## GivEnergy with existing solar
+## Adding GivEnergy to existing solar
 
-We regularly add GivEnergy batteries or chargers to existing solar installations - even where the existing solar is from a different brand. The hybrid and AC-coupled inverter options give us flexibility to integrate without ripping out what's already there. We'll check compatibility during the survey.
+Ashley regularly adds GivEnergy batteries or chargers to existing solar installations - even where the original solar is from a different brand. The hybrid and AC-coupled inverter options give him flexibility to integrate without ripping out what's already there.
 
-## Installation process
+This is exactly the scenario in the customer review above: existing solar and battery, GivEnergy charger added, integration done correctly, earthing fault from a prior installer caught and fixed.
 
-A qualified electrician (Ashley) assesses your property and discusses your existing setup, your usage and what you want the system to do - **not a salesperson**. We then put together a quote that's specific to your property, install in a day or two depending on scope, and provide full electrical certification.
+## Why work with Ashley
 
-## Why work with us
-
-- [**NAPIT Registered**](/accreditations/napit/) (66870)
-- [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870)
+- [**NAPIT Registered**](/accreditations/napit/) (66870) - so you get proper electrical certification, valid for insurance and any future house sale
+- [**MCS-certified**](/accreditations/mcs-certified/) (NAP-66870)
 - [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
 - **20+ years' experience as an electrician**
-- **9.6/10 on Checkatrade** from 80+ verified reviews
+- **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews
 - 5-year minimum warranty on all equipment
 - 2 years routine maintenance included on every installation
 
 ## Coverage
 
-Based in Prestwich, we install GivEnergy systems across Greater Manchester and the wider North West.
+Based in Prestwich, Ashley installs GivEnergy systems across Greater Manchester and the wider North West.
 
-**[Contact us today](/contact/)** for a free GivEnergy consultation - whether you want a charger, a battery, or a complete integrated system.
+**[Get in touch](/contact/)** for a free GivEnergy consultation - whether you want a charger, a battery, or a complete integrated system.

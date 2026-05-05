@@ -12,13 +12,18 @@ noindex: false
 
 If you run a business with a car park - factory, warehouse, retail unit, hotel, office - you've got two assets sitting unused: the roof above and the tarmac below. A combined [solar](/services/commercial-solar-installations/) and [EV charging](/services/electric-vehicle-charger-installations/) installation puts both of them to work.
 
-The model is straightforward: solar panels (rooftop, ground-mounted, or both) generate electricity through the day. That electricity powers EV chargers in the car park. Staff charge their cars at work for free. Visitors and customers see a business that takes its environmental commitments seriously. You see lower running costs and a benefit to offer that doesn't appear on most competitors' websites.
+Ashley has installed exactly this kind of setup. Ground-mounted solar systems connected to outdoor fuse boards, specifically for businesses wanting to offer free EV charging to staff. The setup eliminates ongoing fuel costs, provides a valuable employee benefit, and demonstrates environmental commitment - **all powered entirely by solar with no recurring expenses**.
 
-## A real example
+## Who you'd be hiring
 
-We've installed ground-mounted solar systems connected to outdoor fuse boards specifically for businesses wanting to offer free EV charging to staff. The setup eliminates ongoing fuel costs, provides a valuable employee benefit, and demonstrates environmental commitment - **all powered entirely by solar with no recurring expenses**.
+Ashley Merritt is the named director of Renegade Solar. **20+ years' experience as an electrician**, including **10 years on commercial projects** and electrical work on industrial sites such as the Jersey Recycling Centre. He's [MCS-certified](/accreditations/mcs-certified/) ([NAP-66870](https://mcscertified.com/find-an-installer/)), [NAPIT registered](/accreditations/napit/), and an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/).
 
-That's the case in one paragraph. The rest of this page is detail.
+For a commercial install of this kind, what that means in practice:
+
+- **Ashley walks the site, the roof and the car park himself.**
+- **The principal designs the system and is on site for the install.** No salesperson handover, no install crew you've never met.
+- **Honest financial analysis.** If the numbers don't stack up he'll tell you.
+- **Local trades.** He works with local roofers and scaffolders on every project.
 
 ## Why this works financially
 
@@ -32,18 +37,16 @@ For the business, **most commercial installations reduce monthly costs by 70-100
 
 ## Setup options
 
-Depending on your site, we can design:
+Depending on your site, Ashley can design:
 
 - **Rooftop solar + wall-mounted chargers** - panels on the roof, chargers on the building wall facing the car park
-- **Ground-mounted solar + chargers on outdoor fuse boards** - useful where the roof isn't ideal but you have spare land or grass verge. We've installed exactly this kind of setup for businesses offering free staff EV charging.
+- **[Ground-mounted](/ground-mounted-solar-installations-manchester/) solar + chargers on outdoor fuse boards** - useful where the roof isn't ideal but you have spare land or grass verge. He's installed exactly this kind of setup for businesses offering free staff EV charging.
 
-If you're interested in solar carport structures (an elevated frame over parking that doubles as the panel array), let us know during the survey and we'll talk through whether that's the right fit and what's involved.
-
-Which approach is right depends on your roof, your car park layout, your staff numbers, and how much you want to spend up front. We'll go through the options on the survey.
+If you're interested in solar carport structures (an elevated frame over parking that doubles as the panel array), let him know during the survey and he'll talk through whether that's the right fit and what's involved.
 
 ## Charger options
 
-We're not tied to a single manufacturer. Common installs:
+Ashley isn't tied to a single manufacturer. Common installs:
 
 - **Standard 7kW units** for staff parking - charges most EVs fully during a working day
 - **22kW three-phase chargers** for sites with three-phase power - faster turnaround for fleet or shared use
@@ -54,13 +57,11 @@ All chargers are OZEV grant-approved where applicable and include smart features
 
 ## Three reasons businesses do this
 
-1. **Staff benefit** - free EV charging at work is a genuine perk that doesn't depreciate. It also makes your business more attractive to staff who already drive electric (a growing share) and to those considering switching
-2. **Environmental positioning** - "we power our staff parking with solar" is a credible, specific environmental claim that's easy to put on the website, in tender responses, and in B Corp / ISO 14001 documentation
-3. **Visible to visitors and clients** - chargers and panels are physical, on-site evidence that you're walking the walk
+1. **Staff benefit** - free EV charging at work is a genuine perk that doesn't depreciate. It also makes your business more attractive to staff who already drive electric and to those considering switching.
+2. **Environmental positioning** - "we power our staff parking with solar" is a credible, specific claim that's easy to put on the website, in tender responses, and in B Corp / ISO 14001 documentation.
+3. **Visible to visitors and clients** - chargers and panels are physical, on-site evidence that you're walking the walk.
 
 ## What you need
-
-The same basic requirements as commercial solar:
 
 - **You own the building** - solar installations on leased properties don't work because you need long-term ownership to realise the payback
 - **Sufficient roof space, ground space, or both**
@@ -68,25 +69,20 @@ The same basic requirements as commercial solar:
 
 For most owner-occupied commercial properties (warehouses, factories, retail) all three are usually present. For smaller offices it depends on the site.
 
-## Industrial experience
+## How Ashley handles it
 
-Ashley's background includes 10 years on commercial projects and electrical work on industrial sites including the Jersey Recycling Centre. That experience means we understand three-phase supplies and plant and machinery loads.
+He visits your site, reviews your electricity usage, looks at the roof and the car park, and designs a system to suit. Multiple options at different system sizes are typically presented with full financial analysis for each. Once you've chosen, he installs with minimal disruption to your operations and provides all certifications, grid connection paperwork and Smart Export Guarantee setup.
 
-## How the process works
-
-A qualified electrician visits your site, reviews your electricity usage, looks at the roof and the car park, and designs a system to suit. We typically present multiple options at different system sizes with full financial analysis for each. After approval we install with minimal disruption to your operations and provide all certifications, grid connection paperwork and Smart Export Guarantee setup.
-
-## Why work with us
+## Credentials
 
 - [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870)
-- [**NAPIT Registered**](/accreditations/napit/) (66870)
+- [**NAPIT registered**](/accreditations/napit/) (66870)
 - [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
 - **20+ years' experience as an electrician**, including 10 years on commercial projects
-- Honest design advice - if the numbers don't work for your business, we'll tell you
-- We work with local roofers and scaffolders on every project
+- **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews
 
 ## Coverage
 
-Based in Prestwich, we serve businesses throughout Greater Manchester and the wider North West.
+Based in Prestwich, Ashley serves businesses throughout Greater Manchester and the wider North West.
 
-**[Contact us today](/contact/)** for a free consultation on solar-powered workplace EV charging.
+**[Contact Ashley](/contact/) for a free consultation on solar-powered workplace EV charging.**

@@ -1,6 +1,6 @@
 ---
 title: AlphaESS Battery Installer in Manchester | Renegade Solar
-description: AlphaESS battery storage installations across Greater Manchester. MCS-certified installer fitting AlphaESS residential energy storage systems.
+description: AlphaESS battery storage installations across Greater Manchester. MCS-certified installer, listed as an approved AlphaESS installer.
 permalink: /alphaess-battery-installer-manchester/
 link_title: AlphaESS Installer
 heading: AlphaESS Battery Installer in Manchester
@@ -8,13 +8,23 @@ layout: page.html
 noindex: false
 ---
 
-## Why we fit AlphaESS batteries
+## An AlphaESS-listed installer doing the work himself
 
-AlphaESS is one of the two main manufacturers we install regularly for [home battery storage](/services/home-battery-installations/) across Greater Manchester, alongside **Solax**. Both are reliable systems with good performance and monitoring, and the choice between them is usually about what suits your home and what's available.
+Ashley is an **AlphaESS-approved installer** based in Prestwich. AlphaESS list him on their find-an-installer directory. What that means in practice for you: a battery installer with a manufacturer-recognised relationship who is also a 20+ year electrician fitting every system himself.
+
+That combination matters because batteries done badly can be unsafe. **We've seen other installers recommend batteries in unsuitable locations like lofts, which contradicts NAPIT safety guidelines.** The way to avoid that is to have an electrician on the survey, not a sales rep with a clipboard. Ashley is both the qualifier and the installer.
+
+## Why hire Ashley specifically for an AlphaESS install
+
+- **20+ years as an electrician.** The cabling, earthing and protection that the battery sits behind is what determines whether the system runs safely for the next 15 years.
+- **The principal does the work.** Ashley surveys, designs, installs and commissions. No salesperson visits, no install crew you've never met.
+- **AlphaESS-listed installer.** A direct relationship with the manufacturer.
+- **Honest sizing.** He sizes the battery to your usage, not upsells capacity you won't use.
+- **One contact afterwards.** When the app does something odd in 2030, you'll get the person who installed it.
 
 ## What AlphaESS makes
 
-AlphaESS is a global energy storage provider with installations in **140+ countries**. Their residential range includes:
+AlphaESS is a global energy storage provider with installations in **140+ countries**, with a UK office in Dursley, Gloucestershire. Their residential range includes:
 
 - **SMILE M5** - 5kW single-phase residential battery, capacities from 5kWh to 20kWh
 - **SMILE G3** - single-phase from 3.8kWh up to 37.2kWh
@@ -22,9 +32,9 @@ AlphaESS is a global energy storage provider with installations in **140+ countr
 - **SMILE EVCT11** - 7kW or 11kW EV charger that works alongside the battery system
 - **AlphaCloud** monitoring platform for app-based control
 
-That covers everything from a modest single-battery setup to a large multi-module home or small commercial installation. We typically size domestic systems from 6kWh upwards depending on your usage pattern.
+Ashley typically sizes domestic systems from 6kWh upwards depending on your usage pattern.
 
-(AlphaESS's published product range is the source for the above - we'll confirm specific model details and warranty terms on your written quote.)
+(AlphaESS's published product range is the source for the above - exact model details and warranty terms are confirmed on your written quote.)
 
 ## How an AlphaESS battery saves you money
 
@@ -38,40 +48,35 @@ AlphaESS systems integrate well with:
 
 - **Home automation** - schedule charging during the cheapest electricity periods, leave capacity for solar panel top-ups, monitor energy usage and savings in real time
 - **EV chargers** - including AlphaESS's own SMILE EVCT11 charger, so home and car can share stored energy
-- **Grid tie / Smart Export Guarantee** - sell excess stored energy back to your supplier; we provide all the documentation needed to set up export payments
+- **Grid tie / Smart Export Guarantee** - sell excess stored energy back to your supplier; Ashley provides all the documentation needed to set up export payments
 
 ## AlphaESS with existing solar
 
-We regularly integrate AlphaESS battery systems with existing solar installations - whether the original system was ours or someone else's. We'll check compatibility during the survey.
+Ashley regularly integrates AlphaESS battery systems with existing solar installations - whether the original solar was his or someone else's. He'll check compatibility during the survey.
 
-## AlphaESS or Solax - how to choose?
+## AlphaESS or Solax?
 
 Both are good. The choice tends to come down to:
 
-- **Existing kit** - if you already have other AlphaESS components (or Solax), staying within one ecosystem means everything talks to each other through one app
+- **Existing kit** - if you already have other AlphaESS components (or [Solax](/solax-battery-installer-manchester/)), staying within one ecosystem means everything talks to each other through one app
 - **Specific capacity needs** - the AlphaESS three-phase range goes very large; the single-phase G3 is flexible at smaller sizes
 - **Availability and pricing** at the time of your install
 
-Either way, you're getting a system from a manufacturer that's installed in well over a hundred countries. Read more about [home battery installations](/services/home-battery-installations/) for the full picture.
+Read more about [home battery installations](/services/home-battery-installations/) for the full picture.
 
-## Installation process
-
-A qualified electrician (Ashley) assesses your property's electrical system and discusses your energy usage patterns to recommend the right battery size - **you won't be visited by a salesperson**. This matters because we've seen other installers recommend batteries in unsuitable locations like lofts, which contradicts NAPIT safety guidelines.
-
-Batteries can be installed in various locations - we've fitted systems next to driveways, in garages, and other suitable spaces with minimal disruption. All installations are tested and commissioned to the highest safety standards with full electrical certification provided.
-
-## Why work with us
+## Credentials
 
 - [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870)
 - [**TrustMark Registered**](/accreditations/trustmark/)
 - [**NAPIT Registered**](/accreditations/napit/) (66870)
 - [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
-- **9.6/10 on Checkatrade** from 80+ verified reviews
+- **AlphaESS-listed installer**
+- **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews
 - 5-year minimum warranty on all equipment
 - 2 years routine maintenance included on every installation
 
 ## Coverage
 
-Based in Prestwich, we install AlphaESS battery systems across Greater Manchester and the wider North West.
+Based in Prestwich, Ashley installs AlphaESS battery systems across Greater Manchester and the wider North West.
 
-**[Contact us today](/contact/)** for a free home battery consultation and quote.
+**[Contact Ashley](/contact/)** for a free home battery consultation and quote.
