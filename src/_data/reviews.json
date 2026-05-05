@@ -1,7 +1,198 @@
 {
-  "total": 100,
-  "averageRating": 9.8567,
+  "total": 105,
+  "averageRating": 9.850857142857144,
   "reviews": [
+    {
+      "id": "019d25b4-e602-7c5f-ab6e-d1c817e27ae5",
+      "companyId": 1110420,
+      "type": "WORK_CARRIED",
+      "status": "PUBLISHED",
+      "title": "Fitted 3 batteries and Invertor very professional and friendly",
+      "review": "From the start he was extremely friendly, knew what he was talking about and we agreed a price, he came did the job it took longer than he expected but he didn't complain he took his time to finish the job and came back next day to help set it up, I was thoroughly impressed",
+      "createdAt": "2026-03-25T15:55:06.493Z",
+      "updatedAt": "2026-03-26T16:00:36.717Z",
+      "legacyId": "",
+      "consumerId": "0678fb0f-1e5c-7a43-8120-7feeede513c7",
+      "categoryId": 1871,
+      "topLevelCategoryId": 1172,
+      "location": {
+        "postcode": "M45"
+      },
+      "verified": "VERIFIED",
+      "rating": {
+        "qualityOfWorkmanship": 10,
+        "reliabilityAndTimekeeping": 10,
+        "communication": 10,
+        "rating": 10
+      },
+      "publishedAt": "2026-03-26T16:00:36.717Z",
+      "mediaAttachmentIds": [
+        "019d25b4-e545-7498-a899-a16fba899d41"
+      ],
+      "reviewer": {
+        "id": "0678fb0f-1e5c-7a43-8120-7feeede513c7",
+        "displayName": "Jeremy A"
+      },
+      "name": "Renegade Electrical Ltd",
+      "uniqueName": "renegadeelectrical",
+      "mediaAttachments": [
+        {
+          "id": "019d25b4-e545-7498-a899-a16fba899d41",
+          "mimetype": "image/jpeg",
+          "isPublished": true,
+          "status": "PASSED_BY_AI",
+          "url": "https://storage.googleapis.com/core-media-service-production/user-media/01KMJV9S512B1JXC2XF1KJC8RV.temp_f0cc13d8-5daf-42d5-a680-00fc1ad20049?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1783164539&Signature=dtF2Bn1Ota5lQU1OAqmJrjJViU%2FTqcpNZh0LuWMj7VI9045FaL3DrLHj1hGeMmxkl9OUv2DS8PLDsWFMiKaI9lMWcZc0YZOyn2%2FcEpE4ME7yqITlezqnRgvRME2unVw2TBGi2M6advky%2FiMizGydPnIFnDa1jeRdssM0yMaq3C3YM8jkywSWdUtM1NXcNq352j0nu%2BlNSN%2BqRZ%2B63wF73z%2BArPZ0QwymiKg8M4DGY00uj8PRhgfeTRTTi5mvstKhzQ23PmjdRjv%2B6TgyAqeD3dc3FvPZA83s71xaBOI3sDcpStFUx%2BYv6Ov8zwBP9b4helXYHHggi0NSQlOoncnn5A%3D%3D",
+          "thumbnailUrl": "https://storage.googleapis.com/core-media-service-production/user-media/01KMJV9S512B1JXC2XF1KJC8RV.thumb.jpg?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1783164539&Signature=nHsG2Xzhvez%2BE7EvwDlMsPTN%2Ftg0agICn9K7QXAQYnfrVKIEQLrlDo5R88uIsYbk87gxSoj3otG5ip%2FKdBod1XT4fTQ25B69w43GYxevizzetvnkca1IPzX2lQVy1k%2BZfQ3kPPNF3JyfpTA9eNaPA5llgPWamaDQDqzONm0gkGjPi2KdXCzgMV8Stgab%2F%2BfRoteeYHtLvp7CRRoaBsMfASVxr1kfhmvlXhhsJDgb8R0827uOh9gqbEWpWsoQdxdakl9hcLkmYaCu0hqcdGUB9okUnGdFoFaT3YA6u%2Bn8ymhMetX6kemWR6npCf69LKpVRlxKvRJDYXCop%2FGhpPIIPQ%3D%3D"
+        }
+      ],
+      "category": {
+        "id": 1871,
+        "label": "Solar Battery Storage",
+        "name": "solar-battery-storage"
+      }
+    },
+    {
+      "id": "019ca8f9-6dd6-747a-aa0c-5524d42d1090",
+      "companyId": 1110420,
+      "type": "WORK_CARRIED",
+      "status": "PUBLISHED",
+      "title": "New solar & battery unit",
+      "review": "Ashley and his team fitted a solar & battery unit to my house. They were all great. Polite,  knowledgeable and efficient. All the work was completed in the agreed timescale. I would definitely recommend them.",
+      "createdAt": "2026-03-01T10:37:26.039Z",
+      "updatedAt": "2026-03-02T11:00:07.364Z",
+      "legacyId": "",
+      "consumerId": "",
+      "categoryId": 1871,
+      "topLevelCategoryId": 1172,
+      "location": {
+        "postcode": "BL0"
+      },
+      "verified": "VERIFIED",
+      "rating": {
+        "qualityOfWorkmanship": 10,
+        "reliabilityAndTimekeeping": 10,
+        "communication": 10,
+        "rating": 10
+      },
+      "publishedAt": "2026-03-02T11:00:07.364Z",
+      "name": "Renegade Electrical Ltd",
+      "uniqueName": "renegadeelectrical",
+      "mediaAttachments": [],
+      "category": {
+        "id": 1871,
+        "label": "Solar Battery Storage",
+        "name": "solar-battery-storage"
+      }
+    },
+    {
+      "id": "019ca62b-12c9-77b1-8556-722f80a1244f",
+      "companyId": 1110420,
+      "type": "WORK_CARRIED",
+      "status": "PUBLISHED",
+      "title": "Brilliant!",
+      "review": "Brilliant! Super professional, inspected the house, highlighted what needed doing the instead of leaving it there, they went out the way to hop to the shop get the part and install it so I could have the full report and everything sorted that day. 100 recommend!",
+      "createdAt": "2026-02-28T21:32:47.114Z",
+      "updatedAt": "2026-03-01T22:00:06.504Z",
+      "legacyId": "",
+      "consumerId": "",
+      "categoryId": 205,
+      "topLevelCategoryId": 12,
+      "location": {
+        "postcode": "M9"
+      },
+      "verified": "VERIFIED",
+      "rating": {
+        "qualityOfWorkmanship": 10,
+        "reliabilityAndTimekeeping": 10,
+        "communication": 10,
+        "rating": 10
+      },
+      "publishedAt": "2026-03-01T22:00:06.504Z",
+      "name": "Renegade Electrical Ltd",
+      "uniqueName": "renegadeelectrical",
+      "mediaAttachments": [],
+      "category": {
+        "id": 205,
+        "label": "Electrical Installation Condition Report - Safety Checks - EICR",
+        "name": "electrical-installation-condition-report-safety-checks-eicr"
+      }
+    },
+    {
+      "id": "019c8a48-fe51-70b1-bc0a-f6cb370ae8ec",
+      "companyId": 1110420,
+      "type": "WORK_CARRIED",
+      "status": "PUBLISHED",
+      "title": "faulty socket",
+      "review": "Ashley was friendly, professional, and extremely knowledgeable. He ensured all work was completed to a very high standard and clearly explained what was happening at every stage. Absolutely A* service.",
+      "createdAt": "2026-02-23T11:36:06.083Z",
+      "updatedAt": "2026-02-24T12:00:42.228Z",
+      "legacyId": "",
+      "consumerId": "019bc1af-4d06-7c2e-8318-5652a53e6620",
+      "jobId": "019c28b8-d14c-71e9-a020-84229d12adad",
+      "categoryId": 2031,
+      "topLevelCategoryId": 12,
+      "location": {
+        "postcode": "WA14"
+      },
+      "verified": "PENDING",
+      "rating": {
+        "qualityOfWorkmanship": 6,
+        "reliabilityAndTimekeeping": 10,
+        "communication": 10,
+        "rating": 8.67
+      },
+      "publishedAt": "2026-02-24T12:00:42.228Z",
+      "reviewer": {
+        "id": "019bc1af-4d06-7c2e-8318-5652a53e6620",
+        "displayName": "Kay W"
+      },
+      "name": "Renegade Electrical Ltd",
+      "uniqueName": "renegadeelectrical",
+      "mediaAttachments": [],
+      "category": {
+        "id": 2031,
+        "label": "Electric Sockets",
+        "name": "electric-sockets"
+      }
+    },
+    {
+      "id": "019c676b-4345-79fc-b2df-2b41e772cd38",
+      "companyId": 1110420,
+      "type": "WORK_CARRIED",
+      "status": "PUBLISHED",
+      "title": "Oven & extractor fan fitting",
+      "review": "Renegade came round to install my oven and splashback. Really nice guys and they did a fantastic job, would definitely recommend",
+      "createdAt": "2026-02-16T17:06:49.275Z",
+      "updatedAt": "2026-02-17T17:30:05.608Z",
+      "legacyId": "",
+      "consumerId": "068f0f67-013c-7719-8e20-cbe1a2eb9f65",
+      "jobId": "019bbcec-4a10-756f-a425-2b2abae90da0",
+      "categoryId": 2031,
+      "topLevelCategoryId": 12,
+      "location": {
+        "postcode": "M4"
+      },
+      "verified": "VERIFIED",
+      "rating": {
+        "qualityOfWorkmanship": 10,
+        "reliabilityAndTimekeeping": 10,
+        "communication": 10,
+        "rating": 10
+      },
+      "publishedAt": "2026-02-17T17:30:05.608Z",
+      "reviewer": {
+        "id": "068f0f67-013c-7719-8e20-cbe1a2eb9f65",
+        "displayName": "Ben H"
+      },
+      "name": "Renegade Electrical Ltd",
+      "uniqueName": "renegadeelectrical",
+      "mediaAttachments": [],
+      "category": {
+        "id": 2031,
+        "label": "Electric Sockets",
+        "name": "electric-sockets"
+      }
+    },
     {
       "id": "019b0399-5431-7fb9-840b-594bbd398cc0",
       "companyId": 1110420,
@@ -103,6 +294,7 @@
         "019a8e19-2c26-7456-b05d-06919e6b9050",
         "019a8e19-5142-7252-b114-e0b02a42ffb4"
       ],
+      "priceBand": "£6,700 - £8,300",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [
@@ -111,32 +303,32 @@
           "mimetype": "image/jpeg",
           "isPublished": true,
           "status": "PASSED_BY_AI",
-          "url": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71J2X58V0JAD6F11D3VHNN.IMG_6767.JPEG?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=JDi%2F8PvPy4Z5q5uFg1jRx0Fx8GKA%2BmF6b1Tks7cpv1KxwmtKRSe%2B%2FYUtY%2B%2F0z2OVNJm%2F72BZEF60Q%2FiyUz1FxFtenYbjppZkPmPdIJybEZkOc7eKLdag7Y1kKzZNNAWaLxegDtrrMS93NZAnjNnG7t0subdP5m7vQZyAxRe%2B8js1Ol4Mihy3%2BiZ2q7kt1aEEtuKuC%2BQXqSyX9fwKmzMROcf0lYP3clHPLb7Y8iK4ZHtLaUcGiwjUBM1f64NuBniSi2%2Fwq7ybiGbva27GjQJm%2Btlndc%2BlGpLUMLVheskVva9aZs%2F3pX0h%2FnOIV9%2Flx0Ah%2FrtLT1OV%2B1UrVRCEZobqWA%3D%3D",
-          "thumbnailUrl": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71J2X58V0JAD6F11D3VHNN.IMG_6767.thumb.JPEG?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=JoO656IF4MoxZrpJVABIjZ5oclapwhuBCMVaZFoBBuOdXJGZMZQmFaKpEFOdPvn8DT%2BzMbfGPRxJKzG1xp7CcAJW1ZqKisJdhoz2aRuf6MhAMtAb0vV9eNcoJXRj%2B9SXORH8wF8hTecYZ0fHjh%2B%2B7sqvfUlS6YHXwZ8SnR06c5oPxhmBo%2BrvLivS9M2JnqTd%2BALa1dV9KBwg3pAHYtODY8T2sQWN2KW8%2BG1huyUj507cpXF37pdgZ7dMzX6dbvampT7VtiL6qeXtVUHru3OH8El%2FNsABlmVjRXX7R0RjN8JiiLDIjZOgKFR1Tr4OcEGC6wrG9ckS1w1wYlrZ0wo%2Ftw%3D%3D"
+          "url": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71J2X58V0JAD6F11D3VHNN.IMG_6767.JPEG?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1783164539&Signature=MZmSlqRsIVJLZ6CMN%2FP2UY8bZHKlV5Vpm5qHoJmzfmGFeJ0p14bivz8xp9JQxmw5GjLGGoELzZTm1NjoUg8Vu6ouWmEj3OnIraRBW%2BgOtqPoLJeDMVe09ECxPBacBIqVwm9jy%2F3YV1VaRb4b344v06xl7xwhPbQgOgNbbN5ze8ziAxPI9R5btGuJZe4SHh%2BohgGae7C35fU%2BBZ%2F1ywcHvC7SCLS%2Bu3TB5M8CGR31Ndd%2FHQBEOV0Fk2sZDOgGLFya5r9hSKQEHvy6BW8fUVKOz2gnOUYuXRWYPI8NCxHO%2B2xfv5AuIu0NaWwnO7fCVzOULkTKW5jzQp2IltAQkmqPbA%3D%3D",
+          "thumbnailUrl": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71J2X58V0JAD6F11D3VHNN.IMG_6767.thumb.jpg?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1783164539&Signature=Q36GWo3UbiHElP6yri1JOC2hisuNwhYcCUkNB2EN2RpNv6WmqC2VPDpEvxoUC%2B0oMmX6AUwpVigJmApnPZUsx28oPQsEMd91MKtDNWJ1jY7C0%2F2N2rnpdCuipaCLGM6xotry%2BaXd3UZ4rahTwtTQu6RD4yKVxd33ASSwITpOP62icokrdJN077tj%2FQzOEHxgt7B2hsBQOIZ5yfzNBX5mJ7WkRXcAjm0jQA08baBW45LnYBLio5j7jSOt9qoMbjI8UmO578%2B1e761VBCADG4LKivrgihsUJ1ru2tmyKEQO8ANyaYx5tLBWJzD%2F2f6DbkQg0%2BfHIrezfSG5HoiAuf73w%3D%3D"
         },
         {
           "id": "019a8e19-0d28-7727-baa7-ce3289472d95",
           "mimetype": "image/jpeg",
           "isPublished": true,
           "status": "PASSED_BY_AI",
-          "url": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71J35HP4YHBN61559CZ15F.IMG_6768.JPEG?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=Aev4%2F9eEvm3z6Qz1dI%2BM6n5pqvGrFgUl7w1JQPHmaA%2BE0YJMJkDSR7pJXC4bQQWGE2YKRiadPVZx6XLIXjCVFL5%2BxkhdKu2AmxbSj5ZPjpR9NVBaklURy5aiyuSCzOi0tBxtfkMVyv2KVI8lqp0QDAxGro6khc50V7ToGBQjZMkyItC%2FYrM%2FQ7gDH%2Fn75%2Fn392CNPgORDx51vhN9InTgA3Oyskt2VV8s8elkCv2aG8jMB%2BcyiYyJWotUIRY7H7JCBxamBf%2BR8FCUbi%2FEMOH7T%2B4eSD5kJkI0uSNoPD2mzJisNeC4Lzh2VXr%2BMDpYol%2Fz83eMxBixH1LIQp0MgNiR8w%3D%3D",
-          "thumbnailUrl": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71J35HP4YHBN61559CZ15F.IMG_6768.thumb.JPEG?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=YSEc1RVd2pdmXoV4lak9vwoRWjHTpPPgpmRk8Fn0mvfl3U%2FV%2FunaDxKeuF21S%2FWNGELaQfWY2Kr7UtMK5ySMFyou6V7AwqAnNWiQFhbuab%2BnxSfEuGNwCarCsqQlTQMC9dC6SZqMp%2BSQh9ENSYcSHenRTBPCUiaT3Wue0pkr9Zl694ITtjeW08%2F48erX36mkWQrPqWlhNAWdIAr7MPcBMLBe2k2pZIE9CrFIgjTzrr4z6d92o0vjBCHE7U4e1sDsP5HI5ul4abzr%2FdA6KesJkgJ4Pc5q3I5HDgg5YhwG55lA9kfv6%2FUVNnvNBJO6mKkeLXGorEy0izFoY7qG3kuZUg%3D%3D"
+          "url": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71J35HP4YHBN61559CZ15F.IMG_6768.JPEG?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1783164539&Signature=R1UCUaK4SrrEQZtAh34Xx4%2BAHhtuOpiKTpi5HFzzN%2BEtgjYRF88GO9EOOAOeUel%2FajOYXLTmGoPACIuLj5qgomuBPVM66M6P84Pcg7PZ3Ozq8GZ8HgqF%2F1w%2FDVLBGayUixbhnVCfveNSlQEKtenwQ0gMJZGosNqJ6E4v3DtDxNhrsljQuOp2HV6edwO0Xn77ePyythatRXWm2yX2Bk0pnYqx8tTgp5tjLvwUBbfO4%2BqXiyoHEeTcZLGbZKtc8dN4Y6CbNyPlRivd4mqIQzkDHD23MTnvJh06hKLxOb34O1kbwA1e7Vfpt%2BjXp7RXkGnmizyjIWljy%2FBxjuHWZYdKUw%3D%3D",
+          "thumbnailUrl": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71J35HP4YHBN61559CZ15F.IMG_6768.thumb.jpg?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1783164539&Signature=Kj40IHoNXCpad4XYHjALtF7meuFexh40rfqePstK5uOQPBrAWScIGtOiX635aDDMY2%2F6Kd2HcCpzDzCP6kTu1nbyklSjTZJQeskD9zZ%2BW4trFrnKNm58DZL470Yh3G2mcV5MIwKcMdUWkvLOHnXw9qjtj5GM7sPcVAjx%2BySEeE2T7bzuThKjnhMUxc%2FgTqMrQ%2F8fOziURL12ya2yN4QTRrViapH3n0TWh7W9bLz%2BWU%2FI1LaSmPZc87h%2BLRJrSRLfpgW8N%2BxTza7gdFRlXZA9qWLeI9slGe%2Bc0i9%2BEWXOYIou4VQ44uiVRUET5709v%2FPOu%2BGVCAhZotMQ5fk1%2FCtIBA%3D%3D"
         },
         {
           "id": "019a8e19-2c26-7456-b05d-06919e6b9050",
           "mimetype": "image/jpeg",
           "isPublished": true,
           "status": "PASSED_BY_AI",
-          "url": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71JAVM2VPFKN4RK9Z6SVRP.Screenshot_16-11-2025_105918_cloud.alphaess.com.jpeg?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=iXm3Y1vvewVhHABIEdG5UY0S3kJrXdAVYhK%2FJ8ldBXUZesNIM7%2B7Zq99pWdfCkTVQlB%2B8UFZ1ALBCRR2rbvkEM%2BrvGF0H54KHuTMcLr4JaAvrQy6v%2FygepTST3Xsag6Yj9pYP9ZNyPOZSBuTi0SC0CWQZ%2F%2FZsbSvb1DQ0ZNckL1YWpLYzZcoVo8grXHyWGql3MTpelrgMsFrxO6RepdEAdDRKNe0nTHxaogbkkTkuJ8t6JgnkQkWVobqG6HvT%2Bmw2emIKeMUwcQyM68dREol7%2BtIN7Rgn%2BVenQI1V6skX9FYAmXeQ%2BuO1V9cV5BIVa2bBcCirzsx1utBvgQz2z6RJQ%3D%3D",
-          "thumbnailUrl": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71JAVM2VPFKN4RK9Z6SVRP.Screenshot_16-11-2025_105918_cloud.alphaess.com.thumb.jpeg?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=S3sbZ853K8QnEKokwnWZs37Oawuym35Kjq4EwAOPcberGZ6kt5kLuecW03w3hZkC%2F%2Fwjg90WCScWSZDNsu47UG%2FvRtUYUSOna%2FYcmuD6G1HIU525Q9ZNIVp%2FwdnUKpwhwmWfvEIM119DDZgZCLX3DPO7G4gxLYtJQuUqCVRUFq7efkxAIH2tiLnkTRqNzRW4Z%2BdrIwQzkYxXFroX3Riy%2B%2B1wTOwHIP4KZWIFlgRCFzUkGOF9fzaXbS0miKDUo1WRHN%2BMJs2f9h%2BdhXSL5qPeXOBldVvIt3ZhlSJdOPSHRti6WXT7Q8w3VJuykLmPHb6TaGX5bQd082ixtOAz2ilrAg%3D%3D"
+          "url": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71JAVM2VPFKN4RK9Z6SVRP.Screenshot_16-11-2025_105918_cloud.alphaess.com.jpeg?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1783164539&Signature=QE8aDYA8By7zeAVrXvopFV2VNP8zeoVtTL55IBILfucOZwHuiwkft1H03BTywhfcOtS4P1YUytPwwSg%2F15WyNqrmFdG9UQLBW4c%2FE7NQAdc1f%2BuhZPVvHjWmY%2BKYIp8AmFUerwO%2FcBRsK%2FlcMLinyFagw7mBvwABNr2JlQozmfIRdXMH1GDhX7WpFVDQDGv3mQvfdzzInTZCLaVk%2B%2FBVHPQrk%2FbgMo%2B6ma6hIhy3lW1BN3fEM8v822yO4JUuKWNhZp2QqI86CONchrT3muhppeafkxybtAjOGAnJVx8x0%2FUaTZvFsjTXu6aXsHVX3vlbA2bom12Houz%2FaOiCBGShDA%3D%3D",
+          "thumbnailUrl": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71JAVM2VPFKN4RK9Z6SVRP.Screenshot_16-11-2025_105918_cloud.alphaess.com.thumb.jpg?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1783164539&Signature=w1KP%2F5TgUTwL7lLJw%2Fa4fs5upQrhdaFK4ak9I1Vv0mWM%2Fomea3KjPLTl%2BYsmSXCp5awWzSS%2BbJX1ujHwekuv5Ujtlxtbo9P6k2IbIQyI58yZdzI5TNlZOZHGJ885B9sluXsS0TS8pk%2FMYp7Yzzf9bpRJXuSxrbumBU0Y8QvSF%2BWwjI07tZ2cC%2FPqVnn9i1wbqnMP7T9Dumn%2FczO6CQ4Zj0n1eck7BwWf8EjtPtE9ikXWBhurXyJPFec8SaZPwPbNkTXNT42ZeMweRcjkB2SWIu7MemAPiQRuz73flICjz7%2FNw2B78CcFskFAG3j57GfktHOj6XvKKgywKa8h67dn9g%3D%3D"
         },
         {
           "id": "019a8e19-5142-7252-b114-e0b02a42ffb4",
           "mimetype": "image/jpeg",
           "isPublished": true,
           "status": "PASSED_BY_AI",
-          "url": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71JM4ZY39BFY9FBV43N7Z3.IMG_6764.JPEG?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=nLKspzRHq2Vqia4bfSjBa70wzY5tC%2FSrMZ%2FCqZKSocDwrkx5Yk3zl%2FWeM5pjaoehc0fdHZBNWhYE%2BMbvlS9uCikwDP%2BtBbQ9cDXie1z%2BqR2hBdv4DjOREaEYznpRONd%2F3iZ6xJCXRGH8RjX3rFeOVwfFEWnpogHeAY7dyilWTWZx6yq5R9%2BRvwInD4ZbToE6%2FdAlieivnEk9ainpemEPjvoLxK4PkB276Z1ezHcvazon5hcLLHg1CAjeEvkIoSqA3%2Bm5ZFUZrPHb3B7DOTr%2FhC9bBAXelD3rFjV%2F%2FlqP%2FLFD%2B8345QecZyrne41RAV25JvH%2FJsewJL3qcnm0wCxWMQ%3D%3D",
-          "thumbnailUrl": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71JM4ZY39BFY9FBV43N7Z3.IMG_6764.thumb.JPEG?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1775577364&Signature=TX4C0plsDJQxEOK2thLUQ8COmPPkZX9sVPtwZMD4TNrrqtvqMwueR38rGK6p1cbUm9j4XZggZ9qmmBUMZoslkcBwf%2B9EL7Q0xNFKsY%2FQheh0LLLmTcm76nAx5j3ULprzB%2FKG9i9S3kcdsaB%2FvsSyK9Tg4pyn%2BNRCSToRJFXO8eTWjqjVbgu0OhjQHm76D4YwHn96KOcYU6%2BeWs0e4IcF4gtQVO2B11OTDFhYAChuA2AuyTsqizwCsKHzm20OjlnEyeNr8s7qL98jsTocYMiENfj7jmShq2HOQubRmtTOwM5vEV%2FUxtJL%2FxSXXL6bc4ZN0iZdReDxSU5v8%2F4NL0pmeQ%3D%3D"
+          "url": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71JM4ZY39BFY9FBV43N7Z3.IMG_6764.JPEG?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1783164539&Signature=DBzaw%2F4F43NxgjDlQus7DM6R9ZiiSD1ZvjGAI3P2yfPovhXmVjWPTspNWgDUYUVsFipMTP0iSPsfvrKgnRY5lB8S45Bmd9hAQvfbz52jLbaxyX3ANIuWKajCIlVPb7cv9klF25m9oEygEMl8K2nPSsho9foxnKpLuQk%2FGO%2B9FnIFx%2FaTAaQUB7chlyoFRHdd8vtO642ZgXA6yCAY%2F6U93waSwpvUaoSwRMbIuyQOkodTsZKXrGK19jVeeNwCM18wAFgDsDjdPe3tS0Gh0mLbRq1rNiA2FesiOncpl2OiugjOeg34CCz2Zl8rBuWJbFg%2B8tbNSUbVI3emo0ZJ%2FZY7bg%3D%3D",
+          "thumbnailUrl": "https://storage.googleapis.com/core-media-service-production/user-media/01KA71JM4ZY39BFY9FBV43N7Z3.IMG_6764.thumb.jpg?GoogleAccessId=app-core-media-service%40capi-production-21756.iam.gserviceaccount.com&Expires=1783164539&Signature=t4KyYOZwGFw5IyuZCBTVeAvc5ncjcwm0zsRtX%2B5NOtFkbq3U5TiGHHa2s%2B4CDJNUvOqoj4hoSr1Z1jJGJplZhkPVUMKJvA8j8QMbJW2Hzz2Vqy3pDRNNaV7JIIl7Bfi3uUmHLCjzBCA9eRrsEvdUWFZ4OR1%2FxybEi8%2FUYXkfDwE%2BE4xmzszq7lc%2F%2F%2B9AZJO84fSrxamazaRWE7vQbqV2pGXrZ61yZvwIEkfB8NnoB2ijAbSs9hO%2FPWmFKF1Ih4z4JWe7FgUsgtsm%2BO9swb%2BUCYc2hPB56m%2FmZ%2BAJRHNyq8MgrCdackInETEo8CmOCV2i81HZZbnsdUQeUB5GnTekDg%3D%3D"
         }
       ],
       "category": {
@@ -244,6 +436,7 @@
         "rating": 10
       },
       "publishedAt": "2025-05-30T19:05:04.146Z",
+      "priceBand": "£500 - £700",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -311,6 +504,7 @@
         "rating": 10
       },
       "publishedAt": "2025-04-22T09:09:49.895Z",
+      "priceBand": "£550 - £750",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -477,6 +671,7 @@
         "rating": 10
       },
       "publishedAt": "2025-04-08T07:03:30.007Z",
+      "priceBand": "£350 - £500",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -510,6 +705,7 @@
         "rating": 10
       },
       "publishedAt": "2025-03-09T06:38:32.147Z",
+      "priceBand": "£300 - £400",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -544,6 +740,7 @@
         "rating": 9.33
       },
       "publishedAt": "2025-01-14T20:40:55.761Z",
+      "priceBand": "£200 - £300",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -577,6 +774,7 @@
         "rating": 9.67
       },
       "publishedAt": "2025-01-04T18:46:10.637Z",
+      "priceBand": "£100 - £200",
       "reviewer": {
         "id": "067681c5-0c28-7194-9920-e05134032f5c",
         "displayName": "Dawn N"
@@ -649,6 +847,7 @@
         "rating": 10
       },
       "publishedAt": "2024-09-18T15:55:06.153Z",
+      "priceBand": "£4,000 - £5,000",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -751,6 +950,7 @@
         "rating": 10
       },
       "publishedAt": "2024-09-03T15:15:00.524Z",
+      "priceBand": "£3,600 - £4,400",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -785,6 +985,7 @@
         "rating": 9
       },
       "publishedAt": "2024-08-24T01:55:00.519Z",
+      "priceBand": "£200 - £300",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -819,6 +1020,7 @@
         "rating": 10
       },
       "publishedAt": "2024-08-14T22:20:00.958Z",
+      "priceBand": "£250 - £350",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -853,6 +1055,7 @@
         "rating": 10
       },
       "publishedAt": "2024-08-06T16:55:00.687Z",
+      "priceBand": "£50 - £100",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -1089,6 +1292,7 @@
         "rating": 10
       },
       "publishedAt": "2024-06-25T14:25:01.999Z",
+      "priceBand": "£550 - £750",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -1191,6 +1395,11 @@
         "rating": 9.75
       },
       "publishedAt": "2024-06-08T18:15:01.110Z",
+      "priceBand": "£50 - £100",
+      "reviewer": {
+        "id": "06662ed7-a50a-754f-8e20-c6d15d41be54",
+        "displayName": "Gaia W"
+      },
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -1293,6 +1502,7 @@
         "rating": 10
       },
       "publishedAt": "2024-05-22T23:45:00.591Z",
+      "priceBand": "£350 - £450",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -1327,6 +1537,7 @@
         "rating": 10
       },
       "publishedAt": "2024-05-18T00:50:00.949Z",
+      "priceBand": "£250 - £350",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -1395,6 +1606,7 @@
         "rating": 10
       },
       "publishedAt": "2024-05-14T03:30:01.150Z",
+      "priceBand": "£100 - £150",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -1463,6 +1675,7 @@
         "rating": 10
       },
       "publishedAt": "2024-01-24T10:06:06.000Z",
+      "priceBand": "£1,300 - £1,700",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -1497,6 +1710,7 @@
         "rating": 8.75
       },
       "publishedAt": "2023-11-29T11:30:07.000Z",
+      "priceBand": "£400 - £500",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -1531,6 +1745,7 @@
         "rating": 10
       },
       "publishedAt": "2023-11-01T18:16:07.000Z",
+      "priceBand": "£50 - £100",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -1599,6 +1814,7 @@
         "rating": 10
       },
       "publishedAt": "2023-10-23T17:20:10.000Z",
+      "priceBand": "£300 - £400",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -1803,6 +2019,7 @@
         "rating": 10
       },
       "publishedAt": "2023-06-22T19:46:06.000Z",
+      "priceBand": "£250 - £350",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -1837,6 +2054,7 @@
         "rating": 10
       },
       "publishedAt": "2023-06-22T15:30:08.000Z",
+      "priceBand": "£450 - £550",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -1871,6 +2089,7 @@
         "rating": 10
       },
       "publishedAt": "2023-05-26T19:26:06.000Z",
+      "priceBand": "£2,200 - £2,800",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -1905,6 +2124,7 @@
         "rating": 10
       },
       "publishedAt": "2023-05-25T09:34:06.000Z",
+      "priceBand": "£50 - £150",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -1939,6 +2159,7 @@
         "rating": 10
       },
       "publishedAt": "2023-05-21T10:22:06.000Z",
+      "priceBand": "£200 - £300",
       "reviewer": {
         "id": "066ebf5c-482e-7343-8820-d5e412deb3e5",
         "displayName": "Claire S"
@@ -1977,6 +2198,7 @@
         "rating": 10
       },
       "publishedAt": "2023-05-11T09:10:05.000Z",
+      "priceBand": "£50 - £100",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2011,6 +2233,7 @@
         "rating": 10
       },
       "publishedAt": "2023-04-30T11:40:05.000Z",
+      "priceBand": "£250 - £350",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2045,6 +2268,7 @@
         "rating": 10
       },
       "publishedAt": "2023-04-29T09:10:05.000Z",
+      "priceBand": "£150 - £250",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2079,6 +2303,7 @@
         "rating": 10
       },
       "publishedAt": "2023-04-26T18:00:11.000Z",
+      "priceBand": "£250 - £350",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2113,6 +2338,7 @@
         "rating": 10
       },
       "publishedAt": "2023-04-26T15:56:07.000Z",
+      "priceBand": "£50 - £150",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2147,6 +2373,7 @@
         "rating": 10
       },
       "publishedAt": "2023-04-21T17:24:06.000Z",
+      "priceBand": "£100 - £200",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2181,6 +2408,7 @@
         "rating": 10
       },
       "publishedAt": "2023-04-18T14:38:07.000Z",
+      "priceBand": "£200 - £300",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2215,6 +2443,7 @@
         "rating": 10
       },
       "publishedAt": "2023-04-01T20:18:05.000Z",
+      "priceBand": "£150 - £250",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2249,6 +2478,7 @@
         "rating": 10
       },
       "publishedAt": "2023-03-28T17:58:07.000Z",
+      "priceBand": "£100 - £200",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2283,6 +2513,7 @@
         "rating": 10
       },
       "publishedAt": "2023-03-27T10:48:05.000Z",
+      "priceBand": "£200 - £300",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2317,6 +2548,7 @@
         "rating": 10
       },
       "publishedAt": "2023-03-26T20:30:06.000Z",
+      "priceBand": "£100 - £200",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2351,6 +2583,7 @@
         "rating": 10
       },
       "publishedAt": "2023-03-09T23:18:04.000Z",
+      "priceBand": "£50 - £100",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2385,6 +2618,7 @@
         "rating": 10
       },
       "publishedAt": "2023-03-09T21:18:06.000Z",
+      "priceBand": "£150 - £250",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2419,6 +2653,7 @@
         "rating": 10
       },
       "publishedAt": "2023-02-10T10:36:05.000Z",
+      "priceBand": "£150 - £200",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2453,6 +2688,7 @@
         "rating": 10
       },
       "publishedAt": "2023-01-25T21:04:06.000Z",
+      "priceBand": "£150 - £250",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2487,6 +2723,7 @@
         "rating": 10
       },
       "publishedAt": "2023-01-24T12:30:06.000Z",
+      "priceBand": "£50 - £150",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2521,6 +2758,7 @@
         "rating": 10
       },
       "publishedAt": "2023-01-23T07:50:05.000Z",
+      "priceBand": "£50 - £150",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2555,6 +2793,7 @@
         "rating": 10
       },
       "publishedAt": "2023-01-21T20:06:06.000Z",
+      "priceBand": "£200 - £300",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2657,6 +2896,7 @@
         "rating": 10
       },
       "publishedAt": "2023-01-10T23:52:04.000Z",
+      "priceBand": "£50 - £100",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2691,6 +2931,7 @@
         "rating": 10
       },
       "publishedAt": "2023-01-07T13:24:05.000Z",
+      "priceBand": "£100 - £150",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2725,6 +2966,7 @@
         "rating": 10
       },
       "publishedAt": "2022-12-11T20:02:05.000Z",
+      "priceBand": "£50 - £100",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2759,6 +3001,7 @@
         "rating": 10
       },
       "publishedAt": "2022-12-09T19:42:05.000Z",
+      "priceBand": "£200 - £300",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2793,6 +3036,7 @@
         "rating": 10
       },
       "publishedAt": "2022-10-28T15:58:06.000Z",
+      "priceBand": "£50 - £150",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2827,6 +3071,7 @@
         "rating": 10
       },
       "publishedAt": "2022-09-25T17:38:06.000Z",
+      "priceBand": "£400 - £550",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2861,6 +3106,7 @@
         "rating": 10
       },
       "publishedAt": "2022-08-11T12:44:05.000Z",
+      "priceBand": "£1,100 - £1,400",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2895,6 +3141,7 @@
         "rating": 10
       },
       "publishedAt": "2022-08-08T08:33:26.000Z",
+      "priceBand": "£100 - £150",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2929,6 +3176,7 @@
         "rating": 10
       },
       "publishedAt": "2022-07-24T07:54:05.000Z",
+      "priceBand": "£50 - £100",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2963,6 +3211,7 @@
         "rating": 10
       },
       "publishedAt": "2022-07-03T13:16:05.000Z",
+      "priceBand": "£150 - £250",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -2997,6 +3246,7 @@
         "rating": 10
       },
       "publishedAt": "2022-06-25T18:20:09.000Z",
+      "priceBand": "£50 - £100",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -3031,6 +3281,7 @@
         "rating": 10
       },
       "publishedAt": "2022-06-17T13:10:08.000Z",
+      "priceBand": "£100 - £150",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -3065,6 +3316,7 @@
         "rating": 10
       },
       "publishedAt": "2022-06-13T08:58:06.000Z",
+      "priceBand": "£50 - £100",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -3099,6 +3351,7 @@
         "rating": 10
       },
       "publishedAt": "2022-05-24T18:26:07.000Z",
+      "priceBand": "£400 - £500",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -3132,6 +3385,7 @@
         "rating": 10
       },
       "publishedAt": "2022-05-18T07:54:41.000Z",
+      "priceBand": "£700 - £900",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": []
@@ -3189,6 +3443,7 @@
         "rating": 10
       },
       "publishedAt": "2022-05-17T16:46:06.000Z",
+      "priceBand": "£50 - £100",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": [],
@@ -3396,6 +3651,7 @@
         "rating": 10
       },
       "publishedAt": "2022-05-05T19:56:06.000Z",
+      "priceBand": "£100 - £200",
       "name": "Renegade Electrical Ltd",
       "uniqueName": "renegadeelectrical",
       "mediaAttachments": []
