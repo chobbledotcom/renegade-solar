@@ -13,13 +13,13 @@ Need an electrical safety check? Whether you're a landlord meeting legal require
 
 ## What's an EICR and Do You Need One?
 
-An **Electrical Installation Condition Report (EICR)** is basically a comprehensive health check for your property's electrics. Think of it like an MOT for your wiring - we test everything to make sure it's safe and up to current standards.
+An **Electrical Installation Condition Report (EICR)** is basically a thorough health check for your property's electrics. Think of it like an MOT for your wiring — we test everything to make sure it's safe and up to current standards.
 
 You definitely need one if you're a landlord - it's the law, every 5 years and for new tenants. Buying a house? Get it done before any money changes hands. Selling a property? Buyers will probably want to see one. And if you haven't had your electrics checked in years, it's recommended every 10 years anyway.
 
 ## Our EICR Service - £150 Plus VAT All Domestic Properties
 
-**Fixed price of £150 plus VAT for any domestic property** - doesn't matter if it's a one-bed flat or a five-bed house. You get your inspection and all certificates on the same day with no waiting around for paperwork. We can usually fit you in as soon as you call since EICR inspections slot in easier than our bigger electrical jobs.
+**Fixed price of £150 plus VAT for any domestic property** — doesn't matter if it's a one-bed flat or a five-bed house. You get the inspection and all the certificates on the same day, no waiting around for paperwork. We can usually fit you in as soon as you call, because EICR inspections slot in around the bigger electrical jobs we've got on.
 
 **[Ready to book your EICR? Get in touch today](/contact/)**
 
@@ -73,9 +73,9 @@ If you'd like to combine compliance with renewable upgrades for your portfolio, 
 
 ## What Happens If We Find Problems?
 
-**No panic, no pressure.** If we spot issues, we'll explain everything clearly - what's wrong, why it matters, and what needs doing. You'll get fair quotes for any work with no hidden costs or inflated prices. We can fix what we find too, so why get someone else involved? Remedial work gets scheduled within a month, which gives you time to sort things out properly.
+If we spot issues, we'll explain everything clearly — what's wrong, why it matters, and what needs doing. You'll get fair quotes for any remedial work with no hidden costs or inflated prices. We can sort what we find too, so there's no need to get a separate electrician involved. Remedial work usually gets scheduled within a month, which gives you time to plan around it.
 
-Ashley's been doing this for 20+ years, so he's seen it all. Most problems aren't as scary as they sound once you understand what's actually going on. **[If you need electrical problems fixed after an inspection, we handle all types of electrical work](/services/)**
+Ashley's been doing this for years, so most problems aren't as scary as they sound once you understand what's actually going on. **[If you need electrical work sorting after an inspection, we handle all types](/services/)**.
 
 ## Why Choose Us for Your EICR?
 

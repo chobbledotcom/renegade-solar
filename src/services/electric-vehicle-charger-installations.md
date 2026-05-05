@@ -11,11 +11,11 @@ gallery_tags: [electric-vehicle]
 
 # Electric Vehicle Charger Installations
 
-We install, maintain and relocate EV chargers for homes and businesses across the North West. As a [NAPIT-registered](/accreditations/napit/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we'll sort everything from the initial survey to final testing and certification. Whether you're looking for a standalone charger or want it integrated with your [solar panels](/services/solar-and-battery-installations/) and [home battery](/services/home-battery-installations/), we've got you covered.
+We install, maintain and relocate EV chargers for homes and businesses across the North West. As a [NAPIT-registered](/accreditations/napit/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we handle the lot — from the initial survey through to final testing and certification. Whether you want a standalone charger or you'd like it integrated with your [solar panels](/services/solar-and-battery-installations/) and [home battery](/services/home-battery-installations/), we can sort it.
 
-## What Customers Say
+## What customers say
 
-Customers appreciate the clear advice, fair pricing and tidy workmanship. Here's what some recent EV charger customers have said:
+Customers tend to mention the clear advice, the fair prices and the tidy workmanship. Here's a few recent ones:
 
 > "Ashley fitted an EV charger for me and provided lots of brilliant advice prior to doing so, as I was clueless on the whole thing. His advice even allowed me to keep costs down and his prices were the best quotes I had, with nothing reduced on the quality of his work."
 
@@ -23,32 +23,32 @@ Customers appreciate the clear advice, fair pricing and tidy workmanship. Here's
 
 > "Ashley was amazing! He removed my EV charger from my old house and came back and reinstalled at my new house... would highly recommend and wouldn't use anybody else now for any electrical work."
 
-If you're moving house, we offer a dedicated [EV charger relocation service](/ev-charger-relocation-manchester/) - removing the charger at the old property and reinstalling at the new one.
+If you're moving house, we offer a dedicated [EV charger relocation service](/ev-charger-relocation-manchester/) — taking the charger off the old property and reinstalling at the new one.
 
-## Solar + EV Integration
+## Solar + EV integration
 
-If you've got solar panels or are thinking about getting them, we can set up your EV charger to work with the system. This means you can charge your car using excess solar energy, potentially bringing your charging costs down to near zero during sunny periods. We've experience with [GivEnergy](/givenergy-installer-manchester/) systems and can configure smart charging to match solar generation and time-of-use tariffs like [Octopus Intelligent Go](/octopus-go-battery-installer-manchester/). By getting your EV charger integrated with your home energy system, you'll get significantly more value from both technologies and reduce your carbon footprint.
+If you've already got solar panels, or you're thinking about getting them, we can set the EV charger up to work with the system. That means you can charge the car from excess solar energy, which can bring your charging costs close to zero during the sunnier months. We've experience with [GivEnergy](/givenergy-installer-manchester/) systems and can configure smart charging to match solar generation and time-of-use tariffs like [Octopus Intelligent Go](/octopus-go-battery-installer-manchester/). Getting the EV charger integrated with the rest of your home energy setup means you get more out of both, and less of your driving comes off the grid.
 
-## Installation Process
+## Installation process
 
-The process is straightforward. A qualified electrician will visit to assess your property's electrical setup, discuss your requirements and recommend suitable options - you won't be visited by a salesperson. This means you get honest, technically informed advice from someone who understands the work involved. You'll get a quote with no hidden costs. Installation is typically done in a day with minimal disruption. Afterward, we'll provide all necessary certification and show you how to use your new charging system. Our NAPIT registration means you'll receive proper electrical certification that may be required by your insurance or when selling your property. We apply the same professional approach as with our [electrical testing](/services/electrical-testing/) services.
+A qualified electrician will come out, look at your property's electrical setup, talk through what you want and recommend suitable options — you won't get a salesperson. That means the advice is honest and technically informed by someone who actually understands the work. We'll give you a quote with no hidden costs. The install itself is typically a day's work with minimal disruption, and afterwards you'll get all the certification and a walkthrough of how to use the new charger. Our NAPIT registration means you'll get the proper electrical certification that may be needed by your insurance or when selling the property. Same approach as we apply with our [electrical testing](/services/electrical-testing/) work.
 
-## Charger Options
+## Charger options
 
-We supply and install various EV chargers depending on your needs. Standard 7kW units will fully charge most electric cars overnight. If you have three-phase power, we can install faster 22kW chargers. Both tethered (with attached cable) and untethered options are available. All our chargers are OZEV grant-approved and include smart features for app control and energy monitoring. We're not tied to a single manufacturer, which means we can recommend the best solution for your specific vehicle and circumstances.
+We supply and install a range of EV chargers depending on your needs. Standard 7kW units will fully charge most electric cars overnight; if you've got three-phase power, we can install faster 22kW chargers. Both tethered (with attached cable) and untethered options are available. All our chargers are OZEV grant-approved and include smart features for app control and energy monitoring. We're not tied to any single manufacturer, so we can recommend the best option for your specific vehicle and circumstances rather than whatever we happen to stock.
 
-## Financial Benefits
+## Financial benefits
 
-Installing an EV charger at home provides convenience and significant savings. Home charging is typically 50-90% cheaper than using public charging points ((rac.co.uk)[https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/]). With a smart tariff like Octopus Go, you can charge overnight at rates well below standard electricity prices. If you integrate with solar panels, you can reduce charging costs substantially, especially during summer months. EV-ready homes are also becoming more desirable as more drivers switch to electric. Just like with our [battery installations](/services/home-battery-installations/), time-of-use tariffs can significantly cut your energy costs.
+Installing an EV charger at home is more convenient than relying on public chargers, and it's significantly cheaper too. Home charging is typically 50-90% cheaper than using public charging points ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). On a smart tariff like Octopus Go you can charge overnight at rates well below standard electricity prices, and if you've got solar, you can cut summer charging costs further still. EV-ready homes are also becoming more sought-after as more drivers switch to electric. As with our [battery installations](/services/home-battery-installations/), time-of-use tariffs can knock a fair bit off your energy costs.
 
-## Coverage Area
+## Coverage area
 
-We serve the entire Greater Manchester area with our EV charger installation service. Being based in Prestwich, we know the local area well and can respond quickly to enquiries throughout North Manchester. We've got extensive experience installing chargers across the region and understand the mix of property types and electrical systems. We're proud to be a local [NAPIT-registered](/accreditations/napit/) installer serving the entire region.
+We cover the entire Greater Manchester area for EV charger installations. Being based in Prestwich, we know the local area well and can usually respond quickly to enquiries throughout North Manchester. We've installed plenty of chargers across the region and have a good understanding of the mix of property types and electrical systems we tend to come across. We're a local [NAPIT-registered](/accreditations/napit/) installer serving the whole region.
 
-Our reviews show we've successfully completed installations in M24, M25, and OL8 postcode areas, among others. The proximity of our base in Prestwich means we can offer quick response times for surveys and installations throughout Greater Manchester.
+Our reviews show installations completed in M24, M25 and OL8 postcodes, among others. Being based in Prestwich means we can usually offer quick turnaround on surveys and installs across Greater Manchester.
 
-## Get Started
+## Get in touch
 
-**To chat about EV charger options or book an installation, [contact us today](/contact/) for a free consultation and quote.**
+**To talk through your options or book an install, [get in touch](/contact/) for a free consultation and quote.**
 
 We cover {% serviceAreaLinks page %} with dedicated local EV charger installation services.

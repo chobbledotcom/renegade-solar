@@ -1,3 +1,7 @@
+---
+permalink: false
+---
+
 # Voice & Tone
 
 This site has a distinct voice: dry, plain-spoken, sceptical of marketing-speak, recognisably Mancunian without dialect cosplay. It's how a tradesman from Manchester might write about his own work — not how a copywriter would write it for him.
