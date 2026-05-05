@@ -13,9 +13,9 @@ tags: [bolton, eicr]
 
 Professional electrical safety inspections throughout Bolton from NAPIT-registered electricians. £150 plus VAT for all domestic properties with same day certificates - covering everything from traditional terraced houses to modern developments and commercial premises.
 
-## Bolton's Property Landscape
+## Bolton's housing stock
 
-As the UK's largest town with 280,000 residents, Bolton features a distinctive housing landscape shaped by its industrial heritage. When over 200 cotton mills operated here in the 1900s, rows of terraced mill worker cottages were built across the borough. Today, terraced and semi-detached properties make up 70% of Bolton's housing stock.
+As the UK's largest town with 280,000 residents, Bolton's housing reflects its industrial heritage. When over 200 cotton mills operated here in the 1900s, rows of terraced mill worker cottages were built across the borough. Today, terraced and semi-detached properties make up 70% of Bolton's housing stock.
 
 **Traditional terraced properties** throughout areas like Farnworth, Great Lever, Deane, and Tonge Moor often have electrical systems that have been upgraded incrementally over the decades. Original installations designed for gas lighting and minimal electrical demand have been adapted to handle modern requirements, but not always using the most appropriate methods.
 

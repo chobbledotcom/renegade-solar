@@ -24,13 +24,13 @@ With energy prices continuing to rise, locking in your own electricity generatio
 
 ## Manchester Weather Isn't a Problem
 
-Despite what people think about Manchester weather, solar panels work brilliantly here. They generate electricity from daylight, not just sunshine, and actually perform better in our cooler temperatures. That regular drizzle keeps your panels clean and operating at peak efficiency, much like how it keeps Bury Market's famous black pudding stalls looking fresh.
+Solar panels work fine in Manchester's climate. They generate from daylight rather than direct sunshine, and they run more efficiently at cooler temperatures. Rain helps keep panels clean.
 
-We've installed systems across Bury that consistently exceed expectations, even on north-facing roofs. Our experience with local properties means we know how to maximise your system's performance regardless of your roof's orientation.
+We've installed systems across Bury on a range of roof orientations, including north-facing where it makes sense.
 
 ## Local Knowledge, Personal Service
 
-We don't send salespeople - Ashley handles the survey and system design personally, so you get proper technical advice from someone who actually understands the electrical work involved. Being based in Prestwich means we understand Bury properties inside and out. We know how to work with older electrical systems in period homes, navigate planning considerations for different areas, understand typical energy usage patterns in local homes, and recommend the best battery solutions for your specific needs.
+We don't send salespeople. Ashley handles the survey and system design personally, so you get proper technical advice from a qualified electrician. Being based in Prestwich, we know Bury properties: older electrical systems in period homes, planning considerations across different areas, typical energy usage in local households, and which battery setup makes sense.
 
 ## Coverage Areas
 

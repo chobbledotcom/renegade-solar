@@ -23,7 +23,7 @@ And we've even installed ground-mounted solar panels for properties with large g
 
 ## How Do Solar Panel Perform In The Rain?
 
-It feels like we're never more than a day or two away from a rainy day in Manchester (although we were surprised to learn that [we're not even close to being the rainiest city](https://blog.scienceandindustrymuseum.org.uk/manchester-our-rainy-city/)!), but you might be surprised to learn that this isn't actually a problem for solar panel set ups. In fact, the rain helps keep the panels clean, which _increases_ their efficiency!
+Manchester gets its share of rain, but [it's not actually one of the UK's rainiest cities](https://blog.scienceandindustrymuseum.org.uk/manchester-our-rainy-city/). Rain doesn't hurt solar performance: panels generate from daylight rather than direct sunshine, and rain helps keep them clean.
 
 ## Can I Just Get A Battery?
 

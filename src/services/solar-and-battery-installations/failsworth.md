@@ -20,7 +20,7 @@ As an MCS-certified installer (certification number [NAP-66870](https://mcscerti
 
 ## Solar Panels Work Well in Failsworth
 
-Manchester weather doesn't stop solar panels generating electricity. In fact, rain keeps them clean by washing away dust and dirt that would otherwise reduce efficiency. Your panels will generate power all year round, with summer months covering most of your usage and winter still providing decent returns.
+Manchester weather doesn't stop solar panels generating electricity, and rain keeps them clean by washing away dust and dirt. Panels generate power year-round, with summer months covering most of your usage and winter still providing decent returns.
 
 According to [Ofgem's latest data](https://www.ofgem.gov.uk/publications/smart-export-guarantee-annual-report-april-2023-march-2024), over £30 million was paid out last year through the Smart Export Guarantee scheme. That's real money going back to homeowners who've invested in solar.
 

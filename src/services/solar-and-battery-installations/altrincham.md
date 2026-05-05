@@ -14,11 +14,11 @@ MCS-certified solar panel and battery installations throughout Altrincham. Our N
 
 ## Solar Solutions for Altrincham Properties
 
-We install solar panels on a wide range of Altrincham properties. From **[Victorian and Edwardian homes in conservation areas](/solar-panels-conservation-areas-period-properties/)** to **modern detached and semi-detached properties**, we've got you covered. Our experience extends to contemporary new-builds, converted apartments in historic buildings, and commercial properties too. We skillfully work with slate roofs on period homes and tile roofs on newer properties, maximising energy generation while complementing your home's architectural style.
+We install solar panels on Altrincham properties of all types: **[Victorian and Edwardian homes in conservation areas](/solar-panels-conservation-areas-period-properties/)**, **modern detached and semi-detached properties**, contemporary new-builds, converted apartments, and commercial buildings. We work with slate roofs on period homes and tile roofs on newer properties.
 
 ## Solar Performance in Manchester's Climate
 
-Don't let Manchester's rainy reputation fool you! Solar panels perform excellently in our local climate. Modern panels generate electricity from daylight, not just direct sunshine, and actually operate **more efficiently in our cooler temperatures**. That famous Manchester rain? It helps keep your panels clean for peak efficiency. You'll be surprised how much electricity your system generates, even during the winter months.
+Solar panels work fine in Manchester's climate. Modern panels generate electricity from daylight rather than direct sunshine, and they operate **more efficiently in cooler temperatures**. Rain helps keep panels clean. Generation drops in winter but doesn't stop.
 
 ## Local Installer Advantages
 
