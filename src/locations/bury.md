@@ -10,6 +10,6 @@ tags: location
 
 # Bury
 
-Renegade Solar delivers expert solar panel installations throughout Bury. Our MCS-certified approach ensures every installation meets the highest standards while providing excellent value for money.
+We cover Bury for solar, battery, EV charger and general electrical work. Bury has a wide spread of property types - older terraces closer to the centre, larger semis and detached homes out towards Tottington and Ramsbottom - and we've worked across most of it at one point or another.
 
-We work with all property types in Bury, providing customised renewable energy solutions that maximise your energy savings and environmental benefits.
+Ashley does every survey himself. As an MCS-certified electrician, he'll give you a straight answer on whether solar makes sense for your property and what the right setup would actually look like. We're based in Prestwich, around fifteen minutes down the road.

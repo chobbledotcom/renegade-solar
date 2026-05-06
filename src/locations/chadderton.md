@@ -10,6 +10,6 @@ tags: location
 
 # Chadderton
 
-Renegade Solar provides professional solar panel installations and electrical services throughout Chadderton. With easy M60 access and close proximity to [Failsworth](/services/solar-and-battery-installations/failsworth/) where we already work, Chadderton's mix of terraced and semi-detached properties offers strong solar potential.
+We cover Chadderton for solar, battery, EV charger and general electrical work. We already work over in [Failsworth](/services/solar-and-battery-installations/failsworth/) just down the road, and Chadderton sits along the M60, so it's an easy run from our place in Prestwich.
 
-We're based in Prestwich, just a short drive away, and understand Chadderton's housing stock - from traditional terraces to family semis averaging around £215k. Ashley personally surveys and installs every system, so you get honest advice from the electrician who's actually doing the work.
+The housing in Chadderton is mainly terraces and family semis, with average prices sitting around £215k, and most of these roofs take solar without any complications. Ashley does every survey himself and is on site for the install, so the advice you get is from the electrician doing the work.

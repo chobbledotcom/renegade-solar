@@ -10,6 +10,6 @@ tags: location
 
 # Lees
 
-Renegade Solar provides professional solar panel installations and electrical services in Lees. Sitting between central [Oldham](/oldham/) and [Saddleworth](/saddleworth/), Lees has a mix of terraced and semi-detached homes with good solar potential.
+We cover Lees for solar, battery, EV charger and general electrical work. Sitting between central [Oldham](/oldham/) and [Saddleworth](/saddleworth/), Lees has a mix of terraced and semi-detached homes, most of which take solar in one configuration or another.
 
-We're based in Prestwich, serving the whole Oldham borough with MCS-certified installations. Ashley personally handles every survey and installation - no salespeople, just honest advice from a qualified electrician about what'll work for your property.
+We're based over in Prestwich and we cover the whole Oldham borough. Ashley does every survey himself and is on site for the install, so when you ask whether something will work on your property, the answer comes from the MCS-certified electrician who'll be doing the job.
