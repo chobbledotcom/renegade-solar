@@ -11,7 +11,7 @@ gallery_tags: [electric-vehicle]
 
 # Electric Vehicle Charger Installations
 
-We install, maintain and relocate EV chargers for homes and businesses across the North West. As a [NAPIT-registered](/accreditations/napit/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we handle the lot — from the initial survey through to final testing and certification. Whether you want a standalone charger or you'd like it integrated with your [solar panels](/services/solar-and-battery-installations/) and [home battery](/services/home-battery-installations/), we can sort it.
+We install, maintain and relocate EV chargers for homes and businesses across the North West. As a [NAPIT-registered](/accreditations/napit/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we handle the lot - from the initial survey through to final testing and certification. Whether you want a standalone charger or you'd like it integrated with your [solar panels](/services/solar-and-battery-installations/) and [home battery](/services/home-battery-installations/), we can sort it.
 
 ## What customers say
 
@@ -23,7 +23,7 @@ Customers tend to mention the clear advice, the fair prices and the tidy workman
 
 > "Ashley was amazing! He removed my EV charger from my old house and came back and reinstalled at my new house... would highly recommend and wouldn't use anybody else now for any electrical work."
 
-If you're moving house, we offer a dedicated [EV charger relocation service](/ev-charger-relocation-manchester/) — taking the charger off the old property and reinstalling at the new one.
+If you're moving house, we offer a dedicated [EV charger relocation service](/ev-charger-relocation-manchester/) - taking the charger off the old property and reinstalling at the new one.
 
 ## Solar + EV integration
 
@@ -31,7 +31,7 @@ If you've already got solar panels, or you're thinking about getting them, we ca
 
 ## Installation process
 
-A qualified electrician will come out, look at your property's electrical setup, talk through what you want and recommend suitable options — you won't get a salesperson. That means the advice is honest and technically informed by someone who actually understands the work. We'll give you a quote with no hidden costs. The install itself is typically a day's work with minimal disruption, and afterwards you'll get all the certification and a walkthrough of how to use the new charger. Our NAPIT registration means you'll get the proper electrical certification that may be needed by your insurance or when selling the property. Same approach as we apply with our [electrical testing](/services/electrical-testing/) work.
+A qualified electrician will come out, look at your property's electrical setup, talk through what you want and recommend suitable options - you won't get a salesperson. That means the advice is honest and technically informed by someone who actually understands the work. We'll give you a quote with no hidden costs. The install itself is typically a day's work with minimal disruption, and afterwards you'll get all the certification and a walkthrough of how to use the new charger. Our NAPIT registration means you'll get the proper electrical certification that may be needed by your insurance or when selling the property. Same approach as we apply with our [electrical testing](/services/electrical-testing/) work.
 
 ## Charger options
 

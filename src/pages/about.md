@@ -12,15 +12,15 @@ noindex: false
 
 ## About Renegade Solar
 
-I'm Ashley Merritt and I run Renegade Solar from North Manchester. I've been working as an electrician for around fifteen years. Most of that has been commercial — factories, offices, industrial sites — though there's always been a fair amount of domestic alongside it.
+I'm Ashley Merritt and I run Renegade Solar from North Manchester. I've been working as an electrician for around fifteen years. Most of that has been commercial - factories, offices, industrial sites - though there's always been a fair amount of domestic alongside it.
 
 Between 2016 and 2018 I was working in the Channel Islands, mostly on high-end mansions and apartments. The work there ranged from loft conversions, kitchens and extensions through to bigger commercial and industrial jobs, including the Jersey Recycling Centre. When I came back to Manchester in 2018 I set up Renegade Electrical, and the solar side of the business has grown out of that since.
 
-We started doing more solar around three or four years ago, when the maths started properly working for most homes. Panels are cheaper than they used to be, electricity isn't, and batteries had got good enough to be worth fitting. We mainly use [DMEGC](/dmegc-solar-panel-installer-manchester/) and Trina Vertex panels — they hold up well on Manchester roofs, which we can say with some confidence from monitoring data on customers' systems over the years.
+We started doing more solar around three or four years ago, when the maths started properly working for most homes. Panels are cheaper than they used to be, electricity isn't, and batteries had got good enough to be worth fitting. We mainly use [DMEGC](/dmegc-solar-panel-installer-manchester/) and Trina Vertex panels - they hold up well on Manchester roofs, which we can say with some confidence from monitoring data on customers' systems over the years.
 
 Alongside the solar we do battery installations and the [related electrical work for extensions, loft conversions and renovations](/solar-and-battery-extensions-renovations-manchester/) across Greater Manchester.
 
-You don't have to be worried about climate change to want solar, though plenty of our customers are. For most homes the appeal is the bills — a typical semi with a south-facing roof can take a fair bit off electricity costs with a panel-and-battery setup, and the system pays back over time.
+You don't have to be worried about climate change to want solar, though plenty of our customers are. For most homes the appeal is the bills - a typical semi with a south-facing roof can take a fair bit off electricity costs with a panel-and-battery setup, and the system pays back over time.
 
 ## Working Locally
 

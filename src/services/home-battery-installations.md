@@ -11,11 +11,11 @@ gallery_tags:
 
 # Home Battery Installations in Manchester
 
-A home battery lets you store cheap electricity and use it when grid prices are higher. They work well even without solar panels, and pay for themselves through tariff arbitrage — buying overnight at off-peak rates and avoiding peak-rate electricity during the day.
+A home battery lets you store cheap electricity and use it when grid prices are higher. They work well even without solar panels, and pay for themselves through tariff arbitrage - buying overnight at off-peak rates and avoiding peak-rate electricity during the day.
 
 ## How home batteries save you money
 
-Off-peak electricity prices can be as little as **one third** the price of peak rates. Your battery automatically charges during the cheap periods (typically overnight) and powers your home when electricity is expensive. It works well with smart tariffs like [Octopus Go](/octopus-go-battery-installer-manchester/), and saves you money year-round — including in winter when solar panels are less effective.
+Off-peak electricity prices can be as little as **one third** the price of peak rates. Your battery automatically charges during the cheap periods (typically overnight) and powers your home when electricity is expensive. It works well with smart tariffs like [Octopus Go](/octopus-go-battery-installer-manchester/), and saves you money year-round - including in winter when solar panels are less effective.
 
 ## Real customer results
 
@@ -27,8 +27,8 @@ One of our Prestwich customers with a **6kWh Solax battery system** told us:
 
 We mainly fit batteries from:
 
-- [**Solax**](/solax-battery-installer-manchester/) — reliable systems with good smart integration
-- [**AlphaESS**](/alphaess-battery-installer-manchester/) — solid performance and decent monitoring
+- [**Solax**](/solax-battery-installer-manchester/) - reliable systems with good smart integration
+- [**AlphaESS**](/alphaess-battery-installer-manchester/) - solid performance and decent monitoring
 
 Battery sizes range from 6kWh upwards depending on your home's energy use. During the free consultation we'll look at your electricity bills and recommend a battery that fits your usage.
 
@@ -54,11 +54,11 @@ You can sell excess stored energy back to your electricity supplier. We handle t
 
 ### 1. Free Survey & Consultation
 
-A qualified electrician comes out to look at your property's electrical setup and your energy usage patterns, and works out the right battery for the situation — you won't get a salesperson. This matters because we've seen other installers recommend batteries in unsuitable locations like lofts, which contradicts safety guidelines. When an electrician specs the job, you get honest advice about what'll actually work safely in your home.
+A qualified electrician comes out to look at your property's electrical setup and your energy usage patterns, and works out the right battery for the situation - you won't get a salesperson. This matters because we've seen other installers recommend batteries in unsuitable locations like lofts, which contradicts safety guidelines. When an electrician specs the job, you get honest advice about what'll actually work safely in your home.
 
 ### 2. Flexible Installation
 
-Batteries can go in a range of locations — we've fitted them next to driveways, in garages, and other suitable spaces with minimal disruption.
+Batteries can go in a range of locations - we've fitted them next to driveways, in garages, and other suitable spaces with minimal disruption.
 
 ### 3. Professional Commissioning
 
@@ -106,7 +106,7 @@ Yes, regularly. We integrate batteries with existing solar installations all the
 
 ## Planning & permissions
 
-Most home battery installations don't require planning permission — they're typically installed as standalone units in suitable locations around the property. We handle the electrical regulations and provide the necessary certifications.
+Most home battery installations don't require planning permission - they're typically installed as standalone units in suitable locations around the property. We handle the electrical regulations and provide the necessary certifications.
 
 ## Financial benefits
 
