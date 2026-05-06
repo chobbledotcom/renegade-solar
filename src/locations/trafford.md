@@ -10,6 +10,6 @@ tags: location
 
 # Trafford
 
-Serving the Trafford area with expert solar panel installations and comprehensive electrical services. As MCS-certified installers, we provide reliable renewable energy solutions with personal oversight from Ashley throughout the entire process.
+We work across the Trafford area, covering solar, battery, EV charger and general electrical work for homes and businesses. Trafford's housing varies a lot, from Victorian terraces and bay-fronted semis through to the executive new-builds out towards [Hale](/hale/) and [Hale Barns](/hale-barns/), so the right approach for solar varies depending on which kind of property you're in.
 
-Our local knowledge of Trafford's properties ensures installations that are perfectly matched to your home or business requirements.
+Ashley does every survey himself and oversees every install. As an MCS-certified electrician, he'll give you a straight answer on whether solar makes financial sense for your property and what setup would work best.

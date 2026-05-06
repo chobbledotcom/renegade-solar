@@ -10,8 +10,8 @@ tags: location
 
 # Hale
 
-Renegade Solar provides professional solar panel installations and electrical services throughout Hale. As MCS-certified installers, we deliver high-quality renewable energy solutions for homes in one of Greater Manchester's most desirable areas.
+We cover Hale for solar, battery, EV charger and general electrical work. The area has a strong mix of larger detached and executive properties, most with generous south-facing roof space, which makes Hale well-suited to solar and battery systems that can take a real chunk off energy bills.
 
-Hale's large detached properties with generous roof space are well suited to solar and battery systems. We understand the area's mix of period homes and modern executive properties, and we're familiar with the conservation area considerations around South Hale and Hale Station.
+Hale also has the conservation considerations to be aware of - the area around South Hale and Hale Station is conservation area, which can affect what you can do on the front of the property. We're familiar with the constraints and can talk through your options.
 
-Every installation is personally overseen by Ashley Merritt, a fully qualified electrician with over 15 years of experience. When you contact us, you speak directly to an electrician who will survey your property and design your system - we don't employ salespeople.
+Ashley does every survey himself and oversees every install. As an MCS-certified electrician, he'll give you honest advice on whether solar makes sense for your property and what the right setup would look like.

@@ -10,6 +10,6 @@ tags: location
 
 # Marple
 
-Renegade Solar provides professional solar panel installations and electrical services throughout Marple, Rose Hill, Hawk Green, Marple Bridge, and Mellor. Our MCS-certified team delivers high-quality renewable energy solutions tailored to your property.
+We cover Marple, Rose Hill, Hawk Green, Marple Bridge and Mellor for solar, battery, EV charger and general electrical work. The area has a mix of Victorian terraces, semis and newer developments, all of which can take solar in different configurations.
 
-We understand Marple's mix of Victorian terraces, semis, and newer developments, and can recommend the most effective solar solutions for your specific property type.
+Ashley does the survey himself and oversees every installation. As an MCS-certified electrician, he can talk through what'll work on your specific roof and what the realistic returns look like for your usage.

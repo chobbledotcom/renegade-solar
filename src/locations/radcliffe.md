@@ -10,6 +10,6 @@ tags: location
 
 # Electrical Services in Radcliffe
 
-Renegade Solar provides comprehensive electrical services throughout Radcliffe. As NAPIT-registered electricians based nearby in Prestwich, we deliver professional solar panel installations, battery storage systems, and electrical services to homes and businesses across the area.
+We cover Radcliffe for solar, battery, EV charger, electrical testing and general electrical work. As NAPIT-registered electricians based nearby in Prestwich, we're a short trip away and can usually fit a survey in quickly.
 
-Our local knowledge of Radcliffe's diverse housing stock means we can recommend the most suitable renewable energy solutions for your specific property and energy requirements.
+Radcliffe's housing is a mix of older terraced properties and newer developments. Ashley does every survey himself, and as a qualified electrician he'll give you honest advice about what'll work on your specific roof and what won't.

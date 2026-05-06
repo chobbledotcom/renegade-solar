@@ -10,6 +10,6 @@ tags: location
 
 # Stockport
 
-We provide professional solar panel installations and electrical services throughout Stockport, including [Bramhall](/services/solar-and-battery-installations/bramhall/) and surrounding areas. As an MCS-certified installer, we deliver high-quality renewable energy solutions tailored to your specific property and energy requirements.
+We work across Stockport, including [Bramhall](/services/solar-and-battery-installations/bramhall/) and the surrounding area. The borough has a wide range of property types, from Victorian terraces near the centre to large detached homes around Bramhall and the leafier suburbs, and we've installed solar and battery systems on most of them at one point or another.
 
-We understand Stockport's diverse housing stock - from Victorian homes in [Bramhall](/services/solar-and-battery-installations/bramhall/) to modern developments - and can recommend the most effective solar solutions for maximum energy savings and environmental benefits.
+Ashley does every survey himself. As an MCS-certified electrician, he'll give you an honest opinion about what'll work on your property and what won't. We're based in Prestwich, around half an hour up the M60.
