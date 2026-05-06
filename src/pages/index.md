@@ -14,7 +14,7 @@ With a **{{ reviews.averageRating | round: 2 }}/10 rating from {{ reviews.total 
 
 # Personal Service
 
-Unlike national companies, our director Ashley personally oversees every installation. From the initial free home survey through to system design and installation, Ashley is your direct point of contact at every stage. We provide clear advice and aftercare to ensure your system performs well for years.
+Renegade Solar is run personally by Ashley Merritt. He does the free survey himself, designs the system, oversees the installation on site, and is the person you'll speak to if there's a question afterwards. We're a small Manchester business, and we don't subcontract installs to people we don't know - when there's someone on your roof it's either us or one of our regular roofers.
 
 ## Certified Installation
 

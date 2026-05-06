@@ -11,4 +11,4 @@ noindex: false
 
 # Our Services
 
-We're proud to offer the following services to customers across Greater Manchester and the wider North West UK:
+We work across Greater Manchester and the wider North West. The main services we offer are below.

@@ -12,26 +12,20 @@ noindex: false
 
 ## About Renegade Solar
 
-Renegade Solar is led by Ashley Merritt, based in North Manchester, with over 15 years' experience as an electrician, including 10 years in commercial projects.
+I'm Ashley Merritt and I run Renegade Solar from North Manchester. I've been working as an electrician for around fifteen years. Most of that has been commercial - factories, offices, industrial sites - though there's always been a fair amount of domestic alongside it.
 
-In 2016, Ashley worked in the Channel Islands on high-end mansions and apartments, providing electrical services for:
+Between 2016 and 2018 I was working in the Channel Islands, mostly on high-end mansions and apartments. The work there ranged from loft conversions, kitchens and extensions through to bigger commercial and industrial jobs, including the Jersey Recycling Centre. When I came back to Manchester in 2018 I set up Renegade Electrical, and the solar side of the business has grown out of that since.
 
-- Loft conversions
-- Kitchens
-- Extensions
-- Domestic and commercial properties
-- Industrial sites, including the Jersey Recycling Centre
+We started doing more solar around three or four years ago, when the maths started properly working for most homes. Panels are cheaper than they used to be, electricity isn't, and batteries had got good enough to be worth fitting. We mainly use [DMEGC](/dmegc-solar-panel-installer-manchester/) and Trina Vertex panels - they hold up well on Manchester roofs, which we can say with some confidence from monitoring data on customers' systems over the years.
 
-We bring that experience to [solar, battery and electrical work for extensions, loft conversions and renovations](/solar-and-battery-extensions-renovations-manchester/) across Greater Manchester today.
+Alongside the solar we do battery installations and the [related electrical work for extensions, loft conversions and renovations](/solar-and-battery-extensions-renovations-manchester/) across Greater Manchester.
 
-After returning to Manchester, Ashley established Renegade Electrical in 2018.
+You don't have to be worried about climate change to want solar, though plenty of our customers are. For most homes the appeal is the bills - a typical semi with a south-facing roof can take a fair bit off electricity costs with a panel-and-battery setup, and the system pays back over time.
 
-Like most people today, we're concerned about climate change. We understand the need for renewable solutions that suit different needs - whether that's a commercial business trying to cut energy costs or a family trying to save money. At Renegade Solar, we have solutions for you.
+## Working Locally
 
-Modern solar panels generate substantial power even on a rooftop in the North of England. We use quality [DMEGC](/dmegc-solar-panel-installer-manchester/) and Trina Vertex panels that perform well in our northern climate. Together with battery storage, you can make significant savings on your energy bills.
+Where we can, we use local people. Most of our roofers and scaffolders are Manchester-based, and they're the same ones we've worked with for years. We sponsor Blackley Lions FC, donate to The Lighthouse Project (a small charity in Middleton that supports families across North Manchester) every Christmas, and we're working with the University of Manchester on a mobile solar education unit that'll travel round schools and community events to show how solar actually works.
 
-## Committed to Our Community
+More on all of that in our [Social Value Policy](/social-value-policy/).
 
-We believe in giving back to the communities we serve. We prioritise local suppliers and contractors, sponsor Blackley Lions FC, support The Lighthouse Project charity, and are working with Manchester University on a mobile solar education unit for Greater Manchester. Read more in our [Social Value Policy](/social-value-policy/).
-
-**[Contact us](/contact/) for a quotation for solar panel installation.**
+For a quote, [get in touch](/contact/).

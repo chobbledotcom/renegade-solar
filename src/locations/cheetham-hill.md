@@ -10,6 +10,6 @@ tags: location
 
 # Cheetham Hill
 
-Renegade Solar brings professional solar installations and electrical services to Cheetham Hill. Our MCS-certified installers understand the unique characteristics of this diverse Manchester neighbourhood and provide tailored renewable energy solutions. Check our [{{ reviews.averageRating | round: 2 }}/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/).
+We cover Cheetham Hill for solar, battery, EV charger and general electrical work. Being based in Prestwich just up the road means we're often in the area, and Ashley can usually get out to a property quickly for a survey. Our [{{ reviews.averageRating | round: 2 }}/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/) covers work done across North Manchester.
 
-From our nearby Prestwich base, we're perfectly positioned to serve Cheetham Hill's mix of traditional terraced properties and modern developments with expert solar panel, battery storage, and electrical services.
+Cheetham Hill has a mix of traditional terraced housing and more recent developments. Ashley does every survey himself and oversees the installs, so the recommendations come from a qualified electrician who'll be on site doing the work.

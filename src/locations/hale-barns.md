@@ -10,8 +10,6 @@ tags: location
 
 # Hale Barns
 
-Renegade Solar provides professional solar panel installations and electrical services throughout Hale Barns. As MCS-certified installers, we deliver high-quality renewable energy solutions suited to the area's substantial properties.
+We cover Hale Barns for solar, battery, EV charger and general electrical work. Hale Barns has some of the larger residential properties in Greater Manchester, with generous roof space and higher energy use than typical homes. That combination makes solar and battery setups particularly worthwhile here, because the larger the roof and the bigger the bills, the faster the system pays back.
 
-Hale Barns is home to some of Greater Manchester's largest residential properties, with generous roof space and higher energy consumption than typical homes. These properties are ideal candidates for solar and battery systems that can make a real difference to energy bills.
-
-Every installation is personally overseen by Ashley Merritt, a fully qualified electrician with over 15 years of experience. When you contact us, you speak directly to an electrician who will survey your property and design your system - we don't employ salespeople.
+Ashley does every survey himself and oversees every install. As an MCS-certified electrician, he'll talk through what'll work on your property and what the realistic returns look like for the size of system you're considering.

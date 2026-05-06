@@ -9,6 +9,6 @@ tags: location
 
 # Renegade Solar in Prestwich
 
-We're Renegade Solar, led by Ashley, and we're based right here in Prestwich. We serve the local community with professional solar panel installations, battery storage systems, and electrical services.
+Renegade Solar is based in Prestwich, and most of the work we do is within ten or fifteen minutes of the front door. Ashley runs the company himself, doing surveys, designing systems and managing installs across solar, battery, EV charger and general electrical work.
 
-As your local renewable energy specialist, we understand the unique characteristics of properties in Prestwich and can provide tailored solutions for your home or business.
+If you're a Prestwich homeowner thinking about solar or a battery, we're a short trip away and can usually fit you in for a free survey quickly. Whichever job you're after, the same person who turns up for the survey will be the one designing the system, overseeing the install and answering the phone if there's a question afterwards.
