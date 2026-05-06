@@ -10,48 +10,28 @@ icon: /assets/icons/car.svg
 gallery_tags: [electric-vehicle]
 ---
 
-Expert EV charger installations throughout Blackley. As your local NAPIT-registered installer, we provide professional charging solutions for electric cars tailored to your property and driving needs.
+# EV Charger Installations in Blackley
 
-## Local EV Charging Service
+We install EV chargers across Blackley. Ashley does every survey himself, is a NAPIT-registered electrician, and we're based just down the road in Prestwich, so getting out for a survey isn't an issue.
 
-Based nearby in Prestwich, we serve the Blackley area with comprehensive EV charger installation services. Our local knowledge ensures installations that work perfectly with your home's electrical system.
+## What it costs to charge at home
 
-## Charging Your Car at Home
+A 7kW wall charger gets the car topped up overnight in the cheap rate window. On a tariff like Octopus Go that's 9.5p per kWh, against the 50-80p you'd pay at a public charger ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). The granny chargers that plug into a regular socket take most of the day, which means you're charging on peak rates and missing the savings entirely.
 
-You'll need a 7kW charger to make the most of cheap overnight rates. Granny chargers that plug into regular sockets are slow - they'll take all day, which means you're charging during expensive daytime hours. A proper wall-mounted charger gets your car topped up overnight when electricity is dirt cheap.
+You don't need solar to get on a time-of-use tariff - they're available to anyone with a smart meter.
 
-The chargers are weatherproof, so we can mount them outside no problem. Garage wall, house wall, wherever works for your parking. Cable runs from your consumer unit to the charger - if that's a long run or needs to go outside, we use heavy duty armoured cable that's built for it.
+## Chargers we install
 
-Installations are wrapped up in a day, mess is minimal. Your consumer unit needs to meet current standards, but if you've had solar or battery work done already, it will. You don't need solar to get cheap overnight electricity though - time-of-use tariffs are available to anyone.
+We're an Octopus Energy Trusted Partner, so we fit the full [Octopus charger range](https://octopus.energy/get-an-ev-charger/). These are smart units that wait for the cheap rate window before charging the car. If you've got Solax or AlphaESS solar or battery kit, their chargers integrate with their own systems and we fit those as well. If you've already ordered a different charger yourself, we'll install whatever you've got.
 
-## The Chargers We Fit
+## The install
 
-We're an **Octopus Energy Trusted Partner**, so we install the full [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/). These are smart chargers that automatically charge when electricity is cheapest - you just plug in and they sort the rest. On Octopus Go that's 9.5p per kWh overnight, compared to 50-80p at public chargers ((rac.co.uk)[https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/]).
+Most jobs are done in a day, and the chargers are weatherproof, so they go on whatever wall suits your parking. Where cable has to run outside from the consumer unit to the charger, we use armoured cable rated for outdoor use. The consumer unit needs to be up to current standards, but if you've had solar or battery work done it already will be.
 
-If you're running **Solax** or **AlphaESS** solar panels or batteries, their chargers integrate nicely. We fit those regularly.
-
-Already ordered a charger yourself? That's fine. We'll install whatever you've got.
-
-## Electric Cars Are Coming
-
-The 2030 ban on new petrol and diesel cars is getting closer. Blackley's well connected to Manchester's motorways (M60, M62), so rapid chargers for longer trips aren't hard to find. But for everyday driving - work, shops, school runs - home charging at 9.5p per kWh beats paying 50-80p at public chargers every time.
-
-## Customer Testimonials
+Blackley sits between the M60 and the M62, so there are rapid chargers nearby for longer trips.
 
 > "Ashley was amazing! He removed my EV charger from my old house and came back and reinstalled at my new house... would highly recommend and wouldn't use anybody else now for any electrical work."
 
 > "Fantastic communication, fantastic workmanship and a genuinely nice chap. Would not hesitate to recommend and will be using again."
 
-## Professional Installation Features
-
-- NAPIT-registered electrical certification
-- Smart chargers with mobile app control
-- Integration with time-of-use tariffs
-- Solar panel and battery compatibility
-- Same-day installation available
-
-## Why Choose Local Installation
-
-We don't do sales teams. Ashley visits to assess your property himself - as a qualified electrician, he'll tell you what you actually need rather than trying to upsell you. Our proximity to Blackley means quick response times for surveys and installations, plus ongoing support when you need it. We understand the local housing mix and can recommend the most cost-effective charging solution.
-
-**Ready to charge at home? [Contact us](/contact/) for your free EV charger consultation and quote.**
+[Contact us](/contact/) for a quote.

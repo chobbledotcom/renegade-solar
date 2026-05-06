@@ -8,75 +8,32 @@ icon: /assets/icons/car.svg
 gallery_tags: [electric-vehicle]
 ---
 
-Professional EV charger installations throughout Hale. As a NAPIT-registered installer based in North Manchester, we provide expert charging solutions suited to the area's diverse property types and vehicle requirements.
+# EV Charger Installations in Hale
 
-We recently completed work on Hale Road - a customer found us online because their Hypervolt charger had stopped working. We diagnosed the issue, liaised with Hypervolt directly, and got them back up and running. That's the kind of service we provide.
+We install EV chargers across Hale. Ashley is a NAPIT-registered electrician based in Prestwich, and over the years we've worked on chargers for BMW, Audi, Polestar, Range Rover, Tesla and pretty much everything else, so the brand of car isn't really the question.
 
-## Why Hale residents choose home EV charging
+A recent job on Hale Road came in because the customer's Hypervolt charger had stopped working. We diagnosed the fault, liaised with Hypervolt directly, and got them back up and running.
 
-**Public charging is expensive** - chargers at supermarkets and service stations typically cost 60-80p per kWh during peak times ((zapmap.com)[https://www.zapmap.com/ev-stats/charging-price-index]). Compare that to home charging on a smart tariff like Octopus Go at 9.5p per kWh overnight, and the savings add up quickly.
+## What it costs to charge at home
 
-**Perfect for commuting patterns** - Most Hale residents work in Manchester or travel for business. Having a fully charged car every morning means you can skip expensive public chargers entirely for daily driving. And with Manchester Airport just 15 minutes away, you'll arrive with a full battery rather than paying airport charging fees.
+Public chargers at supermarkets and service stations are running at 60-80p per kWh during peak times ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). On a tariff like Octopus Go, home charging is 9.5p overnight. For a daily commute into Manchester or a run to the airport (15 minutes down the M56), the difference adds up to a fair bit over the course of a year.
 
-**Slow charging works perfectly** - Your home charger charges overnight when electricity is cheapest. You plug in when you get home, and it's ready in the morning. No need for rapid charging when you're asleep anyway.
+A 7kW wall charger does the job overnight in the cheap rate window. Granny chargers that plug into a normal socket take most of the day and miss that window entirely.
 
-## Charger brands we install
+## Working with Hale properties
 
-We usually install **Omicro** chargers, but we've also fitted Wallbox and Tesla chargers. We're qualified to install any EV charger - whatever brand you prefer is fine with us.
+Hale has a mix of Victorian and Edwardian properties with traditional driveways, and most of those existing electrical supplies will handle a 7kW charger without any extra work. For listed buildings or properties in the conservation area around South Hale and Hale Station, we keep the mounting neat and discreet.
 
-If you're already running **Solax** or **AlphaESS** solar panels or home batteries, their EV chargers integrate well with their existing kit. We fit those regularly for customers who want everything working together.
+Many of the larger properties around Hale and Hale Barns have three-phase supplies that can take a 22kW charger if that suits your usage. Ashley started out on larger commercial setups, so three-phase work isn't an issue.
 
-We're also an **Octopus Energy Trusted Partner**, which means we install any of the [Octopus chargers](https://octopus.energy/get-an-ev-charger/). These smart chargers wait for the cheapest electricity rates before charging your car - you just plug in when you get home and the charger handles the timing.
+## Chargers we install
 
-## Vehicles we've worked with
+We usually fit Omicro chargers, but we've also installed Wallbox and Tesla chargers, and we're an Octopus Energy Trusted Partner so the full [Octopus range](https://octopus.energy/get-an-ev-charger/) is available too. If you've got Solax or AlphaESS solar or battery kit, their chargers integrate with their own systems. Whatever brand you've got in mind, we'll fit it.
 
-We've installed chargers for all sorts of vehicles - BMW, Audi, Polestar, Range Rover, Tesla, and more. The charger requirements are similar across most EVs, and we're experienced with the specific needs of different vehicles.
+## The install
 
-## Property types and charging solutions
+Most jobs are done in a day. The chargers are weatherproof, so they go on whatever wall suits your parking - garage, house wall, outside. Where cable has to run outside from the consumer unit, we use armoured cable rated for outdoor use.
 
-### Period properties
+We also cover [Hale Barns](/services/electric-vehicle-charger-installations/hale-barns/), [Altrincham](/services/electric-vehicle-charger-installations/altrincham/), Bowdon, and the surrounding villages.
 
-Hale's Victorian and Edwardian homes often have traditional driveways that are perfect for wall-mounted 7kW chargers. The existing electrical supply usually handles a modern EV charger without issues.
-
-Conservation area properties around South Hale and Hale Station need discrete installations. We specialise in neat, unobtrusive mounting that respects the architectural character.
-
-### Larger properties
-
-Many Hale properties have the electrical capacity for faster 22kW three-phase charging, which is ideal for larger EVs or households with multiple electric vehicles. We're comfortable with three-phase supplies - Ashley started out on larger commercial setups, so this doesn't phase us.
-
-## Why the installer matters
-
-The main difference between one EV charger and another is the aesthetics - functionally they all do the same job. What matters is the quality of the installation.
-
-When you contact us, a qualified electrician assesses your property - not a salesperson. We understand the technical requirements and won't recommend something unsuitable. All electrical work is done in-house by qualified electricians, and we follow NAPIT guidelines properly.
-
-## Real savings for Hale drivers
-
-**Daily Manchester commute** (20 mile round trip): Home charging costs under £2 vs £8-12 public charging.
-
-**Manchester Airport trips** (30 mile round trip): £3 home charging vs £15+ public rapids.
-
-**Weekend trips** (100+ miles): £8 home charging vs £40+ public charging en route.
-
-Over a year, typical savings are £1,500-2,500 versus relying on public charging.
-
-## Installation process
-
-The chargers are weatherproof, so mounting outside is no issue. Garage wall, house wall, wherever suits your parking. If we need to run cable from your consumer unit across the property, we use heavy duty armoured cable designed for outdoor installation.
-
-Most installations complete in a day with minimal disruption. We're tidy, respectful of your property, and leave everything properly finished.
-
-## Complete installation service
-
-- Property survey and consultation
-- Full NAPIT electrical certification
-- Smart tariff optimisation
-- Conservation area compliance
-- Solar/battery integration
-- Ongoing technical support
-
-## Nearby areas
-
-We also cover [Hale Barns](/services/electric-vehicle-charger-installations/hale-barns/), [Altrincham](/services/electric-vehicle-charger-installations/altrincham/), Bowdon, and surrounding areas.
-
-**[Contact us](/contact/) for your EV charger consultation.**
+[Contact us](/contact/) for a quote.
