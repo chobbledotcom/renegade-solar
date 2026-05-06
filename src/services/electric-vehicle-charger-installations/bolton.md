@@ -20,7 +20,7 @@ With Bolton currently having fewer than 80 public charge points, this expansion 
 
 ## EV Solutions for Bolton Properties
 
-Bolton's housing landscape is dominated by terraced and semi-detached properties, which together make up 70% of the town's homes. We provide expert EV charger installations across all Bolton property types, from traditional Victorian terraces in areas like Farnworth and Great Lever to modern developments in Horwich and Lostock.
+Terraced and semi-detached properties make up 70% of Bolton's homes. We install EV chargers on all property types, from Victorian terraces in Farnworth and Great Lever to modern developments in Horwich and Lostock.
 
 For Bolton's many terraced properties where off-street parking may be limited, we can advise on the best charging solutions and work within any planning requirements. The council's focus on high-density residential areas means public charging is expanding, but home charging remains the most convenient and cost-effective option where possible.
 

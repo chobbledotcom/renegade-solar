@@ -20,7 +20,7 @@ This isn't a service most installers actively offer. Ashley does, by name, in wr
 
 ## Why same-installer-both-ends matters
 
-It's not just convenient. It's better technically:
+There are technical advantages too:
 
 - **The disconnection is documented properly.** Ashley provides electrical certification for the work he's done at the old property - clean record for the buyer of your old house and for any future property sale.
 - **He already knows the kit.** When he arrives at the new property he isn't reverse-engineering somebody else's wiring.

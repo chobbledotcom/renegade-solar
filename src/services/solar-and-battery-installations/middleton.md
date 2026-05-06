@@ -10,30 +10,24 @@ tags: [middleton]
 gallery_tags: [solar-panels]
 ---
 
-Just a stone's throw from our Prestwich base, Middleton is an area we know like the back of our hand. As your local solar energy experts, we've helped countless Middleton homeowners transform their energy usage with custom solar solutions tailored to their specific property styles.
+Middleton is a short drive from our Prestwich base, and we've installed solar across the area. Middleton's housing ranges from Victorian terraces to modern new-builds, and we work with all property types.
 
-Middleton's diverse housing stock - from characterful Victorian terraces to modern new-builds - presents unique opportunities for solar installations. **Every home has potential** for renewable energy generation, and we're experts at finding the perfect solution for your specific property.
+## System sizing for Middleton properties
 
-## Unlock Your Home's Energy Potential
+South-facing roofs are ideal but east-west orientations also work well. Panels on both east and west slopes generate more total energy across the day than a south-only setup, and the spread of generation matches when most households actually use electricity.
 
-Your Middleton home could be perfectly positioned to harness solar power. Whether you have an ideal south-facing roof or an east-west orientation, you could generate impressive amounts of clean energy with a customised setup. You might be surprised at just how efficient your system could be, regardless of your property type.
+Pairing solar panels with a [home battery system](/services/home-battery-installations/) lets you store surplus generation and use it later. On a time-of-use tariff like Octopus Go, the payback maths work better than on standard flat-rate tariffs.
 
-When you pair solar panels with a [home battery system](/services/home-battery-installations/), you could create an even more powerful energy solution. You'll be able to store excess energy produced during sunny periods and use it exactly when you need it - **dramatically cutting your electricity bills** while reducing your carbon footprint.
+## Costs and returns
 
-## Transform Your Energy Future
+A 4kW system in Middleton produces around 3,250 kWh per year. For a typical household that's £350-570 off your annual energy bills, plus around 4% added to your property value. Solar also bumps your EPC rating by roughly one band.
 
-You could significantly transform your home's energy profile with a tailored solar solution. Middleton residents are increasingly embracing renewable energy, and it's easy to see why. Beyond the environmental benefits, you could achieve remarkable savings on your energy bills - particularly valuable as traditional energy costs continue to rise.
+## Why us
 
-With the right solar setup, you could generate enough power to cover most of your electricity needs during spring and summer months. Add a battery system and you'll have crucial backup power during evening hours and cloudier days.
+Ashley personally handles surveys and system design, so you get technical advice from a qualified electrician rather than a salesperson working from a script. Being minutes from Middleton means quick response times for surveys and any aftercare. We're MCS-certified (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)) and Ashley oversees everything from survey through to commissioning. [Electrical testing](/services/electrical-testing/) is part of every install.
 
-## Expert Support Throughout Your Solar Journey
+## Areas we cover in Middleton
 
-Ashley personally handles surveys and system design - you won't be passed to a salesperson working from a script. That means you get technical advice from someone who actually understands your electrical setup, not generic recommendations. Being just minutes away from Middleton means you'll receive **prompt, attentive service** whenever you need it. You won't have to worry about planning considerations as we have excellent relationships with Rochdale Council for any permissions you might need.
+Alkrington, Birch, Bowlee, Boarshaw, Hollins, Langley, Mills Hill, Rhodes, and Middleton Junction.
 
-You could have complete peace of mind with our MCS-certified installation service (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)). Ashley oversees everything from the initial survey through to commissioning your system. With our comprehensive [electrical testing](/services/electrical-testing/), you can be confident your installation meets the highest safety standards.
-
-## Available Throughout Middleton
-
-You can access our expert solar services no matter where you're located in Middleton. Whether you're in Alkrington, Birch, Bowlee, Boarshaw, Hollins, Langley, Mills Hill, Rhodes, or Middleton Junction, you're just a call away from transforming your home's energy future.
-
-Curious about what you could achieve with solar at your Middleton home? [Contact us](/contact/) today for a friendly, no-pressure chat about your options. You could be making smarter energy choices sooner than you think!
+[Contact us](/contact/) for a no-obligation quote. If solar won't work on your property, we'll tell you.
