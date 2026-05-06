@@ -8,50 +8,30 @@ heading: EV Charger Installations in Cheetham Hill
 tags: [cheetham-hill]
 icon: /assets/icons/car.svg
 gallery_tags: [electric-vehicle]
-# Review reference from src/_data/reviews.json
-# Review at index [18] - M9 Blackley customer on quick turnaround
 ---
 
 # EV Charger Installations in Cheetham Hill
 
-Need an EV charger installed in Cheetham Hill? We're Renegade Solar, led by Ashley, your local NAPIT-registered electrician based in nearby Prestwich. As an Octopus Energy Trusted Partner with a [{{ reviews.averageRating | round: 2 }}/10 Checkatrade rating](https://www.checkatrade.com/trades/renegadeelectrical/), we'll get your home charging sorted properly.
+We install EV chargers across Cheetham Hill. Ashley is a NAPIT-registered electrician and an Octopus Energy Trusted Partner, and we're based just up the road in Prestwich.
 
-## Save Thousands on Charging Costs
+## What it costs to charge at home
 
-Public charging at Manchester Fort costs 50-80p per kWh ((rac.co.uk)[https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/]). Home charging on Octopus Go costs just 9.5p overnight. That daily commute into Manchester? Under £2 at home versus over £10 at public chargers. Over a year, you'll save £1,500-2,000 by charging at home.
+Public chargers around Manchester Fort cost 50-80p per kWh ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). On a tariff like Octopus Go, home charging overnight is 9.5p. For a typical commute into the city, that works out to around £2 at home against £10 or more at the public charger, and over a year the difference adds up to a fair bit.
 
-The [government's EV grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) covers up to £350 off installation costs. We're OZEV-approved and handle all the paperwork, making the process straightforward.
+The [government EV grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) covers up to £350 off the install. We're OZEV-approved and we sort the paperwork.
 
-## Cheetham Hill Properties? No Problem
+## Working with Cheetham Hill properties
 
-Whether you've got a Victorian terrace, semi-detached with a drive, or a flat with allocated parking, we'll find a solution that works. We've installed chargers using rear access points, cable runs to front parking, and we've worked with property management for shared facilities. We'll always be clear about what's being done and where the cabling needs to go.
+Cheetham Hill has a mix of Victorian terraces, semis with driveways, and converted flats. For terraces without off-street parking, we run cable through to rear access where it's available, or fit a front-mounted charger with proper cable management. For converted flats we'll work with the management company on what's possible. Either way, we walk you through where the cable's running before any of it goes in.
 
-## Fast, Tidy Installation
+## Chargers we install
 
-The charger install is quick - done in a day, usually half a day for straightforward setups. The units are weatherproof, so they can go wherever makes sense for your parking spot. If your consumer unit is on the other side of the house from where you park, no worries - we run heavy duty armoured cable that's designed to go outside.
+We fit the full [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/) - smart chargers that wait for the cheap rate window before charging the car. If you've got Solax or AlphaESS solar or battery kit, their chargers integrate with their own systems and we fit those as well. If you've ordered a different charger yourself, we'll install whatever you've got.
 
-Minimal mess, and your consumer unit needs to be up to spec. If you've got solar panels or a battery already, it will be. If not, you can still get on a cheap overnight tariff just for charging your car.
+## The install
 
-## What Goes In
+Most jobs are done in a day, and often half a day for a straightforward setup. The chargers are weatherproof, so they go on whatever wall makes sense - garage, exterior wall, wherever the parking sits. Where cable runs outside from the consumer unit to the charger, we use armoured cable rated for outdoor work.
 
-We're an **Octopus Energy Trusted Partner**, so we fit any of the [Octopus EV chargers](https://octopus.energy/get-an-ev-charger/). Smart units that charge your car when rates are cheapest - 9.5p per kWh on Octopus Go versus the 50-80p you'd pay at a public charger. Just plug in, they handle the timing.
+The consumer unit needs to be up to current standards, but if you've had solar or battery work done it already will be. You don't need solar to get on a time-of-use tariff - that's available to anyone with a smart meter.
 
-Got **Solax** or **AlphaESS** kit? Their chargers integrate with their solar and battery systems. We fit those too.
-
-Or if you've bought something else, that's fine. We'll install whatever charger you want.
-
-## Why Home Charging Beats Public
-
-With new petrol and diesel cars being banned from 2030, electric's where we're all heading. Manchester's motorway network means rapid chargers are easy to find for longer trips. But day-to-day? Home charging costs a fraction of public charging.
-
-A 7kW charger tops up your car overnight during the cheap window. Granny chargers that plug into normal sockets take all day - you'll miss the cheap rates and pay way more. Proper charger means you wake up ready to go for a couple of quid.
-
-## Why Choose Renegade Solar?
-
-We're based minutes away in Prestwich, so there's no travel charges or waiting around. When Ashley comes to assess your property, you're getting advice from a qualified electrician who understands what's actually needed - not a salesperson working through a list of upsells. We'll give you honest advice about the best charger for your needs and budget. Most installations complete in half a day, and we handle everything – including any electrical upgrades you might need. One Blackley customer had their charger installed within days of first contact – that's the quick turnaround you can expect.
-
-## Ready to Start Saving?
-
-Stop paying a fortune at public chargers. With home charging, you'll wake up to a fully charged car every morning – and it'll cost you a fraction of what you're paying now.
-
-**Get your EV charger installed by a trusted local electrician. [Contact us today](/contact/) for a straightforward quote.**
+[Contact us](/contact/) for a quote.

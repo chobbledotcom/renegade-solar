@@ -10,50 +10,26 @@ icon: /assets/icons/car.svg
 gallery_tags: [electric-vehicle]
 ---
 
-Expert EV charger installations throughout Trafford. NAPIT-registered service providing smart charging solutions for electric cars with renewable energy integration capabilities.
+# EV Charger Installations in Trafford
 
-## Trafford EV Charging Service
+We install EV chargers across Trafford, covering Altrincham, Sale, Stretford, and the surrounding areas. Ashley is a NAPIT-registered electrician and an Octopus Energy Trusted Partner.
 
-We serve the entire Trafford area with professional EV charger installations, from Altrincham to Sale and beyond. Our expertise covers all property types and electrical configurations.
+## What it costs to charge at home
 
-## Cost Comparison
+Public chargers cost 50-80p per kWh ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). On a tariff like Octopus Go, home charging is 9.5p overnight. For someone doing regular driving, the difference adds up to a fair bit over the course of a year. The motorway network through Trafford (M60, M56, M6) means rapid chargers for the long trips are easy to find.
 
-Public chargers cost 50-80p per kWh ((zapmap.com)[https://www.zapmap.com/ev-stats/charging-price-index]). Get on a time-of-use tariff like Octopus Go and you're paying 9.5p overnight at home. That's a massive difference for anyone doing regular driving. Manchester's motorway network (M60, M56, M6) means rapid chargers aren't hard to find for long trips, but daily charging at home is way cheaper.
+A 7kW wall charger does the job overnight in the cheap rate window. Granny chargers that plug into a normal socket take most of the day, which means you're paying daytime rates and missing the savings.
 
-With the 2030 ban on new petrol and diesel cars approaching, more people are making the switch. A 7kW home charger gets your car charged overnight during the cheap window. Granny chargers that plug into regular sockets? They take all day, so you end up charging during expensive daytime rates.
+## Chargers we install
 
-## What We Fit
+We fit the full [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/) - smart chargers that wait for the cheap rate window before charging the car. If you've got Solax or AlphaESS solar or battery kit, their chargers integrate with their own systems and we fit those as well. If you've ordered a different charger yourself, we'll install whatever you've got.
 
-We're an **Octopus Energy Trusted Partner**, installing their full [EV charger range](https://octopus.energy/get-an-ev-charger/). These smart chargers wait for cheap rates before charging - you plug in, they sort the timing. On Octopus Go that's 9.5p per kWh overnight.
+## The install
 
-If you're running **Solax** or **AlphaESS** solar or battery systems, we fit their chargers too. They integrate with their own equipment nicely.
-
-Bought a different charger already? No problem. We'll install whatever you've ordered.
-
-## The Install
-
-Chargers are weatherproof units that can go wherever suits your parking - garage wall, house wall, outside. Cable runs from your consumer unit to the charger. If that means going outside, we use heavy duty armoured cable built for it.
-
-Jobs get done in a day, mess is kept minimal. Your consumer unit needs to meet current standards - if you've had solar or battery work done, it'll be fine. Even without solar, you can get a time-of-use tariff for cheap overnight car charging.
-
-## Professional Excellence
+Most jobs are done in a day. The chargers are weatherproof, so they go on whatever wall suits your parking - garage, outside, wherever works. Where cable has to run outside from the consumer unit, we use armoured cable rated for outdoor use. The consumer unit needs to be up to current standards, but if you've had solar or battery work done it already will be.
 
 > "Ashley was very knowledgeable polite and helpful. his workmanship was second to none i would definitely recommend him. excellent work."
 
 > "Ashley fitted an EV charger for me and provided lots of brilliant advice prior to doing so... His advice even allowed me to keep costs down and his prices were the best quotes I had."
 
-## Comprehensive Installation
-
-When you book a survey, Ashley visits personally - you're dealing directly with the electrician who understands what your property needs, not someone reading from a sales script.
-
-- Detailed electrical system assessment
-- OZEV grant-approved charging units
-- Smart chargers with mobile app control
-- Complete NAPIT certification
-- Solar panel and battery integration
-
-## Trafford Area Coverage
-
-Our established presence serving Greater Manchester means reliable, professional service throughout Trafford with competitive pricing and ongoing support.
-
-**Ready for home EV charging? [Contact us](/contact/) for your free consultation and competitive quote.**
+[Contact us](/contact/) for a quote.

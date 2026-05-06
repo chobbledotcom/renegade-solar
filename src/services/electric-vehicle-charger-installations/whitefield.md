@@ -10,76 +10,32 @@ icon: /assets/icons/car.svg
 gallery_tags: [electric-vehicle]
 ---
 
-Professional EV charger installations throughout Whitefield. Based just down the road in Prestwich, we understand exactly what Whitefield residents need for home EV charging and provide expert solutions tailored to the area's diverse property types.
+# EV Charger Installations in Whitefield
 
-## Why Whitefield Residents Choose Home EV Charging
+We install EV chargers across Whitefield. Ashley is a NAPIT-registered electrician and we're based just down the road in [Prestwich](/prestwich/), so getting out for a survey isn't an issue.
 
-**Public charging's a proper pain** - While there are chargers dotted around at local supermarkets and petrol stations, they're all dead expensive at 60-80p per kWh ((zapmap.com)[https://www.zapmap.com/ev-stats/charging-price-index]) and often occupied when you need them most. Even the planned charging points around Greater Manchester will cost far more than charging at home overnight on a smart tariff.
+## What it costs to charge at home
 
-**Perfect for commuting patterns** - Whether you're nipping into Manchester city centre via the A56 or heading to work in Bury, having your car fully charged every morning saves you a few tenners every time compared to public charging. Plus if you're off to the Trafford Centre or Manchester Airport, you'll arrive with a full battery without paying through the nose.
+Public chargers at supermarkets and petrol stations are running at 60-80p per kWh ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). On a tariff like Octopus Go, home charging is 9.5p overnight. For a daily run into Manchester via the A56, or trips to the Trafford Centre or Manchester Airport, the difference adds up to a fair bit over the course of a year.
 
-**Slow charging works brilliantly** - Your home charger won't be a supercharger like you'll find at some public spots, but that's absolutely fine because you can charge slowly overnight when the leccy is dead cheap. Who needs rapid charging when you're asleep anyway?
+A 7kW wall charger does the job overnight in the cheap rate window. Granny chargers that plug into a normal socket take most of the day, which means you're paying daytime rates and missing the savings entirely.
 
-## Whitefield Property Types and EV Solutions
+## Working with Whitefield properties
 
-**Victorian and Edwardian terraces** around central Whitefield often have rear access through back streets, making them ideal for installing chargers in back yards with cable runs to front parking. We've done loads of these installations where residents park on the main roads through town. Most have been upgraded with modern electrical systems that can easily handle 7kW charging, though we check each property properly.
+Whitefield has a wide mix of housing - Victorian and Edwardian terraces around the centre, 1930s and post-war semis around Besses, and newer developments on the edges. For terraces with rear access we run cable through to the back. For semis with driveways the wall by the parking is usually the easiest spot. For newer estates the electrical supply tends to be ready to go. Most installs are done in a day.
 
-**1930s and post-war semis** are common throughout Whitefield, particularly around the Besses area. These typically have driveways perfect for wall-mounted chargers, and the electrical systems usually cope with modern EV charging without any bother. These family homes often benefit from future-proofing for second EVs as the kids grow up.
+## Chargers we install
 
-**Modern developments** around the edges of Whitefield often come with adequate electrical supplies and proper parking, making installations dead straightforward. Some newer estates even benefit from shared charging setups that we can design for multiple residents.
+We're an Octopus Energy Trusted Partner, so we fit the full [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/). These are smart units that wait for the cheap rate window before charging the car. If you've got Solax or AlphaESS solar or battery kit, their chargers integrate with their own systems and we fit those as well. If you've already ordered something different, we'll install whatever you've got.
 
-## Local Infrastructure and Installation
+## The install
 
-The Metrolink stops are handy for getting into town, but they don't help when you need your car charged for weekend trips or family runs. The cracking electrical infrastructure around Whitefield means our installations rarely need supply upgrades, keeping costs down and getting your charger installed quickly without any fuss.
+The chargers are weatherproof, so they go on whatever wall suits your parking - garage, outside, wherever works. Where cable has to run outside from the consumer unit, we use armoured cable rated for outdoor use. The consumer unit needs to be up to current standards, but if you've had solar or battery work done it already will be.
 
-## The 2030 Switch
-
-New petrol and diesel cars are getting banned in 2030, so electric's the future whether we like it or not. Whitefield's got decent motorway links (M60, M62), which means finding rapid chargers for longer trips isn't difficult. But for daily driving, home charging at 9.5p per kWh makes way more sense than paying 50-80p at public chargers.
-
-Public chargers cost a fortune. Time-of-use tariffs like Octopus Go let you charge overnight for peanuts. A 7kW home charger gets your car fully topped up during that cheap window. Try that with a granny charger that plugs into a regular socket - it'll take all day and cost you loads more.
-
-## What Gets Installed
-
-If you've got **Solax** or **AlphaESS** solar panels or batteries, we fit their chargers. They integrate with their own kit nicely.
-
-We're an **Octopus Energy Trusted Partner** too, so we install the full [Octopus charger range](https://octopus.energy/get-an-ev-charger/). Smart chargers that automatically charge when rates are lowest - 9.5p per kWh on Octopus Go. You plug in, they handle the timing.
-
-Picked out a different charger? Order it and we'll install it.
-
-## How It Works
-
-Chargers are weatherproof, so outside mounting is fine. Garage, house wall, doesn't matter. We run heavy duty armoured cable from your consumer unit to the charger - it's designed for outdoor installation if needed.
-
-Done in a day, minimal mess. Consumer unit needs to meet current standards, but if you've had solar or battery fitted, it already will. You don't need solar to get cheap overnight rates though - time-of-use tariffs are available to anyone.
-
-## Real Savings for Whitefield Families
-
-A daily Manchester commute (18-mile round trip) costs about £1.80 with home charging versus £10-12 at public chargers. Weekend shopping trips to the Trafford Centre (25-mile round trip) cost £2.50 at home versus £15+ at public rapids. Family days out to Blackpool or the Lakes (100+ miles) cost £8-9 at home versus £40+ with public charging. 
-
-Over a year, typical Whitefield families save £1,000-1,800 compared to relying on public charging - that's a proper chunk of change back in your pocket.
-
-## Installation Know-How for Whitefield Properties
-
-We've got bags of experience with Whitefield's mix of property types, from creative solutions for terraced houses to straightforward driveway installations for semis and modern homes. Where needed, we'll upgrade older electrical panels to handle modern EV charging safely and legally.
-
-Our installations respect the character of different areas around Whitefield with neat, unobtrusive mounting that won't upset the neighbours. Most installations get completed within a day, often just a few hours for straightforward properties.
-
-## Local Knowledge Advantage
-
-No corporate sales team - when you get in touch, Ashley comes out personally. He's the electrician doing the work, so you get proper advice about what your property needs rather than a generic quote. Being based just down the road means we know Bury Council's requirements like the back of our hand, plus any considerations for different areas around Whitefield. Having worked on hundreds of local properties, Ashley can quickly spot the best charging solutions for different house types and electrical setups.
-
-Our local base means proper competitive pricing without the travel charges that out-of-area installers whack on - and we're always nearby if you need any support down the line.
-
-## What Our Customers Say
+Whitefield has decent motorway access (M60, M62) for longer trips when you need a rapid charger.
 
 > "Ashley was amazing! He removed my EV charger from my old house and came back and reinstalled at my new house... would highly recommend and wouldn't use anybody else now for any electrical work."
 
 > "Excellent work, on time and did what he said was needed. Wouldn't go with anyone else. Top work"
 
-## Complete Installation Service
-
-We provide free property surveys and consultations with OZEV grant-approved smart chargers and full NAPIT electrical certification. Our service includes smart tariff optimisation, solar and battery integration, consumer unit upgrades when needed, same-day completion in most cases, and ongoing local support.
-
-We cover all areas of Whitefield including the town centre, Besses, Higher Whitefield, Lower Whitefield, and surrounding areas. Being based nearby in Prestwich means we can get to you quickly and provide proper ongoing support when you need it.
-
-**Your local EV charging specialist - based nearby, working for Whitefield residents. Ready to start saving on your daily driving? [Contact us](/contact/) for your free consultation.**
+[Contact us](/contact/) for a quote.
