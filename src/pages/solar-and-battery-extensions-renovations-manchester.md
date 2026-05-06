@@ -10,81 +10,50 @@ noindex: false
 
 ## An electrician who's done your kind of project
 
-Most solar installers are solar installers. Ashley was an **electrician for 20+ years before he was an MCS-certified solar installer**, and his prior trade is *exactly* what your job needs - he spent **2016 working in the Channel Islands on high-end mansions and apartments**, providing electrical services for **loft conversions, kitchens, extensions, domestic and commercial properties, and industrial sites including the Jersey Recycling Centre**.
+Most solar installers are solar installers. Ashley was an electrician for around twenty years before he was an MCS-certified solar installer, and that prior trade is the part that matters for renovation work - he spent 2016 in the Channel Islands doing electrical work on high-end mansions and apartments, taking in loft conversions, kitchens, extensions, domestic and commercial properties, and industrial sites including the Jersey Recycling Centre. The things you're already pulling your house apart for, in other words, are the things he's been the electrician on.
 
-In other words, the things you're already pulling your house apart for? He's been the electrician on those exact projects.
-
-After returning to Manchester, he established **Renegade Electrical in 2018**, and the solar side grew out of that. The order matters: solar is added to a real electrician's toolkit, not the other way round.
+After coming back to Manchester he set up Renegade Electrical in 2018, and the solar side has grown out of that since. The order matters: solar got added to a real electrician's toolkit, not the other way round.
 
 ## Why this matters during a renovation
 
-A renovation involves multiple trades arriving in the right order, the consumer unit potentially getting moved or upgraded, and decisions about cable runs that have to be made before the plasterer turns up. Most solar installers can't help you with any of that. Ashley can:
+A renovation involves multiple trades arriving in the right order, the consumer unit potentially getting moved or upgraded, and decisions about cable runs that have to be made before the plasterer turns up. Most solar installers can't help you with any of that. Ashley can - he's already made those decisions on previous renovations, he can coordinate timing with your roofer, scaffolder and main contractor (we work with local roofers and scaffolders we've used for years), he can spec the consumer unit upgrade himself rather than subcontract it, and he'll route cables through the build-up rather than surface-mount them after the fact.
 
-- He's already made those decisions on previous renovations
-- He can coordinate timing with your roofer, scaffolder and main contractor (we work with local roofers and scaffolders on every project)
-- He can spec the consumer unit upgrade himself, not subcontract it
-- He'll route cables through the build-up, not surface-mount them after the fact
+## When during the build to bring Ashley in
 
-## When during a renovation to bring Ashley in
+The earlier the better. A lot of decisions that affect a solar or battery install need to be made before second fix - cable routes for panels, inverter and battery; consumer unit position and capacity (does it need uprating?); where the battery is going and whether the building work allows that route; whether there's an EV charger feed to run while walls are open; and the order of operations on the roof if scaffolding is up for roofing or rendering anyway.
 
-The earlier the better. Decisions that affect a solar/battery install often need to be made before second fix:
-
-- **Cable routes** for panels, inverter and battery
-- **Consumer unit position and capacity** - does it need uprating?
-- **Battery location** - where is it going, and will the building work allow that route?
-- **EV charger feed** - run the cable while walls are open
-- **Roof access and structure** - if scaffolding is up for roofing or rendering, Ashley can work alongside the roofer
-
-A heads-up he's seen too often: **other installers recommend unsuitable or even dangerous setups - like batteries in lofts, which contradicts NAPIT safety guidelines**. When sales-trained installers spec jobs without an electrician on the survey, corners get cut. With Ashley, the person who walks the property is the person who installs it - and won't recommend something inappropriate just to make a sale.
+One thing worth flagging: we still see other installers recommending unsuitable or dangerous setups - batteries in lofts, for example, which goes against NAPIT safety guidance. When sales-trained installers spec jobs without an electrician on the survey, corners get cut. With Ashley, the person walking the property is the person installing it, and he won't recommend something inappropriate just to land a sale.
 
 ## Loft conversions
 
-Loft conversions are a particularly good moment for solar. The roof is already being touched, scaffolding's up, structural changes are being signed off anyway. Ashley can:
-
-- Install solar panels while the scaffold is already in place
-- Plan cable routes through the new build-up before plasterboard goes on
-- Coordinate with your roofer on the order of operations
-- Spec any electrical changes the conversion itself needs (lighting, sockets, possibly a bathroom feed)
-
-A loft conversion typically increases a home's electrical demand. Solar offsets some of that without changing your bills.
+Loft conversions are a particularly good moment for solar. The roof is already being touched, scaffolding's up, structural changes are being signed off anyway. Ashley can install panels while the scaffold is in place, plan cable routes through the new build-up before plasterboard goes on, coordinate with your roofer on the order of operations, and spec any electrical changes the conversion itself needs - lighting, sockets, possibly a bathroom feed. A loft conversion typically increases a home's electrical demand, and solar offsets some of that without changing your bills.
 
 ## Extensions and rear builds
 
-Extensions create new roof space - flat on a single-storey, pitched on a two-storey. **Flat roofs let us mount panels pointing south regardless of building orientation**, which is particularly useful when the extension itself faces the wrong way.
-
-If the existing house is the wrong orientation for solar but a new extension provides a south-facing flat roof, that's often where the panels go.
+Extensions create new roof space - flat on a single-storey, pitched on a two-storey. Flat roofs let us mount panels facing south regardless of how the building itself is oriented, which is particularly useful when the existing house faces the wrong way. If the original roof is the wrong orientation for solar but a new extension provides a south-facing flat roof, that's often where the panels end up.
 
 ## Full refurbishments and self-builds
 
-A full refurb or self-build is the cleanest scenario. Everything is fresh, the consumer unit is new, and you can plan the system as part of the design rather than retrofitting around what's already there. Ashley personally oversees the whole thing - design, supply, install, commissioning, aftercare - so you've got one direct contact across the project.
-
-He fits [DMEGC](/dmegc-solar-panel-installer-manchester/) and [Trina Vertex](/trina-vertex-solar-panel-installer-manchester/) panels, with [Solax](/solax-battery-installer-manchester/) or [AlphaESS](/alphaess-battery-installer-manchester/) batteries from 6kWh up.
+A full refurb or self-build is the cleanest scenario - everything is fresh, the consumer unit is new, and you can plan the system as part of the design rather than retrofitting around what's already there. Ashley personally oversees the whole thing - design, supply, install, commissioning, aftercare - so you've got one direct contact across the project. He fits [DMEGC](/dmegc-solar-panel-installer-manchester/) and [Trina Vertex](/trina-vertex-solar-panel-installer-manchester/) panels, with [Solax](/solax-battery-installer-manchester/) or [AlphaESS](/alphaess-battery-installer-manchester/) batteries from 6kWh up.
 
 ## In a customer's own words
 
 > "Since then Ashley has fitted solar panels and a battery, a doorbell, new light sockets, outdoor lighting & power, a bathroom extractor fan, removed old ariels, and probably more stuff I can't remember."
 
-That's a customer in M25 who started with one job and kept calling Ashley back across a series of works on the property - one trade, one phone number, one electrician who knows the building. That's the renovation pattern.
-
-## Why you'd hire Ashley specifically
-
-- **He's done your kind of project before, in the trade.** Not abstractly aware of how renovations work - he's been the electrician on Channel Islands extensions and loft conversions.
-- **No subcontracting on electrical work.** Ashley does the electrical himself. Many installers subcontract their wiring out.
-- **Direct access to the principal.** No call centre, no account manager. Ashley's number is the number.
-- **Honest design advice.** If the system you're imagining doesn't make sense for your build, he'll tell you and propose what does.
+That's a customer in M25 who started with one job and kept calling Ashley back across a series of works on the property. One trade, one phone number, one electrician who knows the building - that's how the renovation work tends to play out for us.
 
 ## Credentials
 
-- [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870)
-- [**TrustMark Registered**](/accreditations/trustmark/)
-- [**NAPIT Registered**](/accreditations/napit/) (66870)
-- [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
-- **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews
+- [MCS-certified](/accreditations/mcs-certified/) installer (NAP-66870)
+- [TrustMark Registered](/accreditations/trustmark/)
+- [NAPIT Registered](/accreditations/napit/) (66870)
+- [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/)
+- {{ reviews.averageRating | round: 2 }}/10 on Checkatrade from {{ reviews.total }}+ verified reviews
 - 5-year minimum warranty on all equipment, panels warranted up to 30 years
 - 2 years routine maintenance included on every installation
 
 ## Coverage
 
-Based in Prestwich, Ashley serves renovation, extension and self-build projects across Greater Manchester and the wider North West.
+Based in Prestwich, we serve renovation, extension and self-build projects across Greater Manchester and the wider North West.
 
-**[Get in touch](/contact/)** to discuss adding solar, battery or EV charging to your renovation.
+[Get in touch](/contact/) to discuss adding solar, battery or EV charging to your renovation.

@@ -8,67 +8,41 @@ layout: page.html
 noindex: false
 ---
 
-## Off-grid means you can't fall back to the mains. Sizing it right matters.
+## Off-grid solar across the North West
 
-Not every site has a sensible grid connection. For businesses in rural locations or where bringing in mains power would be prohibitively expensive, an **off-grid solar system** can take you off the diesel generator entirely.
+Not every site has a sensible grid connection. For businesses in rural locations, or anywhere bringing mains power in would be prohibitively expensive, an off-grid solar system can take you off the diesel generator entirely. The thing about off-grid is that there's no fallback - if the system is undersized you run out of power, and if it's oversized you've spent money you didn't need to. Getting it right means designing around your actual usage rather than guessing, and that needs an electrician walking the site, not a sales rep working from a quote tool.
 
-The thing about off-grid is that there's no fallback. If the system is undersized you run out of power. If it's oversized you've spent money you didn't need to. Getting it right means designing around your actual usage rather than guessing - and that needs an electrician walking the site, not a sales rep working from a quote tool.
+## Who runs the work
 
-## Who you'd be hiring
+Renegade Solar is run by Ashley Merritt. He's been an electrician for around twenty years, with about ten of those on commercial projects including industrial sites such as the Jersey Recycling Centre. That commercial-electrician background matters specifically for off-grid work, where you're effectively designing a self-contained electrical system from scratch rather than tying into one that's already there.
 
-Ashley Merritt is the named director of Renegade Solar. **20+ years' experience as an electrician**, including **10 years on commercial projects** and electrical work on industrial sites such as the Jersey Recycling Centre. That commercial-electrician background matters specifically for off-grid work, where you're effectively designing a self-contained electrical system from scratch.
-
-What that means in practice:
-
-- **Ashley walks the site himself**, looks at the actual loads, and designs around what's there.
-- **No salesperson visits.** The person who quotes is the person who installs and commissions.
-- **He'll size honestly.** If your usage doesn't justify a system this big or this small, he'll say so.
-- **Aftercare from the same person.** Off-grid systems live and die by their commissioning and tuning. Ashley is the one who comes back if anything needs adjusting.
+In practice that means Ashley walks the site himself, looks at the actual loads, and designs around what's there rather than sending a salesperson out first. The person who quotes is the same person who installs and commissions, and the same person who comes back if anything needs adjusting later - off-grid systems live and die by their commissioning and tuning, so that continuity matters.
 
 ## Where off-grid solar makes sense
 
-The use cases we typically see:
+The use cases we see most often are mobile catering operations that want to lose the diesel generator, agricultural buildings and equipment where running mains in would be uneconomic, and remote offices on sites where the grid connection cost would dwarf the running cost of a properly sized solar and battery system. The equation is the same in each case: how much you currently spend on generator fuel - or how much a grid connection would cost - against a one-time install of a system that runs for decades.
 
-- **Mobile catering** - eliminating the need for diesel generators
-- **Agricultural operations** - powering buildings and equipment where running mains is uneconomic
-- **Remote offices** - sites where the grid connection cost would dwarf the running cost of a properly sized solar/battery system
+## Why it stacks up financially
 
-For each of these, the equation is the same: how much do you currently spend on generator fuel (or how much would the grid connection cost), and how does that compare to a one-time install of a solar/battery system that runs for decades?
+Off-grid solar removes the ongoing fuel cost and the noise, fumes and maintenance overhead of running a generator, and it lets you say something specific about how the site is powered. We've delivered several of these and can size systems to your actual power requirements rather than to whatever's on a brochure. The combination of [solar panels](/services/solar-and-battery-installations/) and [battery storage](/services/home-battery-installations/), properly sized to your usage, replaces a generator that runs on fuel you have to keep buying.
 
-## Why this works financially
+## Components and sizing
 
-Off-grid solar removes ongoing fuel costs and removes the noise, fumes and maintenance overhead of running a generator. It also positions your business as environmentally conscious.
-
-We've successfully delivered several off-grid installations and can design systems sized to your specific power requirements. The combination of [solar panels](/services/solar-and-battery-installations/) and [battery storage](/services/home-battery-installations/), properly sized to your usage, replaces a generator that runs on fuel you have to keep buying.
-
-## Quality components, sensible sizing
-
-Ashley fits [DMEGC](/dmegc-solar-panel-installer-manchester/) and [Trina Vertex](/trina-vertex-solar-panel-installer-manchester/) panels - both N-type modules that perform well in our northern climate and come with long warranties. Battery sizing depends on your usage pattern; he works with [Solax](/solax-battery-installer-manchester/) and [AlphaESS](/alphaess-battery-installer-manchester/), with capacities from 6kWh up to larger systems depending on the load.
-
-Roof or ground-mounted depending on what suits the site. See the [ground-mounted page](/ground-mounted-solar-installations-manchester/) for that side of things.
+Ashley fits [DMEGC](/dmegc-solar-panel-installer-manchester/) and [Trina Vertex](/trina-vertex-solar-panel-installer-manchester/) panels - both N-type modules that hold up well in our northern climate and come with long warranties. Battery sizing depends on your usage pattern; he works with [Solax](/solax-battery-installer-manchester/) and [AlphaESS](/alphaess-battery-installer-manchester/), with capacities from 6kWh up to larger systems depending on the load. Roof or ground-mounted depending on what suits the site - see the [ground-mounted page](/ground-mounted-solar-installations-manchester/) for that side of things.
 
 ## How Ashley handles it
 
-Ashley visits the site, assesses the load and power requirements, and designs a system to suit. He'll discuss your typical usage patterns, peak loads, and how much resilience you need. Installation is coordinated to suit the site - we work with local roofers and scaffolders where roof mounting is involved, and install ground-mounted systems where that's a better fit.
-
-After installation, the system is tested and commissioned to safety and regulatory standards, with [electrical certification](/services/electrical-testing/) provided. Two years' routine maintenance is included.
-
-## Why hire Ashley specifically
-
-- **20+ years as an electrician.** Off-grid is electrical engineering first, solar second. Ashley's background fits.
-- **The principal does the survey, design, install and commissioning.** No handover where the brief gets lost.
-- **Honest sizing.** No upselling on capacity you don't need; no dangerous undersizing.
-- **Industrial-site experience.** 10 years commercial including the Jersey Recycling Centre - he's worked on self-contained electrical systems before.
+Ashley visits the site, assesses the load and power requirements, and designs a system to suit. He'll discuss your typical usage patterns, peak loads, and how much resilience you actually need. Installation is coordinated to suit the site - we work with local roofers and scaffolders where roof mounting is involved, and install ground-mounted systems where that's a better fit. After installation, the system is tested and commissioned to safety and regulatory standards, with [electrical certification](/services/electrical-testing/) provided, and two years' routine maintenance is included.
 
 ## Credentials
 
-- [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870)
-- [**NAPIT registered**](/accreditations/napit/) electrician with 20+ years' experience
-- **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews
+- [MCS-certified](/accreditations/mcs-certified/) installer (NAP-66870)
+- [NAPIT registered](/accreditations/napit/) electrician with 20+ years' experience
+- {{ reviews.averageRating | round: 2 }}/10 on Checkatrade from {{ reviews.total }}+ verified reviews
 - 5-year minimum warranty on all equipment, panels warranted up to 30 years
 
 ## Coverage
 
-Based in Prestwich, Ashley serves off-grid sites across Greater Manchester and the wider North West.
+Based in Prestwich, we serve off-grid sites across Greater Manchester and the wider North West.
 
-**[Contact Ashley](/contact/) to discuss your off-grid solar requirements.**
+[Get in touch](/contact/) to discuss your off-grid solar requirements.
