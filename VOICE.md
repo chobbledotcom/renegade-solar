@@ -57,17 +57,27 @@ Long sentences with sub-clauses. Hedges ("around fifteen years"). Asides in the 
 
 The opposite - short, polished sentences with parallel structure - is what marketing copy sounds like.
 
-### 5. No punchline closers
+### 5. Complete sentences, no punchline closers
 
-This is the single biggest failure mode when applying the voice. Specific patterns to avoid:
+The voice never uses sentence fragments. Every sentence has a subject and a verb. Fragments masquerading as sentences - "No hard sell, no unnecessary jobs." or "The lot." or "No messing." or "Same day certificates." - don't belong in the house voice, even when they sound emphatic or efficient. They're a copywriter's tic.
+
+This applies anywhere in the copy, not just at paragraph ends. Rewrite fragments by absorbing them into the surrounding sentence, or by giving them their own subject and verb:
+
+- Bad: "We only recommend work that actually needs doing. No hard sell, no unnecessary jobs."
+- Good: "We only recommend work that actually needs doing, and we don't push hard sells or tack on jobs you don't need."
+
+Even grammatically-complete sentences shouldn't be used as cinematic punchline closers - things like "Renegade Solar followed." or "And the rest is history." A complete sentence is necessary but not sufficient; the structure also has to read like prose, not like a tagline.
+
+Specific patterns to avoid:
 
 - Single-word or fragment closers: "The lot." / "That's the whole arrangement." / "No messing."
+- Multi-fragment summaries: "£150 plus VAT. Same-day certificates. No hard sell."
 - Cinematic one-line summaries: "Renegade Solar followed." / "And the rest is history."
 - Lists of three where the third item is comic or undercutting (Brian Potter satirises this; we don't do it earnestly).
 - The X / X / X - Y structure: "Not a call centre, not a regional manager, not a different installer - Ashley."
 - The "and yes, it works up here" handle-the-objection move.
 
-These are copywriter devices. They turn a conversational sentence into a pitch.
+Bullets and headings are exempt - they're not sentences.
 
 ### 6. Trust the reader
 
@@ -129,7 +139,7 @@ Inconsistency between pages is fine. Different pages have different jobs.
 
 The specific failure modes of trying-too-hard:
 
-- **Fragment closers** - "The lot." / "That's the whole arrangement." / "No messing."
+- **Fragment "sentences"** - "The lot." / "No hard sell." / "Same day certificates." Anywhere in copy, not just at paragraph end. See principle 5.
 - **Cinematic one-liners** - "Renegade Solar followed." / "And the rest is history."
 - **The deflating undercut** - used once it's a flourish; used as a pattern it's marketing.
 - **The rule-of-three list** - "Bigger, better, faster, stronger" is from Brian Potter, who is satirising marketing copy. Don't do it earnestly.

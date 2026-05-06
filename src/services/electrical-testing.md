@@ -10,7 +10,7 @@ root: true
 
 Regular electrical testing keeps a property safe and the wiring working as it should. We carry out full electrical safety checks on properties of all sizes - whether you're a homeowner who wants to know your electrics are safe, or a landlord who needs to meet legal requirements.
 
-We check everything that needs checking, explain what we've found in plain English, and only recommend work that actually needs doing. No hard sell, no unnecessary jobs.
+We check everything that needs checking, explain what we've found in plain English, and only recommend work that actually needs doing. We don't push hard sells, and we don't recommend jobs that don't need doing.
 
 The testing process includes:
 

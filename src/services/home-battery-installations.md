@@ -102,7 +102,7 @@ We configure the system to work with your tariff, plus any existing solar or pla
 
 ## Can I add a battery to existing solar?
 
-Yes, regularly. We integrate batteries with existing solar installations all the time. We've worked extensively with [DMEGC solar panels](/dmegc-solar-panel-installer-manchester/) and other quality brands, so the integration tends to go smoothly.
+Yes, this is something we do regularly. We've integrated batteries with existing solar installations many times, including alongside [DMEGC solar panels](/dmegc-solar-panel-installer-manchester/) and other quality brands, so the integration tends to go smoothly.
 
 ## Planning & permissions
 
