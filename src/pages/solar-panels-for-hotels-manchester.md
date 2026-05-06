@@ -8,59 +8,44 @@ layout: page.html
 noindex: false
 ---
 
-## Hospitality runs on schedules. So does Ashley.
+## How solar fits a hospitality business
 
-Hotels and guest houses are running kitchens, heating, hot water, lighting and laundry from early morning to late evening, every day of the year. That's a lot of electricity going through the meter - and a strong case for [commercial solar](/services/commercial-solar-installations/).
+Hotels and guest houses run kitchens, heating, hot water, lighting and laundry from early morning to late evening, every day of the year. That puts a lot of electricity through the meter, and it's also exactly the demand profile that makes [commercial solar](/services/commercial-solar-installations/) work financially.
 
-The job has one operational constraint that matters more than the technical brief: **the install can't disrupt rooms in service or events booked**. Properties like Premier Inns are a good example of buildings that suit solar well - extensive roof space, year-round occupancy, long-term operational outlook. The same logic applies to independent hotels, B&Bs, country pubs with rooms, and small chains that own their buildings.
+The operational constraint that matters more than anything technical is that the install can't disrupt rooms in service or events that are booked. Properties like Premier Inns are a good example of buildings that suit solar well, with extensive roof space, year-round occupancy and a long-term operational outlook. The same logic applies to independent hotels, B&Bs, country pubs with rooms, and small chains that own their buildings.
 
-That's where dealing directly with Ashley pays off. He coordinates the timing himself, around your bookings, without an account manager translating between you and an install crew.
+Dealing directly with Ashley helps with the scheduling. He coordinates the timing himself around your bookings, so you're talking to the person actually planning the work rather than an account manager translating between you and an install crew.
 
 ## Who you'd be hiring
 
-Ashley Merritt is the named director of Renegade Solar. **20+ years' experience as an electrician**, including **10 years on commercial projects**. He's [MCS-certified](/accreditations/mcs-certified/) ([NAP-66870](https://mcscertified.com/find-an-installer/)) and an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/).
+Ashley Merritt is the named director of Renegade Solar. He's been an electrician for 20+ years, ten of those on commercial projects. He's [MCS-certified](/accreditations/mcs-certified/) ([NAP-66870](https://mcscertified.com/find-an-installer/)) and an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/).
 
-For a hospitality business, what that means in practice:
-
-- **One direct contact through the project.** Ashley walks the building, designs the system, schedules the install around your operations, and is on site for the work.
-- **Honest financial advice.** If the numbers don't make sense for your specific property he'll tell you - he'd rather walk away than oversell.
-- **Local trades.** Ashley works with local roofers and scaffolders on every project, which keeps timelines tight and money local.
+For a hospitality business, the practical implication is that Ashley is your direct contact throughout. He walks the building, designs the system, schedules the install around bookings and rooms in service, and is on site for the work itself. If the numbers don't work for your specific property, he'll say so rather than oversell. The trades he works with are local roofers and scaffolders, which keeps timelines tight and money in the Manchester economy.
 
 ## Why hospitality businesses benefit
 
-The financial case is similar to other commercial property types - because you're consuming electricity throughout the day when [solar generation](/services/solar-and-battery-installations/) is at its peak, you use nearly every kilowatt-hour your panels produce. Most commercial installations reduce monthly costs by **70-100%, with payback typically within 3-4 years**. After payback, you're looking at 20+ years of low-cost energy and a strong selling point for environmentally-minded guests, corporate bookings and events business.
+The financial case is similar to other commercial property types: because you're consuming electricity throughout the day when [solar generation](/services/solar-and-battery-installations/) is at its peak, you use nearly every kilowatt-hour your panels produce. Most commercial installations reduce monthly costs by 70-100%, with payback typically within 3-4 years. After payback, you're looking at 20+ years of low-cost energy.
 
-Hotels are a particularly good fit because:
+Hotels are a particularly good fit for a few specific reasons:
 
-- **Demand is constant** - kitchens, heating, hot water and HVAC run year-round
-- **Roofs are often large and uncluttered**, both flat and pitched
-- **Owner-occupiers** can realise the full payback themselves
-- **Sustainability credentials** matter increasingly to corporate bookings, weddings and event business
+- Demand is constant year-round, with kitchens, heating, hot water and HVAC all running every day
+- Roofs are often large and uncluttered, on both flat and pitched buildings
+- Owner-occupiers can realise the full payback themselves rather than passing it to a landlord
+- Sustainability credentials matter increasingly for corporate bookings, weddings and events business
 
 ## Roof types Ashley works with
 
-Larger commercial buildings, including hotels, often have extensive roof space:
+Larger commercial buildings often have extensive roof space, and a hotel installation will typically use one or more of the following:
 
-- **[Flat roofs](/flat-roof-commercial-solar-manchester/)** let panels point south regardless of building orientation - ideal for hotels with awkwardly oriented buildings
-- **Pitched roofs** on larger commercial buildings work well too
-- **[Ground-mounted systems](/ground-mounted-solar-installations-manchester/)** can supplement rooftop installations or power [EV charging](/solar-carports-workplace-ev-charging-manchester/) for guest car parks
+- [Flat roofs](/flat-roof-commercial-solar-manchester/), which let panels point south regardless of how the building is oriented (useful when a hotel sits at an awkward angle to the sun)
+- Pitched roofs on larger commercial buildings, which work well in their own right
+- [Ground-mounted systems](/ground-mounted-solar-installations-manchester/), which can supplement rooftop installations or power [EV charging](/solar-carports-workplace-ev-charging-manchester/) in guest car parks
 
-EV charging is increasingly something guests look for. Ashley has installed ground-mounted systems connected to outdoor fuse boards specifically to power free EV charging - in a hotel context, that's a clear differentiator versus the place down the road that doesn't offer it.
+EV charging is increasingly something guests look for. Ashley has installed ground-mounted systems connected to outdoor fuse boards specifically to power free EV charging on hotel sites, which is a useful guest amenity at no recurring electricity cost.
 
 ## What you need to qualify
 
-The main requirement is that **you own the building**. You'll also need:
-
-- Enough roof space or land for a meaningful system
-- High enough electricity consumption to give a strong return
-- Plans to keep the property long-term
-
-## Why hire Ashley specifically
-
-- **The principal designs and installs.** Conversations with the person who'll actually do the work.
-- **Coordinated around your operations.** Ashley schedules the install around rooms in service, events booked, kitchens running.
-- **Smart Export Guarantee setup included.** After commissioning, any excess generation earns you income.
-- **Aftercare from the same person.** Two years' routine maintenance is included, and Ashley is who you ring afterwards.
+The main requirement is that you own the building. You'll also need enough roof space or land to make a meaningful system worthwhile, high enough electricity consumption to give a strong return, and a plan to keep the property long-term so the payback is actually realised.
 
 ## Credentials
 
@@ -73,4 +58,4 @@ The main requirement is that **you own the building**. You'll also need:
 
 Based in Prestwich, Ashley serves hospitality businesses throughout Greater Manchester and the wider North West.
 
-**[Contact Ashley](/contact/) for a free commercial solar consultation and detailed financial analysis for your hotel or guest house.**
+**[Contact Ashley](/contact/) for a free commercial solar survey and a financial breakdown for your hotel or guest house.**
