@@ -10,67 +10,55 @@ noindex: false
 
 ## Solar on a period property is a different job
 
-A modern semi has none of the things that make solar on a period property awkward. Slate roofs that need careful handling. Original detailing you don't want to disturb. Conservation area sensitivities. Freeholder permissions on converted apartments. None of these things are dealbreakers for solar - they just need someone who's worked on properties like yours before, rather than a sales-trained installer following a template.
-
-That's what Ashley brings to this kind of job.
+A modern semi has none of the things that make solar on a period property awkward. Slate roofs that need careful handling, original detailing you don't want to disturb, conservation area sensitivities, freeholder permissions on converted apartments. None of those are dealbreakers, but they need someone who's worked on properties like yours before, rather than a sales-trained installer following a template.
 
 ## Ashley's high-end residential background
 
-Ashley Merritt - the named director of Renegade Solar - spent **2016 working in the Channel Islands on high-end mansions and apartments**. Loft conversions, kitchens, extensions, domestic and commercial properties. Listed-style buildings where the electrics had to be sympathetic to what was already there.
-
-When you're a homeowner in **Bowdon**, **Hale**, **Hale Barns** or central [Altrincham](/services/solar-and-battery-installations/altrincham/) looking at solar on a Victorian or Edwardian property, that's the experience you want quoting your job. Not a recent trainee following a script.
+Ashley Merritt - the named director of Renegade Solar - spent 2016 working in the Channel Islands on high-end mansions and apartments. The work ranged across loft conversions, kitchens, extensions, domestic and commercial properties, including listed-style buildings where the electrics had to be sympathetic to what was already there. If you're a homeowner in Bowdon, Hale, Hale Barns or central [Altrincham](/services/solar-and-battery-installations/altrincham/) looking at solar on a Victorian or Edwardian property, that's the kind of background you want quoting the job rather than someone who only got into solar last year.
 
 ## What you actually get when you hire Ashley
 
-- **The person who quotes is the person who installs.** No salesperson at the survey, no project manager handover, no install crew you've never met. Ashley assesses the property himself and is on site for the work.
-- **One direct point of contact.** From the first call through to commissioning and aftercare, Ashley is who you ring. That matters on jobs where the design needs conversation - panel layout decisions on a complicated roof, what's acceptable to the conservation officer, how to route cabling without disturbing original plasterwork.
-- **Honest design advice.** If solar isn't right for your property, or one panel layout will look better than another, he'll tell you straight. He'd rather walk away from a job than oversell something that won't suit the building.
-- **Electrical-led, not sales-led.** Ashley was an electrician for 20+ years before he was a solar installer. The system gets designed by someone who actually understands the wiring it's going to land on.
+The person who quotes is the person who installs - no salesperson at the survey, no project manager handover, no install crew you've never met. Ashley assesses the property himself and is on site for the work, and from the first call through to commissioning and aftercare he's who you ring. That matters on jobs where the design needs conversation: panel layout decisions on a complicated roof, what's acceptable to the conservation officer, how to route cabling without disturbing original plasterwork. He was an electrician for around twenty years before he was a solar installer, so the system gets designed by someone who actually understands the wiring it's going to land on, and if solar isn't right for your property, or one panel layout will look better than another, he'll tell you straight.
 
-## Property types Ashley works on
+## Property types we work on
 
-- **Victorian and Edwardian homes** - typically with slate roofs and chimneys to design around
-- **Period conversions** - large houses converted into apartments, where shared roofs and freeholder permissions need careful planning
-- **Properties in conservation areas** - including parts of Bowdon, central Altrincham and surrounding areas
-- **Modern properties in heritage settings** - newer builds where neighbouring listed properties affect what's appropriate
+- Victorian and Edwardian homes, typically with slate roofs and chimneys to design around
+- Period conversions - large houses converted into apartments, where shared roofs and freeholder permissions need careful planning
+- Properties in conservation areas, including parts of Bowdon, central Altrincham and surrounding areas
+- Modern properties in heritage settings, where neighbouring listed properties affect what's appropriate
 
 The [Altrincham](/services/solar-and-battery-installations/altrincham/) and [Hale](/services/solar-and-battery-installations/hale/) location pages have more on the housing stock in each area.
 
 ## In-roof, on-roof, or ground-mounted
 
-Different property types suit different installations. Ashley will go through the options on site:
-
-- **On-roof** - the most common option, panels mounted on rails above the existing tiles or slates
-- **In-roof (integrated)** - panels sit flush with the roofline rather than above it, often a better aesthetic match for period properties and conservation areas
-- **[Ground-mounted](/ground-mounted-solar-installations-manchester/)** - if the roof isn't suitable or you've got garden space, ground-mounted arrays can be a strong alternative
-- **Flat roof** (on extensions or outbuildings) - panels can be tilted to face south regardless of how the roof itself sits
+Different property types suit different installations, and Ashley will go through the options on site. On-roof is the most common - panels mounted on rails above the existing tiles or slates. In-roof (integrated) sits flush with the roofline rather than above it, which is often a better aesthetic match for period properties and conservation areas. [Ground-mounted](/ground-mounted-solar-installations-manchester/) arrays are a strong alternative if the roof isn't suitable or you've got garden space, and on extensions or outbuildings with flat roofs, panels can be tilted to face south regardless of how the roof itself sits.
 
 ## Battery storage where roof installation isn't ideal
 
-For properties where roof installation isn't an option - listed buildings, restrictive conservation policies, significant shading, or where aesthetics rule out panels - **standalone battery systems** charge during cheaper off-peak periods and power your home when electricity costs more. Significant savings even without solar. Ashley fits [Solax](/solax-battery-installer-manchester/) and [AlphaESS](/alphaess-battery-installer-manchester/) systems with capacities from 6kWh upwards. See the [home battery page](/services/home-battery-installations/) for the full picture.
+For properties where roof installation isn't an option - listed buildings, restrictive conservation policies, significant shading, or aesthetics ruling out panels - a standalone battery system charges during cheaper off-peak periods and powers your home when electricity costs more, which can save a fair bit even without solar. Ashley fits [Solax](/solax-battery-installer-manchester/) and [AlphaESS](/alphaess-battery-installer-manchester/) systems with capacities from 6kWh upwards. See the [home battery page](/services/home-battery-installations/) for the full picture.
 
-## Ashley's perfectionism - in the customer's words
+## In a customer's own words
 
 > "Ashley did an excellent job installing the solar panels on my roof, the batteries next to my driveway, and the ground-mounted solar setup in my garden. As someone who likes everything to be perfect, I can say he did it exactly how I would have done it (if I had the experience). I highly recommend him to anyone interested in installing solar panels and battery storage."
 
-That's the M43 customer who had Ashley install a multi-part system. Period property owners tend to be particular about how their home looks. So is Ashley.
+That's the M43 customer who had Ashley install a multi-part system. Period property owners tend to be particular about how their home looks, and so is Ashley.
 
 ## Performance in our climate
 
-Modern panels generate electricity from daylight, not just direct sunshine, and operate **more efficiently in our cooler temperatures**. Manchester rain helps keep them clean. Ashley fits [DMEGC](/dmegc-solar-panel-installer-manchester/) and [Trina Vertex](/trina-vertex-solar-panel-installer-manchester/) panels - both N-type modules with long warranties.
+Modern panels generate electricity from daylight rather than just direct sunshine, and they actually run more efficiently in cooler temperatures, which suits us up here. Manchester rain helps keep them clean. Ashley fits [DMEGC](/dmegc-solar-panel-installer-manchester/) and [Trina Vertex](/trina-vertex-solar-panel-installer-manchester/) panels - both N-type modules with long warranties.
 
 ## Credentials
 
-- [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870) - your installation qualifies for Smart Export Guarantee payments
-- [**TrustMark Registered**](/accreditations/trustmark/)
-- [**NAPIT Registered**](/accreditations/napit/) (66870)
-- [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
-- **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews
+- [MCS-certified](/accreditations/mcs-certified/) installer (NAP-66870) - your installation qualifies for Smart Export Guarantee payments
+- [TrustMark Registered](/accreditations/trustmark/)
+- [NAPIT Registered](/accreditations/napit/) (66870)
+- [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/)
+- {{ reviews.averageRating | round: 2 }}/10 on Checkatrade from {{ reviews.total }}+ verified reviews
 - 5-year minimum warranty on all equipment, panels warranted up to 30 years
 - 2 years routine maintenance included on every installation
 
 ## Coverage
 
-Ashley is based in Prestwich and serves period properties and conservation-area homes throughout Greater Manchester - including [Altrincham](/services/solar-and-battery-installations/altrincham/), [Hale](/services/solar-and-battery-installations/hale/), [Hale Barns](/services/solar-and-battery-installations/hale-barns/), [Stockport](/services/solar-and-battery-installations/stockport/), [Marple](/services/solar-and-battery-installations/marple/) and surrounding areas.
+Ashley is based in Prestwich and serves period properties and conservation-area homes throughout Greater Manchester, including [Altrincham](/services/solar-and-battery-installations/altrincham/), [Hale](/services/solar-and-battery-installations/hale/), [Hale Barns](/services/solar-and-battery-installations/hale-barns/), [Stockport](/services/solar-and-battery-installations/stockport/), [Marple](/services/solar-and-battery-installations/marple/) and surrounding areas.
 
-**[Get in touch](/contact/) for a free survey and a no-pressure conversation about what would work on your property.**
+[Get in touch](/contact/) for a free survey and a no-pressure conversation about what would work on your property.
