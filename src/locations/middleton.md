@@ -10,6 +10,6 @@ tags: location
 
 # Middleton
 
-Professional solar installations and electrical services in Middleton. As your local MCS-certified installer, we provide comprehensive renewable energy solutions backed by excellent customer service and technical expertise.
+We cover Middleton for solar, battery, EV charger and general electrical work. Being based over in Prestwich just down the road, we're often in the area, and we can usually get out for a survey within a week or two.
 
-Our team understands Middleton's housing stock and can recommend the most suitable solar solutions for your specific property and energy needs.
+Middleton has a mix of post-war semis, more recent estates, and a fair amount of older terraced housing closer to the town centre, most of which take solar without much complication. Ashley does every survey himself and is on site for the install, so the recommendations come from an MCS-certified electrician who'll be doing the work.

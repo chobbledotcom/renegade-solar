@@ -10,6 +10,6 @@ tags: location
 
 # Altrincham
 
-Renegade Solar provides professional solar panel installations and electrical services throughout Altrincham. As MCS-certified installers, we deliver high-quality renewable energy solutions for homes and businesses in the area.
+We cover Altrincham for solar, battery, EV charger and general electrical work. The area has a strong mix of older period properties through the centre, larger detached homes out towards [Hale](/hale/) and Bowdon, and newer developments around the edges, and we've worked across most of it.
 
-Our local expertise ensures installations that are perfectly suited to Altrincham's diverse property types, from period homes to modern developments.
+Ashley does every survey himself. As an MCS-certified electrician, he'll talk through what'll actually work on your roof, what the realistic returns look like for your usage, and what isn't worth doing. We're based in Prestwich, around half an hour across the M60.

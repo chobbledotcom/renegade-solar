@@ -10,6 +10,6 @@ tags: location
 
 # Blackley
 
-Serving Blackley with professional solar panel installations and comprehensive electrical services. Our MCS-certified team understands the local area and provides tailored renewable energy solutions for every property type.
+We cover Blackley for solar, battery, EV charger and general electrical work. Being based just down the road in Prestwich, we're often in the area, and we can usually fit in a survey within a week or two.
 
-From initial consultation to final commissioning, Ashley personally oversees every aspect of your solar installation.
+Blackley has a mix of older semis and terraces alongside more recent housing, and most of them suit solar in one form or another. Ashley does every survey himself and is on site for the install, so the advice on what'll work for your roof is coming from the MCS-certified electrician who'll be doing the job.

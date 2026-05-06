@@ -10,6 +10,6 @@ tags: location
 
 # Whitefield
 
-We deliver expert solar installations and electrical services throughout Whitefield. Our MCS-certified approach ensures every project meets the highest standards while providing excellent value and customer service.
+We cover Whitefield for solar, battery, EV charger and general electrical work. Whitefield is one of our closest patches - we're just over in [Prestwich](/prestwich/), so there isn't much travel involved and we can usually fit in a survey quickly.
 
-We work with all property types in Whitefield, offering customised renewable energy solutions that maximise your investment and environmental impact.
+The area has a wide mix of housing, from older semis and terraces through to larger detached properties around the edges, and most of them take solar in some form or another. Ashley does every survey himself and is on site for the install, so the advice you get is from the MCS-certified electrician doing the work.
