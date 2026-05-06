@@ -11,96 +11,22 @@ tags: [stockport, eicr]
 
 # EICR Electrical Safety Inspections in Stockport
 
-We provide professional electrical safety inspections throughout Stockport as NAPIT-registered electricians. £150 plus VAT for all domestic properties with same day certificates - covering everything from period terraces to modern developments.
+We do EICR electrical safety inspections across Stockport at £150 plus VAT for any domestic property, with the certificate issued the same day. We're around half an hour up the M60 in Prestwich.
 
-## Stockport's Rich Property Heritage
+## Stockport properties
 
-Stockport boasts an impressive variety of properties, from beautiful Victorian and Edwardian terraces in the established areas to contemporary developments across the borough. This diversity means different electrical challenges that require experienced assessment.
+Stockport has a wide range of properties, from Victorian terraces near the centre to larger detached homes around the leafier suburbs and modern developments across the borough. The period properties commonly have electrical systems that have been upgraded in stages over the decades, with consumer units and earthing arrangements that don't always reflect current regulations. The newer developments tend to be more straightforward, but installation quality varies depending on the builder and the subcontractor.
 
-**Period properties** throughout Stockport's established neighbourhoods often have electrical systems that tell the story of decades of upgrades and modifications. Original installations designed for gas lighting have been adapted over time to handle modern electrical demands, but not always using the most appropriate methods.
+## For landlords
 
-**Modern developments** across Stockport should theoretically be problem-free, but industry data shows that electrical installation faults still affect 1 in 5 new builds due to workmanship issues or construction shortcuts.
+Landlords need an EICR every five years plus one for each new tenant. Fines for non-compliance run up to £30,000, and the local authority can have remedial work carried out and bill it back to you. Existing tenants need the report within 28 days; new tenants get it before they move in.
 
-## Our Stockport EICR Service - £150 Plus VAT Fixed Price
+## For buyers
 
-**£150 plus VAT for any domestic property in Stockport** - from compact Victorian terraces to substantial family homes, the price stays consistent.
+Get an EICR before completion. With Stockport's spread of property values and ages, the inspection gives you a clear picture of whether you're walking into a straightforward setup or one that's going to want some work, and the report gives you something concrete to negotiate with.
 
-Same day certificate provision with quick scheduling options. EICR inspections are more flexible than major electrical installations, so we can often accommodate short notice requests.
+## What's included
 
-**[Need a Stockport EICR? Contact us today](/contact/)**
+The inspection covers a full visual check of wiring, sockets, switches and the consumer unit, then calibrated technical testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The certificate and report are issued the same day. If we find work that needs doing, we can quote for that and schedule it in.
 
-## For Stockport Landlords
-
-Stockport's diverse rental market serves everyone from young professionals to established families, making electrical safety compliance essential. **EICR every 5 years plus one for each new tenant** - that's the legal requirement you need to meet.
-
-Non-compliance consequences are serious - fines up to £30,000, plus local authorities can commission necessary work and recover costs from you. Provide existing tenants with reports within 28 days, new tenants before they move in.
-
-**Stockport's property range** means you could be managing anything from converted period properties to purpose-built modern developments, each presenting different electrical considerations.
-
-## For Stockport Property Buyers
-
-**Get an EICR before any money changes hands.** Stockport's property market represents significant investments, so understanding electrical condition before purchase completion makes financial sense.
-
-If we identify issues like outdated consumer units or inadequate electrical installations (particularly relevant in older Stockport properties), you can factor repair costs into purchase negotiations or make informed decisions about proceeding.
-
-Much better to discover potential electrical upgrade costs during your buying process than face unexpected expenses after completion.
-
-## Stockport's Electrical Characteristics
-
-**Period terraced and semi-detached properties** (common throughout Stockport's established areas) typically feature:
-
-- Electrical systems upgraded incrementally over many decades
-- Consumer units that predate current safety standards
-- Limited electrical circuits for contemporary household demands
-- Earthing arrangements requiring updates to meet current requirements
-
-**Modern developments and conversions** can present their own challenges:
-
-- Installation quality varying with different builders and electrical subcontractors
-- Work that meets basic regulatory requirements but could be enhanced
-- RCD protection arrangements that don't fully optimise current safety standards
-- Protective bonding issues in kitchens and bathrooms
-
-## Comprehensive Electrical Assessment
-
-**Detailed visual inspection** of all accessible electrical installations, including wiring systems, switches, sockets, and consumer unit arrangements. We assess for damage, overheating evidence, and general installation condition.
-
-**Technical electrical testing** using professionally calibrated equipment. This encompasses continuity testing, insulation resistance measurement, earth fault loop impedance assessment, and RCD operational verification.
-
-**Immediate documentation** - you receive your EICR certificate and comprehensive report explaining findings in accessible language on the same day.
-
-## Stockport Local Knowledge
-
-We work extensively throughout Stockport and understand the electrical characteristics common to different property types and localities. Whether dealing with a carefully preserved period property or a modern home requiring installation verification, local experience provides valuable insight.
-
-Stockport's varied housing stock means electrical installations can differ significantly even within similar property types. Recognising what's acceptable and what requires attention needs experience with local building patterns.
-
-## When Issues Are Discovered
-
-**Clear assessment without sales pressure.** If we find electrical problems, we provide straightforward explanations of what's wrong, why it matters, and what options exist. You receive honest quotes for necessary work without inflated pricing or unnecessary additions.
-
-We can handle any electrical work identified during inspection. No need to coordinate multiple specialists - we'll schedule required work within a month.
-
-**[Need electrical work after inspection? We provide complete electrical services](/services/)**
-
-## Stockport EICR Questions
-
-**Do you understand Stockport properties?** Yes, we work regularly throughout the borough and know the electrical characteristics common to different property ages and types.
-
-**What about period property conversions?** These present interesting electrical challenges. We understand how to assess installations where modern safety requirements meet heritage property constraints.
-
-**How quickly can you schedule?** Usually within a few days for EICR inspections. Stockport is well within our established service area.
-
-**Any additional charges for Stockport?** No travel costs - £150 plus VAT covers complete domestic EICR inspection service.
-
-**Do you work with local professionals?** We provide inspection services for buyers, sellers, landlords, tenants, and property professionals throughout Stockport.
-
-## Professional Electrical Safety Standards
-
-**NAPIT registered electrician with 20+ years experience** serving Stockport's diverse property community.
-
-We understand that Stockport property owners expect professional service that matches the area's standards. Same day certificates, clear explanations, competitive pricing, and reliable work that provides confidence in electrical safety.
-
-Whether you're a landlord maintaining rental compliance, a buyer protecting a substantial investment, or a homeowner seeking electrical safety assurance, we deliver the inspection service that meets Stockport's expectations.
-
-**[Book your Stockport EICR inspection today](/contact/)**
+[Book an EICR inspection in Stockport](/contact/).
