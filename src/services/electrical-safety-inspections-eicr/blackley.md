@@ -11,96 +11,22 @@ tags: [blackley, eicr]
 
 # EICR Electrical Safety Inspections in Blackley
 
-Professional electrical safety inspections throughout Blackley from experienced NAPIT-registered electricians. £150 plus VAT for all domestic properties - same day certificates with no waiting around.
+We do EICR electrical safety inspections across Blackley at £150 plus VAT for any domestic property, with the certificate issued the same day. We're based just down the road in Prestwich.
 
-## Blackley's Established Housing Areas
+## Blackley properties
 
-Blackley has a solid mix of properties, from traditional terraced houses and council-built homes to modern developments in the surrounding areas. Each type brings its own electrical considerations that need proper professional assessment.
+Blackley has a mix of older terraced housing, council-built properties, and more recent developments. The traditional terraces commonly have electrical systems that have been upgraded piece by piece over the years, with consumer units and earthing arrangements that don't always reflect what current regulations require. The newer estates tend to be more straightforward, but installation quality varies depending on who did the work.
 
-**Traditional properties** throughout Blackley often have electrical systems that have grown and changed over many years. Original installations put in for basic lighting and minimal electrical use have been extended to cope with modern family life - washing machines, electric showers, tumble dryers, and all the electrical items families depend on today.
+## For landlords
 
-**Council-built properties and modern developments** around Blackley should be more straightforward, but even these can have issues. Research shows that 1 in 5 properties can have electrical installation problems, often from maintenance issues or modifications over the years.
+Landlords need an EICR every five years plus one for each new tenant. Fines for non-compliance run up to £30,000, and the local authority can have remedial work carried out and bill it back to you. Existing tenants need the report within 28 days; new tenants get it before they move in.
 
-## Our Blackley EICR Service - £150 plus VAT All Properties
+## For buyers
 
-**£150 plus VAT for any domestic property in Blackley** - whether you're in a compact terrace, council property, or larger family home, the price doesn't change.
+Get an EICR before money changes hands. If we find issues like an outdated consumer unit or inadequate earthing, you've got a basis for negotiating the purchase price, or for walking away from a job that's not what you thought you were buying.
 
-We provide same day certificates and can usually fit you in quickly. EICR inspections are easier to schedule around other electrical work, so we can often help with short notice requests.
+## What's included
 
-**[Need an EICR in Blackley? Get in touch today](/contact/)**
+The inspection covers a full visual check of wiring, sockets, switches and the consumer unit, then calibrated technical testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The certificate and report are issued the same day. If we find work that needs doing, we can quote for that and schedule it in.
 
-## For Blackley Landlords
-
-Blackley's rental market serves local families and working people, so landlords need to maintain proper electrical safety standards. **EICR every 5 years plus one for each new tenant** - that's what the law requires.
-
-Penalties for not having proper electrical certificates are serious - fines up to £30,000, plus local councils can arrange expensive remedial work and bill you for it. Give existing tenants the report within 28 days, new tenants get it before they move in.
-
-**Blackley's mix of property ages and types** means you might be dealing with anything from older terraced houses to council-built properties to modern family homes, each with different electrical setups and potential issues.
-
-## For Blackley Property Buyers
-
-**Get an EICR before any money changes hands.** Blackley properties are important investments for local families, so you want to know about any electrical problems before you commit.
-
-If we find issues like an old fuse box or dodgy wiring (more likely in older Blackley properties), you can use this information to negotiate on price or decide whether to proceed with the purchase.
-
-Much better to find out about a potential electrical upgrade during your house purchase than discover it after you've moved in and settled.
-
-## Blackley Property Characteristics
-
-**Older terraced houses** (common throughout established Blackley areas) often have:
-
-- Electrical systems that have been upgraded bit by bit over time
-- Old-style consumer units that don't meet current safety standards
-- Not enough electrical circuits for modern household needs
-- Earthing systems that need bringing up to current requirements
-
-**Council-built and modern properties** in Blackley can still have challenges:
-
-- Installation quality that depends on maintenance and any modifications over the years
-- Electrical work that might meet basic requirements but could be improved
-- RCD protection that doesn't fully meet current best practices
-- Problems with earth bonding in bathrooms and kitchens
-
-## Thorough Electrical Testing
-
-**Complete visual inspection** of all electrical installations you can see - wiring, switches, sockets, and your consumer unit. We check for damage, signs of overheating, and general condition.
-
-**Technical testing** with proper calibrated equipment. This includes continuity testing, insulation resistance measurement, earth fault loop impedance testing, and checking your RCDs actually work when they're supposed to.
-
-**Same day paperwork** - you get your EICR certificate and a detailed report explaining any problems we find, written in language that makes sense.
-
-## Local Knowledge
-
-We work regularly throughout Blackley and know the common electrical issues in different types of properties and areas. Whether you're dealing with an older house that's been well looked after or want to check the electrical condition of a property you're considering, local experience helps.
-
-Blackley's mix of property types and ages means electrical setups can be quite different even within the same area. Knowing what's normal and what needs attention comes from experience working in the local community.
-
-## When We Find Problems
-
-**Straight talking without sales pressure.** If we find electrical issues, we'll explain clearly what's wrong, why it matters, and what your options are. You get honest prices for any work that needs doing, without inflated costs or unnecessary extras.
-
-We can sort out any electrical problems we find during the inspection. No need to find other electricians and start again - we'll schedule the work within a month.
-
-**[Need electrical work after an inspection? We handle all types of electrical jobs](/services/)**
-
-## Blackley EICR Questions
-
-**Do you know the local area well?** Yes, we work throughout Blackley regularly and understand the common electrical issues in different property types and ages.
-
-**What about council-built properties?** We work on all types of properties regularly. We know what to look for and how to explain what needs doing without trying to worry you unnecessarily.
-
-**How quickly can you fit us in?** Usually within a few days for EICR work. Blackley is well within our regular service area.
-
-**Any extra charges for coming to Blackley?** No travel costs - £150 plus VAT is the complete price for domestic EICR inspections.
-
-**Do you work with local housing associations?** We provide inspection services for all types of property owners, tenants, and housing providers throughout the Blackley area.
-
-## Reliable Electrical Safety Service
-
-**NAPIT registered electricians with 20+ years experience** serving Blackley's local community.
-
-We provide straightforward, reliable service that Blackley residents can count on. Same day certificates, clear explanations, fair pricing, and quality work that gives you confidence your electrical safety is properly sorted.
-
-Whether you're a landlord keeping rental properties compliant, a buyer protecting your investment, or a homeowner wanting peace of mind about electrical safety, we deliver the inspection service that meets your needs.
-
-**[Ready to book your Blackley EICR? Contact us today](/contact/)**
+[Book an EICR inspection in Blackley](/contact/).

@@ -11,92 +11,22 @@ tags: [prestwich, eicr]
 
 # EICR Electrical Safety Inspections in Prestwich
 
-Need an EICR in Prestwich? We're Renegade Solar, led by Ashley, your local NAPIT-registered electrician. We provide professional electrical safety inspections for £150 plus VAT - same day certificates, no waiting around.
+We're based in Prestwich, so this is essentially home turf. We do EICR electrical safety inspections across the area at £150 plus VAT for any domestic property, with the certificate issued the same day.
 
-## Why Prestwich Properties Need Regular EICRs
+## Prestwich properties
 
-Prestwich has a brilliant mix of Victorian terraced houses and more modern properties, but that means different electrical challenges. Those beautiful Victorian terraces around the town centre and near Heaton Park often have electrical systems that weren't designed for modern life - we're talking about wiring originally installed for gas lighting that's been adapted over the decades.
+Prestwich has a strong mix of Victorian and Edwardian terraces - particularly around the village and out towards Heaton Park - alongside more recent housing. The older terraces commonly have electrical systems that have been added to in pieces over the decades. Original installations went in for gas lighting and minimal electrical demand, and what's been added since (washing machines, electric showers, the rest) hasn't always come with a corresponding upgrade to the consumer unit or the earthing.
 
-**Common issues we find in Prestwich Victorian properties:**
+## For landlords
 
-- Original cloth-covered wiring from the early 1900s
-- Fuse boxes without any RCD protection
-- Inadequate earthing systems
-- Circuits overloaded by modern electrical demands
+Landlords need an EICR every five years plus one for each new tenant. Fines for non-compliance run up to £30,000, and the local authority can have remedial work carried out and bill it back to you. Existing tenants need the report within 28 days; new tenants get it before they move in. If we find any C1, C2 or FI issues, you've got 28 days to put them right.
 
-The newer developments around Prestwich have their own challenges too. Research shows 1 in 5 new builds have electrical faults from poor workmanship or rushed installation work.
+## For buyers
 
-## Our Prestwich EICR Service - £150 Plus VAT Fixed Price
+Get an EICR before completion. With the mix of property ages around Prestwich, the inspection gives you a clear picture of whether you're walking into a straightforward installation or one that's going to want some work, and the report gives you something concrete to negotiate with.
 
-**£150 plus VAT for any domestic property in Prestwich** - whether you're in a compact Victorian terrace or a larger modern house, the price stays the same.
+## What's included
 
-We can usually fit you in quickly - EICR inspections slot in easier than bigger electrical jobs, and you get all your certificates on the same day. No waiting for paperwork in the post.
+The inspection covers a full visual check of wiring, sockets, switches and the consumer unit, then calibrated technical testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The certificate and report are issued the same day, written in plain English. If we find work that needs doing, we can quote for that and schedule it in.
 
-**[Book your Prestwich EICR today - call us or get in touch](/contact/)**
-
-## For Prestwich Landlords
-
-**Legal requirement:** EICR every 5 years plus one for each new tenant. With Prestwich's healthy rental market, you need to stay compliant.
-
-The penalties for not having an EICR are serious - fines up to £30,000. Give existing tenants the report within 28 days, new tenants get it before they move in. If we find C1, C2, or FI issues, get them sorted within 28 days.
-
-Prestwich landlords particularly need to watch out for older properties where electrical systems might not meet current standards. Better to find out now than face problems later.
-
-## For Prestwich Property Buyers
-
-**Get an EICR before any money changes hands.** With Prestwich's mix of property ages, you really want to know what you're taking on.
-
-If we find problems like an outdated fuse box (common in older Prestwich properties), you can negotiate repair costs off the purchase price or walk away if issues are too serious. Much better than discovering a £3,000 rewiring job after you've moved in.
-
-## Understanding Prestwich's Property Types
-
-**Victorian terraces** (common around Prestwich Village and near the tram stops) present particular challenges. These properties often have:
-
-- Electrical systems upgraded piecemeal over decades
-- Limited circuits for modern electrical loads
-- Earthing that doesn't meet current standards
-- Consumer units that need updating
-
-**Modern developments** around the outskirts might seem safer, but we still find installation issues like loose connections, missing earth bonding, or incorrectly installed protective devices.
-
-## What We Check in Your Prestwich Property
-
-**Visual inspection** of all wiring, switches, sockets, and your consumer unit. We're looking for damage, overheating, or wear and tear.
-
-**Electrical testing** includes continuity testing, insulation resistance, earth fault loop impedance, and RCD testing. This isn't just a quick look - it's proper technical assessment using calibrated test equipment.
-
-**Same day documentation** - you get your EICR certificate and detailed report explaining any findings in plain English.
-
-## Local Knowledge Matters
-
-We know Prestwich well and understand the common electrical issues in different parts of the area. Whether you're near the MetroLink station dealing with the vibration effects on older wiring, or in one of the newer developments where build quality varies, local experience makes a difference.
-
-**Our customers say:** _"Ashley came out at short notice to do an electrical safety check on our new property"_ - that's the kind of responsive service Prestwich residents expect.
-
-## If We Find Problems
-
-**No panic, no pressure.** If we spot issues, we'll explain clearly what's wrong and why it matters. You get fair quotes for any remedial work with no hidden costs.
-
-We can handle any electrical problems we discover during inspection - why involve someone else? Remedial work gets scheduled within a month, giving you time to plan properly.
-
-**[Need electrical work after an EICR? We handle all types of electrical services](/services/)**
-
-## Frequently Asked Questions for Prestwich
-
-**Do you know the local area well?** Yes, we're based locally and have been working in Prestwich for years. We understand the property types and common electrical issues.
-
-**What about Victorian terraces?** These are our bread and butter. We know what to look for and how to explain necessary upgrades without trying to scare you.
-
-**How quickly can you fit us in?** Usually within a few days. Prestwich isn't a long journey for us, so we can often accommodate short notice requests.
-
-**Do you charge extra to come to Prestwich?** No travel charges - £150 plus VAT wherever you are in Prestwich.
-
-## Book Your Prestwich EICR
-
-**Professional EICR inspections from a local electrician who knows Prestwich properties.**
-
-£150 plus VAT all domestic properties. Same day certificates. NAPIT registered with 20+ years experience.
-
-Whether you're a landlord needing compliance, a buyer protecting your investment, or a homeowner wanting peace of mind, we'll sort you out with a proper inspection at a fair price.
-
-**[Ready to book your Prestwich EICR? Contact us today](/contact/)**
+[Book an EICR inspection in Prestwich](/contact/).
