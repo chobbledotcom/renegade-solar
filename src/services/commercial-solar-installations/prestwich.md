@@ -12,30 +12,28 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Prestwich Businesses
 
-We're Renegade Solar, led by Ashley, based right here in Prestwich. We've seen firsthand how soaring electricity costs are hitting local businesses. We recently spoke to a Prestwich baker spending £10,000 monthly on electricity who nearly went under because of it. If your business is facing crippling energy bills, [commercial solar](/services/commercial-solar-installations/) could bring those costs down to near zero with payback in just 3-4 years.
+We're based in Prestwich, so this is essentially home turf. We've seen first-hand how electricity costs are hitting local businesses, and we recently spoke to a Prestwich baker who was spending around £10,000 a month on electricity and was close to going under because of it. Commercial solar typically pays back in three to four years and then runs for 20+ years on dramatically reduced bills.
 
-The economics work particularly well for commercial properties because businesses consume electricity during the day when solar generation is at its peak. Unlike [domestic solar installations](/services/solar-and-battery-installations/) where evening consumption requires [battery storage](/services/home-battery-installations/) to maximise savings, commercial properties use energy as it's generated. This means you're using nearly every kilowatt-hour your panels produce, which dramatically improves the return on investment.
+The economics work better than they do for domestic for one straightforward reason: businesses are using the electricity during the day when the panels are generating it. There's no need for a battery to bridge to the evening - the energy gets used as it's produced, which means most of what you generate offsets what you'd otherwise be paying for.
 
-## Prestwich businesses that benefit most
+## Prestwich businesses where it tends to work
 
-Bakeries and food businesses like the one we mentioned face massive electricity costs from commercial ovens, refrigeration, and equipment running throughout the day. Solar installations can slash those costs while future-proofing against further price rises. Retail outlets along Bury New Road and Prestwich Village with flat or pitched roofs are ideal candidates - shops with high daytime consumption see excellent returns from solar because they're using the electricity as it's generated.
+Bakeries and food businesses face heavy electricity costs from commercial ovens, refrigeration and equipment running through the day. The bills are large and the daytime consumption is constant, which makes the payback fastest. Retail outlets along Bury New Road and Prestwich Village with flat or pitched roofs benefit from the same alignment between consumption and generation.
 
-Hotels and hospitality businesses running kitchens, heating, and guest facilities benefit from commercial solar's rapid payback. Prestwich has several hotels and B&Bs that would see strong returns from rooftop installations. Offices and warehouses with large flat roofs can mount solar panels pointing south regardless of building orientation, generating substantial daytime energy exactly when businesses need it most.
+Hotels, B&Bs and other hospitality businesses running kitchens and guest facilities throughout the day are similar. Offices and warehouses with large flat roofs are good candidates too because we can angle the panels to point south regardless of how the building is positioned.
 
-## Real example from nearby Bolton
+## A real example from nearby Bolton
 
-We're currently working with a carpet and interior design warehouse in Bolton spending £700 monthly on electricity. They own their building and have a massive flat roof. Our design includes two options: 50+ panels covering just the flat roof brings their bills to zero with three-year payback, or a larger 115-panel system covering both flat and pitched roofs with four-year payback. After that, they're looking at 20+ years of free electricity while selling excess back to the grid through the Smart Export Guarantee.
+We're working with a family-owned carpet and interior design warehouse in [Bolton](/services/commercial-solar-installations/bolton/) at the moment. They were spending around £700 a month on electricity, and they own the building. We've put together two designs: a 50-panel layout on the flat roof alone, which pays back in about three years, or a 115-panel layout across both the flat and pitched roofs, which pays back in four years and brings in more excess to sell back to the grid through the Smart Export Guarantee.
 
-## Why flat roofs work so well
+## Flat roofs and ground-mount
 
-Flat roofs give us flexibility that pitched roofs don't - we can mount panels to point south regardless of the building's orientation. Many Prestwich commercial properties have unused flat roof space that could be generating thousands in savings annually. Even properties with pitched roofs work well, particularly larger buildings with extensive roof areas that are currently generating zero value.
+Flat roofs make our job easier - we mount the panels at the optimal angle regardless of how the building faces. A lot of Prestwich commercial properties have unused flat roof space that could be generating savings. Pitched roofs on larger buildings work too.
 
-If you have spare land or outdoor space, ground-mounted solar is another option. We've installed ground-mounted systems for businesses wanting to offer free [EV charging](/services/electric-vehicle-charger-installations/) to staff, powered entirely by solar with no recurring electricity costs.
+If there's spare land or outdoor space, ground-mounted systems are another option. We've put together setups for businesses wanting to offer free [EV charging](/services/electric-vehicle-charger-installations/) to staff, powered entirely by solar.
 
-## Local service with honest advice
+## Our approach
 
-Being based in Prestwich means we understand local properties and can respond quickly to commercial enquiries. We provide free consultations with honest assessments - if solar doesn't make financial sense for your business, we'll tell you. As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we ensure every installation meets the highest standards and delivers the savings we promise. We also handle all [electrical certifications](/services/electrical-testing/) and grid connection requirements.
+You need to own the building rather than leasing it, the property needs sufficient roof space or land, and the higher the daytime electricity consumption the better the returns. We do free consultations with honest assessments - if solar doesn't make financial sense for your business, we'll tell you. As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we handle all the [electrical certifications](/services/electrical-testing/) and grid connections that come with the work.
 
-The main requirement is that you must own the building rather than leasing it, and you'll need sufficient roof space or land. High electricity consumption gives better returns, and you should be planning to own the property long-term to maximise the financial benefits. If you meet these criteria and you're spending serious money on electricity each month, commercial solar deserves serious consideration.
-
-**[Contact us today](/contact/) for a free commercial solar consultation.**
+[Contact us](/contact/) for a free commercial solar consultation.

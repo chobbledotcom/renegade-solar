@@ -12,28 +12,26 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Crumpsall Businesses
 
-Crumpsall businesses facing high electricity costs can benefit from [commercial solar](/services/commercial-solar-installations/) with payback in just 3-4 years. We're based locally in [Prestwich](/services/commercial-solar-installations/prestwich/) and regularly serve Crumpsall with responsive, professional service backed by proven commercial installations.
+Commercial solar tends to outperform domestic for one straightforward reason: businesses are using the electricity during the day when the panels are generating it. There's no need for a battery to bridge to the evening - the energy gets used as it's produced, which means most of what you generate offsets what you'd otherwise be paying for. Payback is typically three to four years.
 
-The economics work particularly well for commercial properties because businesses consume electricity during the day when solar generation is at its peak. Unlike [domestic installations](/services/solar-and-battery-installations/) where evening consumption requires [battery storage](/services/home-battery-installations/), commercial properties use energy as it's generated. This means you're using nearly every kilowatt-hour your panels produce, which dramatically improves the return on investment.
+We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), just down the road from Crumpsall.
 
-## Crumpsall commercial properties that see strong returns
+## Crumpsall businesses where it tends to work
 
-Crumpsall's industrial estates house businesses with high electricity consumption - factories running machinery see excellent returns from commercial solar. We're currently working with a carpet warehouse in [Bolton](/services/commercial-solar-installations/bolton/) that reduced £700 monthly bills to zero with flat roof solar and three-year payback. Shops, cafes, and restaurants along Crumpsall Lane benefit from commercial solar's rapid payback because daytime consumption means you're using generated energy immediately.
+The industrial estates around Crumpsall house businesses with high electricity consumption from machinery and equipment, which is where the payback is fastest. Shops, cafes and restaurants along Crumpsall Lane benefit from the alignment between daytime consumption and solar generation.
 
-Healthcare facilities including medical centres and care homes running equipment and heating around the clock see strong returns from solar, particularly when combined with [battery storage](/services/home-battery-installations/) to maximise usage of generated energy. Cold storage facilities and warehouses with large roofs are perfect for commercial solar - we've also installed ground-mounted systems powering [EV charging](/services/electric-vehicle-charger-installations/) for staff vehicles as a valuable employee benefit.
+Healthcare facilities (medical centres, care homes) running equipment and heating round the clock see good returns too, particularly when combined with [battery storage](/services/home-battery-installations/) to capture more of the generation. Cold storage facilities and warehouses with large roofs are good candidates because their consumption is flat through the day.
 
-## Real numbers from nearby Bolton
+## A real example from Bolton
 
-We designed a system for a carpet and interior design warehouse spending £700 monthly on electricity. Two options: 50+ panels covering just the flat roof brings bills to zero with three-year payback, or 115 panels covering both flat and pitched roofs with four-year payback. Both eliminate electricity costs and provide 20+ years of free energy after payback while selling excess back to the grid through Smart Export Guarantee.
+We're working with a family-owned carpet and interior design warehouse in [Bolton](/services/commercial-solar-installations/bolton/) at the moment. They were spending around £700 a month on electricity, and they own the building. We've put together two designs: a 50-panel layout on the flat roof alone, which pays back in about three years, or a 115-panel layout across both the flat and pitched roofs, which pays back in four years and brings in more excess to sell back to the grid through the Smart Export Guarantee.
 
-## Why flat roofs work brilliantly
+## Flat and pitched roofs
 
-Flat roofs let us mount panels pointing south regardless of building orientation, which is why Crumpsall's commercial properties with large flat roofs are ideal candidates. Many businesses have extensive flat roof space generating zero value - we can turn that into decades of savings. Even properties with pitched roofs work well, particularly larger buildings with extensive roof areas.
+Flat roofs make our job easier - we mount the panels at the optimal angle regardless of building orientation. Pitched roofs on larger buildings work too. If there's spare land or outdoor space, ground-mounted systems can supplement the rooftop or power [EV charging](/services/electric-vehicle-charger-installations/) for staff vehicles.
 
-Commercial electricity prices have soared in recent years - many Crumpsall businesses face bills that have doubled or tripled. Reducing £700-£10,000 monthly costs to near zero can transform business viability while providing protection from future price rises and demonstrating environmental commitment increasingly valued by customers.
+## Our approach
 
-## Requirements and Our approach
+You need to own the building rather than leasing it, and the higher the daytime electricity consumption the better the returns. As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we handle all the [electrical certifications](/services/electrical-testing/) and grid connections that come with the work. If the numbers don't work for your business, we'll tell you.
 
-You must own the building (not leased), have sufficient roof space or land, and ideally high electricity consumption for best returns. As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we provide honest advice - if solar doesn't make financial sense for your business, we'll tell you. We also handle all [electrical certifications](/services/electrical-testing/) and grid connection requirements so you can earn income from excess generation.
-
-**[Contact us today](/contact/) for a free commercial solar consultation with detailed financial analysis.**
+[Contact us](/contact/) for a free commercial solar consultation.

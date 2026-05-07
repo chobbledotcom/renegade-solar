@@ -10,28 +10,23 @@ tags: [whitefield]
 gallery_tags: [solar-panels]
 ---
 
-Based just down the road in Prestwich, we know Whitefield well. We've probably fitted solar panels and batteries to buildings just like yours, and can offer some real world knowledge about the amount of energy your house is likely to generate, store, and consume.
+# Solar Panel Installer in Whitefield
 
-We've installed solar panels on:
+We're based just down the road in [Prestwich](/prestwich/) and we cover Whitefield for solar panel and battery installations. By now we've fitted panels and batteries to most of the housing types around here, so we can usually give a real-world figure for what your property will generate, store and consume rather than a brochure number.
 
-- Traditional terraced houses with slate roofs
-- Semi-detached homes with large roof areas
-- Modern new-build properties
-- Commercial buildings with flat roofs
+Properties we've worked on around Whitefield include traditional terraced houses with slate roofs, semi-detached homes with larger roof areas, modern new-build properties, and commercial buildings with flat roofs. We've also done ground-mounted systems for properties with the garden space for them.
 
-And we've even installed ground-mounted solar panels for properties with large gardens!
+## Manchester rain and panel performance
 
-## How Do Solar Panel Perform In The Rain?
+Manchester gets its share of rain, but [it's not actually one of the UK's rainiest cities](https://blog.scienceandindustrymuseum.org.uk/manchester-our-rainy-city/). Solar panels generate from daylight rather than direct sunshine, so cloudy days still produce, and the rain helps keep the panels clean.
 
-Manchester gets its share of rain, but [it's not actually one of the UK's rainiest cities](https://blog.scienceandindustrymuseum.org.uk/manchester-our-rainy-city/). Rain doesn't hurt solar performance: panels generate from daylight rather than direct sunshine, and rain helps keep them clean.
+## Battery-only systems
 
-## Can I Just Get A Battery?
+A [battery on its own](/services/home-battery-installations/) makes sense if your roof isn't right for solar or you're not ready for the bigger install. The battery charges overnight on a time-of-use tariff (rates can be a third of peak in some windows), then powers the house through the day. Some of the energy is lost in the charging cycle, but the cost difference between off-peak and peak is wide enough that the savings are still substantial.
 
-Of course! A [a battery-only installation](/services/home-battery-installations/) can still save you a significant amount on your bills each day, as long as you're on a "Time of Use" tariff, and most energy companies offer this now. These tariffs mean you can charge your battery overnight when the electricity is cheaper (as little as 1/3rd) the price in some instances, ready to use throughout the day! While a little energy is lost in the process of filling your battery, this is easily offset by using the cheaper electricity for more of your day.
+## Reviews from Whitefield and nearby
 
-## Reviews From Whitefield & Nearby Customers
-
-Check out [our Checkatrade profile](https://www.checkatrade.com/trades/renegadeelectrical/reviews) where we have a **{{ reviews.averageRating | round: 2 }}/10 rating** to read some of the many reviews we've received from customers in or close to Whitefield. To quote from some of those:
+We've got a {{ reviews.averageRating | round: 2 }}/10 rating on [Checkatrade](https://www.checkatrade.com/trades/renegadeelectrical/reviews) covering work across the area:
 
 > "I would have no hesitation in recommending him to anyone."
 
@@ -43,18 +38,14 @@ Check out [our Checkatrade profile](https://www.checkatrade.com/trades/renegadee
 
 > "Ashley was very professional on time, great price and excellent work would recommend"
 
-With over 15 years working as an electrician in both Prestwich and Whitefield, and abroad in the Channel Islands, Ashley has a wealth of experience which means he's seen basically every job before. No matter how old your electrics are, or how your house is laid out, we're sure we can help you get a solar panel and battery set up you'll love and which will save you some serious money over the long run.
+Ashley has 15+ years on the tools as an electrician, including time spent working in the Channel Islands, and the surveys are done by him rather than a salesperson - so the advice comes from the person who'll be doing the work.
 
-## Local Benefits
+## Local install
 
-Ashley handles every survey personally - you're getting advice from a qualified electrician who understands your electrical setup, not a salesperson reading from a brochure. Because we're based so close to Whitefield we know plenty of other local tradespeople we've dealt with over the years who can collaborate with us when working in homes and businesses in Whitefield - for example, we use the same scaffolding company every time to get access to your roof to fit panels.
+Being based so close to Whitefield means we know plenty of other tradespeople in the area we've worked with for years - the same scaffolding firm goes up every time we need roof access, for instance. We're regularly passing through, so booking a survey is usually straightforward.
 
-We're also regularly passing through, which means arranging an appointment should be really easy.
+## Coverage
 
-## Whitefield Coverage Areas
+We cover Whitefield and the surrounding areas, including Besses, Sunnybank, Radcliffe, Hollins and Heywood. We work across the rest of North Manchester as well, but our home patch is Prestwich, Whitefield, Middleton and Bury.
 
-We serve every part of Whitefield and other towns in North Manchester - from Besse's up to Sunnybank, down towards Radcliffe, or across to Hollins and Heywood. We'll cover anywhere in Manchester, really - but we prefer to work close to home, in Prestwich, Whitefield, Middleton and Bury.
-
-## Okay, we're Interested!
-
-Great! We would love to hear from you and advise you about your home or business's potential for solar power generation and / or battery storage. **[Click here for our contact details](/contact/)** - and we'll be in touch within 48 hours!
+[Contact us](/contact/) to talk through what'll work for your property. We'll get back to you within 48 hours to arrange a survey.
