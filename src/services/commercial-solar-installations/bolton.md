@@ -12,32 +12,22 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Bolton Businesses
 
-We're currently designing a system for a carpet and interior design warehouse in Bolton - they spend £700 monthly on electricity. Our 50-panel flat roof design brings that to zero with three-year payback. After that, it's decades of free electricity and income from selling excess back to the grid. If your Bolton business faces similar costs, [commercial solar](/services/commercial-solar-installations/) could transform your bottom line.
+We're working with a family-owned carpet and interior design warehouse in Bolton at the moment. They were spending around £700 a month on electricity, and they own the building, which is what makes the case work. The roof is mostly flat with some pitched, and we've put together two designs: a 50-panel layout on the flat roof alone, which pays back in around three years, or a 115-panel layout across both the flat and pitched roofs, which pays back in four years and brings in more excess to sell back to the grid.
 
-Commercial properties benefit more from solar than domestic ones because businesses consume electricity during the day when solar generation is at its peak. Unlike [domestic installations](/services/solar-and-battery-installations/) where evening consumption requires [battery storage](/services/home-battery-installations/), commercial properties use energy as it's generated. This means you're using nearly every kilowatt-hour your panels produce, which dramatically improves the financial returns.
+Commercial solar tends to outperform domestic for one straightforward reason: businesses are using the electricity during the day when the panels are generating it. There's no need for a battery to bridge to the evening - the energy gets used as it's produced, which means most of what you generate offsets what you'd otherwise be paying for, and the payback is shorter as a result.
 
-## Bolton businesses that see the best returns
+## Bolton businesses where it tends to work
 
-Bolton has numerous retail units, carpet shops, furniture stores, and warehouses with large flat or pitched roofs going unused. These properties are perfect for solar installations that generate substantial daytime energy exactly when businesses need it. Retail and warehousing operations with high daytime electricity consumption see excellent returns because they're using the power as it's produced.
+Bolton has a fair number of retail units, carpet shops, furniture stores and warehouses with large flat or pitched roofs that are currently doing nothing useful. Daytime consumption from refrigeration, lighting and shop equipment lines up well with solar generation. The town's industrial heritage also means there are factories and manufacturing units running heavy machinery on big bills, and food businesses (bakeries, cafes, restaurants) running commercial kitchens through most of the day. Hotels and hospitality businesses sit in the same category.
 
-Bolton's industrial heritage means many factories and manufacturing facilities with heavy machinery consumption still operate across the area. High electricity usage from production equipment means faster payback periods - often 3-4 years for commercial installations. Food businesses including cafes, bakeries, and restaurants with commercial kitchens and refrigeration also benefit enormously. We recently spoke to a [Prestwich](/services/commercial-solar-installations/prestwich/) baker spending £10,000 monthly who nearly went under because of rising electricity costs.
+A Prestwich baker we spoke to recently was spending around £10,000 a month on electricity, and that bill was close to closing him down. Numbers like that, commercial solar can be the difference between a viable business and one that isn't.
 
-Hotels and hospitality businesses running kitchens, heating, and facilities throughout the day benefit from solar's rapid payback and long-term savings. Bolton's commercial properties often have extensive roof space that's currently generating zero value - we can turn that into decades of cost savings.
+## Flat roofs and pitched roofs
 
-## Real numbers from Our Bolton client
+Flat roofs make our job easier - we mount the panels at the optimal angle regardless of which way the building faces. Pitched roofs work too, particularly on larger buildings with extensive roof area. If there's spare land or grass verges, ground-mounted systems can supplement the rooftop or power [EV charging points](/services/electric-vehicle-charger-installations/) for staff. We've installed setups where the staff charging runs entirely off the solar.
 
-This family-owned warehouse bought their building in the 1980s and now spends £700 monthly on electricity. They've got a massive flat roof that's perfect for solar. We designed two options: 50+ panels covering just the flat roof brings their bills to zero with three-year payback, or 115 panels covering both flat and pitched roofs with four-year payback and maximum generation. Both options eliminate electricity costs and provide 20+ years of free energy after payback. They're currently planning to convert their top floor to storage units and will proceed with the installation once that's done.
+## Our approach
 
-## Why flat roofs work brilliantly
+You need to own the building rather than leasing it, and the higher the daytime electricity consumption the better the returns. We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), and as an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/) we handle all the [electrical certifications](/services/electrical-testing/) and grid connections that come with the work. If the numbers don't work for your business, we'll tell you.
 
-Flat roofs give us flexibility that pitched roofs don't - we can mount panels pointing south regardless of building orientation. Bolton's commercial properties often have large flat roofs generating zero value. We turn those into profit centres producing savings for decades. Even properties with pitched roofs work well, particularly larger buildings with extensive roof areas.
-
-If you have spare land, grass verges, or outdoor space, ground-mounted solar supplements rooftop installations or powers [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles. We've installed ground-mounted systems for businesses offering free staff charging powered entirely by solar - valuable employee benefit at zero ongoing electricity cost.
-
-## Requirements and Our approach
-
-You must own the building (not leased), have sufficient roof space or land, and ideally high electricity consumption for best returns. Commercial electricity prices have soared in recent years - many Bolton businesses face bills that have doubled or tripled. For businesses on tight margins, reducing £700-£10,000 monthly costs to near zero can be transformative.
-
-Based in nearby [Prestwich](/services/commercial-solar-installations/prestwich/), we serve Bolton businesses with the same local, responsive service. As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we provide quality installations with honest advice. If the numbers don't work for your business, we'll tell you. We also handle all [electrical certifications](/services/electrical-testing/) and grid connection requirements.
-
-**[Contact us today](/contact/) for a free commercial solar consultation with detailed financial analysis.**
+[Contact us](/contact/) for a free commercial solar consultation.
