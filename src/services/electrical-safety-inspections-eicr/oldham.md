@@ -9,60 +9,24 @@ tags: [oldham, eicr]
 
 # EICR Electrical Safety Inspections in Oldham
 
-Professional electrical safety inspections across the Oldham borough from experienced NAPIT-registered electricians. £150 plus VAT for all domestic properties - same day certificates, no waiting around.
+We do EICR electrical safety inspections across the Oldham borough at £150 plus VAT for any domestic property, with the certificate issued the same day. We're about fifteen minutes from Prestwich - Ashley is NAPIT-registered (66870) with around twenty years of experience, and there are no travel charges.
 
-## Oldham's terraced housing stock
+## Oldham properties
 
-Nearly half of all properties in Oldham are terraced houses - many dating back to the mill era. These properties present specific electrical challenges that need proper assessment.
+Nearly half of all properties in Oldham are terraced, many of them going back to the mill era, and they tend to throw up the more interesting electrical situations. Systems that started out serving basic lighting loads in the 1900s have been added to in stages since - sometimes by the book, sometimes not - and what you end up with is worth checking properly. Consumer units that predate RCD protection are common across Chadderton, Royton, Shaw and central Oldham, and earthing arrangements that were adequate at the time don't always meet current standards.
 
-**Traditional terraced properties** throughout Chadderton, Royton, Shaw, and central Oldham often have electrical systems that have evolved over decades. Original installations designed for basic lighting have been extended to cope with modern electrical demands, but not always to the best standards.
+Out in Saddleworth and parts of Lees, the older stone-built properties have their own considerations - thicker walls, different construction methods, and earthing setups that can vary from what you'd expect in a standard brick terrace. The newer builds across the borough are generally more straightforward, though we do find faults in relatively recent properties more often than you'd expect.
 
-**Older stone-built properties** in Saddleworth and parts of Lees may have unique wiring configurations. Thicker walls and different construction methods mean earthing arrangements can differ from standard brick terraces.
+## For landlords
 
-**Modern developments** across the borough should be more straightforward, but even recent builds can have problems. Industry research shows electrical installation faults affect 1 in 5 new properties.
+Landlords are legally required to have an EICR every five years and one for each new tenancy. Fines for non-compliance run up to £30,000, and the local authority can arrange remedial work and bill you for it. Existing tenants need the report within 28 days; new tenants get it before they move in. If the inspection turns up C1, C2 or FI issues, you've got 28 days to sort those. If the consumer unit needs replacing, that work can be done alongside [solar panel installation](/services/solar-and-battery-installations/oldham/) to save on costs.
 
-## Our Oldham EICR Service - £150 plus VAT All Properties
+## For buyers
 
-**£150 plus VAT for any domestic property in Oldham** - whether you're in a compact terrace in Coldhurst or a detached home in Uppermill, the price stays the same. No travel charges from our Prestwich base.
+Get an EICR before completion. Oldham's terraced houses can look affordable on paper, but finding out after the fact that the consumer unit needs replacing or the earthing isn't up to standard adds up quickly - the report gives you something concrete to take back to the seller if anything comes up.
 
-Same day certificates and flexible scheduling. We can usually fit inspections in within a few days.
+## What's included
 
-**[Need an EICR in Oldham? Get in touch today](/contact/)**
+The inspection covers a full visual check of wiring, sockets, switches and the consumer unit, then calibrated technical testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The certificate and report are issued the same day, written in plain English. If we find work that needs doing, we can quote for that and schedule it in.
 
-## For Oldham landlords
-
-Oldham has a significant buy-to-let market, particularly in central areas like St Mary's, Coldhurst, and Hollinwood. **EICR every 5 years plus one for each new tenant** - that's the legal requirement.
-
-Penalties for non-compliance are up to £30,000, plus local authorities can arrange remedial work and bill you for the costs. Give existing tenants the report within 28 days; new tenants get it before they move in.
-
-With the EPC C deadline coming in October 2030, many landlords are reviewing their properties anyway. An EICR is a good starting point - it tells you the condition of the electrical installation and whether upgrades are needed. If the consumer unit needs replacing, that work can be done alongside [solar panel installation](/services/solar-and-battery-installations/oldham/) to save on costs.
-
-## For property buyers
-
-**Get an EICR before any money changes hands.** Oldham's average terraced house price of £168,000 is affordable, but you don't want to discover a £2,000 electrical upgrade after you've moved in.
-
-If we find problems like an outdated consumer unit or inadequate earthing, you can use this information in purchase negotiations or make informed decisions about proceeding.
-
-## Thorough electrical testing
-
-**Comprehensive visual inspection** of all visible electrical installations, including wiring, switches, sockets, and consumer units. We check for damage, signs of overheating, and general condition.
-
-**Technical testing** using calibrated professional equipment - continuity testing, insulation resistance measurement, earth fault loop impedance testing, and RCD operation checks.
-
-**Same day documentation** - you receive your EICR certificate and detailed report explaining any findings in clear, understandable language.
-
-## When we find issues
-
-Straightforward assessment without pressure selling. If we discover electrical problems, we explain clearly what's wrong, why it matters, and what your options are. We can handle any remedial work discovered during inspection - no need to coordinate multiple contractors.
-
-**[Need electrical work after an inspection? We handle all electrical services](/services/)**
-
-## Oldham EICR questions
-
-**How quickly can you fit us in?** Usually within a few days. Oldham is well within our regular service area - we're just 13 minutes from Prestwich.
-
-**Any extra charges?** No travel charges - £150 plus VAT is the complete price for domestic EICR inspections across the Oldham borough.
-
-**Do you cover the whole borough?** Yes - Oldham town centre, Chadderton, Royton, Shaw, Lees, Saddleworth, Hollinwood, and everywhere in between.
-
-**[Ready to book your Oldham EICR inspection? Contact us today](/contact/)**
+[Book an EICR inspection in Oldham](/contact/).
