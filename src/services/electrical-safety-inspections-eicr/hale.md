@@ -9,68 +9,26 @@ tags: [hale, eicr]
 
 # EICR Electrical Safety Inspections in Hale
 
-Professional electrical safety inspections in Hale from NAPIT-registered electricians. £150 plus VAT for all domestic properties with same day certificates - regardless of property size.
+We do EICR electrical safety inspections across Hale at £150 plus VAT for any domestic property, with the certificate issued the same day. The price doesn't change with property size - it's the same whether you're in a two-bed semi or a six-bed detached. Ashley is NAPIT-registered (66870) and has around twenty years of experience.
 
-## £150 plus VAT for any domestic property
+## Hale properties
 
-**Fixed price of £150 plus VAT for any domestic property in Hale** - whether you're in a 3-bed semi or a 6-bed detached with 10,000 square feet, the price doesn't change.
+Hale has a mix of period properties and larger modern homes. The older properties around Hale village commonly have electrical systems that have evolved over decades - what was originally designed for basic lighting loads has been extended over the years to handle the demands of modern life, and whether the consumer unit, the earthing and the bonding have kept up tends to be what the inspection works out. For properties in the conservation areas around South Hale and Hale Station, we just take the access constraints into account.
 
-Some competitors charge £250-350 for larger properties. Our flat rate means significant savings for Hale homeowners with bigger properties.
+Larger modern properties might seem like they'd be straightforward, but we find faults in relatively recent builds more often than you'd expect - loose connections, missing earthing, work that was done quickly and not checked properly at the time.
 
-We provide same day certificates and can usually fit you in quickly. EICR inspections are easier to schedule than major electrical work, so we can often accommodate requests at short notice.
+## For landlords
 
-**[Need an EICR in Hale? Get in touch today](/contact/)**
+Landlords are legally required to have an EICR every five years and one for each new tenancy. Fines for non-compliance run up to £30,000, and the local authority can arrange remedial work and bill you for it. Existing tenants need the report within 28 days; new tenants get it before they move in. If the inspection turns up C1, C2 or FI issues, you've got 28 days to sort them.
 
-## Hale's property types
+## For buyers
 
-Hale has a mix of period properties and larger modern homes, each with different electrical considerations.
+Get an EICR before completion. Solicitors and buyers ask for them regularly now, and with Hale's property values, finding out after you've moved in that the consumer unit needs replacing or there's earthing work required is a more expensive surprise than it needs to be. The report gives you something concrete to go back to the seller with if anything comes up.
 
-**Period properties** around Hale village often have electrical systems that have evolved over decades. Original installations designed for basic lighting have been extended to cope with modern demands - electric showers, washing machines, tumble dryers, and all the gadgets we rely on today.
+## What's included
 
-**Larger modern properties** might seem like they'd be problem-free, but research shows 1 in 5 new builds still have electrical faults. Poor workmanship during rushed construction phases can create issues that only show up during proper testing.
+The inspection covers a full visual check of wiring, sockets, switches and the consumer unit, then calibrated technical testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The certificate and report are issued the same day, written in plain English. If we find work that needs doing, we can quote for that and schedule it in.
 
-**Conservation area properties** around South Hale and Hale Station may have had electrical work done with particular constraints. We understand the specific challenges these properties present.
+We also cover [Hale Barns](/services/electrical-safety-inspections-eicr/hale-barns/) and [Altrincham](/services/electrical-safety-inspections-eicr/altrincham/) nearby.
 
-## For Hale landlords
-
-With Hale's strong rental market, landlords need to stay on top of electrical safety compliance. **EICR every 5 years plus one for each new tenant** - it's not optional.
-
-Penalties for non-compliance are serious - fines up to £30,000, plus local authorities can arrange costly remedial work and bill you for it. Give existing tenants the report within 28 days, new tenants before they move in.
-
-## For Hale property buyers
-
-**Get an EICR before any money changes hands.** Hale's property prices mean electrical problems can be expensive surprises you don't want.
-
-Prospective buyers and solicitors are now asking for EICRs. It's not a legal requirement, but people want the confidence that the electrics are safe before committing to a purchase.
-
-If we find issues like an outdated consumer unit or inadequate earthing (common in older properties), you can negotiate repair costs off the purchase price. Much better than discovering you need a rewiring job after completion.
-
-## Comprehensive EICR testing
-
-**Visual inspection** covers all visible wiring, switches, sockets, and your consumer unit. We check for damage, signs of overheating, and general condition.
-
-**Detailed electrical testing** using calibrated equipment includes continuity testing, insulation resistance measurement, earth fault loop impedance testing, and RCD operation checks. This is proper technical assessment, not just a quick visual check.
-
-**Same day certification** - you get your EICR certificate and comprehensive report explaining any findings in terms that make sense.
-
-## When we find issues
-
-**No pressure, just clear explanations.** If we discover problems, we explain what's wrong, why it matters, and what needs doing. You get honest quotes for any remedial work without inflated prices or unnecessary extras.
-
-We can handle any electrical issues discovered during inspection. Why complicate things by involving multiple contractors? Remedial work gets scheduled quickly.
-
-**[Need electrical work sorted after an inspection? We cover all electrical services](/services/)**
-
-## Hale EICR questions
-
-**Is it really £150 for any size property?** Yes. Whether you're in a compact cottage or a substantial family home, the price is £150 plus VAT.
-
-**How quickly can you schedule an inspection?** Usually within a few days. Hale is well within our regular coverage area.
-
-**Do you work with estate agents and solicitors?** We work with buyers, sellers, landlords, and tenants throughout Hale. Professional service that estate agents and solicitors trust.
-
-## Nearby areas
-
-We also cover [Hale Barns](/services/electrical-safety-inspections-eicr/hale-barns/), [Altrincham](/services/electrical-safety-inspections-eicr/altrincham/), Bowdon, and surrounding areas.
-
-**[Book your Hale EICR inspection today](/contact/)**
+[Book an EICR inspection in Hale](/contact/).
