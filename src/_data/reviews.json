@@ -1,53 +1,7 @@
 {
-  "total": 161,
-  "averageRating": 9.9,
+  "total": 105,
+  "averageRating": 9.85,
   "reviews": [
-    {
-      "id": "tp-69f4d2a6caa50e7934fdab6e-20260501",
-      "title": "An excellent solar installation",
-      "review": "An excellent solar installation.\n\nAshley and his team were professional, on time and provided an excellent service. I couldn’t fault them.",
-      "createdAt": "2026-05-01T18:19:50.000Z",
-      "updatedAt": "2026-05-01T18:19:50.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "tp-69f4d2a6caa50e7934fdab6e",
-        "displayName": "customer"
-      },
-      "source": "trustpilot",
-      "authorUrl": "https://trustpilot.com/reviews/69f4d2a6caa50e7934fdab6e"
-    },
-    {
-      "id": "tp-69d0c8f25a2d592b9fb8f380-20260404",
-      "title": "My go-to guy for everything solar and electric",
-      "review": "My go-to guy for everything solar and electric.\n\nOver the last few years Ashley has massive upgraded the electrical setup in our house, with solar panels, two batteries, a car charger, new fuse board, new outdoor sockets, security lights, extractor fan.. I’m sure there’s more. Every job is tackled professionally and with a full and honest explanation of the work involved. On top of all of that, he’s a lovely dude who is a joy to be around. I can’t fault Ashley or any of the wonderful team at Renegade!",
-      "createdAt": "2026-04-04T10:16:50.000Z",
-      "updatedAt": "2026-04-04T10:16:50.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "tp-69d0c8f25a2d592b9fb8f380",
-        "displayName": "Ulf Tyken"
-      },
-      "source": "trustpilot",
-      "authorUrl": "https://trustpilot.com/reviews/69d0c8f25a2d592b9fb8f380"
-    },
     {
       "id": "019d25b4-e602-7c5f-ab6e-d1c817e27ae5",
       "title": "Fitted 3 batteries and Invertor very professional and friendly",
@@ -70,29 +24,6 @@
       },
       "source": "checkatrade",
       "authorUrl": ""
-    },
-    {
-      "id": "gr-104802602718695882455-20260301",
-      "title": "Ashley and his team installed solar panels, battery and inverter in our house",
-      "review": "Ashley and his team installed solar panels, battery and inverter in our house. Everything went well. They were polite, knowledgeable and good at communicating with me. The project was completed in the agreed time and everything is working well. I would happily recommend them.",
-      "createdAt": "2026-03-01T10:45:29.635Z",
-      "updatedAt": "2026-03-01T10:45:29.635Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "104802602718695882455",
-        "displayName": "Tim Wilks"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/104802602718695882455?hl=en"
     },
     {
       "id": "019ca8f9-6dd6-747a-aa0c-5524d42d1090",
@@ -141,29 +72,6 @@
       "authorUrl": ""
     },
     {
-      "id": "gr-113386214654457054457-20260228",
-      "title": "Absolutely brilliant service",
-      "review": "Absolutely brilliant service! Thank you so much for speed and professionalism. 100% recommend!",
-      "createdAt": "2026-02-28T21:29:02.005Z",
-      "updatedAt": "2026-02-28T21:29:02.005Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "113386214654457054457",
-        "displayName": "Kami"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/113386214654457054457?hl=en"
-    },
-    {
       "id": "019c8a48-fe51-70b1-bc0a-f6cb370ae8ec",
       "title": "faulty socket",
       "review": "Ashley was friendly, professional, and extremely knowledgeable. He ensured all work was completed to a very high standard and clearly explained what was happening at every stage. Absolutely A* service.",
@@ -187,29 +95,6 @@
       "authorUrl": ""
     },
     {
-      "id": "gr-103320309565600695405-20260217",
-      "title": "Would highly recommend the guys at Renegade Solar",
-      "review": "Would highly recommend the guys at Renegade Solar. Really nice guys and they did a great job on my oven & extractor fan",
-      "createdAt": "2026-02-17T10:52:49.916Z",
-      "updatedAt": "2026-02-17T10:52:49.916Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "103320309565600695405",
-        "displayName": "Ben Howes"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/103320309565600695405?hl=en"
-    },
-    {
       "id": "019c676b-4345-79fc-b2df-2b41e772cd38",
       "title": "Oven & extractor fan fitting",
       "review": "Renegade came round to install my oven and splashback. Really nice guys and they did a fantastic job, would definitely recommend",
@@ -231,52 +116,6 @@
       },
       "source": "checkatrade",
       "authorUrl": ""
-    },
-    {
-      "id": "gr-113809389124214730298-20260214",
-      "title": "I highly recommend Ashley",
-      "review": "I highly recommend Ashley. He came out to check the electrics at my house to issue a certificate of compliance. He was knowledgeable, honest and fairly priced. As I couldn't be present at the visit he sent me a clear video demonstrating why the fuse box had failed the test and advised about the repair. Then, when we had agreed the new part that he needed to buy to make good, he also sent me a photo of the receipt of purchase as it turned out a little more expensive. He gave me good advice for the future and even called the energy supplier to alert them to some possible corrosion at the incoming point to my home which he had noticed. He didn't need to do this as it was my responsibility. Just great service! Thanks Ashley.",
-      "createdAt": "2026-02-14T17:07:35.141Z",
-      "updatedAt": "2026-02-14T17:07:35.141Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "113809389124214730298",
-        "displayName": "Katharine Saunders"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/113809389124214730298?hl=en"
-    },
-    {
-      "id": "gr-101355156664121172614-20251209",
-      "title": "Renegade installed a solar system for us, panels and battery storage for an off grid system",
-      "review": "Renegade installed a solar system for us, panels and battery storage for an off grid system. This went without a hitch. Ashley was punctual, completed the work to a very high standard and suggested improvements to our setup in order to get the best out of the system. I agree with other reviewers that Ashley goes the extra mile, rare these days. I have no hesitation in recommending Renegade, they will do a brilliant job.",
-      "createdAt": "2025-12-09T15:02:16.127Z",
-      "updatedAt": "2025-12-09T15:02:16.127Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "101355156664121172614",
-        "displayName": "Malcolm Earnshaw"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/101355156664121172614?hl=en"
     },
     {
       "id": "019b0399-5431-7fb9-840b-594bbd398cc0",
@@ -348,121 +187,6 @@
       "authorUrl": ""
     },
     {
-      "id": "gr-116968513077241605834-20251116",
-      "title": "Just occasionally you come across a contractor who really does go above and beyond expectations…and that is exactly w...",
-      "review": "Just occasionally you come across a contractor who really does go above and beyond expectations…and that is exactly what I experienced with Ashley and Renegade Electricals.\nAfter several years of obtaining quotes for PV installations for my 1930’s bungalow, I gained a poor impression of solar providers. Main issue was I had a difficult roof with various obstructions which made the positioning of PV panels problematic. Most companies that estimated did so from a Google maps satellite view which resulted in quotes for six/eight panels when I required 10 for an economically viable system. Many of these companies had a poor reputation, were expensive and I didn’t find their business model reassuring.\nEventually I contacted Octopus who were offering PV solutions. However, they only want to do simple jobs – getting a modular kit out the back of a van and sticking it on an obstacle free south-facing roof, all done in a day. So, clearly this wouldn’t suit my irregular roof. But Octopus did recommend certain installers in the area who may be able to quote if you didn’t fit their simple “flat-pack” model.\nAnd this is where Renegade Electricals appeared. Ashley was brilliant. He came to the house, measured up the roof, noting the obstacles and establishing workarounds. Consulting with his roofer colleagues, he believed that it would be possible to install 10 panels utilising both south/west facing roofs, explaining that (understandably) it would be a bit of a dog’s dinner. But we were okay with this, it was the only way after all. Ashley also reassured us with his business model, explaining that all payments were insurance backed by the HIES scheme which covers you in the event of a business going bankrupt. Having been a previous victim of this sort of Builders scam I found this very encouraging and consequently elected to use Ashley as my chosen contractor. I felt I could trust him.\nI soon received written quotations, an explanation of the HIES scheme and projections of what the PV installation was going to generate in the coming years. I got the impression I was dealing with a competent professional who knew his business.\nA week or two later the scaffolders arrived and completed their work in a couple of hours and the following day Ashley turned up with his cohort Clayton and they began the electrical work in the garage, positioning and installing the battery/inverter. Having quoted for 2 x 4kW batteries, Ashley had phoned me from the wholesalers to inform me that there was a new 9.6kW battery available, with built-in heater (handy in my cold garage, reduces battery discharge) for not much more money so I elected to go for that. A great piece of customer service there.\nThe following day the roofers turned up and installed the 10 panels exactly as Ashley had planned. Okay, they don’t look pretty not having the asymmetry of a typical rectangular arrangement, but it is far better than we could have hoped for.\nOn the final day, commissioning, they got the system running only to run into a couple of technical issues which took some time to resolve. But Ashley worked with Alpha-ESS technical to establish the fault and resolve it.\nOnce up and running I have to say I’m delighted with the installation. It looks neat and professional and the whole experience, taking around five/six weeks in total, was very straightforward. The kit Ashley provided from Alpha-ESS appears top quality and the app for monitoring the kit is very intuitive. I was provided with the requisite certification required to register with Octopus and that process was quickly sorted. I’m now very glad that I took the decision to go ahead with the installation having prevaricated for some time due to my mistrust of the profession and contractors in general – Ashley has turned this around for me.\nIn conclusion Ashley and Clayton were consummate professionals, very reasonably priced and I can wholeheartedly recommend them. I wish them well in their future business and I’ll be using them again in the Spring for a full electrical test/inspection.",
-      "createdAt": "2025-11-16T11:10:54.624Z",
-      "updatedAt": "2025-11-16T11:10:54.624Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "116968513077241605834",
-        "displayName": "Neil Tootell"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/116968513077241605834?hl=en"
-    },
-    {
-      "id": "gr-105769729766086432429-20251027",
-      "title": "Highly recommended",
-      "review": "Highly recommended. The work began on time and within the agreed time frame. We were kept informed at all stages of the installation.  Ashley installed solar panels, battery and inverter for us.  He even accommodated a few last minute adjustments and was very understanding.  He was extremely competitively priced, having compared with several other companies.  We are now happily generating 🌞😎",
-      "createdAt": "2025-10-27T20:30:43.862Z",
-      "updatedAt": "2025-10-27T20:30:43.862Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "105769729766086432429",
-        "displayName": "Alex Ramos"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/105769729766086432429?hl=en"
-    },
-    {
-      "id": "gr-110837491499746472570-20250911",
-      "title": "Fed up of having solar quotes based solely on Google Earth views of my house that excluded what was, to me, the obvio...",
-      "review": "Fed up of having solar quotes based solely on Google Earth views of my house that excluded what was, to me, the obvious best place for panels - on flat roof.  Ashley was very accommodating in viewing the property, and trying out alternative designs.  The personal touch was important in both designing the system and installing it. Ashley and Clayton were a pleasure to have around whilst fitting. Cost seemed reasonable. System works really well. Would highly recommend",
-      "createdAt": "2025-09-11T15:05:33.438Z",
-      "updatedAt": "2025-09-11T15:05:33.438Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "110837491499746472570",
-        "displayName": "John Merrill"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/110837491499746472570?hl=en"
-    },
-    {
-      "id": "fb-100009138108914-20250608",
-      "title": "Brilliant from start to finish\nUnbiased advice full of great suggestions and very happy with a great installation\nBig...",
-      "review": "Brilliant from start to finish\nUnbiased advice full of great suggestions and very happy with a great installation\nBig thank you Ashley",
-      "createdAt": "2025-06-08T15:05:18.000Z",
-      "updatedAt": "2025-06-08T15:05:18.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "fb-100009138108914",
-        "displayName": "Jonathan Smith"
-      },
-      "source": "facebook",
-      "authorUrl": "https://www.facebook.com/jwsposterity/posts/pfbid02Hbuv9Q8cYHcNj723hq779uA742k1xURBcQS71kBofwCqiAHKqP5B4hqtD78EKuBhl"
-    },
-    {
-      "id": "gr-103989676026580720699-20250601",
-      "title": "Ashley removed my OHME pro and refitted on my new house",
-      "review": "Ashley removed my OHME pro and refitted on my new house. He was reliable and responsive. He did a lovely neat job, would highly recommend. Thanks Ashley 👍",
-      "createdAt": "2025-06-01T19:26:33.880Z",
-      "updatedAt": "2025-06-01T19:26:33.880Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "103989676026580720699",
-        "displayName": "Amy Jeffery"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/103989676026580720699?hl=en"
-    },
-    {
       "id": "01972cee-99dc-76e5-ba83-5484fb4c6eeb",
       "title": "Removed my OHME pro from old house and refitted on a new",
       "review": "Ashley is a great bloke really helpful and responsive. Did a lovely job and was very tidy. Will definitely have him back. Thanks 🙏🏼",
@@ -507,29 +231,6 @@
       },
       "source": "checkatrade",
       "authorUrl": ""
-    },
-    {
-      "id": "gr-105986809608582478476-20250530",
-      "title": "Just had solar panels installed",
-      "review": "Just had solar panels installed. Couldn't be more pleased with the standard of work. Brilliant job. Would definitely recommend!",
-      "createdAt": "2025-05-30T07:46:14.629Z",
-      "updatedAt": "2025-05-30T07:46:14.629Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "105986809608582478476",
-        "displayName": "Lindie Banham"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/105986809608582478476?hl=en"
     },
     {
       "id": "01971d6b-ab4e-7265-9a17-02ab31407bc9",
@@ -624,29 +325,6 @@
       "authorUrl": ""
     },
     {
-      "id": "gr-100702144188907763997-20250421",
-      "title": "Ashley did an amazing job for us upgrading our solar panels after 3 had failed",
-      "review": "Ashley did an amazing job for us upgrading our solar panels after 3 had failed. Turned up on time and worked so hard putting right the botch job we had previously. Over the moon with the savings I have already made producing more power and reducing daily usage would highly recommend.",
-      "createdAt": "2025-04-21T14:40:45.253Z",
-      "updatedAt": "2025-04-21T14:40:45.253Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "100702144188907763997",
-        "displayName": "gail whittaker"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/100702144188907763997?hl=en"
-    },
-    {
       "id": "01965852-4ec5-7dc1-9a82-a6612accd1c4",
       "title": "Emergency call out",
       "review": "I had a burning smell coming from my fuse box rang ash as 7.30am was with me within 20 minutes ensured everything was safe and advised me on what to say to electricity north west. Amazing service highly recommend",
@@ -691,29 +369,6 @@
       },
       "source": "checkatrade",
       "authorUrl": ""
-    },
-    {
-      "id": "gr-110073945973134273376-20250421",
-      "title": "We recently had a full electrical installation done on our new build home, and I can’t recommend our electrician high...",
-      "review": "We recently had a full electrical installation done on our new build home, and I can’t recommend our electrician highly enough. From start to finish, he was absolutely brilliant.\n\nNot only did he carry out all the work to a high standard, but he also offered genuinely helpful advice throughout the process. He suggested smart ways to save energy, such as LED lighting options, more efficient layouts, and even advice on future-proofing the wiring for things like solar panels and EV charging. His knowledge really helped us make decisions that will benefit us in the long run.\n\nHe also gave great input on the positioning of light fixtures, sockets, and switches—making sure everything was both practical and looked good. His ideas made a big difference, especially in spaces like the kitchen and living room where layout is key.\n\nProfessional, friendly, and full of great ideas—he made the whole process smooth and stress-free. We’re really happy with the results!",
-      "createdAt": "2025-04-21T11:35:07.400Z",
-      "updatedAt": "2025-04-21T11:35:07.400Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "110073945973134273376",
-        "displayName": "Gary McIntosh"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/110073945973134273376?hl=en"
     },
     {
       "id": "019657f7-6997-7b1c-83d4-671ba9c0bbce",
@@ -762,52 +417,6 @@
       "authorUrl": ""
     },
     {
-      "id": "gr-103024483504906650765-20250408",
-      "title": "Great service, quote provided very quickly",
-      "review": "Great service, quote provided very quickly.  Very honest and pragmatic in assessing actual requirements, work was done quickly and very happy with the end results, cheers!",
-      "createdAt": "2025-04-08T06:59:32.013Z",
-      "updatedAt": "2025-04-08T06:59:32.013Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "103024483504906650765",
-        "displayName": "Josh B"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/103024483504906650765?hl=en"
-    },
-    {
-      "id": "gr-103498175705837204694-20250313",
-      "title": "Excellent communication from quote to completion from Ashley and his team\nI would recommend",
-      "review": "Excellent communication from quote to completion from Ashley and his team\nI would recommend",
-      "createdAt": "2025-03-13T13:39:41.408Z",
-      "updatedAt": "2025-03-13T13:39:41.408Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "103498175705837204694",
-        "displayName": "Jim Mcloughlin"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/103498175705837204694?hl=en"
-    },
-    {
       "id": "019579a0-622f-7300-bc54-df2d2aff03e6",
       "title": "Removed my EV charger from old house and reinstalled at new house",
       "review": "Ashley was amazing! He removed my EV charger from my old house and came back at reinstalled at my new house. He even helped climbed on my roof to move some garden furniture over a one storey extension for me😂would highly recommend and wouldn’t use anybody else now for any electrical work, lovely guy! Thank you!",
@@ -829,52 +438,6 @@
       },
       "source": "checkatrade",
       "authorUrl": ""
-    },
-    {
-      "id": "gr-106247344122069145694-20250309",
-      "title": "Ashley was amazing",
-      "review": "Ashley was amazing! He removed my EV charger from my old house and came back at reinstalled at my new house. He even helped climbed on my roof to move some garden furniture over a one storey extension for me😂would highly recommend and wouldn’t use anybody else now for any electrical work, lovely guy! Thank you!",
-      "createdAt": "2025-03-09T06:36:33.901Z",
-      "updatedAt": "2025-03-09T06:36:33.901Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "106247344122069145694",
-        "displayName": "Abbie Smith"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/106247344122069145694?hl=en"
-    },
-    {
-      "id": "gr-115448003067815989746-20250218",
-      "title": "Ashley fitted 11 solar panels and a 6kWh battery to our house in Prestwich, along with lots of smaller jobs like a \"P...",
-      "review": "Ashley fitted 11 solar panels and a 6kWh battery to our house in Prestwich, along with lots of smaller jobs like a \"Positive Input Ventilation\" system, outdoor lighting, extraction fans, and loads more. Every job was completed with total professionalism and fair prices with the area left clean and tidy. I recommend Ashley any time someone asks for an electrician, and especially if they're interested in generating solar power at home! In summer we now generate more electricity than we can use, and so we sell the excess back to our supplier which offsets our gas bills - very cool.",
-      "createdAt": "2025-02-18T10:14:59.135Z",
-      "updatedAt": "2025-02-18T10:14:59.135Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "115448003067815989746",
-        "displayName": "Stefan Burke"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/115448003067815989746?hl=en"
     },
     {
       "id": "0194668c-408a-7152-94c8-4e06bc3ac102",
@@ -1153,29 +716,6 @@
       "authorUrl": ""
     },
     {
-      "id": "gr-110272597130422541979-20240726",
-      "title": "Brilliant service and workmanship",
-      "review": "Brilliant service and workmanship",
-      "createdAt": "2024-07-26T19:27:21.063Z",
-      "updatedAt": "2024-07-26T19:27:21.063Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "110272597130422541979",
-        "displayName": "Ben Baggett"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/110272597130422541979?hl=en"
-    },
-    {
       "id": "10996dfd-e98b-4ac9-8369-f118305e3c8a",
       "title": "External plug socket",
       "review": "Ashley fitted an external plug socket for me. He sourced the socket at a good price and quality of the workmanship was great. He communicated well and provided an excellent service.",
@@ -1245,29 +785,6 @@
       "authorUrl": ""
     },
     {
-      "id": "gr-112873219048719267682-20240628",
-      "title": "great work having my electric car charger installed",
-      "review": "great work having my electric car charger installed. Would deffo recommend",
-      "createdAt": "2024-06-28T20:39:58.987Z",
-      "updatedAt": "2024-06-28T20:39:58.987Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "112873219048719267682",
-        "displayName": "Darren Burns"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/112873219048719267682?hl=en"
-    },
-    {
       "id": "9496f1f9-7fdf-4c16-9448-36025bdedd4e",
       "title": "EV Charger",
       "review": "Excellent work, on time and did what he said was needed. Wouldn’t go with anyone else. Top work",
@@ -1289,29 +806,6 @@
       },
       "source": "checkatrade",
       "authorUrl": ""
-    },
-    {
-      "id": "gr-107582990933692238810-20240625",
-      "title": "EV charger fitted quickly, tidily and reasonably priced",
-      "review": "EV charger fitted quickly, tidily and reasonably priced.  Excellent workmanship and hard working, thank you Ashley!",
-      "createdAt": "2024-06-25T06:24:14.029Z",
-      "updatedAt": "2024-06-25T06:24:14.029Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "107582990933692238810",
-        "displayName": "tricia brogan"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/107582990933692238810?hl=en"
     },
     {
       "id": "f38fb995-7e24-4ceb-98cb-fc017cd9b88a",
@@ -1383,29 +877,6 @@
       "authorUrl": ""
     },
     {
-      "id": "gr-116759864969884491855-20240608",
-      "title": "Came to install my electric cooker; very efficient and thorough work",
-      "review": "Came to install my electric cooker; very efficient and thorough work. Gave me great advice on further work that may be needed - but with NO attempt to up-sell. Went above and beyond to make sure everything was safe. Very down to Earth and friendly - highly recommend :)",
-      "createdAt": "2024-06-08T10:15:34.947Z",
-      "updatedAt": "2024-06-08T10:15:34.947Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "116759864969884491855",
-        "displayName": "Gaia Barstow"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/116759864969884491855?hl=en"
-    },
-    {
       "id": "166f9a7d-2162-4740-a9fb-20765ddc682c",
       "title": "Wiring in an electric cooker",
       "review": "Super friendly, very efficient and very well priced for the job in hand. There was an issue with the existing wiring in the property, but he went above and beyond to ensure the work was safe, and gave me detailed advice on next steps.\nWonderful experience for a first time homeowner like myself - can highly recommend!",
@@ -1427,29 +898,6 @@
       },
       "source": "checkatrade",
       "authorUrl": ""
-    },
-    {
-      "id": "fb-pfbid029bsxcGGDu6Uie-20240603",
-      "title": "We contacted Ashley due to a fault with our kitchen lights",
-      "review": "We contacted Ashley due to a fault with our kitchen lights. He came to the house and fixed the problem straight away. He was friendly and very polite. We would definitely recommend",
-      "createdAt": "2024-06-03T19:55:45.000Z",
-      "updatedAt": "2024-06-03T19:55:45.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "fb-pfbid029bsxcGGDu6Uie",
-        "displayName": "Zophie Borodinsky"
-      },
-      "source": "facebook",
-      "authorUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0imj3ZgaDVEFVL5ggBNbiRjH38WSpdoQiL5C3gap3d2YxizUfLd6nPhAs2mgDBfz5l&id=100010837962936"
     },
     {
       "id": "27165b70-9f63-4ed7-9749-5a8786d50a78",
@@ -1498,75 +946,6 @@
       "authorUrl": ""
     },
     {
-      "id": "gr-103307789049297915548-20240530",
-      "title": "Ashley came out at short notice to do a electrical safety check on my new property",
-      "review": "Ashley came out at short notice to do a electrical safety check on my new property. He put in a bathroom extractor fan and has also fitted new light fittings and plug sockets throughout. Absolutely brilliant job, cannot recommend enough!",
-      "createdAt": "2024-05-30T18:38:18.271Z",
-      "updatedAt": "2024-05-30T18:38:18.271Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "103307789049297915548",
-        "displayName": "Hayley S"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/103307789049297915548?hl=en"
-    },
-    {
-      "id": "gr-109363002792125249494-20240530",
-      "title": "Ashley fitted an EV charger for us, his installation was prompt and he had excellent knowledge and was able to share ...",
-      "review": "Ashley fitted an EV charger for us, his installation was prompt and he had excellent knowledge and was able to share that with us whilst he was installing the EV charger.\n\nWe had a problem with the actual box itself, so we had to call the supplier and have them replace it and during this time Ashley was always calling to check up to see how everything was going.\n\nI couldn’t recommend him any higher, he was extremely professional throughout and his prices are very reasonable.",
-      "createdAt": "2024-05-30T09:17:11.546Z",
-      "updatedAt": "2024-05-30T09:17:11.546Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "109363002792125249494",
-        "displayName": "Chris McDonald"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/109363002792125249494?hl=en"
-    },
-    {
-      "id": "gr-115697322579448977082-20240530",
-      "title": "Can't recommend enough",
-      "review": "Can't recommend enough. Came out as agreed, and sorted the issue there and then. No messing, no trying to upsell etc, just honest decent work. Will definitely return.",
-      "createdAt": "2024-05-30T09:10:32.803Z",
-      "updatedAt": "2024-05-30T09:10:32.803Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "115697322579448977082",
-        "displayName": "Nicola Bradbury"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/115697322579448977082?hl=en"
-    },
-    {
       "id": "e67e2c64-71fd-4218-b969-3b246c7c7bfe",
       "title": "EICR remedial work & certificate",
       "review": "Ashley was super responsive and did an amazing job, will definitely use his services again in the future.",
@@ -1613,52 +992,6 @@
       "authorUrl": ""
     },
     {
-      "id": "gr-105623321142373203743-20240514",
-      "title": "I highly recommend: Ashley came out at very short notice and on a Sunday morning to survey our last minute request fo...",
-      "review": "I highly recommend: Ashley came out at very short notice and on a Sunday morning to survey our last minute request for an outdoor power socket to enable our builders to have power without accessing the house. The builders started Monday and Ashley was on site at 9am fitting a double socket for us. A gentleman and clearly excellent and experienced in his trade. I highly recommend Ashley and Renegade Electrical. Work carried out 29th April 2024.",
-      "createdAt": "2024-05-14T19:13:16.043Z",
-      "updatedAt": "2024-05-14T19:13:16.043Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "105623321142373203743",
-        "displayName": "laurence brannigan"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/105623321142373203743?hl=en"
-    },
-    {
-      "id": "fb-pfbid02EjFwz8QXr7rDf-20240514",
-      "title": "EV charger fitted within a day of contacting Ashley",
-      "review": "EV charger fitted within a day of contacting Ashley. Tidy, friendly, really reliable and the best quote out there. Highly recommend!",
-      "createdAt": "2024-05-14T08:18:31.000Z",
-      "updatedAt": "2024-05-14T08:18:31.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "fb-pfbid02EjFwz8QXr7rDf",
-        "displayName": "Ellen Grace Tomlinson"
-      },
-      "source": "facebook",
-      "authorUrl": "https://www.facebook.com/ellen.grace.52643/posts/pfbid029uTmEtmwNJ4GVPbwAxfpG8fcA2WxCyoYj7qvdLLGJ1js5dmxHs36a9gLfsVGUHTPl"
-    },
-    {
       "id": "ba357e1c-19d4-4107-b733-354c536d39b9",
       "title": "EV charger fitting",
       "review": "Ashley fitted an EV charger for me and provided lots of brilliant advice prior to doing so, as I was clueless on the whole thing. His advice even allowed me to keep costs down and his prices were the best quotes I had, with nothing reduced on the quality of his work. An extremely tidy, friendly and reliable tradesman who will not rip you off! All quotes and works were completed within days of contacting him - highly recommend !",
@@ -1680,29 +1013,6 @@
       },
       "source": "checkatrade",
       "authorUrl": ""
-    },
-    {
-      "id": "gr-110303813412076333465-20240514",
-      "title": "Ashley fitted an EV charger for me and provided lots of brilliant advice prior to doing so, as I was clueless on the ...",
-      "review": "Ashley fitted an EV charger for me and provided lots of brilliant advice prior to doing so, as I was clueless on the whole thing. His advice even allowed me to keep costs down and his prices were the best quotes I had, with nothing reduced on the quality of his work. An extremely tidy, friendly and reliable tradesman who will not rip you off! All quotes and works were completed within days of contacting him - highly recomend!",
-      "createdAt": "2024-05-14T08:16:13.257Z",
-      "updatedAt": "2024-05-14T08:16:13.257Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "110303813412076333465",
-        "displayName": "Ellen Tomlinson"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/110303813412076333465?hl=en"
     },
     {
       "id": "751858c6-712f-45c3-9ae2-ad2d5e60a904",
@@ -1728,29 +1038,6 @@
       "authorUrl": ""
     },
     {
-      "id": "fb-pfbid0wTN88rU6z65iah-20240512",
-      "title": "A last minute request before another trades person was about to start another job",
-      "review": "A last minute request before another trades person was about to start another job. Ashley came highly recommended and we will definitely have him back!",
-      "createdAt": "2024-05-12T06:13:57.000Z",
-      "updatedAt": "2024-05-12T06:13:57.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "fb-pfbid0wTN88rU6z65iah",
-        "displayName": "Vikki Brannigan"
-      },
-      "source": "facebook",
-      "authorUrl": "https://www.facebook.com/vikki.brannigan/posts/pfbid036WLXF6Dg4uq4chnPFSejyJWEkowhJTVF26o4ZqAy2EXNXrFPiWHAwL8iUEBFKAJ9l"
-    },
-    {
       "id": "e31c23af-0e3f-456b-9f65-a5fc51f86fbb",
       "title": "Electric car charger fitted",
       "review": "Ashley fitted me a car charger great price, really professional job would highly recommend",
@@ -1774,52 +1061,6 @@
       "authorUrl": ""
     },
     {
-      "id": "gr-102583291979979163695-20240511",
-      "title": "Ashley fitted me a car port great price, really professional job would highly recommend",
-      "review": "Ashley fitted me a car port great price, really professional job would highly recommend",
-      "createdAt": "2024-05-11T07:41:42.952Z",
-      "updatedAt": "2024-05-11T07:41:42.952Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "102583291979979163695",
-        "displayName": "Kelly Anderson"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/102583291979979163695?hl=en"
-    },
-    {
-      "id": "gr-115349738132258270699-20240314",
-      "title": "Absolutely brilliant did the job exactly how I wanted pleasant polite friendly guy good price for quality work cleane...",
-      "review": "Absolutely brilliant did the job exactly how I wanted pleasant polite friendly guy good price for quality work cleaned up afterwards what more could you ask for highly recommend",
-      "createdAt": "2024-03-14T19:47:27.930Z",
-      "updatedAt": "2024-03-14T19:47:27.930Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "115349738132258270699",
-        "displayName": "frances hobson"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/115349738132258270699?hl=en"
-    },
-    {
       "id": "2a79c545-1cc1-44c1-9f83-4f41f7b9e3be",
       "title": "Remove and refit of Solar Panels",
       "review": "We needed the Solar Panels removing and refitting to allow roofers to replace roof.  I Posted on CHECKATRADE and received a call from a very kowledgeable gentleman From RENEGADE ELECTRIC.  He said he would need to see the job to enable him to work out a job plan and price.  The job required working with a team RENEGADE hadnt met before.  He came the next day and spent quite some time looking at the job.  He left promising to call that pm with a price.  RENEGADES was half of quotes from other trades had been.  RENÈGADES work rate, ethic and quality.  Were excellent.  Will reccommend.  Thank You",
@@ -1841,52 +1082,6 @@
       },
       "source": "checkatrade",
       "authorUrl": ""
-    },
-    {
-      "id": "gr-106353791109093094872-20240122",
-      "title": "From estimate to completion  a very professional service",
-      "review": "From estimate to completion  a very professional service.\nI have no qualms about using Renegade again.\nAn extremely knowledgeable and skilled company will recommend.",
-      "createdAt": "2024-01-22T21:33:32.398Z",
-      "updatedAt": "2024-01-22T21:33:32.398Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "106353791109093094872",
-        "displayName": "Neil Vincent"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/106353791109093094872?hl=en"
-    },
-    {
-      "id": "gr-106941231566921620115-20240116",
-      "title": "Friendly.prompt service.completed the jobs as required.100% recommend.used him through check a trade.if I have any mo...",
-      "review": "Friendly.prompt service.completed the jobs as required.100% recommend.used him through check a trade.if I have any more electrical work to be done I shall use them.thanks.",
-      "createdAt": "2024-01-16T10:34:35.365Z",
-      "updatedAt": "2024-01-16T10:34:35.365Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "106941231566921620115",
-        "displayName": "Andrew Dey"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/106941231566921620115?hl=en"
     },
     {
       "id": "9b6cd85a-9607-4555-8c17-8aa8d98185b0",
@@ -1958,29 +1153,6 @@
       "authorUrl": ""
     },
     {
-      "id": "fb-pfbid02UrZ1nYRnUa3k8-20231023",
-      "title": "Electric car charger fitted, excellent service from Ashley, great price highly recommended thank you.",
-      "review": "Electric car charger fitted, excellent service from Ashley, great price highly recommended thank you.",
-      "createdAt": "2023-10-23T17:24:46.000Z",
-      "updatedAt": "2023-10-23T17:24:46.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "fb-pfbid02UrZ1nYRnUa3k8",
-        "displayName": "Kelly Anderson"
-      },
-      "source": "facebook",
-      "authorUrl": "https://www.facebook.com/kellyanderson200682/posts/pfbid0k5By5j6UzV3XHUVKtRkXDQN6a3UstvazqLKQzuinFUR4bTn2ieezfW1Mzxf9JCorl"
-    },
-    {
       "id": "e65a7c8e-25ee-4a67-bd70-7bbb925ee968",
       "title": "Electrical car charger fitted",
       "review": "Ashley was very professional on time, great price and excellent work would recommend",
@@ -2025,29 +1197,6 @@
       },
       "source": "checkatrade",
       "authorUrl": ""
-    },
-    {
-      "id": "fb-pfbid028sBHw2ALuUA3g-20231007",
-      "title": "Ashley was recommended by a friend",
-      "review": "Ashley was recommended by a friend.  We have used him twice, great guy, very polite and friendly.  Very clean and tidy, we are very pleased with the work he did and would definitely use him again",
-      "createdAt": "2023-10-07T19:50:55.000Z",
-      "updatedAt": "2023-10-07T19:50:55.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "fb-pfbid028sBHw2ALuUA3g",
-        "displayName": "Netty Hay"
-      },
-      "source": "facebook",
-      "authorUrl": "https://www.facebook.com/annette.hayes.54/posts/pfbid0Zt31xgiRj9iJbYqZRc51XJpSfjPFAGVagFF3eoxesJbXeGJkb2sqcR7gWan7MNMml"
     },
     {
       "id": "b21e003c-7aa6-4b64-906b-3fb590622bfa",
@@ -2096,52 +1245,6 @@
       "authorUrl": ""
     },
     {
-      "id": "gr-102480248279555547881-20230919",
-      "title": "Great work done by Ashley, professional, in time , great guy.",
-      "review": "Great work done by Ashley, professional, in time , great guy.",
-      "createdAt": "2023-09-19T19:33:10.251Z",
-      "updatedAt": "2023-09-19T19:33:10.251Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "102480248279555547881",
-        "displayName": "Alin Gagiu"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/102480248279555547881?hl=en"
-    },
-    {
-      "id": "gr-104397084813303649056-20230919",
-      "title": "He was a through and through professional",
-      "review": "He was a through and through professional. Knew all the different wire types and how to best work around moving sockets and removing old wiring. Was courteous and patient, even with my on the fly extra requests. Will be reaching out in future for any electrical jobs needed",
-      "createdAt": "2023-09-19T12:38:58.975Z",
-      "updatedAt": "2023-09-19T12:38:58.975Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "104397084813303649056",
-        "displayName": "michael sherrington"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/104397084813303649056?hl=en"
-    },
-    {
       "id": "c9967d53-a96b-4a15-991d-f360c5b1b939",
       "title": "Rewiring and remove of old wiring",
       "review": "He was a through and through professional.  Knew all the different wire types and how to best work around moving sockets and removing old wiring.  Was courteous and patient, even with my on the fly extra requests.  Will be reaching out in future for any electrical jobs needed.",
@@ -2163,29 +1266,6 @@
       },
       "source": "checkatrade",
       "authorUrl": ""
-    },
-    {
-      "id": "gr-103438096738658499065-20230807",
-      "title": "Extremely helpful and friendly service",
-      "review": "Extremely helpful and friendly service. The issue was resolved very quickly. I would recommend Renegade Electrical to anyone looking for an electrician and would definitely use them again in the future.",
-      "createdAt": "2023-08-07T19:35:40.600Z",
-      "updatedAt": "2023-08-07T19:35:40.600Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "103438096738658499065",
-        "displayName": "Thomas Conwell"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/103438096738658499065?hl=en"
     },
     {
       "id": "c8d4d930-00bf-4e61-9962-1a29d115892a",
@@ -2278,29 +1358,6 @@
       },
       "source": "checkatrade",
       "authorUrl": ""
-    },
-    {
-      "id": "fb-pfbid0WTATsdLqAbRUvW-20230526",
-      "title": "Would highly recommend Ashley",
-      "review": "Would highly recommend Ashley. He's done a fantastic, professional job. Great guy and will defo use again in the future. If you need an electrician who's reliable, friendly and fab at his job Ashley is the one!",
-      "createdAt": "2023-05-26T19:23:10.000Z",
-      "updatedAt": "2023-05-26T19:23:10.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "fb-pfbid0WTATsdLqAbRUvW",
-        "displayName": "Lisa Johnstone"
-      },
-      "source": "facebook",
-      "authorUrl": "https://www.facebook.com/lisa.roche.718/posts/pfbid09jJmYW8AJEdaB5FwMAwZ9u8VmxK4f5YdCKK8ECXaVhz85bTUmakh4eYcyPeKrdfCl"
     },
     {
       "id": "0ae32490-8efb-4161-964e-bf47dc25015e",
@@ -2462,29 +1519,6 @@
       },
       "source": "checkatrade",
       "authorUrl": ""
-    },
-    {
-      "id": "fb-pfbid02WQKiT8pXbigy4-20230421",
-      "title": "highly recommend Ashley he's bloody brilliant, not just for his work but his banter aswel",
-      "review": "highly recommend Ashley he's bloody brilliant, not just for his work but his banter aswel. amazing service, quick and reliable, good prices, already booked him for the next job.\n\nthanks Ashley :)",
-      "createdAt": "2023-04-21T17:26:50.000Z",
-      "updatedAt": "2023-04-21T17:26:50.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "fb-pfbid02WQKiT8pXbigy4",
-        "displayName": "Kimberley Rutter"
-      },
-      "source": "facebook",
-      "authorUrl": "https://www.facebook.com/kimirutter89/posts/pfbid0v7VrCMLo4UWcDKZUL7ZYeP1EDWsTiA1LQP81szuxamRvoFy7wqBtRfZ9Ycypjdcel"
     },
     {
       "id": "6ca3e96f-4756-4e67-b57d-56a38a65002a",
@@ -2786,29 +1820,6 @@
       "authorUrl": ""
     },
     {
-      "id": "fb-pfbid02w2gY9pzskABPJ-20230121",
-      "title": "Ashley did a great job fitting a new cooker in an extension today",
-      "review": "Ashley did a great job fitting a new cooker in an extension today. A friendly guy and a neat and professional job well done.  Reasonable price too. Would definitely recommend.",
-      "createdAt": "2023-01-21T12:41:50.000Z",
-      "updatedAt": "2023-01-21T12:41:50.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "fb-pfbid02w2gY9pzskABPJ",
-        "displayName": "Moyra Purves"
-      },
-      "source": "facebook",
-      "authorUrl": "https://www.facebook.com/moyra.purves/posts/pfbid0CcciZkjnivNaWNvDcb6KFJNnmzsLr4vs1QmYvnxETGxezRG8pRC4FBdWdbj4oJevl"
-    },
-    {
       "id": "9847462a-46da-4133-a300-aece27d42fcd",
       "title": "Full rewire, circuit board, new sockets and switches and all new light fittings and outside lights.",
       "review": "Absolutely fantastic work carried out by Ashley.  Very reliable and friendly, would highly recommend and definitely use again.",
@@ -2853,29 +1864,6 @@
       },
       "source": "checkatrade",
       "authorUrl": ""
-    },
-    {
-      "id": "gr-100643013399535124026-20230119",
-      "title": "Excellent service provided by Ashley, very reliable and friendly, good value too",
-      "review": "Excellent service provided by Ashley, very reliable and friendly, good value too. We are very happy with all aspects of work carried out and would definitely recommend.",
-      "createdAt": "2023-01-19T12:46:35.726Z",
-      "updatedAt": "2023-01-19T12:46:35.726Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "100643013399535124026",
-        "displayName": "Liz Mackie"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/100643013399535124026?hl=en"
     },
     {
       "id": "6055475b-2a4a-4d49-97ab-2f6e5c3b7a8a",
@@ -3428,282 +2416,6 @@
       },
       "source": "checkatrade",
       "authorUrl": ""
-    },
-    {
-      "id": "fb-pfbid0MRB4cTmGgquRNd-20220317",
-      "title": "Thank you Ashley for a brilliant job lovely guy very pleasant and friendly would definitely recommend and reasonably ...",
-      "review": "Thank you Ashley for a brilliant job lovely guy very pleasant and friendly would definitely recommend and reasonably priced",
-      "createdAt": "2022-03-17T18:44:54.000Z",
-      "updatedAt": "2022-03-17T18:44:54.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "fb-pfbid0MRB4cTmGgquRNd",
-        "displayName": "Lynda Healey Pattison"
-      },
-      "source": "facebook",
-      "authorUrl": "https://www.facebook.com/lynda.healeypattison/posts/pfbid02wKPhA57Vd3GY5VFHD6gYMdbdAZQwQpMYr8Jy5nryRX26JYA3ow7T6hbUYaNQdr56l"
-    },
-    {
-      "id": "fb-pfbid0HYCcbjNSQgS9Kd-20220310",
-      "title": "Ash and Brad have just added a couple of new sockets for my TV and electric fire",
-      "review": "Ash and Brad have just added a couple of new sockets for my TV and electric fire. Some tricky chasing and drilling through my solid brick chimney breast. Very neat job, tidied up afterwards. \n\nVery polite and amiable chaps would definitely recommend. 👍",
-      "createdAt": "2022-03-10T16:40:32.000Z",
-      "updatedAt": "2022-03-10T16:40:32.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "fb-pfbid0HYCcbjNSQgS9Kd",
-        "displayName": "Bruce Thompson"
-      },
-      "source": "facebook",
-      "authorUrl": "https://www.facebook.com/itsabruciebonus/posts/pfbid0eEXf1FfN7sPW4QfUfYvuu4kbHjP7xjTCN3YYXVS6S1DeacBNMvU3uiuqxZV23zcRl"
-    },
-    {
-      "id": "fb-pfbid02XpLiNaGNeButk-20220222",
-      "title": "I can not recommend this guy enough!!",
-      "review": "I can not recommend this guy enough!!!  I used him for the first time today, the sockets kept tripping In my daughters room where there is a lot of medical equipment.  He was round in 20 mins, sorted the problem but also stayed after to make sure it was definitely fixed!!  He’s a lovely local lad working within his community.  Then to top it all off he’s VERY reasonably priced too.  Thankyou Ashley",
-      "createdAt": "2022-02-22T13:16:15.000Z",
-      "updatedAt": "2022-02-22T13:16:15.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "fb-pfbid02XpLiNaGNeButk",
-        "displayName": "Debbie Carey"
-      },
-      "source": "facebook",
-      "authorUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02UNvTwGUobqiEmJiLn13MLA2istpeMqo3uJSst5b2CeANe12cfUBYTCyS1DdVbEzDl&id=100009572315030"
-    },
-    {
-      "id": "fb-pfbid0FojARH1nJt5yQt-20220128",
-      "title": "Great service, called ash to fix my electrics for my kitchen and he did a great job",
-      "review": "Great service, called ash to fix my electrics for my kitchen and he did a great job. Would highly recommend. Thanks ash",
-      "createdAt": "2022-01-28T19:27:59.000Z",
-      "updatedAt": "2022-01-28T19:27:59.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "fb-pfbid0FojARH1nJt5yQt",
-        "displayName": "Rhys Hughes"
-      },
-      "source": "facebook",
-      "authorUrl": "https://www.facebook.com/rhys751/posts/pfbid0gp9VSuebzA1fCqBqTm65siV93dHqkQmhit6aVNTRYAyUm6qkBMdXKoDzSKQGh9spl"
-    },
-    {
-      "id": "gr-112876403702487441078-20220120",
-      "title": "Would recommend to everyone",
-      "review": "Would recommend to everyone. Excellent service and such a nice person. Honest, reliable, efficient. Does an excellent job.",
-      "createdAt": "2022-01-20T21:08:28.627Z",
-      "updatedAt": "2022-01-20T21:08:28.627Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "112876403702487441078",
-        "displayName": "Julie watson"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/112876403702487441078?hl=en"
-    },
-    {
-      "id": "fb-pfbid031TesthtaCJt7j-20220111",
-      "title": "Absolutely fantastic",
-      "review": "Absolutely fantastic. Called Ash out for an emergency was here within 10 minutes. Service was brilliant and very thorough. Great guy would highly recommend.",
-      "createdAt": "2022-01-11T17:38:39.000Z",
-      "updatedAt": "2022-01-11T17:38:39.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "fb-pfbid031TesthtaCJt7j",
-        "displayName": "Katie Redman"
-      },
-      "source": "facebook",
-      "authorUrl": "https://www.facebook.com/kitsxx/posts/pfbid023KZ91Q7AhVLBmSbY4Vroh4GdqW5vY6mgYe7SsUXb4sEkoVDopgAdsfubAS9wUroCl"
-    },
-    {
-      "id": "fb-pfbid08xRPmyHguFbH4y-20211222",
-      "title": "Great service, called Ash to fit a new light in the hall, came next day, fitted within the hour even though it was a ...",
-      "review": "Great service, called Ash to fit a new light in the hall, came next day, fitted within the hour even though it was a bit tricky, lovely guy highly recommended",
-      "createdAt": "2021-12-22T20:26:25.000Z",
-      "updatedAt": "2021-12-22T20:26:25.000Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "fb-pfbid08xRPmyHguFbH4y",
-        "displayName": "David Coughlan"
-      },
-      "source": "facebook",
-      "authorUrl": "https://www.facebook.com/david.coughlan.984/posts/pfbid07uhawHezizfVc6Ft3Khkby7z5EvKeodfU64eJ1dAjsbjGh3xXEePZGSZ4hco2jAdl"
-    },
-    {
-      "id": "gr-114240646524585970182-20211217",
-      "title": "Very happy with the electrical work completed at my house this week,  Ash is easy to deal with and I would certainly ...",
-      "review": "Very happy with the electrical work completed at my house this week,  Ash is easy to deal with and I would certainly use him again..",
-      "createdAt": "2021-12-17T07:24:04.106Z",
-      "updatedAt": "2021-12-17T07:24:04.106Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "114240646524585970182",
-        "displayName": "Dean Seager"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/114240646524585970182?hl=en"
-    },
-    {
-      "id": "gr-109206916594985818262-20211015",
-      "title": "Renegade electrical came to install power with multiple sockets and light fittings in a unit I will use for my business",
-      "review": "Renegade electrical came to install power with multiple sockets and light fittings in a unit I will use for my business.  Ashley was reliable, knowledgable and pleasant company while working.  I would highly recommend Renegade for their superb work, reasonable cost and piece of mind that the work done is safe.",
-      "createdAt": "2021-10-15T15:23:10.162Z",
-      "updatedAt": "2021-10-15T15:23:10.162Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "109206916594985818262",
-        "displayName": "Zoe Sherlock"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/109206916594985818262?hl=en"
-    },
-    {
-      "id": "gr-113466869632443696447-20211002",
-      "title": "Ashley came and fitted 10 spot lights in my kitchen, he turned up on time and got on with it",
-      "review": "Ashley came and fitted 10 spot lights in my kitchen, he turned up on time and got on with it. The quality of his work is excellent and good value. I highly recommend him",
-      "createdAt": "2021-10-02T12:35:00.054Z",
-      "updatedAt": "2021-10-02T12:35:00.054Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "113466869632443696447",
-        "displayName": "Martin McDwyer"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/113466869632443696447?hl=en"
-    },
-    {
-      "id": "gr-102978052491159614729-20211001",
-      "title": "Such a friendly and approachable electrician where nothing was too much trouble for him to do and he took the time to...",
-      "review": "Such a friendly and approachable electrician where nothing was too much trouble for him to do and he took the time to explain what was needed and why.  Would definitely recommend him and his work is great and very reasonably priced!",
-      "createdAt": "2021-10-01T13:20:19.366Z",
-      "updatedAt": "2021-10-01T13:20:19.366Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "102978052491159614729",
-        "displayName": "Paula Hickey"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/102978052491159614729?hl=en"
-    },
-    {
-      "id": "gr-115823431594514377188-20210922",
-      "title": "Ashley made an appointment to fit a new security light ",
-      "review": "Ashley made an appointment to fit a new security light . Turned up on time. Very reasonably priced.  Light works perfectly.  Highly recommend. Will definitely use again.",
-      "createdAt": "2021-09-22T16:19:48.367Z",
-      "updatedAt": "2021-09-22T16:19:48.367Z",
-      "location": {
-        "postcode": ""
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 10,
-        "reliabilityAndTimekeeping": 10,
-        "communication": 10,
-        "rating": 10
-      },
-      "reviewer": {
-        "id": "115823431594514377188",
-        "displayName": "June Sedgwick"
-      },
-      "source": "google",
-      "authorUrl": "https://www.google.com/maps/contrib/115823431594514377188?hl=en"
     }
   ]
 }
