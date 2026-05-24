@@ -15,7 +15,11 @@ We do EICR electrical safety inspections across Radcliffe at £150 plus VAT for 
 
 ## Radcliffe properties
 
-Radcliffe has a mix of older terraced housing closer to the town centre - much of it going back to the late Victorian and Edwardian period - and more recent family homes on the surrounding estates. The terraces commonly have electrical systems that have been added to gradually over the decades, with consumer units and earthing arrangements that don't always reflect what's required now. The newer estates are generally more straightforward, but there's still a fair amount of variation depending on the builder and whether any extensions or alterations have been done since.
+Radcliffe has a mix of older terraced housing closer to the town centre - much of it going back to the late Victorian and Edwardian period - and more recent family homes on the surrounding estates. The terraces commonly have electrical systems that have been added to gradually over the decades, and what the inspection works out is whether the consumer unit, the earthing and the bonding have all kept pace with everything that's been added since the original installation.
+
+A lot of these older Radcliffe properties started out with gas lighting and a handful of sockets, and the wiring has been extended as demands grew. Whether it was done properly each time is what the inspection establishes. We also see properties where someone's upgraded the consumer unit to a modern one but left the original wiring in place behind it, which can give a false sense of security.
+
+The post-war semis and the newer estates on the edges of town are generally more straightforward, but there's still variation depending on the builder and whether any extensions, loft conversions or kitchen refits have added electrical work since. Even a property that looks modern from the outside can have corners cut in the electrical installation.
 
 ## For landlords
 

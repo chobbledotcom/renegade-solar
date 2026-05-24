@@ -12,19 +12,21 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Whitefield Businesses
 
-Commercial solar tends to outperform domestic for one straightforward reason: businesses are using the electricity during the day when the panels are generating it. There's no need for a battery to bridge to the evening - the energy gets used as it's produced, which means most of what you generate offsets what you'd otherwise be paying for. Payback is typically three to four years.
+Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. Typically three to four years.
 
 We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), just down the road from Whitefield.
 
 ## Whitefield businesses where it tends to work
 
-Retail units along Bury New Road and the Whitefield town centre with flat or pitched roofs work well because of the alignment between daytime consumption and solar generation. Whitefield's industrial estates have factories and manufacturing units running heavy machinery on big bills - that's where the payback is fastest.
+Retail units and food businesses along Bury New Road and around Whitefield town centre work well because of the alignment between daytime consumption and solar generation - lights, tills, refrigeration and kitchen equipment are all running at the same time the panels are generating.
 
-Food businesses (cafes, restaurants, bakeries) running commercial kitchens and refrigeration through the day see strong returns too. A Prestwich baker we spoke to recently was spending around £10,000 a month on electricity and was close to going under because of it. Offices and warehouses with extensive flat roofs are good candidates because we can angle the panels to point south regardless of the building's orientation.
+Food businesses - cafes, restaurants, bakeries - running commercial kitchens and refrigeration through most of the day see strong returns. A Prestwich baker we spoke to recently was spending around £10,000 a month on electricity and was close to going under because of it. Numbers like that, commercial solar can be the difference between a viable business and one that isn't.
 
-## A real example from Bolton
+Manufacturing and light industrial units in the area, with their high daytime consumption and the kind of flat or low-pitched roofs that suit solar well, are where the payback is fastest. Offices and warehouses with extensive roof space are good candidates because we can angle the panels to point south regardless of the building's orientation.
 
-We're working with a family-owned carpet and interior design warehouse in [Bolton](/services/commercial-solar-installations/bolton/) at the moment. They were spending around £700 a month on electricity, and they own the building. We've put together two designs: a 50-panel layout on the flat roof alone, which pays back in about three years, or a 115-panel layout across both the flat and pitched roofs, which pays back in four years and brings in more excess to sell back to the grid through the Smart Export Guarantee.
+## How it tends to play out on the numbers
+
+A light industrial unit with consistent daytime consumption and a suitable roof typically sees payback in around three years. A retail unit or food business with more modest consumption might be closer to four, but the numbers still stack up because most of the generation gets used on site during opening hours. We provide multiple design options with detailed projections for each.
 
 ## Flat roofs and ground-mount
 

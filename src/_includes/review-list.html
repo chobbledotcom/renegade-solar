@@ -13,7 +13,13 @@
     </div>
     <div class="customer-reviews__card-footer">
       <p>
-        {{ review.location.postcode }} - {{ review.createdAt | date: "%b %Y" }}
+        {% if review.location.postcode and review.location.postcode != "" %}
+          {{ review.location.postcode }} -
+        {% endif %}
+        {{ review.createdAt | date: "%b %Y" }}
+        {% if review.source and review.source != "checkatrade" %}
+          <span class="customer-reviews__source-label"> via {{ review.source | capitalize }}</span>
+        {% endif %}
       </p>
     </div>
   </div>

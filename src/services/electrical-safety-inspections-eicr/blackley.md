@@ -11,11 +11,15 @@ tags: [blackley, eicr]
 
 # EICR Electrical Safety Inspections in Blackley
 
-We do EICR electrical safety inspections across Blackley at £150 plus VAT for any domestic property, with the certificate issued the same day. We're based just down the road in Prestwich.
+We do EICR electrical safety inspections across Blackley at £150 plus VAT for any domestic property, with the certificate issued the same day. We're based just down the road in Prestwich - Ashley is NAPIT-registered (66870) and has been doing this around twenty years.
 
 ## Blackley properties
 
-Blackley has a mix of older terraced housing, council-built properties, and more recent developments. The traditional terraces commonly have electrical systems that have been upgraded piece by piece over the years, with consumer units and earthing arrangements that don't always reflect what current regulations require. The newer estates tend to be more straightforward, but installation quality varies depending on who did the work.
+Blackley has a mix of older terraced housing, council-built properties from various periods, and more recent developments. The traditional terraces commonly have electrical systems that have been upgraded piece by piece over the years - the consumer unit may have been replaced at some point but the wiring behind it might not have been, and the earthing and bonding arrangements don't always reflect what current regulations require. We also come across a fair number of properties where someone's had a go at extending things themselves over the years, and the inspection picks up what's been done properly and what hasn't.
+
+The council-built stock and post-war housing varies. Some of these properties have been rewired at some point and are broadly fine, others still have the original installation with surface-mounted additions that have accumulated over decades. The newer estates tend to be more straightforward, but installation quality varies depending on who did the work.
+
+Higher Blackley and the areas around Heaton Park have their own mix, with larger semis and detached properties that sometimes have had extensions or loft conversions with electrical work of variable quality added on top of the original installation.
 
 ## For landlords
 

@@ -1,6 +1,6 @@
 ---
 title: Commercial Solar Installations in Middleton | Renegade Solar
-description: Commercial solar for Middleton businesses. Local installer reducing £700-£10k monthly bills to zero. 3-4 year payback for factories, retail, hospitality.
+description: Commercial solar for Middleton businesses. Stakehill Industrial Estate, Langley, town centre retail. 3-4 year payback with MCS-certified installer.
 redirect_from:
   - /commercial-solar-installations-middleton/
 link_title: Commercial Solar Installations
@@ -12,19 +12,21 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Middleton Businesses
 
-Commercial solar tends to outperform domestic for one straightforward reason: businesses are using the electricity during the day when the panels are generating it. There's no need for a battery to bridge to the evening - the energy gets used as it's produced, which means most of what you generate offsets what you'd otherwise be paying for. Payback is typically three to four years, then 20+ years of dramatically reduced bills.
+Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. Typically three to four years, then 20-plus years of dramatically reduced bills.
 
 We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), a short run down the road from Middleton.
 
 ## Middleton businesses where it tends to work
 
-Middleton's industrial areas house factories and manufacturing units running heavy machinery, where high electricity consumption translates directly into shorter payback periods. Retail outlets with large flat or pitched roofs are good candidates because daytime consumption aligns with solar generation.
+Middleton's industrial areas house factories, distribution centres, engineering firms and manufacturing units running heavy machinery through the day. These buildings tend to have large flat or low-pitched roofs, and the daytime consumption is high and consistent - that's where commercial solar gives the fastest payback.
 
-Cafes, bakeries, restaurants and pubs running commercial kitchens and refrigeration through the day benefit from the same alignment. A Prestwich baker we spoke to recently was spending around £10,000 a month on electricity and was close to going under because of it. Distribution centres and storage facilities with large flat roofs and consistent daytime usage are also strong candidates.
+Middleton town centre has a spread of retail, cafes and food businesses. The roof space on these units varies, but the consumption pattern is good - people are in them during the day, and the electricity that runs the lights, tills, refrigeration and kitchen equipment is being drawn at the same time the panels are generating.
 
-## A real example from Bolton
+A Prestwich baker we spoke to recently was spending around £10,000 a month on electricity and was close to going under because of it. Numbers like that, commercial solar can be the difference between a viable business and one that isn't. The same calculation applies to Middleton's bakeries, cafes and restaurants.
 
-We're working with a family-owned carpet and interior design warehouse in [Bolton](/services/commercial-solar-installations/bolton/) at the moment. They were spending around £700 a month on electricity, and they own the building. We've put together two designs: a 50-panel layout on the flat roof alone, which pays back in about three years, or a 115-panel layout across both the flat and pitched roofs, which pays back in four years and brings in more excess to sell back to the grid through the Smart Export Guarantee.
+## How it tends to play out on the numbers
+
+A manufacturing unit with a large flat roof and a 15-20kW daytime load typically sees payback in around three years, sometimes less. A retail unit with more modest consumption might be closer to four, but the numbers still work because the generation covers the bulk of the daytime electricity draw. We provide multiple design options with detailed projections so you can weigh payback speed against total savings.
 
 ## Flat and pitched roofs
 

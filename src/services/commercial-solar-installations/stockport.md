@@ -12,19 +12,21 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Stockport Businesses
 
-Commercial solar tends to outperform domestic for one straightforward reason: businesses are using the electricity during the day when the panels are generating it. There's no need for a battery to bridge to the evening - the energy gets used as it's produced, which means most of what you generate offsets what you'd otherwise be paying for. Payback is typically three to four years, then 20+ years of dramatically reduced bills.
+Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. Typically three to four years, then 20-plus years of dramatically reduced bills.
 
 We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), around half an hour up the M60 from Stockport.
 
 ## Stockport businesses where it tends to work
 
-The industrial estates across Stockport house businesses with heavy machinery and high electricity consumption, which is where the payback is fastest. The town centre and retail parks see strong returns because of the alignment between daytime consumption and solar generation.
+Stockport's industrial estates house businesses with heavy machinery and high electricity consumption - that's where the payback is fastest because the daytime load is high and the roofs tend to be large. Manufacturing, engineering and distribution units make up the bulk of it.
 
-Hotels, restaurants and other hospitality businesses running kitchens and facilities through the day benefit from the same alignment, as do offices and warehouses with extensive flat roofs. Temperature-controlled storage and distribution facilities are also good candidates because their consumption is flat through the day.
+The town centre, Merseyway and the retail parks around Portwood and the pyramid see strong returns from the alignment between daytime consumption and solar generation. Hotels, restaurants and hospitality businesses running kitchens and facilities through the day benefit from the same alignment, as do offices and warehouses with extensive flat roofs.
 
-## A real example from Bolton
+Temperature-controlled storage and distribution facilities are good candidates because their consumption is flat across the day and the roof space is usually generous.
 
-We're working with a family-owned carpet and interior design warehouse in [Bolton](/services/commercial-solar-installations/bolton/) at the moment. They were spending around £700 a month on electricity, and they own the building. We've put together two designs: a 50-panel layout on the flat roof alone, which pays back in about three years, or a 115-panel layout across both the flat and pitched roofs, which pays back in four years and brings in more excess to sell back to the grid through the Smart Export Guarantee.
+## How it tends to play out on the numbers
+
+A manufacturing unit with a large flat roof and a 15-20kW daytime load typically sees payback in around three years. A distribution warehouse running refrigeration around the clock can be even quicker because the generation covers a constant baseload. A smaller retail unit or office with more modest consumption might take closer to four years, but the numbers still work because most of what's generated gets used on site. We provide multiple design options with detailed projections for each.
 
 ## Flat and pitched roofs
 

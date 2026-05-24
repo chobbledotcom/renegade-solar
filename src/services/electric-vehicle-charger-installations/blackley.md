@@ -14,6 +14,14 @@ gallery_tags: [electric-vehicle]
 
 We install EV chargers across Blackley. Ashley does every survey himself, is a NAPIT-registered electrician, and we're based just down the road in Prestwich, so getting out for a survey isn't an issue.
 
+## Working with Blackley properties
+
+Blackley has a spread of housing types, and we work with all of them. The Victorian terraces common in the older parts often have rear access where we can run cable to the back for off-street parking. Where rear access isn't available, a front-mounted charger with the cable properly managed is straightforward enough, and we'll walk you through where everything's going before it goes in.
+
+The post-war semis and council-built stock tend to have driveways, which is the simplest case - charger on the wall by the parking, cable from the consumer unit, usually done in half a day. Consumer units in Blackley properties vary a fair bit depending on age and whether they've had any electrical work done since they were built.
+
+For properties around Higher Blackley and the Heaton Park side, the larger semis and detached houses sometimes have three-phase supplies that can handle a faster charger if that suits your usage.
+
 ## What it costs to charge at home
 
 A 7kW wall charger gets the car topped up overnight in the cheap rate window. On a tariff like Octopus Go that's 9.5p per kWh, against the 50-80p you'd pay at a public charger ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). The granny chargers that plug into a regular socket take most of the day, which means you're charging on peak rates and missing the savings entirely.

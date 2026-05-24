@@ -144,7 +144,7 @@ The specific failure modes of trying-too-hard:
 - **The deflating undercut** - used once it's a flourish; used as a pattern it's marketing.
 - **The rule-of-three list** - "Bigger, better, faster, stronger" is from Brian Potter, who is satirising marketing copy. Don't do it earnestly.
 - **The handle-the-objection move** - "and yes, it works up here" / "and yes, it makes sense even on a north-facing roof". Pure copywriter device.
-- **Punchline-delivery dashes** - "Not X, not Y, not Z - Ashley." A hyphen used as an ordinary explanatory aside ("we use Manchester roofers - most of them we've worked with for years") is fine. (House style: use hyphens with spaces around them. Em-dashes have been normalised out of the codebase.)
+- **Punchline-delivery dashes** - "Not X, not Y, not Z - Ashley." A hyphen used as an ordinary explanatory aside ("we use Manchester roofers - most of them we've worked with for years") is fine. House style: use single hyphens with spaces around them. Never use double hyphens or em-dashes - both have been normalised out of the codebase.
 - **Tag questions on every paragraph** - even one per page is often too many. Use only when it genuinely lets the reader in.
 - **Trying to be funny** - the voice is dry, not jokey. If a line gets a laugh, fine. If it's *for* the laugh, cut it.
 - **Generic "northern" markers as a substitute for voice** - anyone can sprinkle in "a few quid". The voice has to live in *content* and *structure*, not just word choice.

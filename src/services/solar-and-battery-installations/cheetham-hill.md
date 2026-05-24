@@ -20,13 +20,15 @@ Looking for a solar panel installer in Cheetham Hill? We're Renegade Solar, led 
 
 One Prestwich customer saved thousands when we gave them a second opinion: "Another electrician convinced us we needed a whole house rewire. After inspecting, Ashley let us know it was fully unnecessary and we just needed a new fuse board. He saved us thousands of pounds with that first visit."
 
-That's the difference with Renegade Solar – we won't sell you something you don't need. With over 15 years' experience as an electrician, we'll give you straight advice about whether solar's right for your property.
+That's the difference with Renegade Solar - we won't sell you something you don't need. With over 15 years' experience as an electrician, we'll give you straight advice about whether solar's right for your property.
 
-## Solar Works Well in Cheetham Hill
+## Cheetham Hill property types
 
-Your Victorian terrace, semi-detached house, or modern property can all benefit from solar panels. Even with Manchester weather, you'll get excellent returns. Rain actually helps by keeping panels clean, and according to [Ofgem's latest data](https://www.ofgem.gov.uk/publications/smart-export-guarantee-annual-report-april-2023-march-2024), over £30 million was paid out last year through the Smart Export Guarantee.
+Cheetham Hill has a high proportion of Victorian terraces, many of them with decent south-facing roof slopes. These properties often have slate roofs that are solid enough for panels, though we sometimes need to work around chimney stacks. East-west orientations are common too, and a split array across both slopes can generate as much as a south-only setup - just spread more evenly across the day rather than peaking at midday.
 
-As an MCS-certified installer, we ensure you qualify for these government payments. Without MCS certification, you can't access the [Smart Export Guarantee](https://www.ofgem.gov.uk/environmental-and-social-schemes/smart-export-guarantee-seg), so this credential really matters.
+Terraces without off-street parking or with limited roof access aren't automatically ruled out. If the roof won't work for solar - because of orientation, shading or structural issues - a [battery-only system](/services/home-battery-installations/) on a time-of-use tariff like Octopus Go can still cut bills substantially. The battery charges overnight at cheap rates and runs the house through the day.
+
+The newer builds and converted flats around Cheetham Hill have their own considerations. Some of these properties have modern consumer units that are ready for solar without any upgrades. Others have electrical systems that need bringing up to standard first, which we'll flag during the survey.
 
 ## What Makes Renegade Solar Different
 

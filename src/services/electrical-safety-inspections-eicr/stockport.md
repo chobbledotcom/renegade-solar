@@ -15,7 +15,11 @@ We do EICR electrical safety inspections across Stockport at £150 plus VAT for 
 
 ## Stockport properties
 
-Stockport has a wide range of property types, from Victorian terraces in Heaton Moor and Reddish to larger detached homes in Cheadle Hulme and Bramhall, and newer apartment developments across the borough. The period properties commonly have electrical systems that have been upgraded in stages over the decades - the original installation has been added to as demands grew, and whether the consumer unit, the earthing and the bonding have all kept pace is usually what the inspection works out. The newer developments are generally more straightforward, but installation quality varies depending on the builder and the subcontractors used.
+Stockport has one of the widest spreads of property types in Greater Manchester. Victorian terraces in Heaton Moor, Reddish and the Heatons make up a large portion of the housing stock near the centre - these commonly have electrical systems that have been upgraded in stages over the decades, and the inspection works out whether the consumer unit, the earthing and the bonding have all kept pace with everything that's been added. We frequently see older properties where the visible parts look modern but the wiring behind the walls tells a different story.
+
+The larger detached homes in Cheadle Hulme, Bramhall and the leafier parts of the borough present different challenges. These properties have often had extensions, loft conversions and substantial renovation work over the years, each round of which may or may not have been done to proper standard. A consumer unit that was adequate for the original house might be undersized for what the property has become.
+
+Newer apartment developments across the borough are generally more straightforward, but installation quality varies depending on the builder and the subcontractors used. Even a new-build isn't automatically safe - around one in five has electrical faults of some kind.
 
 ## For landlords
 

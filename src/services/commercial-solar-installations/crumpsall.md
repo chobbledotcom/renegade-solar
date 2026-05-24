@@ -1,6 +1,6 @@
 ---
 title: Commercial Solar Installations in Crumpsall | Renegade Solar
-description: Commercial solar for Crumpsall businesses. Local installer cutting £700-£10k monthly bills to zero. 3-4 year payback, 20+ years free electricity.
+description: Commercial solar for Crumpsall businesses. Crumpsall Lane shops, Hendham Vale Industrial Park, healthcare facilities near North Manchester General. MCS-certified installer.
 redirect_from:
   - /commercial-solar-installations-crumpsall/
 link_title: Commercial Solar Installations
@@ -12,19 +12,21 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Crumpsall Businesses
 
-Commercial solar tends to outperform domestic for one straightforward reason: businesses are using the electricity during the day when the panels are generating it. There's no need for a battery to bridge to the evening - the energy gets used as it's produced, which means most of what you generate offsets what you'd otherwise be paying for. Payback is typically three to four years.
+Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. Typically three to four years, then 20-plus years of dramatically reduced bills.
 
 We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), just down the road from Crumpsall.
 
 ## Crumpsall businesses where it tends to work
 
-The industrial estates around Crumpsall house businesses with high electricity consumption from machinery and equipment, which is where the payback is fastest. Shops, cafes and restaurants along Crumpsall Lane benefit from the alignment between daytime consumption and solar generation.
+Industrial units around Crumpsall - engineering firms, distribution and light manufacturing - tend to have flat-roofed units with consistent daytime consumption, which is where commercial solar gives the fastest payback. There are a fair number of owner-occupied units in the area, and the roof space on these buildings is substantial.
 
-Healthcare facilities (medical centres, care homes) running equipment and heating round the clock see good returns too, particularly when combined with [battery storage](/services/home-battery-installations/) to capture more of the generation. Cold storage facilities and warehouses with large roofs are good candidates because their consumption is flat through the day.
+Healthcare facilities and care homes in the area are some of the heaviest energy users - heating, lighting, medical equipment and kitchens running round the clock. That kind of consumption profile works well for solar, particularly when combined with [battery storage](/services/home-battery-installations/) to capture more of the generation.
 
-## A real example from Bolton
+Shops, cafes and restaurants along Crumpsall Lane benefit from the straightforward alignment between daytime consumption and solar generation. The retail units tend to be smaller than the industrial ones, but even a modest system on a flat or pitched roof can knock a sizable chunk off a monthly electricity bill.
 
-We're working with a family-owned carpet and interior design warehouse in [Bolton](/services/commercial-solar-installations/bolton/) at the moment. They were spending around £700 a month on electricity, and they own the building. We've put together two designs: a 50-panel layout on the flat roof alone, which pays back in about three years, or a 115-panel layout across both the flat and pitched roofs, which pays back in four years and brings in more excess to sell back to the grid through the Smart Export Guarantee.
+## How it tends to play out on the numbers
+
+An industrial unit with a flat roof and a consistent daytime load typically sees payback in around three years. A retail unit with more modest consumption and a smaller roof might be closer to four, but the numbers still work because most of the generation gets used on site during opening hours. We provide multiple design options with detailed projections so you can weigh payback speed against total savings.
 
 ## Flat and pitched roofs
 

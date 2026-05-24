@@ -15,7 +15,11 @@ We do EICR electrical safety inspections across Whitefield at £150 plus VAT for
 
 ## Whitefield properties
 
-Whitefield has a mix of Victorian and Edwardian terraces around the centre and along some of the older roads, post-war semis around Besses o' th' Barn and Hillock, and newer developments on the edges. The older terraces commonly have electrical systems that have been extended in stages - what went in for gas lighting and basic demands has had a fair bit of modern electrical load added since, and the consumer unit and earthing don't always reflect that. The post-war semis tend to be more straightforward, but there's a reasonable amount of variation in what we find depending on whether they've been properly updated at any point.
+Whitefield has a mix of Victorian and Edwardian terraces around the centre and along some of the older roads, post-war semis around Besses o' th' Barn and Hillock, and newer developments on the edges. The older terraces commonly have electrical systems that have been extended in stages - what went in for gas lighting and basic demands has had a fair bit of modern electrical load added since, and the consumer unit and earthing don't always reflect that.
+
+The terraces around the centre also tend to have smaller consumer units with limited capacity for additional circuits, which becomes an issue when someone's added an electric shower, a kitchen full of appliances, or an extension on the back. The inspection picks up whether the installation can actually handle what's being asked of it.
+
+The post-war semis around Besses and Hillock tend to be more straightforward, but there's a reasonable amount of variation in what we find depending on whether they've been properly updated at any point since they were built. Some still have the original wiring with surface-mounted additions from the 1970s and 80s that don't meet current standards. The newer estates are generally the simplest installations, though even here we find issues where the original electrical work wasn't done to the standard it should have been.
 
 ## For landlords
 

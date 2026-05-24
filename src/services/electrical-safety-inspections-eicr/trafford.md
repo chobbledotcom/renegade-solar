@@ -15,9 +15,11 @@ We do EICR electrical safety inspections across Trafford at £150 plus VAT for a
 
 ## Trafford properties
 
-Trafford has a wide spread of property types - period houses through Hale, Bowdon and Sale, larger detached homes across the leafier parts of the borough, modern apartments in Old Trafford and Stretford, and newer developments across Urmston and beyond. The period properties commonly have electrical systems that have been upgraded in stages, often alongside substantial renovation work, and what the inspection works out is whether the consumer unit, the earthing and the bonding have all kept pace with everything that's been added over the years.
+Trafford has a wide spread of property types and values, and the electrical installations reflect that range. Period houses through Hale, Bowdon and Sale make up a large portion of the southern part of the borough - many of these have been substantially renovated and extended over the years, and the electrical installation has grown with the property. The inspection works out whether the consumer unit, earthing and bonding have all kept pace with the successive rounds of work, or whether some of it was done to an older standard that doesn't meet current requirements.
 
-The newer developments tend to be more straightforward, though installation quality varies across the borough, and the higher-value properties aren't immune to shoddy workmanship.
+The northern part of the borough - Old Trafford, Stretford, parts of Urmston - has a different character, with more terraced housing and semis from the Victorian period through to the mid-20th century. These properties commonly have electrical systems that have been upgraded piece by piece, and the older terraces in particular tend to have consumer units and earthing arrangements that don't always reflect what's required now.
+
+Modern apartments and newer developments across Urmston and beyond are generally more straightforward, though installation quality varies and the higher-value properties aren't immune to shoddy workmanship. An EICR on a new-build can still turn up issues that the original electrician should have caught.
 
 ## For landlords
 
