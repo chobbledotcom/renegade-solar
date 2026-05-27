@@ -8,6 +8,21 @@ This site has a distinct voice: dry, plain-spoken, sceptical of marketing-speak,
 
 This is a guide, not a template. Slavish application is what makes copy sound generated.
 
+## Read this first: the aim is search ranking
+
+This is a marketing site. Its job is to rank in search for the work we do and bring in customers. **Voice serves that goal. It never overrides it.** A page that reads beautifully but ranks for nothing has failed at the only thing it exists to do.
+
+A previous pass at this voice quietly deleted the keywords that pages were ranking for - "solar panel installation", "installer", "MCS-certified", "renewable energy", "battery storage" - and shortened pages until they were too thin to rank. That is the failure mode this section exists to prevent. Losing keywords to make a sentence sound nicer is not an acceptable trade. It is the worst thing you can do to this site.
+
+### Hard rules - these override every principle below
+
+1. **A rewrite must never reduce keyword coverage.** Before you touch a page, list the keywords it already carries (the service terms, the brand/product names, the place name). Every one of them must still be present afterwards, at no lower frequency. When in doubt, count: the after-count for each target term must be equal to or higher than the before-count.
+2. **Never shorten a page to apply the voice.** Word count is content, and content ranks. If a rewrite comes out shorter than the original, it has lost ground - add specifics until it matches or exceeds the original length. Thin pages (under ~250 words for a location or landing page) do not rank.
+3. **Protected elements keep their keywords, always.** The `title`, the `description`, every heading (`#`/`##`), link and anchor text, and the first paragraph carry the most SEO weight. The voice does not get to soften, shorten, or de-keyword any of these. If voice and keyword conflict here, keyword wins, every time.
+4. **The voice lives between the keywords, not instead of them.** "I run Renegade Solar, fitting solar panel installations across North Manchester" keeps the keyword *and* the voice. "I run Renegade Solar from North Manchester" sounds nicer and ranks for nothing. Always reach for the first kind of sentence.
+
+Target keywords this site ranks for (preserve and use naturally - this is not exhaustive): solar panel installation / installer, battery installation / storage, EV charger installation / installer, EICR / electrical safety inspection, electrician, MCS-certified, renewable energy, commercial solar, plus the relevant place name on every location and landing page.
+
 ## The trap to avoid
 
 The source corpus below is people **talking**, spontaneously. Their rhetorical patterns - punchy fragments, lists of three with a comic third, deflating one-liners - work because they're spoken, not written. Lift those patterns straight into website copy and you've turned spontaneous wit into ad copy. You can hear the agency.
@@ -39,7 +54,7 @@ When stuck, don't generate - read one of these. But remember they're talking. Do
 
 ### 1. First person where it makes sense
 
-"I run Renegade Solar from North Manchester" is more honest than "We provide solar installation services". Switching to "we" once you're talking about the team is natural. Small businesses talk like that - corporate voices don't.
+First person is more honest than corporate "we", and small businesses talk like that. But first person is not a licence to drop the keyword - keep both. "I run Renegade Solar, fitting solar panel installations across North Manchester" beats both the corporate "We provide solar installation services" and the de-keyworded "I run Renegade Solar from North Manchester". Switching to "we" once you're talking about the team is natural.
 
 ### 2. Specifics over abstractions
 
@@ -50,6 +65,8 @@ Manchester roof, not "rooftops in the UK". DMEGC and Trina Vertex, not "quality 
 ### 3. Plain word choice
 
 "A few quid" not "significant savings". "Hold up well" not "perform reliably". "On the tools" not "in the trade". Trade vocabulary where appropriate. If you wouldn't say it down the pub, don't write it.
+
+Exception: the target keywords stay even if they're not pub talk. "Renewable energy" and "MCS-certified installer" aren't how Ashley'd chat, but they're what people search for, so they stay (worked into a sentence he could plausibly say). The hard rules at the top win over this principle.
 
 ### 4. Looseness over polish
 
@@ -114,17 +131,21 @@ These can appear inside quotation marks if a customer or guest says them. They d
 
 ## Process
 
-1. Write the page in plain English first. Don't reach for the voice yet.
+0. List the keywords the current page carries and note its word count. This is your floor - you are not allowed to come in under it on either. (Skip only when writing a brand-new page with no prior version.)
+1. Write the page in plain English first, keeping every keyword from step 0 in place. Don't reach for the voice yet.
 2. Read it aloud. Mark every sentence that sounds like it could be on a brochure.
-3. Apply the WhatsApp test to each marked sentence: could Ashley type this on his phone? If not, take the polish off - usually by lengthening the sentence, adding a hedge, or breaking up a too-neat structure.
+3. Apply the WhatsApp test to each marked sentence: could Ashley type this on his phone? If not, take the polish off - usually by lengthening the sentence, adding a hedge, or breaking up a too-neat structure. Lengthening is good; never cut a keyword to fix the rhythm - reword around it.
 4. Read aloud again. If you smirk, pull back further.
+5. Recount the keywords and the word count. Each target term must be present at least as often as in step 0, and the page must be at least as long. If either dropped, you've regressed the page - fix it before shipping.
 
 ## Where to use it
 
+Apply the voice to the connective tissue, never at the cost of a keyword:
+
 - About page
 - Homepage section intros (not the SEO-heavy hero)
-- Headlines (where SEO allows)
-- Transitions and link text
+- Headlines, only where the keyword is already safely carried by the title and other headings - never strip a keyword out of a heading for the sake of voice
+- Transitions and link text (keep keyword-rich anchor text; "solar panel installation in Prestwich" is a better link than "get in touch")
 
 ## Where NOT to use it
 
