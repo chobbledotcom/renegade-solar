@@ -1,8 +1,10 @@
 ---
+permalink: /prestwich/electric-vehicle-charger-installations/
 title: EV Charger Installations in Prestwich | Renegade Solar
 description: Professional EV charger installations in Prestwich by NAPIT-registered electrician. Smart charging integration with solar panels and home batteries.
 redirect_from:
   - /ev-charger-installer-prestwich/
+  - /services/electric-vehicle-charger-installations/prestwich/
 link_title: EV Charger Installs
 heading: EV Charger Installations in Prestwich
 tags: [prestwich]

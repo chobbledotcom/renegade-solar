@@ -1,4 +1,7 @@
 ---
+permalink: /lees/electric-vehicle-charger-installations/
+redirect_from:
+  - /services/electric-vehicle-charger-installations/lees/
 title: EV Charger Installations in Lees | Renegade Solar
 description: Professional EV charger installations in Lees, Oldham. NAPIT-registered electrician, smart charging, solar integration. Based in Prestwich.
 link_title: EV Charger Installs
@@ -14,7 +17,7 @@ EV charger installations in Lees from a NAPIT-registered electrician. Based in P
 
 Whether you're driving into Manchester or heading to Oldham town centre, home charging beats every alternative. A year of petrol commuting costs around £675. Home charging on Octopus Go's 9.5p/kWh overnight rate? About £100. And public rapid chargers at 50-80p per kWh are worse than petrol - they only make sense for occasional long trips.
 
-If you've got [solar panels](/services/solar-and-battery-installations/lees/), summer commuting costs nothing - surplus solar covers a typical daily drive with room to spare.
+If you've got [solar panels](/lees/solar-and-battery-installations/), summer commuting costs nothing - surplus solar covers a typical daily drive with room to spare.
 
 ## Properties heading uphill
 

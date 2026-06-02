@@ -1,4 +1,7 @@
 ---
+permalink: /lees/electrical-safety-inspections-eicr/
+redirect_from:
+  - /services/electrical-safety-inspections-eicr/lees/
 title: EICR Electrical Safety Inspections in Lees | £150 plus VAT Same Day Certificate
 description: Professional EICR electrical inspections in Lees, Oldham. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience.
 link_title: EICR Inspection
@@ -19,7 +22,7 @@ For the terraces, the common electrical issues are the same as across the Oldham
 
 ## For landlords
 
-**EICR every 5 years plus one for each new tenant.** Fines up to £30,000 for non-compliance. If you're considering [solar panels](/services/solar-and-battery-installations/lees/) to meet the 2030 EPC C deadline, an EICR first tells you whether the consumer unit needs replacing - a job that can be done alongside the solar installation to save on labour costs.
+**EICR every 5 years plus one for each new tenant.** Fines up to £30,000 for non-compliance. If you're considering [solar panels](/lees/solar-and-battery-installations/) to meet the 2030 EPC C deadline, an EICR first tells you whether the consumer unit needs replacing - a job that can be done alongside the solar installation to save on labour costs.
 
 ## For buyers
 

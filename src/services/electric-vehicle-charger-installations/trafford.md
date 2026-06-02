@@ -1,8 +1,10 @@
 ---
+permalink: /trafford/electric-vehicle-charger-installations/
 title: EV Charger Installations in Trafford | Renegade Solar
 description: Professional EV charger installations throughout Trafford by NAPIT-registered electrician. Smart charging with solar integration available.
 redirect_from:
   - /ev-charger-installer-trafford/
+  - /services/electric-vehicle-charger-installations/trafford/
 link_title: EV Charger Installs
 heading: EV Charger Installations in Trafford
 tags: [trafford]

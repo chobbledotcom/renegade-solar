@@ -1,8 +1,10 @@
 ---
+permalink: /bury/electric-vehicle-charger-installations/
 title: EV Charger Installations in Bury | Renegade Solar
 description: Professional EV charger installations in Bury by NAPIT-registered electrician. Smart charging solutions with competitive pricing.
 redirect_from:
   - /ev-charger-installer-bury/
+  - /services/electric-vehicle-charger-installations/bury/
 link_title: EV Charger Installs
 heading: EV Charger Installations in Bury
 tags: [bury]

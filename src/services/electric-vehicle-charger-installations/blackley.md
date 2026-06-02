@@ -1,8 +1,10 @@
 ---
+permalink: /blackley/electric-vehicle-charger-installations/
 title: EV Charger Installations in Blackley | Renegade Solar
 description: Professional EV charger installations in Blackley by NAPIT-registered electrician. Smart charging solutions with solar integration available.
 redirect_from:
   - /ev-charger-installer-blackley/
+  - /services/electric-vehicle-charger-installations/blackley/
 link_title: EV Charger Installs
 heading: EV Charger Installations in Blackley
 tags: [blackley]

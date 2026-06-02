@@ -1,4 +1,7 @@
 ---
+permalink: /hale-barns/electric-vehicle-charger-installations/
+redirect_from:
+  - /services/electric-vehicle-charger-installations/hale-barns/
 title: EV Charger Installations in Hale Barns | Renegade Solar
 description: Expert EV charger installations in Hale Barns by NAPIT-registered electrician. Any charger brand, any vehicle. Professional service with smart charging and solar integration.
 link_title: EV Charger Installs
@@ -68,6 +71,6 @@ Most installations complete in a day with minimal disruption. We're tidy, respec
 
 ## Nearby areas
 
-We also cover [Hale](/services/electric-vehicle-charger-installations/hale/), [Altrincham](/services/electric-vehicle-charger-installations/altrincham/), Bowdon, and surrounding areas.
+We also cover [Hale](/hale/electric-vehicle-charger-installations/), [Altrincham](/altrincham/electric-vehicle-charger-installations/), Bowdon, and surrounding areas.
 
 **[Contact us](/contact/) for your EV charger consultation.**

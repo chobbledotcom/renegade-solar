@@ -1,8 +1,10 @@
 ---
+permalink: /hyde/solar-and-battery-installations/
 title: Solar Panel Installer in Hyde | Renegade Solar
 description: Solar panel and battery installations in Hyde from Renegade Solar, an MCS-certified installer with excellent Checkatrade ratings.
 redirect_from:
   - /solar-panel-installer-hyde/
+  - /services/solar-and-battery-installations/hyde/
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Hyde
 icon: /assets/icons/solar-panel.svg

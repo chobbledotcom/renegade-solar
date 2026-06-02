@@ -1,8 +1,10 @@
 ---
+permalink: /trafford/solar-and-battery-installations/
 title: Solar Panel Installer in Trafford | Renegade Solar
 description: Expert solar panel and battery installations in Trafford. MCS certified specialists serving Altrincham, Hale, Sale and across Trafford.
 redirect_from:
   - /solar-panel-installer-trafford/
+  - /services/solar-and-battery-installations/trafford/
 link_title: Solar Panel Installs
 heading: Solar Panel Installer in Trafford
 icon: /assets/icons/solar-panel.svg

@@ -1,8 +1,10 @@
 ---
+permalink: /stockport/commercial-solar-installations/
 title: Commercial Solar Installations in Stockport | Renegade Solar
 description: Commercial solar for Stockport businesses. MCS-certified installer cutting electricity costs 70-100%. 3-4 year payback, decades of savings.
 redirect_from:
   - /commercial-solar-installations-stockport/
+  - /services/commercial-solar-installations/stockport/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Stockport
 icon: /assets/icons/commercial-solar.svg
@@ -14,7 +16,7 @@ gallery_tags: [commercial]
 
 Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. Typically three to four years, then 20-plus years of dramatically reduced bills.
 
-We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), around half an hour up the M60 from Stockport.
+We're based in [Prestwich](/prestwich/commercial-solar-installations/), around half an hour up the M60 from Stockport.
 
 ## Stockport businesses where it tends to work
 

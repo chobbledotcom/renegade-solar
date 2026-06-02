@@ -1,8 +1,10 @@
 ---
+permalink: /cheetham-hill/electric-vehicle-charger-installations/
 title: EV Charger Installations in Cheetham Hill | Renegade Solar
 description: Professional EV charger installations in Cheetham Hill by NAPIT-registered electrician. Smart charging integration with solar panels and home batteries.
 redirect_from:
   - /ev-charger-installer-cheetham-hill/
+  - /services/electric-vehicle-charger-installations/cheetham-hill/
 link_title: EV Charger Installs
 heading: EV Charger Installations in Cheetham Hill
 tags: [cheetham-hill]

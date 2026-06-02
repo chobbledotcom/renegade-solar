@@ -1,8 +1,10 @@
 ---
+permalink: /bramhall/solar-and-battery-installations/
 title: Solar Panel Installer in Bramhall | Renegade Solar
 description: MCS-certified solar panel installations in Bramhall. Expert advice on Victorian and Edwardian properties, conservation areas, and mature tree shading from a local installer with excellent Checkatrade rating.
 redirect_from:
   - /solar-panel-installer-bramhall/
+  - /services/solar-and-battery-installations/bramhall/
 link_title: Solar Panel Installations
 heading: Solar panel installer in Bramhall
 icon: /assets/icons/solar-panel.svg
@@ -36,7 +38,7 @@ The main factor affecting performance in Bramhall is tree shading rather than we
 
 Most Bramhall properties are suited to 4-6kW systems (10-15 panels). Larger homes often benefit from 6-8kW systems to match higher energy consumption. We size systems based on your actual usage and roof characteristics, not just by maximising panel count.
 
-For properties with [EV chargers](/services/electric-vehicle-charger-installations/stockport/), we typically recommend larger systems (6kW+) and a battery to make best use of the solar generation for vehicle charging.
+For properties with [EV chargers](/stockport/electric-vehicle-charger-installations/), we typically recommend larger systems (6kW+) and a battery to make best use of the solar generation for vehicle charging.
 
 ## Battery storage and time-of-use tariffs
 
@@ -58,7 +60,7 @@ Installation typically takes 1-2 days with minimal disruption. We're tidy, respe
 
 ## Nearby areas
 
-We also cover surrounding areas including [Stockport](/services/solar-and-battery-installations/stockport/), Cheadle Hulme, Hazel Grove, and Poynton.
+We also cover surrounding areas including [Stockport](/stockport/solar-and-battery-installations/), Cheadle Hulme, Hazel Grove, and Poynton.
 
 ## Get started
 

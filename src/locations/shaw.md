@@ -12,4 +12,4 @@ tags: location
 
 We cover Shaw and Crompton for solar, battery, EV charger and general electrical work. The town has a mix of older terraces from the mill days and newer, larger properties out towards the edges, and most of them can take solar in one configuration or another.
 
-A fair few people in Shaw commute via the Metrolink park-and-ride, which makes home [EV charging](/services/electric-vehicle-charger-installations/shaw/) worth thinking about alongside solar - charging the car off your own panels rather than paying for petrol or public chargers. We're based in Prestwich, about twenty minutes away, and Ashley does the survey himself and oversees the install.
+A fair few people in Shaw commute via the Metrolink park-and-ride, which makes home [EV charging](/shaw/electric-vehicle-charger-installations/) worth thinking about alongside solar - charging the car off your own panels rather than paying for petrol or public chargers. We're based in Prestwich, about twenty minutes away, and Ashley does the survey himself and oversees the install.

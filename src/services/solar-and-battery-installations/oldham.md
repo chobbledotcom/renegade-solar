@@ -1,4 +1,7 @@
 ---
+permalink: /oldham/solar-and-battery-installations/
+redirect_from:
+  - /services/solar-and-battery-installations/oldham/
 title: Solar Panel Installer in Oldham | Renegade Solar
 description: MCS-certified solar panel and battery installations across Oldham. Terraced house specialists just 13 minutes from Prestwich. No salespeople - Ashley surveys, designs, and installs.
 link_title: Solar Panel Installations
@@ -8,7 +11,7 @@ tags: [oldham]
 gallery_tags: [solar-panels, failsworth]
 ---
 
-Looking for a solar panel installer in Oldham? We're Renegade Solar, based in Prestwich - just 13 minutes down the road. We already work in [Failsworth](/services/solar-and-battery-installations/failsworth/) and cover the whole Oldham borough including [Chadderton](/chadderton/), [Royton](/royton/), [Shaw](/shaw/), [Lees](/lees/), and [Saddleworth](/saddleworth/).
+Looking for a solar panel installer in Oldham? We're Renegade Solar, based in Prestwich - just 13 minutes down the road. We already work in [Failsworth](/failsworth/solar-and-battery-installations/) and cover the whole Oldham borough including [Chadderton](/chadderton/), [Royton](/royton/), [Shaw](/shaw/), [Lees](/lees/), and [Saddleworth](/saddleworth/).
 
 Ashley, a qualified electrician, handles your survey, designs your system, and oversees the installation personally. No salespeople, no handoffs, no miscommunication.
 
@@ -26,7 +29,7 @@ For a typical 2-3 bed mid-terrace, we can usually fit a 3-4kW system that'll mak
 
 **Semi-detached homes** (common across the borough): Usually 4-6kW systems with room for 10-15 panels depending on roof orientation and any shading from neighbouring chimneys.
 
-**Larger detached properties** (Saddleworth villages, parts of Shaw): 6-8kW+ systems. Bigger roofs, higher energy usage, and more scope for battery storage and [EV charging](/services/electric-vehicle-charger-installations/oldham/) integration.
+**Larger detached properties** (Saddleworth villages, parts of Shaw): 6-8kW+ systems. Bigger roofs, higher energy usage, and more scope for battery storage and [EV charging](/oldham/electric-vehicle-charger-installations/) integration.
 
 A 4kW system in Oldham produces around 3,250 kWh per year. That's enough to cover a significant chunk of an average household's consumption and can add around 4% to your property value.
 
@@ -73,7 +76,7 @@ There are installers based in the Oldham area, and plenty of national companies 
 
 ## Nearby areas we cover
 
-We also serve [Failsworth](/services/solar-and-battery-installations/failsworth/), [Middleton](/services/solar-and-battery-installations/middleton/), [Prestwich](/services/solar-and-battery-installations/prestwich/), and [Bury](/services/solar-and-battery-installations/bury/).
+We also serve [Failsworth](/failsworth/solar-and-battery-installations/), [Middleton](/middleton/solar-and-battery-installations/), [Prestwich](/prestwich/solar-and-battery-installations/), and [Bury](/bury/solar-and-battery-installations/).
 
 ## Get started
 

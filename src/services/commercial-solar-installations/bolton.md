@@ -1,8 +1,10 @@
 ---
+permalink: /bolton/commercial-solar-installations/
 title: Commercial Solar Installations in Bolton | Renegade Solar
 description: Commercial solar for Bolton businesses. Carpet warehouse cuts £700/month to zero with 3-year payback. Flat roofs, factories, retail - we cover Bolton.
 redirect_from:
   - /commercial-solar-installations-bolton/
+  - /services/commercial-solar-installations/bolton/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Bolton
 icon: /assets/icons/commercial-solar.svg
@@ -28,6 +30,6 @@ Flat roofs make our job easier - we mount the panels at the optimal angle regard
 
 ## Our approach
 
-You need to own the building rather than leasing it, and the higher the daytime electricity consumption the better the returns. We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), and as an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/) we handle all the [electrical certifications](/services/electrical-testing/) and grid connections that come with the work. If the numbers don't work for your business, we'll tell you.
+You need to own the building rather than leasing it, and the higher the daytime electricity consumption the better the returns. We're based in [Prestwich](/prestwich/commercial-solar-installations/), and as an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/) we handle all the [electrical certifications](/services/electrical-testing/) and grid connections that come with the work. If the numbers don't work for your business, we'll tell you.
 
 [Contact us](/contact/) for a free commercial solar consultation.

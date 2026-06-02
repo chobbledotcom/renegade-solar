@@ -12,7 +12,7 @@ noindex: false
 
 If you own a warehouse, distribution centre or retail unit in Greater Manchester, the chances are you're sitting on a flat roof that could be earning its keep instead of just keeping the rain off.
 
-We're currently designing a system for a carpet and interior design warehouse in [Bolton](/services/commercial-solar-installations/bolton/). The family own their building, bought it in the 1980s, and currently spend £700 a month on electricity. Ashley's 50-panel flat-roof design takes that bill to zero with a three-year payback. A larger 115-panel system covering both the flat roof and the pitched sections still pays back in four years.
+We're currently designing a system for a carpet and interior design warehouse in [Bolton](/bolton/commercial-solar-installations/). The family own their building, bought it in the 1980s, and currently spend £700 a month on electricity. Ashley's 50-panel flat-roof design takes that bill to zero with a three-year payback. A larger 115-panel system covering both the flat roof and the pitched sections still pays back in four years.
 
 After payback, both options deliver decades of free energy plus income from selling excess back to the grid through the Smart Export Guarantee.
 

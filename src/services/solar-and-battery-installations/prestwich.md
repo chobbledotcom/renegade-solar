@@ -1,8 +1,10 @@
 ---
+permalink: /prestwich/solar-and-battery-installations/
 title: Solar Panel Installer in Prestwich | Renegade Solar
 description: Solar panel and battery installations in Prestwich from Renegade Solar, an MCS-certified installer with excellent Checkatrade ratings.
 redirect_from:
   - /solar-panel-installer-prestwich/
+  - /services/solar-and-battery-installations/prestwich/
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Prestwich
 icon: /assets/icons/solar-panel.svg

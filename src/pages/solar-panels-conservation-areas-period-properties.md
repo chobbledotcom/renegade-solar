@@ -14,7 +14,7 @@ A modern semi has none of the things that make solar on a period property awkwar
 
 ## Ashley's high-end residential background
 
-Ashley Merritt - the named director of Renegade Solar - spent 2016 working in the Channel Islands on high-end mansions and apartments. The work ranged across loft conversions, kitchens, extensions, domestic and commercial properties, including listed-style buildings where the electrics had to be sympathetic to what was already there. If you're a homeowner in Bowdon, Hale, Hale Barns or central [Altrincham](/services/solar-and-battery-installations/altrincham/) looking at solar on a Victorian or Edwardian property, that's the kind of background you want quoting the job rather than someone who only got into solar last year.
+Ashley Merritt - the named director of Renegade Solar - spent 2016 working in the Channel Islands on high-end mansions and apartments. The work ranged across loft conversions, kitchens, extensions, domestic and commercial properties, including listed-style buildings where the electrics had to be sympathetic to what was already there. If you're a homeowner in Bowdon, Hale, Hale Barns or central [Altrincham](/altrincham/solar-and-battery-installations/) looking at solar on a Victorian or Edwardian property, that's the kind of background you want quoting the job rather than someone who only got into solar last year.
 
 ## What you actually get when you hire Ashley
 
@@ -27,7 +27,7 @@ The person who quotes is the person who installs - no salesperson at the survey,
 - Properties in conservation areas, including parts of Bowdon, central Altrincham and surrounding areas
 - Modern properties in heritage settings, where neighbouring listed properties affect what's appropriate
 
-The [Altrincham](/services/solar-and-battery-installations/altrincham/) and [Hale](/services/solar-and-battery-installations/hale/) location pages have more on the housing stock in each area.
+The [Altrincham](/altrincham/solar-and-battery-installations/) and [Hale](/hale/solar-and-battery-installations/) location pages have more on the housing stock in each area.
 
 ## In-roof, on-roof, or ground-mounted
 
@@ -59,6 +59,6 @@ Modern panels generate electricity from daylight rather than just direct sunshin
 
 ## Coverage
 
-Ashley is based in Prestwich and serves period properties and conservation-area homes throughout Greater Manchester, including [Altrincham](/services/solar-and-battery-installations/altrincham/), [Hale](/services/solar-and-battery-installations/hale/), [Hale Barns](/services/solar-and-battery-installations/hale-barns/), [Stockport](/services/solar-and-battery-installations/stockport/), [Marple](/services/solar-and-battery-installations/marple/) and surrounding areas.
+Ashley is based in Prestwich and serves period properties and conservation-area homes throughout Greater Manchester, including [Altrincham](/altrincham/solar-and-battery-installations/), [Hale](/hale/solar-and-battery-installations/), [Hale Barns](/hale-barns/solar-and-battery-installations/), [Stockport](/stockport/solar-and-battery-installations/), [Marple](/marple/solar-and-battery-installations/) and surrounding areas.
 
 [Get in touch](/contact/) for a free survey and a no-pressure conversation about what would work on your property.

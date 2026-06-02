@@ -63,7 +63,7 @@ There's no panic and no pressure - Ashley will explain everything clearly and gi
 
 ## Coverage
 
-Across Greater Manchester, including new-build developments around [Altrincham](/services/electrical-safety-inspections-eicr/altrincham/), [Trafford](/services/electrical-safety-inspections-eicr/trafford/), [Stockport](/services/electrical-safety-inspections-eicr/stockport/), [Bury](/services/electrical-safety-inspections-eicr/bury/), [Whitefield](/services/electrical-safety-inspections-eicr/whitefield/) and surrounding areas. There are no travel charges - the price is the same wherever you are.
+Across Greater Manchester, including new-build developments around [Altrincham](/altrincham/electrical-safety-inspections-eicr/), [Trafford](/trafford/electrical-safety-inspections-eicr/), [Stockport](/stockport/electrical-safety-inspections-eicr/), [Bury](/bury/electrical-safety-inspections-eicr/), [Whitefield](/whitefield/electrical-safety-inspections-eicr/) and surrounding areas. There are no travel charges - the price is the same wherever you are.
 
 ## Book your new-build EICR
 

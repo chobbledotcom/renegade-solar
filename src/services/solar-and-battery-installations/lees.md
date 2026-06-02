@@ -1,4 +1,7 @@
 ---
+permalink: /lees/solar-and-battery-installations/
+redirect_from:
+  - /services/solar-and-battery-installations/lees/
 title: Solar Panel Installer in Lees | Renegade Solar
 description: MCS-certified solar panel and battery installations in Lees, Oldham. Personal service from a qualified electrician based in Prestwich.
 link_title: Solar Panel Installations
@@ -24,7 +27,7 @@ On top of that, 0% VAT on domestic solar installations runs until 2027, and [MCS
 
 ## Heading towards Saddleworth
 
-If your property is further up towards Springhead or Grasscroft, you're getting into territory where stone slate roofs and higher wind exposure become factors. We cover this in detail on our [Saddleworth page](/services/solar-and-battery-installations/saddleworth/) - but the short version is we account for wind loading in every design, and we're upfront about any additional complexity or cost.
+If your property is further up towards Springhead or Grasscroft, you're getting into territory where stone slate roofs and higher wind exposure become factors. We cover this in detail on our [Saddleworth page](/saddleworth/solar-and-battery-installations/) - but the short version is we account for wind loading in every design, and we're upfront about any additional complexity or cost.
 
 ## Get started
 

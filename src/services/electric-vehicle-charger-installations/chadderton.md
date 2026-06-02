@@ -1,4 +1,7 @@
 ---
+permalink: /chadderton/electric-vehicle-charger-installations/
+redirect_from:
+  - /services/electric-vehicle-charger-installations/chadderton/
 title: EV Charger Installations in Chadderton | Renegade Solar
 description: Professional EV charger installations in Chadderton. NAPIT-registered electrician, smart charging, solar integration. Based nearby in Prestwich.
 link_title: EV Charger Installs
@@ -8,13 +11,13 @@ icon: /assets/icons/car.svg
 gallery_tags: [electric-vehicle]
 ---
 
-EV charger installations in Chadderton from a NAPIT-registered electrician. Based nearby in Prestwich, already working in neighbouring [Failsworth](/services/solar-and-battery-installations/failsworth/). Ashley assesses your property and installs your charger personally.
+EV charger installations in Chadderton from a NAPIT-registered electrician. Based nearby in Prestwich, already working in neighbouring [Failsworth](/failsworth/solar-and-battery-installations/). Ashley assesses your property and installs your charger personally.
 
 ## M60 commuters - stop paying for petrol
 
 Chadderton's biggest selling point is the M60 access. If you're driving to Manchester, Stockport, or anywhere on the motorway network, you're spending roughly £675 a year on petrol for a typical commute. On a home EV charger with an off-peak tariff (9.5p/kWh on Octopus Go), that drops to around £100. And public rapid chargers at 50-80p per kWh? More expensive than petrol - avoid them for daily use.
 
-Pair the charger with [solar panels](/services/solar-and-battery-installations/chadderton/) and your summer commute is free. The panels generate enough surplus during daylight hours to cover a 9-mile each-way commute easily.
+Pair the charger with [solar panels](/chadderton/solar-and-battery-installations/) and your summer commute is free. The panels generate enough surplus during daylight hours to cover a 9-mile each-way commute easily.
 
 ## Terraces without driveways
 

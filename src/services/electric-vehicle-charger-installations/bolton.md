@@ -1,8 +1,10 @@
 ---
+permalink: /bolton/electric-vehicle-charger-installations/
 title: EV Charger Installations in Bolton | Renegade Solar
 description: Expert EV charger installations in Bolton by NAPIT-registered electrician. Professional service for homes and businesses as Bolton expands its charging infrastructure.
 redirect_from:
   - /ev-charger-installer-bolton/
+  - /services/electric-vehicle-charger-installations/bolton/
 link_title: EV Charger Installs
 heading: EV Charger Installations in Bolton
 tags: [bolton]

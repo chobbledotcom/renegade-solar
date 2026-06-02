@@ -1,4 +1,5 @@
 ---
+permalink: /prestwich/electrical-safety-inspections-eicr/
 title: EICR Electrical Safety Inspections in Prestwich | £150 plus VAT Same Day Certificate
 description: Professional EICR electrical inspections in Prestwich. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Victorian terraces specialist.
 link_title: EICR Inspection
@@ -6,6 +7,7 @@ heading: EICR Inspections in Prestwich
 icon: /assets/icons/check.svg
 redirect_from:
   - /prestwich-eicr-inspections/
+  - /services/electrical-safety-inspections-eicr/prestwich/
 tags: [prestwich, eicr]
 ---
 

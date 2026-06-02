@@ -1,4 +1,5 @@
 ---
+permalink: /stockport/electrical-safety-inspections-eicr/
 title: EICR Electrical Safety Inspections in Stockport | £150 plus VAT Same Day Certificate
 description: Professional EICR electrical inspections in Stockport. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, period properties and modern homes specialist.
 link_title: EICR Inspection
@@ -6,6 +7,7 @@ heading: EICR Inspections in Stockport
 icon: /assets/icons/check.svg
 redirect_from:
   - /stockport-eicr-inspections/
+  - /services/electrical-safety-inspections-eicr/stockport/
 tags: [stockport, eicr]
 ---
 

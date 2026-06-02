@@ -1,8 +1,10 @@
 ---
+permalink: /bury/solar-and-battery-installations/
 title: Solar Panel Installer in Bury | Renegade Solar
 description: Local solar panel installations in Bury with Renegade Solar. MCS certified specialists serving Bury from our Prestwich base.
 redirect_from:
   - /solar-panel-installer-bury/
+  - /services/solar-and-battery-installations/bury/
 link_title: Solar Panel Installs
 heading: Solar Panel Installer in Bury
 icon: /assets/icons/solar-panel.svg

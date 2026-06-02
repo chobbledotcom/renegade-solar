@@ -1,4 +1,5 @@
 ---
+permalink: /blackley/electrical-safety-inspections-eicr/
 title: EICR Electrical Safety Inspections in Blackley | £150 plus VAT Same Day Certificate
 description: Professional EICR electrical inspections in Blackley. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electrical safety experts.
 link_title: EICR Inspection
@@ -6,6 +7,7 @@ heading: EICR Inspections in Blackley
 icon: /assets/icons/check.svg
 redirect_from:
   - /blackley-eicr-inspections/
+  - /services/electrical-safety-inspections-eicr/blackley/
 tags: [blackley, eicr]
 ---
 

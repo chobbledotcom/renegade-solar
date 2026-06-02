@@ -1,8 +1,10 @@
 ---
+permalink: /failsworth/solar-and-battery-installations/
 title: Solar Panel Installer in Failsworth | Renegade Solar
 description: Solar panel and battery installations in Failsworth from Renegade Solar, an MCS-certified installer with excellent Checkatrade ratings.
 redirect_from:
   - /solar-panel-installer-failsworth/
+  - /services/solar-and-battery-installations/failsworth/
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Failsworth
 icon: /assets/icons/solar-panel.svg

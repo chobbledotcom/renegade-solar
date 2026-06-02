@@ -1,4 +1,7 @@
 ---
+permalink: /saddleworth/commercial-solar-installations/
+redirect_from:
+  - /services/commercial-solar-installations/saddleworth/
 title: Commercial Solar Installations in Saddleworth | Renegade Solar
 description: Commercial solar for Saddleworth businesses - shops, hospitality, farms. Cut electricity costs 70-100% with 3-4 year payback. MCS-certified installer.
 link_title: Commercial Solar Installations
@@ -28,6 +31,6 @@ Some Saddleworth businesses operate from buildings in conservation areas. Commer
 
 ## Our approach
 
-We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), serving the whole [Oldham](/oldham/) borough with [MCS-certified](/accreditations/mcs-certified/) installations. We assess your property, consumption, and roof space, design a system with detailed financial projections, and handle all grid connections and [electrical certifications](/services/electrical-testing/). You must own the building. If the numbers don't work, we'll say so.
+We're based in [Prestwich](/prestwich/commercial-solar-installations/), serving the whole [Oldham](/oldham/) borough with [MCS-certified](/accreditations/mcs-certified/) installations. We assess your property, consumption, and roof space, design a system with detailed financial projections, and handle all grid connections and [electrical certifications](/services/electrical-testing/). You must own the building. If the numbers don't work, we'll say so.
 
 **[Contact us today](/contact/) for a free commercial solar consultation.**

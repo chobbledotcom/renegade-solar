@@ -1,4 +1,7 @@
 ---
+permalink: /oldham/electric-vehicle-charger-installations/
+redirect_from:
+  - /services/electric-vehicle-charger-installations/oldham/
 title: EV Charger Installations in Oldham | Renegade Solar
 description: Professional EV charger installations across Oldham. NAPIT-registered electrician, smart charging, solar integration. Based 13 minutes away in Prestwich.
 link_title: EV Charger Installs
@@ -22,7 +25,7 @@ Oldham to Manchester is a typical commute - about 9 miles each way. Here's what 
 | EV, home solar | £0 |
 | EV, public rapid charger | ~£900-1,125 |
 
-Public rapid charging is more expensive than petrol. Home charging on an off-peak tariff costs a fraction. And if you've got [solar panels](/services/solar-and-battery-installations/oldham/), your daily commute charge comes free in the summer months - a typical 9-mile commute uses about 4.5 kWh, easily covered by surplus solar from a 4kW system.
+Public rapid charging is more expensive than petrol. Home charging on an off-peak tariff costs a fraction. And if you've got [solar panels](/oldham/solar-and-battery-installations/), your daily commute charge comes free in the summer months - a typical 9-mile commute uses about 4.5 kWh, easily covered by surplus solar from a 4kW system.
 
 Smart strategy: export your solar at 15p/kWh during the day and charge your car overnight at 7p/kWh on an EV tariff - you're actually making money on the swap.
 
@@ -46,7 +49,7 @@ Already bought a charger? That's fine - we'll fit it.
 
 Installation takes a day. The charger units are weatherproof so we can mount them wherever suits your parking. Need cable running round from your consumer unit to the other side of the house? No problem - we use heavy-duty armoured cable designed for outdoor runs.
 
-Your consumer unit needs to be up to date, but if you've already got [solar panels](/services/solar-and-battery-installations/oldham/) or a [battery](/services/home-battery-installations/) fitted, it'll already be up to scratch. Even without renewable kit, you can sign up for a time-of-use tariff to get cheap overnight charging.
+Your consumer unit needs to be up to date, but if you've already got [solar panels](/oldham/solar-and-battery-installations/) or a [battery](/services/home-battery-installations/) fitted, it'll already be up to scratch. Even without renewable kit, you can sign up for a time-of-use tariff to get cheap overnight charging.
 
 ## Professional installation
 

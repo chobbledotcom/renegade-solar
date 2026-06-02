@@ -1,4 +1,7 @@
 ---
+permalink: /royton/electric-vehicle-charger-installations/
+redirect_from:
+  - /services/electric-vehicle-charger-installations/royton/
 title: EV Charger Installations in Royton | Renegade Solar
 description: Professional EV charger installations in Royton. NAPIT-registered electrician, smart charging, solar integration. Based nearby in Prestwich.
 link_title: EV Charger Installs
@@ -24,7 +27,7 @@ For terraces without driveways, we've got solutions too - armoured cable to rear
 
 ## Solar and EV - the combination
 
-If you've got [solar panels](/services/solar-and-battery-installations/royton/) or you're considering them, an EV charger completes the picture. Export your solar at 15p/kWh during the day, charge your car at 7p/kWh overnight - you actually come out ahead on the arbitrage. In summer, charge directly from solar and your fuel cost is genuinely zero.
+If you've got [solar panels](/royton/solar-and-battery-installations/) or you're considering them, an EV charger completes the picture. Export your solar at 15p/kWh during the day, charge your car at 7p/kWh overnight - you actually come out ahead on the arbitrage. In summer, charge directly from solar and your fuel cost is genuinely zero.
 
 ## What we install
 

@@ -1,4 +1,7 @@
 ---
+permalink: /oldham/electrical-safety-inspections-eicr/
+redirect_from:
+  - /services/electrical-safety-inspections-eicr/oldham/
 title: EICR Electrical Safety Inspections in Oldham | £150 plus VAT Same Day Certificate
 description: Professional EICR electrical inspections across Oldham. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience.
 link_title: EICR Inspection
@@ -19,7 +22,7 @@ Out in Saddleworth and parts of Lees, the older stone-built properties have thei
 
 ## For landlords
 
-Landlords are legally required to have an EICR every five years and one for each new tenancy. Fines for non-compliance run up to £30,000, and the local authority can arrange remedial work and bill you for it. Existing tenants need the report within 28 days; new tenants get it before they move in. If the inspection turns up C1, C2 or FI issues, you've got 28 days to sort those. If the consumer unit needs replacing, that work can be done alongside [solar panel installation](/services/solar-and-battery-installations/oldham/) to save on costs.
+Landlords are legally required to have an EICR every five years and one for each new tenancy. Fines for non-compliance run up to £30,000, and the local authority can arrange remedial work and bill you for it. Existing tenants need the report within 28 days; new tenants get it before they move in. If the inspection turns up C1, C2 or FI issues, you've got 28 days to sort those. If the consumer unit needs replacing, that work can be done alongside [solar panel installation](/oldham/solar-and-battery-installations/) to save on costs.
 
 ## For buyers
 
