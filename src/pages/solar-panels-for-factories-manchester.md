@@ -62,6 +62,6 @@ Installation is coordinated to minimise disruption to your operations. After com
 
 ## Coverage across Greater Manchester
 
-Based in Prestwich, Ashley serves manufacturing and industrial businesses throughout Greater Manchester and the wider North West, with completed and ongoing commercial installations in [Bolton](/services/commercial-solar-installations/bolton/), [Oldham](/services/commercial-solar-installations/oldham/) and surrounding areas.
+Based in Prestwich, Ashley serves manufacturing and industrial businesses throughout Greater Manchester and the wider North West, with completed and ongoing commercial installations in [Bolton](/bolton/commercial-solar-installations/), [Oldham](/oldham/commercial-solar-installations/) and surrounding areas.
 
 **[Contact Ashley](/contact/) for a free commercial solar survey and a financial breakdown for your factory or production facility.**

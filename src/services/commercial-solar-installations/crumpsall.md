@@ -1,8 +1,10 @@
 ---
+permalink: /crumpsall/commercial-solar-installations/
 title: Commercial Solar Installations in Crumpsall | Renegade Solar
 description: Commercial solar for Crumpsall businesses. Crumpsall Lane shops, Hendham Vale Industrial Park, healthcare facilities near North Manchester General. MCS-certified installer.
 redirect_from:
   - /commercial-solar-installations-crumpsall/
+  - /services/commercial-solar-installations/crumpsall/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Crumpsall
 icon: /assets/icons/commercial-solar.svg
@@ -14,7 +16,7 @@ gallery_tags: [commercial]
 
 Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. Typically three to four years, then 20-plus years of dramatically reduced bills.
 
-We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), just down the road from Crumpsall.
+We're based in [Prestwich](/prestwich/commercial-solar-installations/), just down the road from Crumpsall.
 
 ## Crumpsall businesses where it tends to work
 

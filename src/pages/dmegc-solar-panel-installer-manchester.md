@@ -68,7 +68,7 @@ The choice often comes down to availability, pricing at the time, and what suits
 
 ## Areas we cover
 
-We're based in Prestwich and cover the whole of Greater Manchester. We've completed DMEGC installations in [Blackley](/services/solar-and-battery-installations/blackley/), [Middleton](/services/solar-and-battery-installations/middleton/), [Failsworth](/services/solar-and-battery-installations/failsworth/), [Radcliffe](/services/solar-and-battery-installations/radcliffe/), [Stockport](/services/solar-and-battery-installations/stockport/), [Altrincham](/services/solar-and-battery-installations/altrincham/), and throughout [Trafford](/services/solar-and-battery-installations/trafford/).
+We're based in Prestwich and cover the whole of Greater Manchester. We've completed DMEGC installations in [Blackley](/blackley/solar-and-battery-installations/), [Middleton](/middleton/solar-and-battery-installations/), [Failsworth](/failsworth/solar-and-battery-installations/), [Radcliffe](/radcliffe/solar-and-battery-installations/), [Stockport](/stockport/solar-and-battery-installations/), [Altrincham](/altrincham/solar-and-battery-installations/), and throughout [Trafford](/trafford/solar-and-battery-installations/).
 
 Being local means no call-out charges for surveys and quick response times if you ever need anything sorting after installation.
 

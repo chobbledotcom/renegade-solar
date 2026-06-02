@@ -1,4 +1,7 @@
 ---
+permalink: /shaw/electric-vehicle-charger-installations/
+redirect_from:
+  - /services/electric-vehicle-charger-installations/shaw/
 title: EV Charger Installations in Shaw | Renegade Solar
 description: Professional EV charger installations in Shaw and Crompton. NAPIT-registered electrician, smart charging, Metrolink park-and-ride integration. Based in Prestwich.
 link_title: EV Charger Installs
@@ -18,7 +21,7 @@ Compare that to driving the whole way (£675/year in petrol) or using public rap
 
 ## Pair it with solar
 
-Shaw's slightly larger properties often have room for a decent [solar system](/services/solar-and-battery-installations/shaw/). In summer, surplus solar easily covers the 4-5 kWh your daily drive to the tram stop uses. In winter, you charge overnight on a cheap tariff. Either way, you're spending a fraction of what you would on petrol.
+Shaw's slightly larger properties often have room for a decent [solar system](/shaw/solar-and-battery-installations/). In summer, surplus solar easily covers the 4-5 kWh your daily drive to the tram stop uses. In winter, you charge overnight on a cheap tariff. Either way, you're spending a fraction of what you would on petrol.
 
 ## What we install
 

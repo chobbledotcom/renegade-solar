@@ -1,8 +1,10 @@
 ---
+permalink: /prestwich/commercial-solar-installations/
 title: Commercial Solar Installations in Prestwich | Renegade Solar
 description: Commercial solar for Prestwich businesses. Local baker spending £10k/month nearly went under - we can help. 3-4 year payback, decades of savings.
 redirect_from:
   - /commercial-solar-installations-prestwich/
+  - /services/commercial-solar-installations/prestwich/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Prestwich
 icon: /assets/icons/commercial-solar.svg

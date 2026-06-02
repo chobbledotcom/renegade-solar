@@ -1,8 +1,10 @@
 ---
+permalink: /middleton/electric-vehicle-charger-installations/
 title: EV Charger Installations in Middleton | Renegade Solar
 description: Expert EV charger installations in Middleton by local NAPIT-registered electrician. Professional service with excellent customer reviews.
 redirect_from:
   - /ev-charger-installer-middleton/
+  - /services/electric-vehicle-charger-installations/middleton/
 link_title: EV Charger Installs
 heading: EV Charger Installations in Middleton
 tags: [middleton]

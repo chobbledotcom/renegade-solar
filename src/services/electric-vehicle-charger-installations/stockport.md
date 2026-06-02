@@ -1,8 +1,10 @@
 ---
+permalink: /stockport/electric-vehicle-charger-installations/
 title: EV Charger Installations in Stockport | Renegade Solar
 description: Expert EV charger installations in Stockport by NAPIT-registered electrician. Professional service covering Bramhall, Marple Bridge and surrounding areas.
 redirect_from:
   - /ev-charger-installer-stockport/
+  - /services/electric-vehicle-charger-installations/stockport/
 link_title: EV Charger Installs
 heading: EV Charger Installations in Stockport
 tags: [stockport]
@@ -10,7 +12,7 @@ icon: /assets/icons/car.svg
 gallery_tags: [electric-vehicle]
 ---
 
-We provide professional EV charger installations throughout Stockport, including [Bramhall](/services/solar-and-battery-installations/bramhall/), Marple Bridge and surrounding areas. NAPIT-registered service with smart charging technology for electric cars.
+We provide professional EV charger installations throughout Stockport, including [Bramhall](/bramhall/solar-and-battery-installations/), Marple Bridge and surrounding areas. NAPIT-registered service with smart charging technology for electric cars.
 
 ## Stockport EV Charging Solutions
 

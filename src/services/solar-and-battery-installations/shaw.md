@@ -1,4 +1,7 @@
 ---
+permalink: /shaw/solar-and-battery-installations/
+redirect_from:
+  - /services/solar-and-battery-installations/shaw/
 title: Solar Panel Installer in Shaw | Renegade Solar
 description: MCS-certified solar panel and battery installations in Shaw and Crompton. Personal service from a qualified electrician based in Prestwich.
 link_title: Solar Panel Installations
@@ -18,7 +21,7 @@ The older terraces around Shaw centre have solid roof structures, typically York
 
 ## Tram and solar - a good combination
 
-Shaw and Crompton has a Metrolink stop with park-and-ride. If you drive to the tram, pair solar with an [EV charger](/services/electric-vehicle-charger-installations/shaw/) and your commute gets dramatically cheaper. Charge overnight on a cheap tariff, drive to the stop, take the tram into Manchester. You come home to a charged car and barely notice the cost.
+Shaw and Crompton has a Metrolink stop with park-and-ride. If you drive to the tram, pair solar with an [EV charger](/shaw/electric-vehicle-charger-installations/) and your commute gets dramatically cheaper. Charge overnight on a cheap tariff, drive to the stop, take the tram into Manchester. You come home to a charged car and barely notice the cost.
 
 ## Battery storage suits Shaw
 

@@ -1,4 +1,7 @@
 ---
+permalink: /chadderton/solar-and-battery-installations/
+redirect_from:
+  - /services/solar-and-battery-installations/chadderton/
 title: Solar Panel Installer in Chadderton | Renegade Solar
 description: MCS-certified solar panel and battery installations in Chadderton. Based nearby in Prestwich, already working in Failsworth. Personal service from a qualified electrician.
 link_title: Solar Panel Installations
@@ -8,7 +11,7 @@ tags: [chadderton]
 gallery_tags: [solar-panels, failsworth]
 ---
 
-We're Renegade Solar, based in Prestwich and already installing solar in neighbouring [Failsworth](/services/solar-and-battery-installations/failsworth/). Chadderton's next door - we know the area and the housing stock.
+We're Renegade Solar, based in Prestwich and already installing solar in neighbouring [Failsworth](/failsworth/solar-and-battery-installations/). Chadderton's next door - we know the area and the housing stock.
 
 Ashley, a qualified electrician, handles your survey and installation personally. No sales team, no subcontractors.
 
@@ -22,7 +25,7 @@ The semis have more roof space - usually room for a 4-6kW system. If you've got 
 
 ## M60 commuters
 
-Chadderton's M60 access is one of its big selling points. If you're commuting by car, adding an [EV charger](/services/electric-vehicle-charger-installations/chadderton/) alongside solar makes the economics even better. Charge from your panels in summer, from cheap overnight rates in winter. Your daily fuel cost drops from pounds to pennies.
+Chadderton's M60 access is one of its big selling points. If you're commuting by car, adding an [EV charger](/chadderton/electric-vehicle-charger-installations/) alongside solar makes the economics even better. Charge from your panels in summer, from cheap overnight rates in winter. Your daily fuel cost drops from pounds to pennies.
 
 ## Already working next door
 

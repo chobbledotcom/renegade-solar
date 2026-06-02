@@ -1,4 +1,7 @@
 ---
+permalink: /shaw/electrical-safety-inspections-eicr/
+redirect_from:
+  - /services/electrical-safety-inspections-eicr/shaw/
 title: EICR Electrical Safety Inspections in Shaw | £150 plus VAT Same Day Certificate
 description: Professional EICR electrical inspections in Shaw and Crompton. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience.
 link_title: EICR Inspection

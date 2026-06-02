@@ -1,8 +1,10 @@
 ---
+permalink: /crumpsall/electric-vehicle-charger-installations/
 title: EV Charger Installations in Crumpsall | Renegade Solar
 description: Professional EV charger installations in Crumpsall by NAPIT-registered electrician. Smart charging integration with solar panels and home batteries.
 redirect_from:
   - /ev-charger-installer-crumpsall/
+  - /services/electric-vehicle-charger-installations/crumpsall/
 link_title: EV Charger Installs
 heading: EV Charger Installations in Crumpsall
 tags: [crumpsall]

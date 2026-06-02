@@ -1,8 +1,10 @@
 ---
+permalink: /blackley/solar-and-battery-installations/
 title: Solar Panel Installer in Blackley | Renegade Solar
 description: Local solar panel installations in Blackley with Renegade Solar. MCS certified specialists serving Prestwich, Blackley and North Manchester.
 redirect_from:
   - /solar-panel-installer-blackley/
+  - /services/solar-and-battery-installations/blackley/
 link_title: Solar Panel Installs
 icon: /assets/icons/solar-panel.svg
 heading: Solar Panel Installer in Blackley

@@ -1,8 +1,10 @@
 ---
+permalink: /radcliffe/solar-and-battery-installations/
 title: Solar Panel Installer in Radcliffe | Renegade Solar
 description: MCS-certified solar panel and battery installations in Radcliffe. Victorian terraces, post-war semis, modern estates - honest advice from a local electrician with an outstanding Checkatrade rating.
 redirect_from:
   - /solar-panel-installer-radcliffe/
+  - /services/solar-and-battery-installations/radcliffe/
 link_title: Solar Panel Installs
 heading: Solar Panel Installer in Radcliffe
 icon: /assets/icons/solar-panel.svg
@@ -36,7 +38,7 @@ We maintain a **{{ reviews.averageRating | round: 2 }}/10 rating** on [Checkatra
 
 ## Areas covered in Radcliffe
 
-We cover all of Radcliffe including the town centre, Black Lane, Ainsworth Road, Outwood, and the surrounding areas. We also work across [Bury](/services/solar-and-battery-installations/bury/), [Whitefield](/services/solar-and-battery-installations/whitefield/), and [Prestwich](/services/solar-and-battery-installations/prestwich/).
+We cover all of Radcliffe including the town centre, Black Lane, Ainsworth Road, Outwood, and the surrounding areas. We also work across [Bury](/bury/solar-and-battery-installations/), [Whitefield](/whitefield/solar-and-battery-installations/), and [Prestwich](/prestwich/solar-and-battery-installations/).
 
 ## Getting started
 

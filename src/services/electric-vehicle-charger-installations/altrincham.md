@@ -1,8 +1,10 @@
 ---
+permalink: /altrincham/electric-vehicle-charger-installations/
 title: EV Charger Installations in Altrincham | Renegade Solar
 description: Expert EV charger installations in Altrincham by NAPIT-registered electrician. Professional service with smart charging and solar integration.
 redirect_from:
   - /ev-charger-installer-altrincham/
+  - /services/electric-vehicle-charger-installations/altrincham/
 link_title: EV Charger Installs
 heading: EV Charger Installations in Altrincham
 tags: [altrincham]
@@ -36,6 +38,6 @@ The chargers are weatherproof, so they go on whatever wall suits your parking - 
 
 > "He ensured that our new GivEnergy charger was properly integrated with the solar and battery system. During the job he found an earthing fault from previous work - and fixed this small job at no extra cost."
 
-We cover Altrincham, Bowdon, [Hale](/services/electric-vehicle-charger-installations/hale/), [Hale Barns](/services/electric-vehicle-charger-installations/hale-barns/), Timperley, Broadheath, Sale, and the surrounding villages.
+We cover Altrincham, Bowdon, [Hale](/hale/electric-vehicle-charger-installations/), [Hale Barns](/hale-barns/electric-vehicle-charger-installations/), Timperley, Broadheath, Sale, and the surrounding villages.
 
 [Contact us](/contact/) for a quote.

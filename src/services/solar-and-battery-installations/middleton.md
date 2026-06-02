@@ -1,8 +1,10 @@
 ---
+permalink: /middleton/solar-and-battery-installations/
 title: Solar Panel Installer in Middleton | Renegade Solar
 description: Expert solar panel and battery installations in Middleton from locally-based Renegade Solar, an MCS-certified installer with excellent customer reviews.
 redirect_from:
   - /solar-panel-installer-middleton/
+  - /services/solar-and-battery-installations/middleton/
 link_title: Solar Panel Installs
 heading: Solar Panel Installer in Middleton
 icon: /assets/icons/solar-panel.svg

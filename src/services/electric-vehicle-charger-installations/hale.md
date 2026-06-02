@@ -1,4 +1,7 @@
 ---
+permalink: /hale/electric-vehicle-charger-installations/
+redirect_from:
+  - /services/electric-vehicle-charger-installations/hale/
 title: EV Charger Installations in Hale | Renegade Solar
 description: Expert EV charger installations in Hale by NAPIT-registered electrician. Any charger brand, any vehicle. Professional service with smart charging and solar integration.
 link_title: EV Charger Installs
@@ -34,6 +37,6 @@ We usually fit Omicro chargers, but we've also installed Wallbox and Tesla charg
 
 Most jobs are done in a day. The chargers are weatherproof, so they go on whatever wall suits your parking - garage, house wall, outside. Where cable has to run outside from the consumer unit, we use armoured cable rated for outdoor use.
 
-We also cover [Hale Barns](/services/electric-vehicle-charger-installations/hale-barns/), [Altrincham](/services/electric-vehicle-charger-installations/altrincham/), Bowdon, and the surrounding villages.
+We also cover [Hale Barns](/hale-barns/electric-vehicle-charger-installations/), [Altrincham](/altrincham/electric-vehicle-charger-installations/), Bowdon, and the surrounding villages.
 
 [Contact us](/contact/) for a quote.

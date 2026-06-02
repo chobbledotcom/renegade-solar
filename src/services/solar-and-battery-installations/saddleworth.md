@@ -1,4 +1,7 @@
 ---
+permalink: /saddleworth/solar-and-battery-installations/
+redirect_from:
+  - /services/solar-and-battery-installations/saddleworth/
 title: Solar Panel Installer in Saddleworth | Renegade Solar
 description: MCS-certified solar panel and battery installations in Saddleworth - Uppermill, Greenfield, Delph, Dobcross, Diggle, Denshaw. Expert advice on stone-built properties and conservation areas.
 link_title: Solar Panel Installations
@@ -38,7 +41,7 @@ We'd recommend applying for a Lawful Development Certificate before installation
 
 ## EV charging
 
-Most Saddleworth households run at least one car. Combine solar with an [EV charger](/services/electric-vehicle-charger-installations/saddleworth/) and your fuel costs could drop to near zero in summer - a 4.5kWh daily commute is easily covered by surplus generation from a decent-sized system.
+Most Saddleworth households run at least one car. Combine solar with an [EV charger](/saddleworth/electric-vehicle-charger-installations/) and your fuel costs could drop to near zero in summer - a 4.5kWh daily commute is easily covered by surplus generation from a decent-sized system.
 
 ## Get started
 

@@ -1,4 +1,5 @@
 ---
+permalink: /trafford/electrical-safety-inspections-eicr/
 title: EICR Electrical Safety Inspections in Trafford | £150 plus VAT Same Day Certificate
 description: Professional EICR electrical inspections in Trafford. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, specialist in period properties and executive homes.
 link_title: EICR Inspection
@@ -6,6 +7,7 @@ heading: EICR Inspections in Trafford
 icon: /assets/icons/check.svg
 redirect_from:
   - /trafford-eicr-inspections/
+  - /services/electrical-safety-inspections-eicr/trafford/
 tags: [trafford, eicr]
 ---
 

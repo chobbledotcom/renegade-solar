@@ -1,4 +1,7 @@
 ---
+permalink: /saddleworth/electrical-safety-inspections-eicr/
+redirect_from:
+  - /services/electrical-safety-inspections-eicr/saddleworth/
 title: EICR Electrical Safety Inspections in Saddleworth | £150 plus VAT Same Day Certificate
 description: Professional EICR electrical inspections across Saddleworth - Uppermill, Greenfield, Delph, Dobcross, Diggle. £150 plus VAT, same day certificates. NAPIT registered.
 link_title: EICR Inspection
@@ -25,7 +28,7 @@ Older stone cottages and converted farm buildings in particular can harbour surp
 
 ## For landlords
 
-**EICR every 5 years plus one for each new tenant.** Fines up to £30,000 for non-compliance. If you're also considering [solar panels](/services/solar-and-battery-installations/saddleworth/) to meet the 2030 EPC C deadline, start with an EICR - it identifies whether consumer unit or wiring upgrades are needed before a solar system can be connected.
+**EICR every 5 years plus one for each new tenant.** Fines up to £30,000 for non-compliance. If you're also considering [solar panels](/saddleworth/solar-and-battery-installations/) to meet the 2030 EPC C deadline, start with an EICR - it identifies whether consumer unit or wiring upgrades are needed before a solar system can be connected.
 
 ## What's included
 

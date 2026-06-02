@@ -10,6 +10,6 @@ tags: location
 
 # Chadderton
 
-We cover Chadderton for solar, battery, EV charger and general electrical work. We already work over in [Failsworth](/services/solar-and-battery-installations/failsworth/) just down the road, and Chadderton sits along the M60, so it's an easy run from our place in Prestwich.
+We cover Chadderton for solar, battery, EV charger and general electrical work. We already work over in [Failsworth](/failsworth/solar-and-battery-installations/) just down the road, and Chadderton sits along the M60, so it's an easy run from our place in Prestwich.
 
 The housing in Chadderton is mainly terraces and family semis, with average prices sitting around £215k, and most of these roofs take solar without any complications. Ashley does every survey himself and is on site for the install, so the advice you get is from the electrician doing the work.

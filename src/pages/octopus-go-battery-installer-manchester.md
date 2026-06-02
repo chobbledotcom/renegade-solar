@@ -38,7 +38,7 @@ The exact savings depend on your usage pattern, your battery size and the tariff
 
 ## Real customer feedback
 
-One of Ashley's [Prestwich](/services/solar-and-battery-installations/prestwich/) customers running a 6kWh Solax battery system put it like this:
+One of Ashley's [Prestwich](/prestwich/solar-and-battery-installations/) customers running a 6kWh Solax battery system put it like this:
 
 > "During summer this new solar and battery system means our electricity bills are close to zero. In fact, in some months we sent enough electricity back to the grid that we ended up in credit with our supplier! In winter the days are shorter and so the panels don't generate enough to cover the whole day, but that's fine because we still save a tonne of money by charging the battery overnight."
 

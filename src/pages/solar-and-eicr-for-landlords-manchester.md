@@ -64,7 +64,7 @@ New builds aren't automatically safe either - around one in five has electrical 
 
 ## Areas covered
 
-Across Greater Manchester, including [Prestwich](/services/electrical-safety-inspections-eicr/prestwich/), [Whitefield](/services/electrical-safety-inspections-eicr/whitefield/), [Bury](/services/electrical-safety-inspections-eicr/bury/), [Radcliffe](/services/electrical-safety-inspections-eicr/radcliffe/), [Altrincham](/services/electrical-safety-inspections-eicr/altrincham/), [Trafford](/services/electrical-safety-inspections-eicr/trafford/) and [Stockport](/services/electrical-safety-inspections-eicr/stockport/). There are no travel charges - the price is the same wherever you are.
+Across Greater Manchester, including [Prestwich](/prestwich/electrical-safety-inspections-eicr/), [Whitefield](/whitefield/electrical-safety-inspections-eicr/), [Bury](/bury/electrical-safety-inspections-eicr/), [Radcliffe](/radcliffe/electrical-safety-inspections-eicr/), [Altrincham](/altrincham/electrical-safety-inspections-eicr/), [Trafford](/trafford/electrical-safety-inspections-eicr/) and [Stockport](/stockport/electrical-safety-inspections-eicr/). There are no travel charges - the price is the same wherever you are.
 
 ## Book your EICR or arrange a portfolio review
 

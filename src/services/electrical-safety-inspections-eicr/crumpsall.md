@@ -1,4 +1,5 @@
 ---
+permalink: /crumpsall/electrical-safety-inspections-eicr/
 title: EICR Electrical Safety Inspections in Crumpsall | £150 plus VAT Same Day Certificate
 description: Professional EICR electrical inspections in Crumpsall. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience.
 link_title: EICR Inspection
@@ -6,6 +7,7 @@ heading: EICR Inspections in Crumpsall
 icon: /assets/icons/check.svg
 redirect_from:
   - /crumpsall-eicr-inspections/
+  - /services/electrical-safety-inspections-eicr/crumpsall/
 tags: [crumpsall, eicr]
 # Review reference from src/_data/reviews.json
 # Review at index [60] - M9 customer fantastic work

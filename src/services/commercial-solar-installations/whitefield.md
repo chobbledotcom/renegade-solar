@@ -1,8 +1,10 @@
 ---
+permalink: /whitefield/commercial-solar-installations/
 title: Commercial Solar Installations in Whitefield | Renegade Solar
 description: Commercial solar for Whitefield businesses. Cut £700-£10k monthly bills to zero with 3-4 year payback. Factories, retail, hospitality - local service.
 redirect_from:
   - /commercial-solar-installations-whitefield/
+  - /services/commercial-solar-installations/whitefield/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Whitefield
 icon: /assets/icons/commercial-solar.svg
@@ -14,7 +16,7 @@ gallery_tags: [commercial]
 
 Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. Typically three to four years.
 
-We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), just down the road from Whitefield.
+We're based in [Prestwich](/prestwich/commercial-solar-installations/), just down the road from Whitefield.
 
 ## Whitefield businesses where it tends to work
 

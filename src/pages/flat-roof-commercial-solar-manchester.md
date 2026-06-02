@@ -16,7 +16,7 @@ Many commercial buildings have flat roof spaces that aren't being used for anyth
 
 ## A real flat-roof example
 
-Ashley is currently designing a system for a carpet and interior design warehouse in [Bolton](/services/commercial-solar-installations/bolton/) with a large flat roof. They spend £700 a month on electricity. His 50-panel flat-roof design takes that to zero with a three-year payback. A larger 115-panel option, covering both the flat roof and the pitched sections, pays back in four years.
+Ashley is currently designing a system for a carpet and interior design warehouse in [Bolton](/bolton/commercial-solar-installations/) with a large flat roof. They spend £700 a month on electricity. His 50-panel flat-roof design takes that to zero with a three-year payback. A larger 115-panel option, covering both the flat roof and the pitched sections, pays back in four years.
 
 That's the typical pattern: most commercial installations reduce monthly costs by 70-100%, with payback within 3-4 years and 20+ years of low-cost energy after that.
 

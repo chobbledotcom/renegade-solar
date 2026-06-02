@@ -1,4 +1,7 @@
 ---
+permalink: /chadderton/electrical-safety-inspections-eicr/
+redirect_from:
+  - /services/electrical-safety-inspections-eicr/chadderton/
 title: EICR Electrical Safety Inspections in Chadderton | £150 plus VAT Same Day Certificate
 description: Professional EICR electrical inspections in Chadderton. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience.
 link_title: EICR Inspection
@@ -21,7 +24,7 @@ The semis are generally in better shape electrically, but we still find issues -
 
 Chadderton has a decent-sized rental market. **EICR every 5 years plus one for each new tenant** - that's the law. Fines up to £30,000 if you don't comply. We do fast turnaround for landlords managing multiple properties, and if we find issues, we can handle the [remedial work](/services/) and get you compliant quickly.
 
-If you're also thinking about [solar](/services/solar-and-battery-installations/chadderton/) to meet the 2030 EPC C deadline, an EICR is a sensible first step - it tells you whether the consumer unit needs replacing before we connect a solar system to it.
+If you're also thinking about [solar](/chadderton/solar-and-battery-installations/) to meet the 2030 EPC C deadline, an EICR is a sensible first step - it tells you whether the consumer unit needs replacing before we connect a solar system to it.
 
 ## For buyers
 

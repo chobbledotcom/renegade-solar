@@ -1,4 +1,7 @@
 ---
+permalink: /chadderton/commercial-solar-installations/
+redirect_from:
+  - /services/commercial-solar-installations/chadderton/
 title: Commercial Solar Installations in Chadderton | Renegade Solar
 description: Commercial solar for Chadderton businesses. Cut electricity costs 70-100% with 3-4 year payback. MCS-certified installer based nearby in Prestwich.
 link_title: Commercial Solar Installations
@@ -10,7 +13,7 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Chadderton Businesses
 
-Chadderton's M60 corridor has commercial and industrial units with exactly the right profile for solar - big flat roofs, high daytime electricity consumption, and bills that keep climbing. We're based nearby in [Prestwich](/services/commercial-solar-installations/prestwich/) and serve Chadderton businesses with [MCS-certified](/accreditations/mcs-certified/) commercial solar installations.
+Chadderton's M60 corridor has commercial and industrial units with exactly the right profile for solar - big flat roofs, high daytime electricity consumption, and bills that keep climbing. We're based nearby in [Prestwich](/prestwich/commercial-solar-installations/) and serve Chadderton businesses with [MCS-certified](/accreditations/mcs-certified/) commercial solar installations.
 
 The key advantage of commercial solar over domestic is timing - businesses use electricity during the day when panels are generating. You consume nearly every unit your panels produce, which means payback of typically 3-4 years, then 20+ years of dramatically reduced costs.
 
@@ -22,7 +25,7 @@ Retail units, restaurants, and takeaways running commercial kitchens and equipme
 
 ## Staff EV charging - a free employee benefit
 
-If you have parking space, combining commercial solar with [EV charging points](/services/electric-vehicle-charger-installations/chadderton/) for staff vehicles creates a genuine perk at zero ongoing electricity cost. Panels generate, chargers use the power, employees save money. It costs you nothing after the initial installation.
+If you have parking space, combining commercial solar with [EV charging points](/chadderton/electric-vehicle-charger-installations/) for staff vehicles creates a genuine perk at zero ongoing electricity cost. Panels generate, chargers use the power, employees save money. It costs you nothing after the initial installation.
 
 ## Our approach
 

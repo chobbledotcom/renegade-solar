@@ -1,4 +1,7 @@
 ---
+permalink: /saddleworth/electric-vehicle-charger-installations/
+redirect_from:
+  - /services/electric-vehicle-charger-installations/saddleworth/
 title: EV Charger Installations in Saddleworth | Renegade Solar
 description: Professional EV charger installations across Saddleworth - Uppermill, Greenfield, Delph, Dobcross, Diggle. NAPIT-registered, solar integration. Based in Prestwich.
 link_title: EV Charger Installs
@@ -12,7 +15,7 @@ EV charger installations across Saddleworth's villages - Uppermill, Greenfield, 
 
 ## Two-car households - double the savings
 
-Saddleworth's rural location means most households run at least one car, often two. That's potentially £1,350 a year in petrol for two commuters. Switch to EVs with home charging on Octopus Go (9.5p/kWh overnight) and you're looking at around £200 for both cars. That's over a thousand pounds saved annually - and it only gets better with [solar panels](/services/solar-and-battery-installations/saddleworth/).
+Saddleworth's rural location means most households run at least one car, often two. That's potentially £1,350 a year in petrol for two commuters. Switch to EVs with home charging on Octopus Go (9.5p/kWh overnight) and you're looking at around £200 for both cars. That's over a thousand pounds saved annually - and it only gets better with [solar panels](/saddleworth/solar-and-battery-installations/).
 
 A larger solar system on a Saddleworth detached home generates enough surplus in summer to charge both cars for free. In winter, overnight rates still keep you well under what petrol costs. The maths works especially well here because the bigger homes justify bigger solar systems with more surplus to divert to cars.
 

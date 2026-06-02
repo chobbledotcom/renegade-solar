@@ -1,8 +1,10 @@
 ---
+permalink: /middleton/commercial-solar-installations/
 title: Commercial Solar Installations in Middleton | Renegade Solar
 description: Commercial solar for Middleton businesses. Stakehill Industrial Estate, Langley, town centre retail. 3-4 year payback with MCS-certified installer.
 redirect_from:
   - /commercial-solar-installations-middleton/
+  - /services/commercial-solar-installations/middleton/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Middleton
 icon: /assets/icons/commercial-solar.svg
@@ -14,7 +16,7 @@ gallery_tags: [commercial]
 
 Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. Typically three to four years, then 20-plus years of dramatically reduced bills.
 
-We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), a short run down the road from Middleton.
+We're based in [Prestwich](/prestwich/commercial-solar-installations/), a short run down the road from Middleton.
 
 ## Middleton businesses where it tends to work
 

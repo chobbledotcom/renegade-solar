@@ -1,8 +1,10 @@
 ---
+permalink: /bury/commercial-solar-installations/
 title: Commercial Solar Installations in Bury | Renegade Solar
 description: Commercial solar for Bury businesses. Cut electricity costs 70-100% with 3-4 year payback. Factories, retail, hospitality - MCS-certified installer.
 redirect_from:
   - /commercial-solar-installations-bury/
+  - /services/commercial-solar-installations/bury/
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Bury
 icon: /assets/icons/commercial-solar.svg
@@ -14,7 +16,7 @@ gallery_tags: [commercial]
 
 Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. Typically three to four years, then 20-plus years of dramatically reduced bills.
 
-We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), about fifteen minutes down the road from Bury.
+We're based in [Prestwich](/prestwich/commercial-solar-installations/), about fifteen minutes down the road from Bury.
 
 ## Bury businesses where it tends to work
 

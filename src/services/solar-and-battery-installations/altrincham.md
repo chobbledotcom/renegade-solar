@@ -1,8 +1,10 @@
 ---
+permalink: /altrincham/solar-and-battery-installations/
 title: Solar Panel Installer in Altrincham | Renegade Solar
 description: MCS-certified solar panel and battery installations in Altrincham by Renegade Solar - a local, trusted electrical engineer with outstanding customer reviews and full MCS certification.
 redirect_from:
   - /solar-panel-installer-altrincham/
+  - /services/solar-and-battery-installations/altrincham/
 icon: /assets/icons/solar-panel.svg
 link_title: Solar Panel Installs
 heading: Solar Panel Installer in Altrincham

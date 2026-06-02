@@ -1,8 +1,10 @@
 ---
+permalink: /whitefield/electric-vehicle-charger-installations/
 title: EV Charger Installations in Whitefield | Renegade Solar
 description: Expert EV charger installations in Whitefield by NAPIT-registered electrician. Professional service with smart charging and renewable energy integration.
 redirect_from:
   - /ev-charger-installer-whitefield/
+  - /services/electric-vehicle-charger-installations/whitefield/
 link_title: EV Charger Installs
 heading: EV Charger Installations in Whitefield
 tags: [whitefield]

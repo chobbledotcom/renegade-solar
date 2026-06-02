@@ -1,4 +1,7 @@
 ---
+permalink: /royton/electrical-safety-inspections-eicr/
+redirect_from:
+  - /services/electrical-safety-inspections-eicr/royton/
 title: EICR Electrical Safety Inspections in Royton | £150 plus VAT Same Day Certificate
 description: Professional EICR electrical inspections in Royton. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience.
 link_title: EICR Inspection
@@ -15,7 +18,7 @@ tags: [royton, eicr]
 
 Property prices in Royton have grown over 40% in five years. Whether you're buying into a growing market or you already own here, knowing the state of your electrics matters. An EICR tells you exactly where you stand - no guesswork.
 
-Royton's terraces and older semis are the properties where we most often find issues: consumer units without RCD protection, earthing that doesn't meet current standards, circuits that have been extended without proper thought. These aren't necessarily dangerous right now, but they're the kind of things that need addressing, especially before you connect a [solar system](/services/solar-and-battery-installations/royton/) or [EV charger](/services/electric-vehicle-charger-installations/royton/).
+Royton's terraces and older semis are the properties where we most often find issues: consumer units without RCD protection, earthing that doesn't meet current standards, circuits that have been extended without proper thought. These aren't necessarily dangerous right now, but they're the kind of things that need addressing, especially before you connect a [solar system](/royton/solar-and-battery-installations/) or [EV charger](/royton/electric-vehicle-charger-installations/).
 
 ## For landlords
 

@@ -1,4 +1,7 @@
 ---
+permalink: /oldham/commercial-solar-installations/
+redirect_from:
+  - /services/commercial-solar-installations/oldham/
 title: Commercial Solar Installations in Oldham | Renegade Solar
 description: Commercial solar for Oldham businesses. Cut electricity costs 70-100% with 3-4 year payback. Factories, warehouses, retail - MCS-certified installer based 13 minutes away.
 link_title: Commercial Solar Installations
@@ -12,7 +15,7 @@ gallery_tags: [commercial]
 
 Commercial solar tends to outperform domestic for one straightforward reason: businesses are using the electricity during the day when the panels are generating it. There's no need for a battery to bridge to the evening - the energy gets used as it's produced, which means most of what you generate offsets what you'd otherwise be paying for. Payback is typically three to four years.
 
-We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), about thirteen minutes down the road from Oldham.
+We're based in [Prestwich](/prestwich/commercial-solar-installations/), about thirteen minutes down the road from Oldham.
 
 ## Oldham businesses where it tends to work
 
@@ -24,7 +27,7 @@ The borough also has a fair amount of converted mill buildings with large, unobs
 
 ## Flat and pitched roofs
 
-Flat roofs make our job easier - we mount the panels at the optimal angle regardless of building orientation. Pitched roofs on factories, warehouses and larger commercial buildings work too. If there's spare land or parking, ground-mounted systems can supplement the rooftop or power [EV charging points](/services/electric-vehicle-charger-installations/oldham/) for staff vehicles. We've installed setups where the staff charging runs entirely off the solar.
+Flat roofs make our job easier - we mount the panels at the optimal angle regardless of building orientation. Pitched roofs on factories, warehouses and larger commercial buildings work too. If there's spare land or parking, ground-mounted systems can supplement the rooftop or power [EV charging points](/oldham/electric-vehicle-charger-installations/) for staff vehicles. We've installed setups where the staff charging runs entirely off the solar.
 
 ## Oldham Council and the green direction
 

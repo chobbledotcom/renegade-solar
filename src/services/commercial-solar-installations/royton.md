@@ -1,4 +1,7 @@
 ---
+permalink: /royton/commercial-solar-installations/
+redirect_from:
+  - /services/commercial-solar-installations/royton/
 title: Commercial Solar Installations in Royton | Renegade Solar
 description: Commercial solar for Royton businesses. Cut electricity costs 70-100% with 3-4 year payback. MCS-certified installer based nearby in Prestwich.
 link_title: Commercial Solar Installations
@@ -22,6 +25,6 @@ Flat roofs are particularly useful because we can angle panels optimally regardl
 
 ## Our approach
 
-We're based in [Prestwich](/services/commercial-solar-installations/prestwich/), serving the whole [Oldham](/oldham/) area with [MCS-certified](/accreditations/mcs-certified/) installations. We assess your property and electricity usage, design a system with detailed financial projections, and handle all grid connections and certifications. You must own the building. If the numbers don't stack up, we'll say so - no point installing a system that doesn't make financial sense.
+We're based in [Prestwich](/prestwich/commercial-solar-installations/), serving the whole [Oldham](/oldham/) area with [MCS-certified](/accreditations/mcs-certified/) installations. We assess your property and electricity usage, design a system with detailed financial projections, and handle all grid connections and certifications. You must own the building. If the numbers don't stack up, we'll say so - no point installing a system that doesn't make financial sense.
 
 **[Contact us today](/contact/) for a free commercial solar consultation.**

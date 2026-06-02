@@ -68,13 +68,12 @@ module.exports = async (eleventyConfig) => {
 				return "";
 			}
 
-			const baseUrl = currentPage.url;
 			const links = mdFiles.map(area => {
 				const title = area
 					.split("-")
 					.map(word => word.charAt(0).toUpperCase() + word.slice(1))
 					.join(" ");
-				return `[${title}](${baseUrl}${area}/)`;
+				return `[${title}](/${area}/${fileSlug}/)`;
 			});
 
 			if (links.length === 1) {
