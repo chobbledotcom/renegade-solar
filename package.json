@@ -2,7 +2,8 @@
 	"name": "renegade-solar-co-uk",
 	"version": "1.0.0",
 	"scripts": {
-		"build": "eleventy",
+		"build": "npm run build:js && eleventy",
+		"build:js": "node scripts/build-masonry.mjs",
 		"serve": "eleventy --serve",
 		"format": "prettier --write _site/**/*.html",
 		"format:check": "prettier --check _site/**/*.html",
@@ -16,5 +17,9 @@
 		"markdown-it": "^14.1.0",
 		"prettier": "^3.5.3",
 		"sass": "^1.86.3"
+	},
+	"devDependencies": {
+		"esbuild": "^0.25.0",
+		"uwrap": "^0.1.2"
 	}
 }
