@@ -18,6 +18,8 @@ That combination matters because batteries done badly can be unsafe. We've seen 
 
 The cabling, earthing and protection that the battery sits behind is what determines whether the system runs safely for the next 15 years, and Ashley has been on the electrical side for 20+ years. He surveys, designs, installs and commissions every job himself, so the person who quotes you is also the person fitting the kit, with no salesperson visits and no install crew you've never met. Battery sizing is based on your actual usage rather than upselling capacity you won't use, and as an AlphaESS-listed installer he has a direct relationship with the manufacturer for parts and support. When the app does something odd in 2030, you'll get the person who installed it.
 
+That manufacturer support has mattered on real jobs. A recent AlphaESS customer had an awkward 1930s bungalow roof with obstructions, and previous quotes had only managed six or eight panels from satellite images. Ashley visited, measured properly, designed a ten-panel system across the usable roof sections, then worked through commissioning issues with AlphaESS technical support before handing over the app, certification and Octopus export paperwork.
+
 ## What AlphaESS makes
 
 AlphaESS is a global energy storage provider with installations in 140+ countries, with a UK office in Dursley, Gloucestershire. Their residential range includes:

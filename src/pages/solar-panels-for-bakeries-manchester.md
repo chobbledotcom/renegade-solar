@@ -40,6 +40,8 @@ There's no one-size-fits-all answer, which is the point of doing the survey prop
 
 He'll often present multiple options. A recent design for a [Bolton](/bolton/commercial-solar-installations/) carpet warehouse, for example, included a 50-panel flat-roof option with three-year payback and a 115-panel option covering both flat and pitched roofs with four-year payback. The principle is the same for a bakery, just sized to match your kitchen's load.
 
+If the building is smaller and the useful roof space is on an extension, store room or garage-style outbuilding, the [flat roof property page](/properties/flat-roofs/) explains the domestic and small-building side of that work.
+
 ## What you need to qualify
 
 The main requirement is that you own the building. Solar installations on leased food premises don't work because you need long-term ownership for the payback to be worth it. You'll also need sufficient roof space or land and ideally high electricity consumption, since the more you're spending now the faster the payback.

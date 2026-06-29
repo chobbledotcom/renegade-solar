@@ -43,6 +43,8 @@ Larger commercial buildings often have extensive roof space, and a hotel install
 
 EV charging is increasingly something guests look for. Ashley has installed ground-mounted systems connected to outdoor fuse boards specifically to power free EV charging on hotel sites, which is a useful guest amenity at no recurring electricity cost.
 
+For smaller guest houses with flat-roof extensions or outbuildings, the [flat roof solar property page](/properties/flat-roofs/) covers the details that matter on those roofs: structure, waterproofing, access and cable routes.
+
 ## What you need to qualify
 
 The main requirement is that you own the building. You'll also need enough roof space or land to make a meaningful system worthwhile, high enough electricity consumption to give a strong return, and a plan to keep the property long-term so the payback is actually realised.

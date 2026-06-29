@@ -51,6 +51,8 @@ Ashley typically designs flat-roof commercial systems for:
 
 If you have pitched roofs as well as flat ones, those can usually be incorporated. The Bolton job is a good example, with the larger design using both flat and pitched sections to maximise generation.
 
+For domestic garages, extensions, outbuildings and smaller mixed roofs, see the [solar panels on flat roofs](/properties/flat-roofs/) page. The same basic principle applies - the roof does not have to face south if the mounting system can set the panel angle properly - but the survey and payback are worked out differently for a home than for a warehouse.
+
 ## What you need to qualify
 
 The main requirement is that you own the building. You'll also need high enough electricity consumption to give a strong return (the more you spend, the faster the payback) and a plan to keep the property long-term.

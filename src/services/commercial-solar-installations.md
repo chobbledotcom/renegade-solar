@@ -29,6 +29,8 @@ We've also installed [ground-mounted solar systems](/ground-mounted-solar-instal
 
 [Flat roofs](/flat-roof-commercial-solar-manchester/) give us flexibility that pitched roofs don't. We can angle the panels south regardless of which way the building faces, which is why retail units, warehouses and commercial properties with large flat roofs tend to generate plenty of energy through the day. Most flat roofs are sitting there doing nothing - turning them into a solar array typically pays back within a few years, and they keep producing for decades after that.
 
+On smaller buildings, the same idea applies to [flat roof solar on garages, extensions and outbuildings](/properties/flat-roofs/). Ashley still checks the roof structure, waterproofing, access and cable route in person, because those details decide whether the job is sensible.
+
 Pitched roofs still work well too, particularly on factories, hotels (Premier Inns are a good example) and larger commercial buildings, which tend to have plenty of roof space. The main requirement is that you need to own the building rather than lease it, and ideally you're planning to keep the property long-term so you can see the full payback.
 
 Ground-mounted systems are another option if you've got spare land, a grass verge or outdoor space available. They work particularly well for powering EV charging points for staff cars, or for supplementing a rooftop installation when the roof alone doesn't give you the capacity you want.

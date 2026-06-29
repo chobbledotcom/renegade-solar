@@ -23,9 +23,13 @@ Ashley's the person you'll be dealing with from start to finish. He'll do the su
   <img src="/assets/photos/flat-solar-panels.jpg" alt="Flat solar panels on a roof in Manchester" eleventy:ignore />
 </div>
 
-When you get in touch, a qualified electrician comes out to survey the property and design the system - not a salesperson. We'll go through the different installation types - on-roof, in-roof, [ground-mounted](/ground-mounted-solar-installations-manchester/) or flat roof - and tailor the design to your property and your energy use. Every property is different, but the same attention to detail goes into a small domestic install as a much bigger job.
+When you get in touch, a qualified electrician comes out to survey the property and design the system - not a salesperson. We'll go through the different installation types - on-roof, in-roof, [ground-mounted](/ground-mounted-solar-installations-manchester/) or [flat roof](/properties/flat-roofs/) - and tailor the design to your property and your energy use. Every property is different, but the same attention to detail goes into a small domestic install as a much bigger job.
 
 This matters because we've seen other installers recommend unsuitable or even dangerous setups - batteries in lofts, for example, which contradicts NAPIT safety guidelines. When salespeople are speccing jobs instead of electricians, corners get cut. With Renegade, the person doing the survey understands the technical requirements and isn't going to recommend something inappropriate just to make a sale.
+
+It also matters on awkward roofs. One customer came to Ashley after several solar fitters were not interested in putting panels on a flat garage roof rather than the main pitched roof. Ashley visited, looked at the actual roof and designed a cheaper route because the job did not need scaffolding. Another customer said previous quotes based on Google Earth had missed the flat roof that made most sense for their house. Those are the kinds of details a proper survey catches.
+
+The same theme comes up on battery and inverter jobs. Reviews mention Ashley measuring awkward roofs in person, explaining written projections, working through manufacturer support during commissioning, and making sensible changes when a better battery option is available. That is the difference between installing a product and designing a system that actually suits the house.
 
 ## Installation
 

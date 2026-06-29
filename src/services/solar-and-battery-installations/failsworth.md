@@ -40,7 +40,7 @@ For Failsworth households wanting to properly cut their energy bills, battery st
 
 ## Flat Roof Installations
 
-Got a flat-roofed extension or commercial property? We've done plenty of flat roof solar installations in Failsworth using proper mounting systems that don't compromise your roof's waterproofing. These systems work brilliantly and often give you more flexibility with panel positioning than pitched roofs.
+Got a flat-roofed extension, garage roof or commercial property? We've done plenty of [flat roof solar installations](/properties/flat-roofs/) using proper mounting systems that don't compromise your roof's waterproofing. These systems often give you more flexibility with panel positioning than pitched roofs, because the panels can sit on a frame angled for the best output.
 
 ## Ready to Cut Your Energy Bills?
 

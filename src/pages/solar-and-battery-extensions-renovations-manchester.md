@@ -30,7 +30,7 @@ Loft conversions are a particularly good moment for solar. The roof is already b
 
 ## Extensions and rear builds
 
-Extensions create new roof space - flat on a single-storey, pitched on a two-storey. Flat roofs let us mount panels facing south regardless of how the building itself is oriented, which is particularly useful when the existing house faces the wrong way. If the original roof is the wrong orientation for solar but a new extension provides a south-facing flat roof, that's often where the panels end up.
+Extensions create new roof space - flat on a single-storey, pitched on a two-storey. [Flat roofs](/properties/flat-roofs/) let us mount panels facing south regardless of how the building itself is oriented, which is particularly useful when the existing house faces the wrong way. If the original roof is the wrong orientation for solar but a new extension provides a south-facing flat roof, that's often where the panels end up.
 
 ## Full refurbishments and self-builds
 

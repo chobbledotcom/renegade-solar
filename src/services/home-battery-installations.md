@@ -32,6 +32,8 @@ We mainly fit batteries from:
 
 Battery sizes range from 6kWh upwards depending on your home's energy use. During the free consultation we'll look at your electricity bills and recommend a battery that fits your usage.
 
+Recent solar and battery customers mention the same things in reviews: the system being sized around the actual house, the battery and inverter being explained clearly, and the work being finished within the agreed timescale. On one awkward 1930s bungalow, Ashley designed a ten-panel system where other quotes only managed six or eight panels from satellite images, then worked with AlphaESS technical support during commissioning to resolve setup issues before handover.
+
 ## Smart features and integration
 
 ### Home automation compatibility
@@ -77,6 +79,10 @@ We configure the system to work with your tariff, plus any existing solar or pla
 **M25 Customer - Complete Home Energy System:**
 
 > "Since then Ashley has fitted solar panels and a battery, a doorbell, new light sockets, outdoor lighting & power, a bathroom extractor fan, removed old ariels, and probably more stuff I can't remember."
+
+**Solar + Battery + Inverter:**
+
+Customers with newer solar, battery and inverter installs have also picked out communication during the job, the system working as expected afterwards, and sensible last-minute adjustments rather than a rigid one-size-fits-all design.
 
 ## Year-round performance
 

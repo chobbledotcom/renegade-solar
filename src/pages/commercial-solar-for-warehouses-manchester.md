@@ -40,6 +40,8 @@ Because warehouse and retail operations consume electricity during the day when 
 
 If you have pitched roof sections too, those can usually be incorporated into a combined design. The Bolton job is a good example, with options at multiple system sizes.
 
+The same flat-roof design thinking applies at smaller scale on [garage roofs, extensions and outbuildings](/properties/flat-roofs/), but warehouses usually have the stronger financial case because the electricity is being used during the working day.
+
 ## Ground-mounted and EV-charging additions
 
 If your site has spare land, grass verges or yard space, [ground-mounted solar](/ground-mounted-solar-installations-manchester/) can supplement rooftop generation or power [EV charging points](/solar-carports-workplace-ev-charging-manchester/) for staff and visitor vehicles. Ashley has installed ground-mounted systems connected to outdoor fuse boards for businesses wanting to offer free EV charging, powered entirely by solar with no recurring electricity cost.

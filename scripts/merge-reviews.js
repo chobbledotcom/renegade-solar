@@ -9,7 +9,10 @@ const REVIEWS_DIR = path.join(ROOT, "src", "_data", "reviews");
 const REVIEWS_JSON = path.join(ROOT, "src", "_data", "reviews.json");
 const FETCH_SCRIPT = path.join(ROOT, "bin", "fetch-reviews");
 const GOOGLE_REVIEWS_REPO = "https://github.com/chobbledotcom/google-reviews-iframe.git";
-const GOOGLE_REVIEWS_FRAME_DIR = path.join(ROOT, "..", "google-reviews-frame", "data", "renegade-solar");
+const GOOGLE_REVIEWS_FRAME_DIRS = [
+  path.join(ROOT, "..", "google-reviews-iframe", "data", "renegade-solar"),
+  path.join(ROOT, "..", "google-reviews-frame", "data", "renegade-solar"),
+];
 const TEMP_DIR = path.join(ROOT, "temp-reviews");
 const SLUG = "renegade-solar";
 
@@ -40,9 +43,11 @@ function fetchCheckatradeReviews() {
 function loadGoogleReviews() {
   let reviewsDir;
 
-  if (fs.existsSync(GOOGLE_REVIEWS_FRAME_DIR)) {
-    console.log("Using local google-reviews-frame data...");
-    reviewsDir = GOOGLE_REVIEWS_FRAME_DIR;
+  const localReviewsDir = GOOGLE_REVIEWS_FRAME_DIRS.find((dir) => fs.existsSync(dir));
+
+  if (localReviewsDir) {
+    console.log("Using local google-reviews-iframe data...");
+    reviewsDir = localReviewsDir;
   } else {
     console.log("Cloning google-reviews-iframe...");
     try {

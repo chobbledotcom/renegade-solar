@@ -31,7 +31,9 @@ The [Altrincham](/altrincham/solar-and-battery-installations/) and [Hale](/hale/
 
 ## In-roof, on-roof, or ground-mounted
 
-Different property types suit different installations, and Ashley will go through the options on site. On-roof is the most common - panels mounted on rails above the existing tiles or slates. In-roof (integrated) sits flush with the roofline rather than above it, which is often a better aesthetic match for period properties and conservation areas. [Ground-mounted](/ground-mounted-solar-installations-manchester/) arrays are a strong alternative if the roof isn't suitable or you've got garden space, and on extensions or outbuildings with flat roofs, panels can be tilted to face south regardless of how the roof itself sits.
+Different property types suit different installations, and Ashley will go through the options on site. On-roof is the most common - panels mounted on rails above the existing tiles or slates. In-roof (integrated) sits flush with the roofline rather than above it, which is often a better aesthetic match for period properties and conservation areas. [Ground-mounted](/ground-mounted-solar-installations-manchester/) arrays are a strong alternative if the roof isn't suitable or you've got garden space, and on extensions or outbuildings with [flat roofs](/properties/flat-roofs/), panels can be tilted to face south regardless of how the roof itself sits.
+
+That can matter on period homes where the front roof is too visible, shaded or awkward. A garage roof, rear extension or outbuilding may give a cleaner installation than forcing panels onto the main elevation. Ashley checks those options in person rather than relying on a satellite view of the obvious roof.
 
 ## Battery storage where roof installation isn't ideal
 
