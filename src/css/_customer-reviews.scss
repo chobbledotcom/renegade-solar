@@ -20,66 +20,6 @@
     }
   }
 
-  &__grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 2rem;
-    margin-bottom: 2.5rem;
-  }
-
-  &__card {
-    background-color: white;
-    padding: 1.5rem;
-    border-radius: 0.5rem;
-    box-shadow:
-      0 4px 6px -1px rgba(0, 0, 0, 0.1),
-      0 2px 4px -1px rgba(0, 0, 0, 0.06);
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-    overflow: hidden;
-
-    &-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 1rem;
-
-      h3 {
-        font-weight: 600;
-        font-size: 1.125rem;
-        margin: 0;
-      }
-
-      .rating {
-        display: flex;
-        align-items: center;
-        color: #f59e0b;
-        font-weight: 600;
-
-        span {
-          margin-left: 0.25rem;
-        }
-      }
-    }
-
-    &-body {
-      color: #4b5563;
-      flex-grow: 1;
-    }
-
-    &-footer {
-      color: #6b7280;
-      font-size: 0.875rem;
-      margin-top: auto;
-    }
-  }
-
-  &__source-label {
-    color: #9ca3af;
-    font-style: italic;
-  }
-
   &__cta {
     text-align: center;
     margin-top: 2rem;
@@ -90,9 +30,111 @@
   }
 }
 
+// Reviews grid
+//
+// Default layout is a plain CSS grid, which works without JavaScript. When
+// masonry.js runs it measures each card, positions it with an inline transform
+// and adds the `masonry-ready` class, which switches the grid to the
+// JS-positioned (absolute) layout. The numeric values below (padding, gap,
+// border, min column width) must stay in sync with the constants in
+// assets-src/masonry.js.
+.reviews-grid {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2.5rem;
+
+  // No-JS / pre-layout fallback
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+
+  // JS-positioned masonry layout
+  &.masonry-ready {
+    display: block;
+    position: relative;
+
+    > li {
+      position: absolute;
+      top: 0;
+      left: 0;
+      margin: 0;
+    }
+  }
+
+  > li {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem; // SECTION_GAP (16px)
+    background-color: white;
+    padding: 1.5rem; // CARD_PADDING (24px)
+    border-radius: 0.5rem;
+    box-shadow:
+      0 4px 6px -1px rgba(0, 0, 0, 0.1),
+      0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    overflow: hidden;
+  }
+
+  .review-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .rating {
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+      color: #f59e0b;
+      font-weight: 600;
+    }
+
+    .date {
+      margin-left: auto;
+      color: #6b7280;
+      font-size: 0.875rem;
+      white-space: nowrap;
+    }
+  }
+
+  .review-title {
+    margin: 0;
+    font-weight: 600;
+    font-size: 1.125rem;
+  }
+
+  .review {
+    color: #4b5563;
+    max-height: 11rem; // long reviews scroll instead of stretching the card
+    overflow-y: auto;
+
+    p {
+      margin: 0;
+    }
+
+    // Fade the clipped bottom edge of reviews that overflow and scroll.
+    &.is-clamped {
+      mask-image: linear-gradient(
+        to bottom,
+        black calc(100% - 1.75rem),
+        transparent
+      );
+    }
+  }
+
+  .review-meta {
+    margin: 0;
+    color: #6b7280;
+    font-size: 0.875rem;
+  }
+
+  .review-source {
+    color: #9ca3af;
+    font-style: italic;
+  }
+}
+
 // Media queries for responsive design
 @media screen and (max-width: 768px) {
-  .customer-reviews__grid {
+  .reviews-grid {
     grid-template-columns: 1fr;
   }
 }

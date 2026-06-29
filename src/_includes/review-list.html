@@ -1,27 +1,27 @@
-<div class="customer-reviews__grid">
+<ul class="reviews-grid masonry">
   {% for review in reviews %}
-  <div class="customer-reviews__card">
-    <div class="customer-reviews__card-header">
-      <h3>{{ review.title }}</h3>
-      <div class="rating">
+  <li>
+    <div class="review-header">
+      <span class="rating">
         {{ review.rating.rating | round: 1 }}
-        <span>★</span>
-      </div>
+        <span aria-hidden="true">★</span>
+      </span>
+      <span class="date">{{ review.createdAt | date: "%b %Y" }}</span>
     </div>
-    <div class="customer-reviews__card-body">
+    <h3 class="review-title">{{ review.title }}</h3>
+    <div class="review">
       <p>{{ review.review }}</p>
     </div>
-    <div class="customer-reviews__card-footer">
-      <p>
-        {% if review.location.postcode and review.location.postcode != "" %}
-          {{ review.location.postcode }} -
-        {% endif %}
-        {{ review.createdAt | date: "%b %Y" }}
-        {% if review.source and review.source != "checkatrade" %}
-          <span class="customer-reviews__source-label"> via {{ review.source | capitalize }}</span>
-        {% endif %}
-      </p>
-    </div>
-  </div>
+    {% if review.location.postcode and review.location.postcode != "" or review.source and review.source != "checkatrade" %}
+    <p class="review-meta">
+      {% if review.location.postcode and review.location.postcode != "" %}
+        {{ review.location.postcode }}
+      {% endif %}
+      {% if review.source and review.source != "checkatrade" %}
+        <span class="review-source">via {{ review.source | capitalize }}</span>
+      {% endif %}
+    </p>
+    {% endif %}
+  </li>
   {% endfor %}
-</div>
+</ul>

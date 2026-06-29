@@ -165,8 +165,13 @@ function writeReviewFiles(reviews) {
   }
 }
 
+// Reviews below this rating (out of 10) are hidden from the site.
+const MIN_DISPLAY_RATING = 8;
+
 function generateSummary(reviews) {
-  const sorted = [...reviews].sort(
+  const filtered = reviews.filter((r) => r.rating.rating >= MIN_DISPLAY_RATING);
+
+  const sorted = [...filtered].sort(
     (a, b) => new Date(b.createdAt) - new Date(a.createdAt),
   );
 
