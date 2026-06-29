@@ -1,6 +1,6 @@
 {
-  "total": 105,
-  "averageRating": 9.85,
+  "total": 104,
+  "averageRating": 9.94,
   "reviews": [
     {
       "id": "019d25b4-e602-7c5f-ab6e-d1c817e27ae5",
@@ -730,29 +730,6 @@
         "reliabilityAndTimekeeping": 10,
         "communication": 10,
         "rating": 10
-      },
-      "reviewer": {
-        "id": "",
-        "displayName": ""
-      },
-      "source": "checkatrade",
-      "authorUrl": ""
-    },
-    {
-      "id": "841ca8da-1a72-4003-9be9-2d24bbe01a6d",
-      "title": "To install hybrid inverter & solar battery storage",
-      "review": "Initial interactions were good and on first meeting for site survey, Ashley was friendly and polite. It soon became obvious of his limitations in energy storage setups. Despite his limitations he was very keen to take on the project and because of this I decided to offer him the job and agreed do the leg work by getting him all relevant information to make things easier. Having done the legwork Ashley then pulled out without any explanations beside that  it’s best to look for somebody else to do the job and then blocked me from making any further contact. Very unprofessional and discourteous",
-      "createdAt": "2024-07-16T04:09:10.046Z",
-      "updatedAt": "2024-07-16T04:09:10.046Z",
-      "location": {
-        "postcode": "M29"
-      },
-      "verified": "VERIFIED",
-      "rating": {
-        "qualityOfWorkmanship": 1,
-        "reliabilityAndTimekeeping": 1,
-        "communication": 1,
-        "rating": 1
       },
       "reviewer": {
         "id": "",
