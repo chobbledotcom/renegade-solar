@@ -56,7 +56,7 @@ function loadGoogleReviews() {
       console.error("Failed to clone google-reviews-iframe:", e.message);
       return [];
     }
-    reviewsDir = path.join(TEMP_DIR, "reviews", SLUG);
+    reviewsDir = path.join(TEMP_DIR, "data", SLUG);
     if (!fs.existsSync(reviewsDir)) {
       console.warn(`No reviews found for "${SLUG}" in google-reviews-iframe`);
       return [];
@@ -161,7 +161,15 @@ function writeReviewFiles(reviews) {
   for (const review of reviews) {
     const fileName = `${review.id}.json`;
     const filePath = path.join(REVIEWS_DIR, fileName);
-    fs.writeFileSync(filePath, JSON.stringify(review), "utf8");
+    const serialized = JSON.stringify(review);
+    if (fs.existsSync(filePath)) {
+      try {
+        if (JSON.stringify(JSON.parse(fs.readFileSync(filePath, "utf8"))) === serialized) continue;
+      } catch {
+        // Replace malformed cached data with the normalized review below.
+      }
+    }
+    fs.writeFileSync(filePath, serialized, "utf8");
   }
 }
 
