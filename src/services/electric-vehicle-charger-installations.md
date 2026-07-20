@@ -1,7 +1,7 @@
 ---
-title: EV Charger Installations
+title: EV Charger Installation, Repair and Relocation
 snippet: Electric vehicle chargers for homes and businesses
-description: Professional EV charger installations by a certified installer in North Manchester. Includes relocation services and integration with solar panels and home batteries.
+description: EV charger installation, repair, fault diagnosis and relocation by a NAPIT-registered electrician across North Manchester, with solar panels and home battery integration.
 icon: /assets/icons/car.svg
 location_pages: true
 order: 5
@@ -11,7 +11,7 @@ gallery_tags: [electric-vehicle]
 
 # Electric Vehicle Charger Installations
 
-We install, maintain and relocate EV chargers for homes and businesses across the North West. As a [NAPIT-registered](/accreditations/napit/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we handle the lot - from the initial survey through to final testing and certification. Whether you want a standalone charger or you'd like it integrated with your [solar panels](/services/solar-and-battery-installations/) and [home battery](/services/home-battery-installations/), we can sort it.
+We install, maintain and relocate EV chargers for homes and businesses across the North West. As a [NAPIT-registered](/accreditations/napit/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we assess the supply, consumer unit, earthing, protection, cable route and charger position before carrying out the installation, testing and certification. Whether you want a standalone charger or you'd like it integrated with your [solar panels](/services/solar-and-battery-installations/) and [home battery](/services/home-battery-installations/), the electrical work and energy setup are considered together.
 
 ## What customers say
 
@@ -19,11 +19,27 @@ Customers tend to mention the clear advice, the fair prices and the tidy workman
 
 > "Ashley fitted an EV charger for me and provided lots of brilliant advice prior to doing so, as I was clueless on the whole thing. His advice even allowed me to keep costs down and his prices were the best quotes I had, with nothing reduced on the quality of his work."
 
+That is a verified Checkatrade review from an M24 customer, dated 14 May 2024.
+
 > "Ashley was friendly, knowledgeable and did a great job. He ensured that our new GivEnergy charger was properly integrated with the solar and battery system. During the job he found an earthing fault from previous work - and fixed this small job at no extra cost."
+
+That review was left on Checkatrade by an OL13 customer on 17 May 2024. Checking the existing earthing is part of the installation because an EV charger cannot simply be mounted on the wall and assumed safe.
 
 > "Ashley was amazing! He removed my EV charger from my old house and came back and reinstalled at my new house... would highly recommend and wouldn't use anybody else now for any electrical work."
 
+That verified Checkatrade review came from an OL8 customer on 9 March 2025.
+
 If you're moving house, we offer a dedicated [EV charger relocation service](/ev-charger-relocation-manchester/) - taking the charger off the old property and reinstalling at the new one.
+
+## Home EV charger not working?
+
+For EV charger repair in Manchester, the first job is working out whether the fault is in the charger, its supply, protection, earthing, communications or software. Ashley can check the electrical installation, identify where the problem sits and deal with the manufacturer where the unit itself needs technical support or replacement.
+
+On Hale Road, a customer's Hypervolt charger had stopped working. Ashley diagnosed the fault, liaised directly with Hypervolt and got the customer charging again. On another job, a defunct charger was removed and replaced with a GivEnergy unit that worked with the property's existing solar and battery system. The electrical checks also found an earthing fault left by previous work, which was corrected during the installation.
+
+Not every failed charger is worth repairing. If the unit is obsolete, damaged or no longer supported, Ashley can explain the fault and quote for an EV charger replacement instead. If the problem belongs with the manufacturer, he can provide the electrical findings and remain involved while the supplier resolves the box itself. One customer review specifically mentions Ashley continuing to check in while their charger supplier arranged a replacement unit.
+
+EV charger repair availability depends on the brand, parts and manufacturer support. [Contact Ashley](/contact/) with the charger make, model, symptoms and any error message, and include a photograph of the unit and consumer unit if possible.
 
 ## Solar + EV integration
 

@@ -20,11 +20,21 @@ We started doing more solar around three or four years ago, when the maths start
 
 Alongside the solar we do battery installations and the [related electrical work for extensions, loft conversions and renovations](/solar-and-battery-extensions-renovations-manchester/) across Greater Manchester.
 
+The electrical background still runs through the business. In Bowlee, Heywood, we designed, installed and commissioned the complete electrical installation for a new-build home, including internal and external lighting and smart controls for lights, plugs, switches, cameras and thermostats. Solar was planned for a later phase, so the consumer unit, controls and cable routes could be considered before the house was finished. There is more detail in the [Bowlee new-build electrical case study](/news/bowlee-heywood-new-build-electrical-installation/).
+
 You don't have to be worried about climate change to want solar, though plenty of our customers are. For most homes the appeal is the bills - a typical semi with a south-facing roof can take a fair bit off electricity costs with a panel-and-battery setup, and the system pays back over time.
 
 ## Working Locally
 
-Where we can, we use local people. Most of our roofers and scaffolders are Manchester-based, and they're the same ones we've worked with for years. We sponsor Blackley Lions FC, donate to The Lighthouse Project (a small charity in Middleton that supports families across North Manchester) every Christmas, and we're working with the University of Manchester on a mobile solar education unit that'll travel round schools and community events to show how solar actually works.
+Customers deal directly with me, and the installation work is completed by our in-house Renegade Solar team. I stay involved in the survey, design, electrical installation, commissioning and aftercare. Specialist scaffolding is the only part we subcontract.
+
+The team fits solar panels around rooflights, on slate roofs and across flat roofs broken up by roof lanterns and parapets. Those awkward layouts need careful measuring, sensible access and a panel arrangement designed for the actual Manchester property rather than an empty rectangle on a screen.
+
+<div class="center">
+  <img src="/assets/photos/summer-2025-renegade-solar-team.jpg" alt="Members of the in-house Renegade Solar team working on a solar panel installation" eleventy:ignore />
+</div>
+
+We sponsor Blackley Lions FC, donate to The Lighthouse Project (a small charity in Middleton that supports families across North Manchester) every Christmas, and worked with the University of Manchester on a mobile solar education unit designed to travel around schools and community events. At Christmas 2025, Renegade again offered help with tripping fuse boards and power cuts to M24 residents, with no call-out fee for pensioners. That was the third year we had run the Christmas offer.
 
 More on all of that in our [Social Value Policy](/social-value-policy/).
 

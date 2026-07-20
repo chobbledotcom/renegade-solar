@@ -35,6 +35,16 @@ On a pitched roof, the roof decides the angle and direction of the panels. On a 
 
 It still has to be designed properly. The roof structure, waterproofing, wind loading, shading and cable route all matter, and the mounting system has to suit the roof rather than just sit on top of it and hope for the best.
 
+## A flat roof around a roof lantern
+
+On one solar panel installation, the useful area was spread across several sections of an urban flat roof. A roof lantern and parapet walls broke up the available space, with mature trees close to the property. A single rectangular block of panels would not have worked, so we split the array between roof sections and set it out around the obstructions.
+
+<div class="center">
+  <img src="/assets/photos/summer-2025-flat-roof-lantern.jpg" alt="Flat roof solar panel installation split around a roof lantern, parapets and several roof sections" eleventy:ignore />
+</div>
+
+We laid out weighted mounting rails before fitting the panels, allowing for row spacing, ballast, wind loading, shading from parapets and trees, and enough room to reach the roof covering and lantern later. Ashley checks those details during a flat roof survey because a panel count on a satellite image cannot tell you whether the finished system will fit or remain serviceable.
+
 ## What Ashley checks
 
 For a flat roof solar installation, Ashley checks the roof in person and works through the practical details before quoting:
@@ -70,5 +80,7 @@ For larger warehouses, factories, hotels and retail units, see the dedicated [fl
 - [TrustMark registered](/accreditations/trustmark/)
 - Experience with domestic solar, battery storage, off-grid systems and commercial solar
 - Two years routine maintenance included on every installation
+
+Installation is completed by the in-house Renegade Solar team. Specialist scaffolding is the only subcontracted element when a flat roof cannot be accessed safely without it.
 
 [Get in touch](/contact/) if you have a flat roof, garage roof, extension or outbuilding and want to know whether solar is worth fitting.

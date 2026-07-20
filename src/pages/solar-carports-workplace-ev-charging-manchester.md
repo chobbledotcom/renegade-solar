@@ -1,68 +1,94 @@
 ---
-title: Workplace EV Charging Powered by Solar in Manchester | Renegade Solar
-description: Solar-powered workplace EV charging across Greater Manchester. Free staff and visitor charging from solar generation. MCS-certified commercial installer.
+title: Workplace EV Charger Installation Manchester | Solar Carports
+description: Workplace and commercial EV charger installation across Greater Manchester, with standalone charging points, solar integration and solar carport options.
 permalink: /solar-carports-workplace-ev-charging-manchester/
-link_title: Workplace EV + Solar
-heading: Workplace EV Charging Powered by Solar in Manchester
+link_title: Workplace EV Charging
+heading: Workplace EV Charger Installation in Manchester
 layout: page.html
 noindex: false
 ---
 
-## Solar on the roof, chargers on the car park
+## Workplace EV charging with or without solar
 
-If you run a business with a car park - factory, warehouse, retail unit, hotel, office - you've got two assets sitting unused: the roof above and the tarmac below. A combined [solar](/services/commercial-solar-installations/) and [EV charging](/services/electric-vehicle-charger-installations/) installation puts both of them to work, and we've installed exactly this kind of setup before - ground-mounted solar feeding outdoor fuse boards so businesses can offer free charging to staff with no recurring electricity cost.
+A workplace EV charger installation does not need solar panels or a solar carport. We provide workplace EV charging across Greater Manchester for businesses with a suitable electrical supply and somewhere for staff, fleet or visitor vehicles to park. Renegade can install commercial EV charging points as a standalone electrical project.
 
-## Who runs the work
+Solar can be added where it suits the building and the way the chargers will be used. A factory, warehouse, retail unit, hotel or office often has vehicles parked during daylight hours, so [commercial solar](/services/commercial-solar-installations/) can supply part of that charging demand while also powering the building. The design starts with your site and actual usage rather than assuming every car park needs the same package.
 
-Renegade Solar is run by Ashley Merritt. He's been an electrician for around twenty years, with about ten of those on commercial projects including industrial sites like the Jersey Recycling Centre. He's [MCS-certified](/accreditations/mcs-certified/) ([NAP-66870](https://mcscertified.com/find-an-installer/)), [NAPIT registered](/accreditations/napit/), and an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/).
+The electrical side is designed by a NAPIT-registered electrician, while any solar included in the project is completed as an MCS-certified installation.
 
-For a commercial install of this kind, what that means in practice is that Ashley walks the site, the roof and the car park himself, then designs the system and is on site for the install - no salesperson handover, no install crew you've never met. If the numbers don't stack up he'll tell you. Where roofers and scaffolders are needed we use local trades we've worked with for years.
+## What Ashley checks on a commercial EV charger survey
 
-## Why this works financially
+Commercial EV charger installation starts with the electrical supply, not a charger catalogue. As a commercial EV charger installer in Manchester, Ashley visits the site and checks:
 
-Commercial solar makes sense on its own because businesses use electricity during the day, when generation is at its peak. Adding workplace EV charging on top of that pushes the maths further: staff cars are on site through the working day, charging exactly when the panels are generating, and the load comes off the solar rather than being bought from the grid. For staff who do business mileage in EVs, the energy cost of that mileage drops close to zero.
+- Whether the building has a single-phase or three-phase supply and how much spare capacity is available
+- The consumer unit or distribution board, existing protection, earthing and bonding
+- How many vehicles need charging, how long they remain parked and how quickly they need to turn around
+- Cable routes between the electrical intake, building and parking spaces
+- Whether wall-mounted chargers or pedestal charging points make more sense
+- How staff, fleet drivers and visitors will access the chargers
+- Whether load management is needed to prevent several vehicles overloading the available supply
+- Whether app monitoring, user reporting or payment controls are required
+- How future chargers could be added without replacing the first installation
 
-For the business, most commercial installations reduce monthly electricity costs by 70-100%, with payback typically within three to four years. EV charging adds usage that improves your self-consumption ratio - more kWh used on site, fewer exported back to the grid - which generally improves payback further.
+That survey determines whether a few 7kW workplace charging points will do the job or whether the site needs a larger three-phase design. It also catches the less glamorous details such as kerbs, vehicle routes, armoured cable, outdoor protection and keeping charging bays accessible.
 
-## Setup options
+## Standalone workplace charging points
 
-Depending on your site, the design will normally be one of two things: rooftop solar with wall-mounted chargers on the side of the building facing the car park, or [ground-mounted](/ground-mounted-solar-installations-manchester/) solar feeding chargers on outdoor fuse boards where the roof isn't ideal but you've got spare land or a grass verge. We've done that second setup for businesses offering free staff EV charging.
+For many businesses, the easy win is a small number of standalone chargers connected to the existing building supply. They can serve company vehicles overnight, staff cars during a shift or visitors while they are on site. Where several chargers share a limited supply, load management can distribute the available capacity instead of every unit drawing its maximum at once.
 
-If you're interested in solar carport structures - an elevated frame over parking that doubles as the panel array - flag it during the survey and Ashley will talk through whether it's the right fit and what's involved.
+A standalone design can still work with a time-of-use tariff and smart controls. It can also be planned so [solar panels](/services/commercial-solar-installations/) or battery storage can be integrated later. Running the right cable route and allowing space in the distribution equipment during the first phase is generally simpler than digging up the car park again.
 
-## Charger options
+## Office EV charging in Manchester
 
-Ashley isn't tied to a single manufacturer. The common installs are:
+Office EV charging in Manchester usually has a predictable pattern: cars arrive in the morning, remain parked for several hours and leave around the end of the working day. That often means a standard 7kW charger has plenty of time to add useful range without the site paying for the fastest possible unit at every bay.
 
-- Standard 7kW units for staff parking, which charge most EVs fully during a working day
-- 22kW three-phase chargers on sites with three-phase power, useful for fleet or shared use with faster turnaround
-- [GivEnergy chargers](/givenergy-installer-manchester/), which integrate well if you're running GivEnergy battery and inverter kit
-- [Octopus chargers](/accreditations/octopus-trusted-partner/), which are smart chargers that wait for the cheapest rates when grid charging is needed
+The practical questions are normally parking allocation, access for visitors, cable routes and how charging use will be recorded. A shared charger may be enough for a small office, while a larger workplace may want separate staff, visitor and fleet charging points. Ashley will talk through how the spaces are actually used before recommending quantities or charger speeds.
 
-All chargers are OZEV grant-approved where applicable and include smart features for app control and energy monitoring.
+## Fleet and staff EV charging points
 
-## Why businesses do it
+Fleet charging is designed around when vehicles return, how far they travel and when they have to leave again. A van that comes back at 5pm and stays until the following morning has a different requirement from a pool car used throughout the day. The same applies to staff EV charging points in Manchester workplaces: a car parked for an eight-hour shift rarely needs the same charging speed as a vehicle stopping briefly between jobs.
 
-Free EV charging at work is a genuine perk that doesn't depreciate, and it makes the business more attractive to staff who already drive electric or are thinking about it. "We power our staff parking with solar" is also a credible, specific claim that's easy to put on the website, into tender responses, and into B Corp or ISO 14001 documentation - and the chargers and panels are physical, on-site evidence for visitors and clients that you're walking the walk.
+Typical options include:
 
-## What you need
+- Standard 7kW units for staff parking and vehicles with a long dwell time
+- 22kW three-phase chargers where the supply, vehicle and required turnaround justify them
+- Wall-mounted chargers where bays sit next to the building
+- Pedestal-mounted chargers for rows of spaces away from a suitable wall
+- Smart load management where several commercial EV chargers share the supply
+- Monitoring and access controls suited to staff, fleet or visitor use
 
-For most owner-occupied commercial properties - warehouses, factories, retail - the three things that make this work are usually all there: you own the building (long-term ownership matters because the payback runs over years), you've got enough roof space, ground space, or both, and there's a car park reasonably close to where the supply lands. For smaller offices it depends on the site.
+Ashley is not tied to one manufacturer. [GivEnergy chargers](/givenergy-installer-manchester/) can be considered where a site already uses compatible GivEnergy equipment, while suitable smart chargers can be configured around the site's tariff and operating hours. Product availability, grant eligibility and platform features are checked when the system is quoted rather than assumed for every model.
 
-## How Ashley handles it
+As an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), Renegade can also discuss suitable Octopus chargers and Octopus Energy tariffs where they fit the business. Any current OZEV grant eligibility is checked against the proposed charger, site and applicant before it is included in a quote.
 
-He visits your site, reviews your electricity usage, looks at the roof and the car park, and designs a system to suit. Multiple options at different system sizes are typically presented with full financial analysis for each. Once you've chosen, he installs with minimal disruption to your operations and provides all certifications, grid connection paperwork and Smart Export Guarantee setup.
+## Adding commercial solar
 
-## Credentials
+Where the building has usable roof space or the site has spare land, an MCS-certified solar installation can be designed alongside the workplace EV charging. The common arrangements are rooftop solar with chargers mounted near the car park, or [ground-mounted solar](/ground-mounted-solar-installations-manchester/) supplying an outdoor distribution board and charging area.
 
-- [MCS-certified](/accreditations/mcs-certified/) installer (NAP-66870)
-- [NAPIT registered](/accreditations/napit/) (66870)
+Solar generation varies through the day and year, while vehicles do not all arrive with the same battery level. Ashley models the building load, likely charging demand and proposed solar output together. That gives the business a sensible estimate of how much charging could come from on-site generation and how much would still be imported from the grid. It avoids promising free charging when the result depends on weather, vehicle use, tariffs and the size of the array.
+
+Commercial solar may also improve on-site use of the electricity generated. If the building's daytime demand is low but staff vehicles are parked outside, chargers provide another useful load. If the factory or warehouse already consumes most of the solar generation, the charging design has to account for that rather than assuming surplus electricity will always be available.
+
+## Solar carports
+
+A solar carport is an elevated structure over parking spaces, with the solar panels forming a canopy above the vehicles. It can provide MCS-certified solar generation without using the main roof and gives the chargers a natural position in the car park. It is a bigger construction project than fitting wall-mounted workplace chargers, so the structure, foundations, drainage, vehicle clearance, planning position and electrical route all need checking.
+
+Solar carports suit some sites, particularly where the roof is unsuitable and the car park has enough clear space. They are not a requirement for workplace EV charger installation or workplace EV charging generally. Ashley can compare a carport with rooftop solar, ground-mounted panels or standalone commercial EV chargers before the business commits to the most expensive option.
+
+Planning workplace EV charging in phases is also possible. The first installation can serve current vehicles while the distribution equipment, cable route and load management leave room for more charging points later.
+
+## An electrician-led installation
+
+Renegade Solar is run by Ashley Merritt, a qualified NAPIT-registered electrician with over fifteen years of experience, including more than ten years on commercial projects. His commercial and industrial background includes work at the Jersey Recycling Centre. He assesses the site, designs the electrical installation and remains involved through installation, testing, certification and aftercare. The Renegade team handles installation work in-house, with only specialist scaffolding subcontracted where an MCS-certified solar installation needs it.
+
+That commercial background matters when the chargers have to connect to an existing distribution system without disrupting normal operations. Installation can be planned around shifts, deliveries and customer access at offices, factories, warehouses and retail sites, with testing and certification completed as part of the work.
+
+## Credentials and coverage
+
+- [NAPIT registered](/accreditations/napit/) electrician (66870)
+- [MCS-certified](/accreditations/mcs-certified/) solar installer (NAP-66870)
 - [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/)
-- 20+ years' experience as an electrician, including 10 years on commercial projects
-- {{ reviews.averageRating | round: 2 }}/10 on Checkatrade from {{ reviews.total }}+ verified reviews
+- Workplace EV charger installation, commercial solar and wider electrical installation from one team
+- Based in Prestwich and serving businesses across Greater Manchester and the wider North West
 
-## Coverage
-
-Based in Prestwich, we serve businesses throughout Greater Manchester and the wider North West.
-
-[Get in touch](/contact/) for a free consultation on solar-powered workplace EV charging.
+[Contact Ashley](/contact/) to arrange a site survey for standalone workplace charging points, commercial EV charger installation, solar integration or a solar carport.

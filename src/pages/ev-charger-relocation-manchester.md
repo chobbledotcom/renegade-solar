@@ -1,6 +1,6 @@
 ---
-title: EV Charger Relocation Service in Manchester | Moving House | Renegade Solar
-description: Professional EV charger removal and reinstallation when you move house. NAPIT registered electrician, Octopus Energy Trusted Partner serving Greater Manchester.
+title: EV Charger and Ohme Charger Relocation in Manchester | Renegade Solar
+description: EV charger and Ohme Pro removal and reinstallation when moving house, completed by a NAPIT-registered electrician across Greater Manchester.
 permalink: /ev-charger-relocation-manchester/
 link_title: EV Charger Relocation
 heading: EV Charger Relocation in Manchester
@@ -12,9 +12,21 @@ noindex: false
 
 Moving house with an EV charger is awkward. You've got a working setup at the old place, you don't want to leave it behind, you don't want to pay for a brand-new charger and install at the new place, and you don't want one electrician to disconnect it badly at the old house and a different electrician inheriting the mess at the new one. The straightforward answer is to have the same person remove it from the old house and reinstall it at the new one, which is what Ashley does:
 
+An EV charger relocation covers both properties, with the old supply left safe and the charger tested against the electrical setup at the new address.
+
 > "Ashley was amazing! He removed my EV charger from my old house and came back and reinstalled at my new house... would highly recommend and wouldn't use anybody else now for any electrical work."
 
-It's not a service most installers actively offer. We do, in writing, in customers' own words.
+The removal and reinstallation can be booked together even when there is a gap between moving out and getting access to the new property.
+
+## Can you move an Ohme charger to a new house?
+
+Yes. Ashley has removed and refitted Ohme Pro chargers for customers moving house, including a relocation from an old property to a new home in June 2025:
+
+> "Ashley removed my OHME pro and refitted on my new house. He was reliable and responsive. He did a lovely neat job, would highly recommend. Thanks Ashley."
+
+That review was left by Amy Jeffery on Google.
+
+If you need an Ohme charger installer in Manchester to handle a move, Ashley checks the unit before removal, makes the old supply safe and surveys the new property rather than assuming the previous cable and protection arrangement can be copied. The charger may also need its address, Wi-Fi, app settings and any Octopus tariff integration updating once it is installed at the new house.
 
 ## Why same-installer-both-ends matters
 
@@ -22,7 +34,7 @@ There are a few practical advantages. The disconnection is documented properly, 
 
 ## Who runs the work
 
-Renegade Solar is run by Ashley Merritt. He's [NAPIT registered](/accreditations/napit/) (66870), with around twenty years' experience as an electrician, and he's the person who quotes the job and the person who does it - no salesperson at the survey, no install crew you've never met, no project manager handover. For relocation work that's especially valuable, because the whole point of the service is one person handling both ends.
+Renegade Solar is run by Ashley Merritt. He's [NAPIT registered](/accreditations/napit/) (66870), with over fifteen years' experience as an electrician, including more than ten years on commercial projects. Ashley quotes and plans the relocation, remains involved at both properties and carries out the electrical work with the in-house Renegade team. There is no salesperson or project-manager handover.
 
 ## Why this is worth doing
 
@@ -52,7 +64,7 @@ Each job is different - the cost depends on the cable route at the new property,
 
 - [NAPIT Registered](/accreditations/napit/) (66870) - certification at both ends valid for insurance and future house sale
 - [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/)
-- 20+ years' experience as an electrician
+- Over 15 years' experience as an electrician, including more than 10 years on commercial projects
 - {{ reviews.averageRating | round: 2 }}/10 on Checkatrade from {{ reviews.total }}+ verified reviews
 
 ## Coverage

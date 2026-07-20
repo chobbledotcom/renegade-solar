@@ -46,6 +46,11 @@ jobs:
           APIFY_API_KEY: ${{ secrets.APIFY_API_KEY }}
         run: npm run fetch-facebook-posts
 
+      - name: Fetch Instagram posts
+        env:
+          APIFY_API_KEY: ${{ secrets.APIFY_API_KEY }}
+        run: npm run fetch-instagram-posts
+
       - name: Check for changes
         id: verify-changed-files
         run: |
@@ -60,6 +65,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add src/_data/reviews/ src/_data/reviews.json social-posts/
+          git add src/_data/reviews/ src/_data/reviews.json social-posts/ instagram-posts/
           git commit -m "Auto-update reviews with latest from all sources"
           git push

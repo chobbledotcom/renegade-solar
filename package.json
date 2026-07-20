@@ -8,6 +8,7 @@
 		"format": "prettier --write _site/**/*.html",
 		"format:check": "prettier --check _site/**/*.html",
 		"fetch-facebook-posts": "node scripts/fetch-facebook-posts.js",
+		"fetch-instagram-posts": "node scripts/fetch-instagram-posts.js",
 		"update-reviews": "node scripts/merge-reviews.js"
 	},
 	"dependencies": {

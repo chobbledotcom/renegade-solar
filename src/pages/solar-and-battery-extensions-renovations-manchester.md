@@ -1,6 +1,6 @@
 ---
 title: Solar & Battery for Extensions, Loft Conversions & Renovations | Renegade Solar
-description: Solar, battery and electrical work for extensions, loft conversions and renovations across Greater Manchester. MCS-certified installer who's also a 20-year electrician.
+description: Solar, battery and electrical work for extensions, loft conversions, self-builds and renovations across Greater Manchester from an MCS-certified installer and qualified electrician.
 permalink: /solar-and-battery-extensions-renovations-manchester/
 link_title: For Renovations
 heading: Solar & Battery for Extensions, Loft Conversions & Renovations
@@ -10,13 +10,13 @@ noindex: false
 
 ## An electrician who's done your kind of project
 
-Most solar installers are solar installers. Ashley was an electrician for around twenty years before he was an MCS-certified solar installer, and that prior trade is the part that matters for renovation work - he spent 2016 in the Channel Islands doing electrical work on high-end mansions and apartments, taking in loft conversions, kitchens, extensions, domestic and commercial properties, and industrial sites including the Jersey Recycling Centre. The things you're already pulling your house apart for, in other words, are the things he's been the electrician on.
+Most solar installers are solar installers. Ashley had already spent years as an electrician before he became an MCS-certified solar installer, and that prior trade is the part that matters for renovation work. He has over fifteen years' electrical experience, including more than ten years on commercial projects, and spent 2016 in the Channel Islands doing electrical work on high-end mansions and apartments. That work included loft conversions, kitchens, extensions, domestic and commercial properties, and industrial sites including the Jersey Recycling Centre. The things you're already pulling your house apart for, in other words, are the things he's been the electrician on.
 
 After coming back to Manchester he set up Renegade Electrical in 2018, and the solar side has grown out of that since. The order matters: solar got added to a real electrician's toolkit, not the other way round.
 
 ## Why this matters during a renovation
 
-A renovation involves multiple trades arriving in the right order, the consumer unit potentially getting moved or upgraded, and decisions about cable runs that have to be made before the plasterer turns up. Most solar installers can't help you with any of that. Ashley can - he's already made those decisions on previous renovations, he can coordinate timing with your roofer, scaffolder and main contractor (we work with local roofers and scaffolders we've used for years), he can spec the consumer unit upgrade himself rather than subcontract it, and he'll route cables through the build-up rather than surface-mount them after the fact.
+A renovation involves multiple trades arriving in the right order, the consumer unit potentially getting moved or upgraded, and decisions about cable runs that have to be made before the plasterer turns up. Most solar installers can't help you with any of that. Ashley can - he's already made those decisions on previous renovations, he can coordinate timing with the main contractor and the specialist scaffolder, he can specify the consumer unit upgrade as part of the in-house electrical work, and he'll route cables through the build-up rather than surface-mount them after the fact.
 
 ## When during the build to bring Ashley in
 
@@ -35,6 +35,16 @@ Extensions create new roof space - flat on a single-storey, pitched on a two-sto
 ## Full refurbishments and self-builds
 
 A full refurb or self-build is the cleanest scenario - everything is fresh, the consumer unit is new, and you can plan the system as part of the design rather than retrofitting around what's already there. Ashley personally oversees the whole thing - design, supply, install, commissioning, aftercare - so you've got one direct contact across the project. He fits [DMEGC](/dmegc-solar-panel-installer-manchester/) and [Trina Vertex](/trina-vertex-solar-panel-installer-manchester/) panels, with [Solax](/solax-battery-installer-manchester/) or [AlphaESS](/alphaess-battery-installer-manchester/) batteries from 6kWh up.
+
+### A complete new-build electrical installation in Bowlee
+
+On a new-build home in Bowlee, Heywood, Renegade designed, installed and commissioned the complete electrical installation from the start of the project through to handover. The work included internal and external lighting and a wall-mounted smart-home control interface covering lights, plugs, switches, cameras and thermostats.
+
+<div class="center">
+  <img src="/assets/photos/bowlee-smart-home-controls.jpg" alt="Smart-home control screen for lights, plugs, switches, cameras and thermostats in a Bowlee new build" eleventy:ignore />
+</div>
+
+We made the decisions on lighting positions, socket and switch layouts, controls and cable routes before the walls and ceilings were closed. Solar was planned for a later phase, so the electrical design also allowed for the low-carbon equipment still to come. Read the [full Bowlee new-build electrical case study](/news/bowlee-heywood-new-build-electrical-installation/) for more on the project.
 
 ## In a customer's own words
 

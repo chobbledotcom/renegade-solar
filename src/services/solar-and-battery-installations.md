@@ -1,7 +1,7 @@
 ---
-title: Solar and Battery Installations
+title: Solar Panel and Battery Installations in Manchester
 snippet: Save money on your bills and cut CO2 with a solar and battery combo.
-description: We are regulated by MCS, NICEIC and HIES, ensuring every system we install is completed to the highest standard.
+description: MCS-certified solar panel installation and battery storage across Greater Manchester, designed by a qualified electrician for pitched, flat and awkward roofs.
 icon: /assets/icons/solar-panel.svg
 order: 1
 root: true
@@ -17,6 +17,8 @@ We design and install solar and battery systems for homes across Greater Manches
 
 Ashley's the person you'll be dealing with from start to finish. He'll do the survey, design the system, oversee the install, and be the one you ring afterwards if there's a question.
 
+The installation work is carried out by our in-house Renegade Solar team, with specialist scaffolding the only part we subcontract. Ashley remains involved through the survey, solar panel and battery design, electrical installation, commissioning and aftercare, so there is no handover from a salesperson to a crew you have never met.
+
 ## Design and Planning
 
 <div class="center-right">
@@ -29,11 +31,21 @@ This matters because we've seen other installers recommend unsuitable or even da
 
 It also matters on awkward roofs. One customer came to Ashley after several solar fitters were not interested in putting panels on a flat garage roof rather than the main pitched roof. Ashley visited, looked at the actual roof and designed a cheaper route because the job did not need scaffolding. Another customer said previous quotes based on Google Earth had missed the flat roof that made most sense for their house. Those are the kinds of details a proper survey catches.
 
+## Solar panel installation on real Manchester roofs
+
+The roofs in Greater Manchester are rarely blank rectangles. On one pitched roof, the team fitted a substantial array above three rooflights, keeping the panel line clear of the windows while using the available upper section. We've also worked on older brick properties with slate roofs, chimneys and dormers, along with steep roofs on modern houses.
+
+<div class="center">
+  <img src="/assets/photos/summer-2025-solar-rooflights.jpg" alt="Renegade Solar panel installation fitted across a pitched roof above three rooflights" eleventy:ignore />
+</div>
+
+One flat-roof job was more involved. The array had to be divided across several roof sections around a roof lantern, parapets and nearby trees, using weighted mounting rails rather than treating the whole roof as one open area. A [flat roof solar installation](/properties/flat-roofs/) like that needs a measured layout, shading checks and enough maintenance access around the panels and roof features.
+
 The same theme comes up on battery and inverter jobs. Reviews mention Ashley measuring awkward roofs in person, explaining written projections, working through manufacturer support during commissioning, and making sensible changes when a better battery option is available. That is the difference between installing a product and designing a system that actually suits the house.
 
 ## Installation
 
-Installs are carried out with minimal disruption to your home or business. We work with local roofers and scaffolders on every project - they're tradespeople we've worked with for years.
+Installs are carried out with minimal disruption to your home or business by the in-house Renegade Solar team. We only subcontract the specialist scaffolding, and Ashley coordinates that around the roof and electrical work rather than leaving the customer to organise separate contractors.
 
 ## Commissioning
 

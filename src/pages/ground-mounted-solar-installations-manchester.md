@@ -16,9 +16,13 @@ A customer in M43 had Ashley install a complete energy setup: panels on the roof
 
 Ground-mount jobs tend to be multi-component setups like this one - roof panels for what fits up there, garden panels for additional generation, batteries somewhere convenient. The tricky part isn't any one piece on its own; it's getting all of them to work together cleanly, and that's where having one person handle the whole thing pays off.
 
+On another mixed installation, we combined a roof array and ground-mounted solar with 16kWh of battery storage. The battery and associated equipment went outside to preserve space inside the property. Outdoor siting depends on the equipment rating, manufacturer clearances, cable route and position, so it is considered as part of the complete system rather than treated as a separate job after the panels have been designed.
+
 ## Who runs the work
 
-Renegade Solar is run by Ashley Merritt. He's [MCS-certified](/accreditations/mcs-certified/) ([NAP-66870](https://mcscertified.com/find-an-installer/)) and has around twenty years' experience as an electrician. He surveys, designs, installs, commissions and looks after the system afterwards - no salesperson at the survey, just an electrician walking your garden and your loft, working out where everything should go.
+Renegade Solar is run by Ashley Merritt. He's [MCS-certified](/accreditations/mcs-certified/) ([NAP-66870](https://mcscertified.com/find-an-installer/)) and has over fifteen years' experience as an electrician, including more than ten years on commercial projects. He surveys and designs the system, remains involved in the electrical installation and commissioning, and looks after it afterwards. The installation is completed by the in-house team, with only specialist scaffolding subcontracted.
+
+That electrician-led approach matters on a ground-mounted solar installation because the buried cable route, outdoor protection, battery position and connection back to the property all have to be designed as one system.
 
 For ground-mount jobs that's especially worth having: garden installs need to fit the property aesthetically, the cabling has to come back into the consumer unit cleanly, and if there are batteries and EV charging in the mix too, all of it needs integrating. The M43 customer above is one example of how that plays out when one person plans the whole thing.
 
@@ -33,7 +37,7 @@ For ground-mount jobs that's especially worth having: garden installs need to fi
 
 ## Commercial ground-mount
 
-Ground-mounted systems are a strong option on commercial sites with spare land, grass verges, or outdoor space. We've installed ground-mounted systems connected to outdoor fuse boards to power free [EV charging](/services/electric-vehicle-charger-installations/) for staff cars, so businesses can offer charging at zero recurring electricity cost. We've also done supplementary arrays that increase total generation beyond what the roof alone can provide, and off-grid setups for agricultural buildings, mobile catering pitches and remote offices - see the [off-grid solar page](/off-grid-solar-installations-manchester/) for that side of things.
+Ground-mounted systems are a strong option on commercial sites with spare land, grass verges, or outdoor space. We've installed ground-mounted systems connected to outdoor fuse boards for [EV charging](/services/electric-vehicle-charger-installations/), allowing more staff charging demand to be met from on-site generation. We've also done supplementary arrays that increase total generation beyond what the roof alone can provide, and off-grid setups for agricultural buildings, mobile catering pitches and remote offices - see the [off-grid solar page](/off-grid-solar-installations-manchester/) for that side of things.
 
 ## Domestic ground-mount
 
@@ -49,7 +53,7 @@ Permitted Development for domestic ground-mounted solar in England has tight lim
 
 ## Credentials
 
-- [MCS-certified](/accreditations/mcs-certified/) installer (NAP-66870) - your installation qualifies for Smart Export Guarantee payments
+- [MCS-certified](/accreditations/mcs-certified/) installer (NAP-66870), so eligible installations can apply for Smart Export Guarantee payments
 - [TrustMark Registered](/accreditations/trustmark/)
 - [NAPIT Registered](/accreditations/napit/) (66870)
 - [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/)
