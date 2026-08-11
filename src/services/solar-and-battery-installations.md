@@ -22,7 +22,7 @@ The installation work is carried out by our in-house Renegade Solar team, with s
 ## Design and Planning
 
 <div class="center-right">
-  <img src="/assets/photos/flat-solar-panels.jpg" alt="Flat solar panels on a roof in Manchester" eleventy:ignore />
+  <img src="/assets/photos/residential-solar-panel-installation-scaffolding.jpg" alt="Solar panels on a tiled residential roof during an installation by Manchester installer Renegade Solar" eleventy:ignore />
 </div>
 
 When you get in touch, a qualified electrician comes out to survey the property and design the system - not a salesperson. We'll go through the different installation types - on-roof, in-roof, [ground-mounted](/ground-mounted-solar-installations-manchester/) or [flat roof](/properties/flat-roofs/) - and tailor the design to your property and your energy use. Every property is different, but the same attention to detail goes into a small domestic install as a much bigger job.

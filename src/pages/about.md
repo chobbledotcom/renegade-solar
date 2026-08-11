@@ -31,7 +31,7 @@ Customers deal directly with me, and the installation work is completed by our i
 The team fits solar panels around rooflights, on slate roofs and across flat roofs broken up by roof lanterns and parapets. Those awkward layouts need careful measuring, sensible access and a panel arrangement designed for the actual Manchester property rather than an empty rectangle on a screen.
 
 <div class="center">
-  <img src="/assets/photos/summer-2025-renegade-solar-team.jpg" alt="Members of the in-house Renegade Solar team working on a solar panel installation" eleventy:ignore />
+  <img src="/assets/photos/residential-solar-installation-wide-view.jpg" alt="Residential solar panel installation on a traditional brick property with Renegade Solar scaffolding" eleventy:ignore />
 </div>
 
 We sponsor Blackley Lions FC, donate to The Lighthouse Project (a small charity in Middleton that supports families across North Manchester) every Christmas, and worked with the University of Manchester on a mobile solar education unit designed to travel around schools and community events. At Christmas 2025, Renegade again offered help with tripping fuse boards and power cuts to M24 residents, with no call-out fee for pensioners. That was the third year we had run the Christmas offer.

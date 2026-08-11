@@ -1,5 +1,23 @@
 [
 	{
+		"filename": "residential-solar-panel-installation-scaffolding.jpg",
+		"alt": "Solar panel installation on a tiled residential roof with scaffolding",
+		"tags": ["solar-panels", "residential", "installation"],
+		"order": 1
+	},
+	{
+		"filename": "renegade-solar-panel-installation-banner.jpg",
+		"alt": "Renegade Solar panel installation on a tiled roof with branded scaffold banner",
+		"tags": ["solar-panels", "residential", "installation"],
+		"order": 2
+	},
+	{
+		"filename": "residential-solar-installation-wide-view.jpg",
+		"alt": "Wide view of a residential solar panel installation on a traditional brick property",
+		"tags": ["solar-panels", "residential", "installation"],
+		"order": 3
+	},
+	{
 		"filename": "solar-panels.jpg",
 		"alt": "Solar panels being installed on a traditional Manchester slate roof",
 		"tags": ["solar-panels"],
@@ -114,12 +132,6 @@
 		"order": 24
 	},
 	{
-		"filename": "flat-roof-rusholme.jpg",
-		"alt": "Installing solar panels on flat roof in Rushholme with worker",
-		"tags": ["solar-panels", "rusholme"],
-		"order": 25
-	},
-	{
 		"filename": "flat-roof-rusholme-2.jpg",
 		"alt": "Solar panel installation in progress on flat roof in Rusholme",
 		"tags": ["solar-panels", "rusholme"],
@@ -130,12 +142,6 @@
 		"alt": "Flat roof solar panel mounting rails and framework preparation",
 		"tags": ["solar-panels", "rusholme"],
 		"order": 27
-	},
-	{
-		"filename": "flat-roof-rusholme-3-duplicate.jpg",
-		"alt": "Worker installing solar panels on flat roof mounting system",
-		"tags": ["solar-panels", "rusholme"],
-		"order": 28
 	},
 	{
 		"filename": "flat-roof-rusholme-4.jpg",
@@ -162,18 +168,6 @@
 		"order": 32
 	},
 	{
-		"filename": "hyde-job-ash-clay-inverter-finish.jpg",
-		"alt": "Ashley and Clayton with completed inverter and battery installation",
-		"tags": ["ash", "clayton", "battery", "hyde"],
-		"order": 33
-	},
-	{
-		"filename": "hyde-job-finish-2.jpg",
-		"alt": "Installer at new build houses with completed solar panel installation",
-		"tags": ["solar-panels", "hyde"],
-		"order": 34
-	},
-	{
 		"filename": "hyde-job-finish-2-duplicate.jpg",
 		"alt": "Installer at new build development with solar panels on roofs",
 		"tags": ["solar-panels", "hyde"],
@@ -192,12 +186,6 @@
 		"order": 37
 	},
 	{
-		"filename": "jodrell-bank-clay.jpg",
-		"alt": "Clayton at Jodrell Bank radio telescope",
-		"tags": ["clayton", "community"],
-		"order": 38
-	},
-	{
 		"filename": "new-build-hyde-start-1.jpg",
 		"alt": "New build houses with scaffolding and solar panels being installed",
 		"tags": ["solar-panels", "hyde"],
@@ -214,18 +202,6 @@
 		"alt": "New build house with minimal solar panel installation on roof",
 		"tags": ["solar-panels"],
 		"order": 41
-	},
-	{
-		"filename": "rusholme-4-with-clayton.jpg",
-		"alt": "Clayton working on flat roof solar panel installation",
-		"tags": ["clayton", "solar-panels", "rusholme"],
-		"order": 42
-	},
-	{
-		"filename": "rusholme-5-clayton.jpg",
-		"alt": "Clayton installing solar panels on flat roof",
-		"tags": ["clayton", "solar-panels", "rusholme"],
-		"order": 43
 	},
 	{
 		"filename": "rusholme-6-complete.jpg",
