@@ -1,0 +1,43 @@
+{%- comment -%}
+The contact form, but with reasons to fill it in next to it and the phone
+number and email right there for people who would rather just ring.
+
+  {% assign contact_variant = "dark" %}   dark | light (default dark)
+  {% include "motifs/contact-panel.html" %}
+{%- endcomment -%}
+{%- if contact_variant == "light" -%}
+  {%- assign contact_class = "band band--white" -%}
+{%- else -%}
+  {%- assign contact_class = "band band--dark" -%}
+{%- endif -%}
+<section class="{{ contact_class }}" id="contact">
+  <div class="band__inner">
+    <div class="contact-panel">
+      <div>
+        <h2>{{ contact_title | default: "Tell us about the property" }}</h2>
+        <p>
+          Send a message and we'll come back to you within 24 hours, one way or the other.
+          If it's easier, ring Ashley directly.
+        </p>
+        <ul class="contact-panel__points">
+          {%- for point in motifs.contact_points %}
+          <li><span class="tick" aria-hidden="true">&#10003;</span>{{ point }}</li>
+          {%- endfor %}
+        </ul>
+        <div class="contact-panel__direct">
+          <a href="tel:07868643147">
+            <img src="/assets/icons/phone.svg" alt="" eleventy:ignore>07868 643 147
+          </a>
+          <a href="mailto:renegadeelectrical99@gmail.com">
+            <img src="/assets/icons/email.svg" alt="" eleventy:ignore>renegadeelectrical99@gmail.com
+          </a>
+        </div>
+      </div>
+      <div>
+        {% include "contact-form-form.html" %}
+      </div>
+    </div>
+  </div>
+</section>
+{%- assign contact_variant = nil -%}
+{%- assign contact_title = nil -%}

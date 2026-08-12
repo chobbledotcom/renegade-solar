@@ -1,0 +1,21 @@
+{%- comment -%}
+Every location we have a page for, as a run of chips. Good for internal
+linking as well as reassuring people we actually cover their bit of Manchester.
+
+  {% include "motifs/areas-strip.html" %}
+{%- endcomment -%}
+<section class="band band--tight band--green-tint">
+  <div class="band__inner">
+    {%- assign sh_eyebrow = "Where we work" -%}
+    {%- assign sh_title = areas_title | default: "Areas we cover" -%}
+    {%- assign sh_sub = "Based in Prestwich, working across North Manchester and the wider Greater Manchester area." -%}
+    {% include "motifs/section-head.html" %}
+    <ul class="chip-list">
+      {%- for location in collections.location %}
+      <li><a href="{{ location.url }}">{{ location.data.link_title }}</a></li>
+      {%- endfor %}
+      <li><span class="chip-plain">and the rest of the North West</span></li>
+    </ul>
+  </div>
+</section>
+{%- assign areas_title = nil -%}

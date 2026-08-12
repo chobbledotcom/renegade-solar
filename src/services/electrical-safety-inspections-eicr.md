@@ -2,6 +2,7 @@
 title: Electrical Safety Inspections (EICR)
 snippet: Just £150 plus VAT with same-day certificates and no hard sells.
 icon: /assets/icons/check.svg
+photo: bowlee-heywood-new-build-exterior.jpg
 location_pages: true
 order: 6
 root: true

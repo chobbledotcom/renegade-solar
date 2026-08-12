@@ -1,0 +1,36 @@
+{%- comment -%}
+Three review cards side by side, with a link through to the full list.
+
+  {% assign review_offset = 6 %}   skip the first N reviews (default 0)
+  {% include "motifs/review-strip.html" %}
+{%- endcomment -%}
+{%- assign review_offset = review_offset | default: 0 -%}
+{%- assign strip_reviews = reviews.reviews | slice: review_offset, 3 -%}
+<section class="band">
+  <div class="band__inner">
+    {%- assign sh_eyebrow = "What customers say" -%}
+    {%- capture sh_title %}{{ reviews.averageRating | round: 2 }}/10 across {{ reviews.total }} verified reviews{% endcapture -%}
+    {%- assign sh_sub = "Checkatrade, Google, Facebook and Trustpilot, all of them left by people whose properties we have actually worked on." -%}
+    {% include "motifs/section-head.html" %}
+    <ul class="review-strip">
+      {%- for review in strip_reviews %}
+      <li>
+        <span class="stars" aria-hidden="true">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+        <h3>{{ review.title }}</h3>
+        <p>{{ review.review | strip_newlines | truncate: 230 }}</p>
+        <p class="review-strip__meta">
+          {{ review.rating.rating | round: 1 }}/10
+          {%- if review.location.postcode and review.location.postcode != "" %}
+            &middot; {{ review.location.postcode }}
+          {%- endif %}
+          &middot; {{ review.source | default: "Checkatrade" | capitalize }}
+        </p>
+      </li>
+      {%- endfor %}
+    </ul>
+    <p class="motif-actions">
+      <a class="btn primary-btn" href="/reviews/">Read all {{ reviews.total }} reviews</a>
+    </p>
+  </div>
+</section>
+{%- assign review_offset = nil -%}

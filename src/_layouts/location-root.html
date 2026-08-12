@@ -2,42 +2,85 @@
 layout: base.html
 ---
 
+{%- assign body_html = content -%}
+{%- assign page_h1 = body_html | firstHeading -%}
+{%- assign body_html = body_html | withoutFirstHeading -%}
+
 <article>
-  <div class="card content">{{ content }}</div>
+  {% assign ph_crumb_text = "All areas" %}
+  {% assign ph_crumb_url = "/services/" %}
+  {% assign ph_title = page_h1 %}
+  {% assign ph_sub = description %}
+  {% assign ph_photo = photo | default: "residential-solar-installation-wide-view.jpg" %}
+  {% include "motifs/page-hero.html" %}
 
-  <div class="card">
-    <div class="services-heading">
-      <h2>Services We Offer in {{ link_title }}</h2>
-    </div>
-    <div class="services-list">
-      {% assign location_collection = collections[page.fileSlug] %}
-      {% assign sorted_services = location_collection | sort: 'data.order' %}
-      {% assign location_service_icons = "" %}
-      {% for service in sorted_services %}
-      {% assign location_service_icons = location_service_icons | append: service.data.icon | append: "," %}
-      <a href="{{ service.url }}">
-        {% if service.data.icon != "" %}
-          <img src="/assets/icons/{{ service.data.icon }}" alt="" eleventy:ignore />
+  {% assign trust_variant = "dark" %}
+  {% include "motifs/trust-bar.html" %}
+
+  {% assign chunks = body_html | splitContent: 2 %}
+  {% for chunk in chunks %}
+  <div class="card content">{{ chunk }}</div>
+  {% unless forloop.last %}
+    {% assign quote_index = 1 %}
+    {% include "motifs/quote-feature.html" %}
+  {% endunless %}
+  {% endfor %}
+
+  <section class="band band--white">
+    <div class="band__inner">
+      {% assign sh_eyebrow = "Local services" %}
+      {% capture sh_title %}What we do in {{ link_title }}{% endcapture %}
+      {% assign sh_sub = "Every one of these is carried out by the in-house team, with only specialist scaffolding subcontracted." %}
+      {% include "motifs/section-head.html" %}
+      <div class="services-list">
+        {% assign location_collection = collections[page.fileSlug] %}
+        {% assign sorted_services = location_collection | sort: 'data.order' %}
+        {% assign location_service_icons = "" %}
+        {% for service in sorted_services %}
+        {% assign location_service_icons = location_service_icons | append: service.data.icon | append: "," %}
+        <a href="{{ service.url }}">
+          {% if service.data.icon != "" %}
+            <img src="/assets/icons/{{ service.data.icon }}" alt="" eleventy:ignore />
+          {% endif %}
+          <span> {{ service.data.link_title }} </span>
+        </a>
+        {%- endfor -%}
+
+        {% assign all_services = collections.service | sort: 'data.order' %}
+        {% for service in all_services %}
+        {% if service.data.root %}
+        {% unless location_service_icons contains service.data.icon %}
+        <a href="{{ service.url }}">
+          {% if service.data.icon %}
+            <img src="/assets/icons/{{ service.data.icon }}" alt="" eleventy:ignore />
+          {% endif %}
+          <span> {{ service.data.title }} </span>
+        </a>
+        {% endunless %}
         {% endif %}
-        <span> {{ service.data.link_title }} </span>
-      </a>
-      {%- endfor -%}
-
-      {% assign all_services = collections.service | sort: 'data.order' %}
-      {% for service in all_services %}
-      {% if service.data.root %}
-      {% unless location_service_icons contains service.data.icon %}
-      <a href="{{ service.url }}">
-        {% if service.data.icon %}
-          <img src="/assets/icons/{{ service.data.icon }}" alt="" eleventy:ignore />
-        {% endif %}
-        <span> {{ service.data.title }} </span>
-      </a>
-      {% endunless %}
-      {% endif %}
-      {%- endfor -%}
+        {%- endfor -%}
+      </div>
     </div>
-  </div>
+  </section>
 
-  {% include "accreditations.html" %} {% include "contact-form.html" %}
+  {% include "motifs/accreditation-band.html" %}
+
+  {% include "motifs/why-us.html" %}
+
+  {% include "motifs/process.html" %}
+
+  {% assign strip_tags = "solar-panels,battery" %}
+  {% include "motifs/photo-strip.html" %}
+
+  {% include "motifs/stat-strip.html" %}
+
+  {% include "motifs/faq.html" %}
+
+  {% include "motifs/areas-strip.html" %}
+
+  {% capture cta_title %}Solar and battery installation in {{ link_title }}{% endcapture %}
+  {% assign cta_sub = "Book a free survey and we'll come out, get on the roof properly and put real numbers in front of you." %}
+  {% include "motifs/cta-banner.html" %}
+
+  {% include "motifs/contact-panel.html" %}
 </article>

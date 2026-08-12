@@ -1,0 +1,246 @@
+// Site footer
+//
+// Four columns of genuinely useful links, then the accreditation logos, then
+// a legal bar with the registration numbers. Replaces the old single stack of
+// centred paragraphs.
+
+$page-width: 1200px !default;
+$mobile-width: 768px !default;
+
+footer {
+  background: var(--ink-900);
+  color: rgba(255, 255, 255, 0.78);
+  text-align: left;
+  padding: 0;
+  font-size: 1rem;
+  line-height: 1.6;
+
+  a {
+    color: rgba(255, 255, 255, 0.78);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--green-400);
+      text-decoration: underline;
+    }
+  }
+
+  h2 {
+    font-family: "Abel", var(--system-ui);
+    font-size: 1.15rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin: 0 0 1rem;
+  }
+}
+
+.site-footer {
+  &__inner {
+    max-width: $page-width;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+  // The strip of accreditation logos that sits above the footer proper.
+  &__accreditations {
+    background: var(--surface-alt);
+    padding: 1.75rem 0;
+    border-top: 1px solid var(--border);
+
+    .site-footer__accreditations-title {
+      text-align: center;
+      font-family: "Abel", var(--system-ui);
+      font-size: 0.95rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--ink-400);
+      margin: 0 0 1.25rem;
+    }
+  }
+
+  &__columns {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr 1fr 1.3fr;
+    gap: 2.5rem;
+    padding: 3rem 0 2.5rem;
+
+    @media (max-width: 900px) {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 2rem;
+      padding: 2.5rem 0 2rem;
+    }
+
+    @media (max-width: $mobile-width) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  &__brand {
+    img.site-footer__logo {
+      height: 42px;
+      width: auto;
+      display: block;
+      margin: 0 0 1rem;
+    }
+
+    p {
+      margin: 0 0 1rem;
+      max-width: 24rem;
+    }
+  }
+
+  &__badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0 0 1.25rem;
+    padding: 0;
+    list-style: none;
+
+    li {
+      background: rgba(255, 255, 255, 0.07);
+      border: 1px solid rgba(255, 255, 255, 0.13);
+      border-radius: var(--radius-pill);
+      padding: 0.15rem 0.75rem;
+      font-size: 0.9rem;
+      line-height: 1.7;
+      color: rgba(255, 255, 255, 0.85);
+    }
+  }
+
+  &__links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.6rem;
+  }
+
+  &__contact {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.9rem;
+
+    li {
+      display: grid;
+      grid-template-columns: 1.35rem 1fr;
+      gap: 0.75rem;
+      align-items: start;
+    }
+
+    img {
+      width: 1.35rem;
+      height: 1.35rem;
+      margin-top: 0.25rem;
+      filter: invert(64%) sepia(38%) saturate(628%) hue-rotate(73deg)
+        brightness(96%) contrast(88%);
+    }
+
+    a {
+      font-family: "Abel", var(--system-ui);
+      font-size: 1.15rem;
+      color: #ffffff;
+
+      &:hover {
+        color: var(--green-400);
+      }
+    }
+  }
+
+  // Areas covered, as a wrapped run of links.
+  &__areas {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 1.5rem 0;
+
+    h2 {
+      margin-bottom: 0.75rem;
+    }
+
+    p {
+      margin: 0;
+      font-size: 0.95rem;
+      line-height: 1.9;
+      color: rgba(255, 255, 255, 0.65);
+    }
+
+    a {
+      color: rgba(255, 255, 255, 0.8);
+    }
+  }
+
+  &__legal {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 1.5rem 0 2.25rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem 2rem;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.55);
+
+    p {
+      margin: 0;
+    }
+
+    a {
+      color: rgba(255, 255, 255, 0.7);
+    }
+  }
+
+  &__policy-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.25rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  // Social icons, smaller and calmer than the old 50px versions.
+  .social-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 0.6rem;
+
+    li {
+      display: block;
+      margin: 0;
+    }
+
+    a {
+      display: grid;
+      place-items: center;
+      width: 2.4rem;
+      height: 2.4rem;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.07);
+      border: 1px solid rgba(255, 255, 255, 0.13);
+      transition:
+        background 0.2s ease,
+        transform 0.2s ease;
+
+      &:hover {
+        background: var(--green-700);
+        transform: translateY(-2px);
+      }
+    }
+
+    img {
+      width: 1.15rem;
+      height: 1.15rem;
+      filter: invert(100%);
+      transition: none;
+
+      &:hover {
+        transform: none;
+        filter: invert(100%);
+      }
+    }
+  }
+}

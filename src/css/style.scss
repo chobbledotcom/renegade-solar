@@ -1,3 +1,7 @@
+$page-width: 1200px;
+$mobile-width: 768px;
+
+@import "_tokens";
 @import "_navbar";
 @import "_customer-reviews";
 @import "_photo-gallery";
@@ -20,27 +24,28 @@
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
-$page-width: 1200px;
-$mobile-width: 768px;
 * {
   box-sizing: border-box;
 }
 body {
   margin: 0;
   padding: 0;
-  background: #f5f5f5;
+  background: var(--page-bg);
+  color: var(--ink-800);
   font-size: 1.2rem;
   font-family: var(--system-ui);
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  gap: 2rem;
-  line-height: 2;
+  // No gap: full-bleed bands butt straight up against the header, each other
+  // and the footer. Spacing around the page-width blocks is handled inside
+  // `article` instead.
+  gap: 0;
+  line-height: 1.75;
 
   @media (max-width: $mobile-width) {
     font-size: 1rem;
     padding-top: 75px;
-    gap: 1rem;
   }
 }
 h1,
@@ -137,26 +142,63 @@ header {
     }
   }
 }
+// The article is full width so that .band children can run edge to edge.
+// Everything else is held to the page width by the `> *` rule below.
 article {
-  width: $page-width;
+  width: 100%;
   max-width: 100%;
   margin: 0 auto;
   flex-grow: 1;
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 0;
   opacity: 0;
   transform: translateY(15px);
   animation: articleFadeIn 0.6s ease-out 0.1s forwards;
 
-  @media (max-width: $mobile-width) {
-    gap: 1rem;
-    padding: 0 1rem;
+  > * {
+    width: calc(100% - 2rem);
+    max-width: $page-width;
+    margin-left: auto;
+    margin-right: auto;
   }
 
-  @media (max-width: $page-width) {
-    padding: 0 0.5rem;
+  > * + * {
+    margin-top: 2rem;
   }
+
+  // Bands provide their own vertical padding and background, so they sit
+  // flush against whatever came before them.
+  > .band,
+  > .page-hero,
+  > .customer-reviews {
+    width: 100%;
+    max-width: 100%;
+    margin-top: 0;
+  }
+
+  // A page-width block at the very top or bottom still needs breathing room
+  // from the header and footer. A band does not - it has its own padding.
+  > *:first-child:not(.band):not(.page-hero):not(.customer-reviews) {
+    margin-top: 2rem;
+  }
+
+  > *:last-child:not(.band):not(.page-hero):not(.customer-reviews) {
+    margin-bottom: 2rem;
+  }
+
+  @media (max-width: $mobile-width) {
+    > * + * {
+      margin-top: 1rem;
+    }
+
+    > .band,
+    > .page-hero,
+    > .customer-reviews {
+      margin-top: 0;
+    }
+  }
+
   a {
     transition: color 0.3s ease;
     &:hover {
@@ -194,37 +236,122 @@ article {
     }
   }
 }
+// Full-bleed hero: photograph behind, dark gradient over it, words on top.
 .hero {
-  color: white;
-  text-align: center;
-  width: 100%;
-  max-width: $page-width;
-  margin: 0 auto;
   position: relative;
+  width: 100%;
   margin-top: -2rem;
+  color: #ffffff;
+  background: var(--ink-900);
+  overflow: hidden;
   opacity: 0;
   animation: heroFadeIn 0.6s ease-out forwards;
-  img {
-    display: block;
-    width: 100%;
-    aspect-ratio: 4624/2084;
-    height: auto;
-    object-fit: cover;
-    object-position: center 45%;
-  }
-  h1 {
-    background: rgba(0, 0, 0, 0.6);
-    color: #4bcc54;
-    padding: 1rem;
+
+  &__media {
     position: absolute;
+    inset: 0;
+    z-index: 0;
+
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 45%;
+    }
+
+    &::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        100deg,
+        rgba(10, 18, 14, 0.93) 0%,
+        rgba(10, 18, 14, 0.82) 42%,
+        rgba(14, 40, 22, 0.55) 72%,
+        rgba(14, 40, 22, 0.35) 100%
+      );
+    }
+  }
+
+  &__inner {
+    position: relative;
+    z-index: 1;
+    max-width: $page-width;
+    margin: 0 auto;
+    padding: 4.5rem 1rem 4rem;
+
+    @media (max-width: $mobile-width) {
+      padding: 2.75rem 1rem;
+    }
+  }
+
+  &__eyebrow {
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.15rem 0.5rem;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: var(--radius-pill);
+    padding: 0.3rem 1rem;
+    margin: 0 0 1.25rem;
+    font-size: 1rem;
+    line-height: 1.7;
+
+    @media (max-width: $mobile-width) {
+      font-size: 0.9rem;
+      padding: 0.3rem 0.85rem;
+    }
+
+    .stars {
+      color: var(--amber-500);
+      letter-spacing: 0.05em;
+    }
+
+    strong {
+      color: var(--green-400);
+    }
+  }
+
+  h1 {
+    color: #ffffff;
     margin: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
+    max-width: 20ch;
+    font-size: 3.4rem;
+    line-height: 1.08;
 
     @media (max-width: 900px) {
-      font-size: 20px;
+      font-size: 2.4rem;
     }
+
+    @media (max-width: $mobile-width) {
+      font-size: 1.95rem;
+    }
+  }
+
+  &__sub {
+    margin: 1.25rem 0 0;
+    max-width: 40rem;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: rgba(255, 255, 255, 0.87);
+
+    @media (max-width: $mobile-width) {
+      font-size: 1.05rem;
+    }
+  }
+
+  .trust-bar {
+    justify-content: flex-start;
+    margin: 1.75rem 0 0;
+  }
+
+  &__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 2rem;
   }
 }
 @keyframes fadeIn {
@@ -331,13 +458,14 @@ article {
   }
 }
 .card {
-  background: #f9f9f9;
+  background: var(--surface);
+  border: 1px solid var(--border);
   min-width: 50%;
   flex: 1;
   min-width: 250px;
   padding: 0.5rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
 
   @media (min-width: $mobile-width) {
     padding: 1rem;
@@ -494,39 +622,7 @@ article {
   text-align: center;
   font-weight: bold;
 }
-footer {
-  background: #1a1a1a;
-  color: white;
-  text-align: center;
-  padding: 2rem;
-  a {
-    color: #22a02a;
-  }
-  .social-links {
-    list-style-type: none;
-    padding: 1rem 0;
-    li {
-      display: inline-block;
-      margin: 0 0.5rem;
-      img {
-        filter: invert(100%);
-        width: 50px;
-        height: auto;
-        transition: all 0.3s ease;
-        &:hover {
-          transform: scale(1.3) rotate(5deg);
-          filter: invert(100%) drop-shadow(0 0 3px rgba(255, 255, 255, 0.6));
-        }
-      }
-    }
-  }
-  .areas-covered {
-    max-width: 30rem;
-    margin: 1rem auto;
-    font-size: 0.9rem;
-    line-height: 1.2rem;
-  }
-}
+// Footer styles live in _footer.scss.
 .contact-form-form {
   width: 100%;
   max-width: 500px;
@@ -630,3 +726,106 @@ footer {
     }
   }
 }
+
+// ---------------------------------------------------------------------------
+// Markdown prose
+//
+// Long service and location pages are a wall of markdown. These rules give
+// the body copy some structure of its own so the motifs are not doing all the
+// work on their own.
+// ---------------------------------------------------------------------------
+
+.content {
+  // Several markdown pages use repeated h1s as section headings, so both
+  // levels get the same rule-above treatment to break up long prose.
+  h1,
+  h2 {
+    font-size: 1.9rem;
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 3px solid var(--green-100);
+
+    &:first-child {
+      margin-top: 0;
+      padding-top: 0;
+      border-top: 0;
+    }
+
+    @media (max-width: $mobile-width) {
+      font-size: 1.5rem;
+    }
+  }
+
+  h3 {
+    font-size: 1.35rem;
+    margin-top: 2rem;
+  }
+
+  > ul,
+  > ol {
+    padding-left: 1.35rem;
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+
+    li::marker {
+      color: var(--green-600);
+    }
+  }
+
+  blockquote {
+    margin: 2rem 0;
+    padding: 1.25rem 1.5rem;
+    background: var(--green-50);
+    border-left: 4px solid var(--green-500);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    font-style: normal;
+
+    p:first-child {
+      margin-top: 0;
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2rem 0;
+    font-size: 1rem;
+
+    th {
+      background: var(--ink-800);
+      color: #ffffff;
+      text-align: left;
+      font-family: "Abel", var(--system-ui);
+      font-weight: normal;
+      font-size: 1.05rem;
+    }
+
+    th,
+    td {
+      padding: 0.7rem 0.9rem;
+      border-bottom: 1px solid var(--border);
+      line-height: 1.5;
+    }
+
+    tbody tr:nth-child(even) {
+      background: var(--surface-alt);
+    }
+  }
+
+  // Tables need to scroll on their own on a phone rather than pushing the
+  // page sideways.
+  .table-scroll {
+    overflow-x: auto;
+  }
+}
+
+// Motifs and footer come last so their rules win over the generic prose and
+// card styles above.
+@import "_motifs";
+@import "_footer";

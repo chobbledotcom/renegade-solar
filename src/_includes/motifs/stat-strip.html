@@ -1,0 +1,35 @@
+{%- comment -%}
+Four numbers worth shouting about. The review figures come straight from
+src/_data/reviews.json so they never go stale.
+
+  {% assign stat_variant = "dark" %}   dark | light (default light)
+  {% include "motifs/stat-strip.html" %}
+{%- endcomment -%}
+{%- if stat_variant == "dark" -%}
+  {%- assign stat_class = "band band--tight band--dark" -%}
+{%- else -%}
+  {%- assign stat_class = "band band--tight" -%}
+{%- endif -%}
+<section class="{{ stat_class }}">
+  <div class="band__inner">
+    <ul class="stat-strip">
+      <li>
+        <span class="stat-value">{{ reviews.averageRating | round: 2 }}/10</span>
+        <span class="stat-label">Average across {{ reviews.total }} verified reviews</span>
+      </li>
+      <li>
+        <span class="stat-value">15+</span>
+        <span class="stat-label">Years as a qualified electrician, domestic and commercial</span>
+      </li>
+      <li>
+        <span class="stat-value">1&ndash;2</span>
+        <span class="stat-label">Days for a standard domestic solar install</span>
+      </li>
+      <li>
+        <span class="stat-value">MCS</span>
+        <span class="stat-label">Certified installer, NAP-66870</span>
+      </li>
+    </ul>
+  </div>
+</section>
+{%- assign stat_variant = nil -%}

@@ -1,0 +1,70 @@
+{%- comment -%}
+A horizontal run of real job photographs that scrolls sideways. Uses the same
+src/_data/gallery.json as the full gallery, filtered by the page's
+`gallery_tags` front matter where it has any.
+
+  {% assign strip_tags = "solar-panels,battery" %}   override the filter
+  {% assign strip_limit = 8 %}                       how many (default 8)
+  {% include "motifs/photo-strip.html" %}
+{%- endcomment -%}
+{%- assign strip_limit = strip_limit | default: 8 -%}
+{%- if strip_tags -%}
+  {%- assign strip_tag_list = strip_tags | split: "," -%}
+{%- else -%}
+  {%- assign strip_tag_list = gallery_tags -%}
+{%- endif -%}
+{%- assign sorted_photos = gallery | sort: "order" -%}
+{%- comment -%} First pass: how many photos match, so we can skip the whole band if barely any do. {%- endcomment -%}
+{%- assign strip_match_count = 0 -%}
+{%- for item in sorted_photos -%}
+  {%- assign keep = false -%}
+  {%- if strip_tag_list -%}
+    {%- for tag in strip_tag_list -%}
+      {%- assign clean_tag = tag | strip -%}
+      {%- if item.tags contains clean_tag -%}{%- assign keep = true -%}{%- endif -%}
+    {%- endfor -%}
+  {%- else -%}
+    {%- assign keep = true -%}
+  {%- endif -%}
+  {%- if keep -%}{%- assign strip_match_count = strip_match_count | plus: 1 -%}{%- endif -%}
+{%- endfor -%}
+{%- if strip_match_count > 2 -%}
+<section class="band band--dark">
+  <div class="band__inner">
+    {%- assign sh_eyebrow = photo_eyebrow | default: "Recent work" -%}
+    {%- assign sh_title = photo_title | default: "Jobs we have actually done" -%}
+    {%- assign sh_sub = photo_sub | default: "Real roofs in Greater Manchester, photographed on the day. Scroll sideways for more." -%}
+    {% include "motifs/section-head.html" %}
+    <ul class="photo-strip">
+      {%- assign strip_shown = 0 -%}
+      {%- for item in sorted_photos -%}
+        {%- assign keep = false -%}
+        {%- if strip_tag_list -%}
+          {%- for tag in strip_tag_list -%}
+            {%- assign clean_tag = tag | strip -%}
+            {%- if item.tags contains clean_tag -%}{%- assign keep = true -%}{%- endif -%}
+          {%- endfor -%}
+        {%- else -%}
+          {%- assign keep = true -%}
+        {%- endif -%}
+        {%- if keep and strip_shown < strip_limit -%}
+          {%- assign strip_shown = strip_shown | plus: 1 %}
+      <li>
+        <a href="/assets/photos/{{ item.filename }}" target="_blank" rel="noopener">
+          <img src="/assets/photos/{{ item.filename }}" alt="{{ item.alt }}" loading="lazy" decoding="async" eleventy:ignore>
+        </a>
+      </li>
+        {%- endif -%}
+      {%- endfor %}
+    </ul>
+    <p class="motif-actions">
+      <a class="btn ghost-btn" href="/gallery/">See the full gallery</a>
+    </p>
+  </div>
+</section>
+{%- endif -%}
+{%- assign strip_tags = nil -%}
+{%- assign strip_limit = nil -%}
+{%- assign photo_eyebrow = nil -%}
+{%- assign photo_title = nil -%}
+{%- assign photo_sub = nil -%}

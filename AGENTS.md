@@ -448,6 +448,38 @@ When researching new pages:
 5. Download an approved image into the site's asset library before using it; never publish an expiring CDN URL.
 6. Write only what the evidence supports and identify anything that still needs confirmation from Ashley.
 
+## Page Motifs
+
+Pages are broken up with reusable snippets rather than long unbroken slabs of prose. Every one lives in `src/_includes/motifs/` and is dropped in with `{% include "motifs/<name>.html" %}`. Each file starts with a comment listing the variables it accepts, and clears them afterwards so a second use on the same page does not inherit the first one's settings.
+
+| Snippet | What it is |
+| --- | --- |
+| `section-head.html` | Eyebrow pill, heading, standfirst. Used inside the other motifs. |
+| `trust-bar.html` | Horizontal run of short benefit statements with tick marks. |
+| `stat-strip.html` | Four headline numbers, pulled live from `reviews.json`. |
+| `cta-banner.html` | Full-width "get in touch" banner with two buttons. |
+| `process.html` | The six numbered steps from first phone call to handover. |
+| `faq.html` | `<details>` accordion. A page can override the questions with a `faqs` list in its front matter. |
+| `why-us.html` | Four cards explaining what a small in-house outfit changes. |
+| `quote-feature.html` | One real review, blown up on a dark band. |
+| `review-strip.html` | Three review cards with a link to the full list. |
+| `photo-strip.html` | Sideways-scrolling run of real job photographs, filtered by `gallery_tags`. |
+| `feature-split.html` | Photograph one side, words the other. |
+| `service-tiles.html` | The services as picture cards. |
+| `areas-strip.html` | Every location page as a chip. |
+| `page-hero.html` | Dark header with breadcrumb, page title and the short benefit run. |
+| `contact-panel.html` | The contact form with reasons to fill it in beside it. |
+| `accreditation-band.html` | The accreditation logos with a line of context. |
+
+Copy for the data-driven motifs lives in `src/_data/motifs.json` - benefits, the process steps, the FAQs and the contact points. Change it there and it changes on every page at once. Anything factual in that file is subject to the same evidence rules as page copy.
+
+Layouts apply the motifs automatically, so a new markdown page gets the full treatment without doing anything. Three Eleventy filters make that work:
+
+- `firstHeading` and `withoutFirstHeading` lift a page's `<h1>` out of the rendered markdown so the page hero can show it without the heading appearing twice.
+- `splitContent` chops long markdown at its own `<h2>` boundaries so a layout can drop a motif between the sections. It refuses to split inside an unclosed `<div>`, and returns a single chunk for short pages.
+
+Styling is in `src/css/_motifs.scss`, with colours, radii and shadows in `src/css/_tokens.scss`. A full-bleed stripe is a `.band` with a `.band__inner` inside it; alternate `band--white`, `band--dark`, `band--green` and `band--green-tint` down a page to keep it moving.
+
 ## Final Check
 
 Every page should be locally specific, keyword-complete, factually supportable, useful to a prospective customer, and recognisably written by a working Manchester electrician. If a claim sounds impressive but the evidence does not support it, leave it out or ask.

@@ -1,0 +1,32 @@
+{%- comment -%}
+Accordion of the questions people actually ask. Built on <details> so it
+opens and closes without any JavaScript.
+
+Questions come from src/_data/motifs.json. A page can override them by
+setting `faqs` in its front matter as a list of {q, a} pairs.
+
+  {% assign faq_title = "Solar panel questions, answered" %}
+  {% include "motifs/faq.html" %}
+{%- endcomment -%}
+{%- assign faq_items = faqs | default: motifs.faqs -%}
+{%- if faq_items and faq_items.size > 0 -%}
+<section class="band">
+  <div class="band__inner">
+    {%- assign sh_eyebrow = faq_eyebrow | default: "Common questions" -%}
+    {%- assign sh_title = faq_title | default: "The questions we get asked most" -%}
+    {% include "motifs/section-head.html" %}
+    <div class="faq">
+      {%- for item in faq_items %}
+      <details{% if forloop.first %} open{% endif %}>
+        <summary>{{ item.q }}</summary>
+        <div class="faq__answer">
+          <p>{{ item.a }}</p>
+        </div>
+      </details>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+{%- endif -%}
+{%- assign faq_title = nil -%}
+{%- assign faq_eyebrow = nil -%}

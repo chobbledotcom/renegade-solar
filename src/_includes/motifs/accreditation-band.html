@@ -1,0 +1,14 @@
+{%- comment -%}
+The accreditation logos, wrapped in a band with a line of explanation so they
+read as evidence rather than decoration.
+
+  {% include "motifs/accreditation-band.html" %}
+{%- endcomment -%}
+<section class="band band--tight band--white">
+  <div class="band__inner">
+    <p class="accreditation-band__title">
+      Certified, registered and independently checked
+    </p>
+    {% include "accreditations.html" %}
+  </div>
+</section>

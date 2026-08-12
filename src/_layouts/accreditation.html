@@ -2,7 +2,18 @@
 layout: base.html
 ---
 
+{%- assign body_html = content -%}
+{%- assign page_h1 = body_html | firstHeading -%}
+{%- assign body_html = body_html | withoutFirstHeading -%}
+
 <article>
+  {% assign ph_crumb_text = "All accreditations" %}
+  {% assign ph_crumb_url = "/accreditations/" %}
+  {% assign ph_title = page_h1 | default: title %}
+  {% assign ph_sub = snippet %}
+  {% assign ph_photo = "panels.jpg" %}
+  {% include "motifs/page-hero.html" %}
+
   <div class="card accreditation-logo-card">
     <img
       class="accreditation-logo"
@@ -15,11 +26,14 @@ layout: base.html
     <a href="{{ url }}"> {{ url | replace: "https://", "" }} </a>
   </div>
   {% endif %}
-  <div class="card">
-    <p>
-      <a href="/accreditations/"> &#8592; <strong>Accreditations</strong> </a>
-    </p>
-    {{ content }}
-  </div>
-  {% include "contact-form.html" %}
+  <div class="card content">{{ body_html }}</div>
+
+  {% include "motifs/accreditation-band.html" %}
+
+  {% assign trust_variant = "dark" %}
+  {% include "motifs/trust-bar.html" %}
+
+  {% include "motifs/cta-banner.html" %}
+
+  {% include "motifs/contact-panel.html" %}
 </article>

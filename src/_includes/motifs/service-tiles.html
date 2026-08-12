@@ -1,0 +1,41 @@
+{%- comment -%}
+The services, as picture cards. Each service page supplies its own photo
+through the `photo` field in its front matter, falling back to its icon.
+
+  {% include "motifs/service-tiles.html" %}
+{%- endcomment -%}
+<section class="band band--white">
+  <div class="band__inner">
+    {%- assign sh_eyebrow = tiles_eyebrow | default: "What we do" -%}
+    {%- assign sh_title = tiles_title | default: "Services we offer" -%}
+    {%- assign sh_sub = tiles_sub | default: "Solar, batteries, EV chargers and the electrical work that goes with them, all from the same team." -%}
+    {% include "motifs/section-head.html" %}
+    <div class="service-tiles">
+      {%- assign tile_services = collections.service | sort: "data.order" -%}
+      {%- for service in tile_services -%}
+      {%- if service.data.root %}
+      <a href="{{ service.url }}">
+        <div class="service-tiles__media">
+          {%- if service.data.photo %}
+          <img src="/assets/photos/{{ service.data.photo }}" alt="" loading="lazy" decoding="async" eleventy:ignore>
+          {%- endif %}
+          {%- if service.data.icon %}
+          <span class="service-tiles__icon">
+            <img src="/assets/icons/{{ service.data.icon }}" alt="" eleventy:ignore>
+          </span>
+          {%- endif %}
+        </div>
+        <div class="service-tiles__body">
+          <h3>{{ service.data.title }}</h3>
+          {%- if service.data.snippet %}<p>{{ service.data.snippet }}</p>{% endif %}
+          <span class="service-tiles__more">Read more &rarr;</span>
+        </div>
+      </a>
+      {%- endif -%}
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+{%- assign tiles_eyebrow = nil -%}
+{%- assign tiles_title = nil -%}
+{%- assign tiles_sub = nil -%}

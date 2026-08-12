@@ -1,0 +1,97 @@
+{
+  "benefits": [
+    "MCS-certified installer, NAP-66870",
+    "Surveyed and designed by a qualified electrician",
+    "In-house installation team",
+    "Two years of routine maintenance included"
+  ],
+  "benefits_short": [
+    "MCS-certified",
+    "No salespeople",
+    "In-house team",
+    "Free survey"
+  ],
+  "why": [
+    {
+      "title": "You deal with Ashley",
+      "body": "Ashley Merritt runs Renegade Solar, does the survey himself and designs the system. There is no call centre and nobody works on commission."
+    },
+    {
+      "title": "An electrician designs it",
+      "body": "Over 15 years on the tools, including more than 10 years on commercial work. The roof, the wiring, the consumer unit and the battery sizing are all one job, not four."
+    },
+    {
+      "title": "Our own team fits it",
+      "body": "The installation is carried out by the in-house Renegade Solar team. Specialist scaffolding is the only part we subcontract."
+    },
+    {
+      "title": "Awkward roofs welcome",
+      "body": "Flat roofs, rooflights, dormers, chimneys, parapets, mixed roof sections and ground-mounted arrays. We design around what is actually up there."
+    }
+  ],
+  "process": [
+    {
+      "title": "Free survey",
+      "body": "A qualified electrician comes out and looks at the actual roof, the consumer unit, the cable route and how you use electricity. Not a salesperson with a script.",
+      "note": "No charge, no obligation"
+    },
+    {
+      "title": "System design",
+      "body": "Panel layout, inverter and battery sizing, 3D modelling and generation projections worked out for your property and your tariff rather than a Google Earth guess."
+    },
+    {
+      "title": "Written proposal",
+      "body": "The equipment, the layout and the numbers in writing, with the payback calculation and the assumptions behind it so you can check the working."
+    },
+    {
+      "title": "Installation",
+      "body": "Fitted by the in-house team. A standard domestic install is commonly one to two days, subject to scaffolding, roof condition, consumer unit work and weather.",
+      "note": "Commonly 1 to 2 days"
+    },
+    {
+      "title": "Commissioning and certification",
+      "body": "Tested and certified to the applicable BS 7671 requirements, with MCS-certified equipment and installation so the system is eligible for the Smart Export Guarantee."
+    },
+    {
+      "title": "Handover and aftercare",
+      "body": "We show you the monitoring, explain how to get the most out of the system, and cover two years of routine maintenance afterwards.",
+      "note": "Two years routine maintenance"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do solar panels actually work in Manchester?",
+      "a": "Yes. Panels generate from daylight rather than direct sunshine, so they keep producing on the grey days we get plenty of, and they often run more efficiently in cooler temperatures than in a heatwave. The annual generation projection we give you already accounts for local weather, your roof orientation and any shading."
+    },
+    {
+      "q": "How long does an installation take?",
+      "a": "A standard residential solar panel installation is commonly completed in one to two days. That can stretch if scaffolding is complicated, the roof needs repair first, the consumer unit needs upgrading, the DNO has requirements, or the weather turns."
+    },
+    {
+      "q": "Do I need planning permission?",
+      "a": "Many domestic solar installations are permitted development. Listed buildings, conservation areas, some flat roofs, ground-mounted arrays and unusual positions can need extra checks or consent. We will tell you where your property sits before you commit to anything."
+    },
+    {
+      "q": "Can I have a battery without solar panels?",
+      "a": "Yes. Standalone home battery installations make sense where the roof is shaded, unsuitable, not yours to alter, or you would rather not have panels on it. On a time-of-use tariff the battery charges at the cheaper off-peak rate and runs the house through the expensive periods."
+    },
+    {
+      "q": "Will a battery keep my house running in a power cut?",
+      "a": "Only if the system is specifically designed for it. Backup needs the right equipment and an essential-circuits design agreed up front, so it is something to raise at survey stage rather than assume. Not every battery installation gives you backup."
+    },
+    {
+      "q": "Who actually turns up to do the work?",
+      "a": "Ashley and the in-house Renegade Solar team. Specialist scaffolding is the only part of the installation we subcontract. The person who surveyed your property is the person overseeing the install and the person you ring afterwards."
+    },
+    {
+      "q": "My roof is a strange shape. Is that a problem?",
+      "a": "Usually not. We have fitted arrays around rooflights, chimneys, dormers and roof lanterns, split installations across several flat roof sections, and put arrays on the ground where the roof was not the right answer. It is worth a survey before you write your property off."
+    }
+  ],
+  "contact_points": [
+    "A qualified electrician does the survey, not a salesperson",
+    "Free survey and a written proposal with the numbers behind it",
+    "We reply within 24 hours, one way or the other",
+    "No commission, no pressure, no call centre"
+  ]
+}
