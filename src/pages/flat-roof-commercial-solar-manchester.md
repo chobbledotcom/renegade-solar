@@ -1,6 +1,6 @@
 ---
 title: Flat Roof Commercial Solar Installations in Manchester | Renegade Solar
-description: Flat roof commercial solar installations across Greater Manchester. Three-year payback typical. MCS-certified installer with experience on warehouses, retail and industrial properties.
+description: Flat roof commercial solar installations across Greater Manchester. Designed around your daytime electricity use. MCS-certified installer with experience on warehouses, retail and industrial properties.
 permalink: /flat-roof-commercial-solar-manchester/
 link_title: Flat Roof Solar
 heading: Flat Roof Commercial Solar Installations in Manchester
@@ -16,9 +16,9 @@ Many commercial buildings have flat roof spaces that aren't being used for anyth
 
 ## A real flat-roof example
 
-Ashley is currently designing a system for a carpet and interior design warehouse in [Bolton](/bolton/commercial-solar-installations/) with a large flat roof. They spend £700 a month on electricity. His 50-panel flat-roof design takes that to zero with a three-year payback. A larger 115-panel option, covering both the flat roof and the pitched sections, pays back in four years.
+Ashley is currently designing a system for a carpet and interior design warehouse in [Bolton](/bolton/commercial-solar-installations/) with a large flat roof. They spend £700 a month on electricity. Ashley's 50-panel flat-roof design is sized to cover a large share of that daytime load, with the generation and payback figures modelled from their own consumption. A larger 115-panel option covers both the flat roof and the pitched sections, with the generation and payback figures modelled from their own consumption.
 
-That's the typical pattern: most commercial installations reduce monthly costs by 70-100%, with payback within 3-4 years and 20+ years of low-cost energy after that.
+That's the typical pattern: commercial installations can cover a large share of daytime consumption, and we model the reduction and the payback from your own bills rather than quoting an average.
 
 ## Who you'd be hiring
 

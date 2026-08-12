@@ -3,7 +3,7 @@ permalink: /shaw/commercial-solar-installations/
 redirect_from:
   - /services/commercial-solar-installations/shaw/
 title: Commercial Solar Installations in Shaw | Renegade Solar
-description: Commercial solar for Shaw businesses. Cut electricity costs 70-100% with 3-4 year payback. MCS-certified installer based in Prestwich.
+description: Commercial solar for Shaw businesses. Cut daytime electricity costs with commercial solar. MCS-certified installer based in Prestwich.
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Shaw
 icon: /assets/icons/commercial-solar.svg
@@ -13,7 +13,7 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Shaw Businesses
 
-Shaw's commercial premises - workshops, retail units, and the businesses along Shaw Road - can cut electricity costs dramatically with solar. If your bill is making you wince every month, a system that pays for itself in 3-4 years and then runs for 20+ years starts to look like a no-brainer.
+Shaw's commercial premises - workshops, retail units, and the businesses along Shaw Road - can cut electricity costs dramatically with solar. If your bill is making you wince every month, it is worth having the payback modelled properly from your own bills before you decide.
 
 Commercial properties use electricity during the day when solar generates. You consume nearly every unit directly, which makes the return on investment much faster than domestic installations where homeowners are often out during peak generation hours.
 

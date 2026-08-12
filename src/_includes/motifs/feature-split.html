@@ -22,7 +22,9 @@ it moving.
   <div class="band__inner">
     <div class="feature-split{% if fs_reverse %} feature-split--reverse{% endif %}">
       <div class="feature-split__media">
-        <img src="/assets/photos/{{ fs_photo }}" alt="{{ fs_alt }}" loading="lazy" decoding="async" eleventy:ignore>
+        <img src="/assets/photos/{{ fs_photo }}" alt="{{ fs_alt }}"
+          sizes="(max-width: 900px) 100vw, 580px"
+          eleventy:widths="1200,900,600" loading="lazy" decoding="async">
       </div>
       <div class="feature-split__body">
         {%- if fs_eyebrow %}<span class="eyebrow">{{ fs_eyebrow }}</span>{% endif %}

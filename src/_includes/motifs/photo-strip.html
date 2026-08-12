@@ -51,7 +51,9 @@ src/_data/gallery.json as the full gallery, filtered by the page's
           {%- assign strip_shown = strip_shown | plus: 1 %}
       <li>
         <a href="/assets/photos/{{ item.filename }}" target="_blank" rel="noopener">
-          <img src="/assets/photos/{{ item.filename }}" alt="{{ item.alt }}" loading="lazy" decoding="async" eleventy:ignore>
+          <img src="/assets/photos/{{ item.filename }}" alt="{{ item.alt }}"
+            sizes="(max-width: 768px) 80vw, 320px"
+            eleventy:widths="640,400" loading="lazy" decoding="async">
         </a>
       </li>
         {%- endif -%}

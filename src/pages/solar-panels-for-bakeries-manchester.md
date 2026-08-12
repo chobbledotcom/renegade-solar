@@ -1,6 +1,6 @@
 ---
 title: Solar Panels for Bakeries & Food Businesses in Manchester | Renegade Solar
-description: Commercial solar for bakeries, cafes and restaurants across Greater Manchester. Cut electricity bills with 3-4 year payback. MCS-certified installer.
+description: Commercial solar for bakeries, cafes and restaurants across Greater Manchester. Cut daytime electricity costs with commercial solar. MCS-certified installer.
 permalink: /solar-panels-for-bakeries-manchester/
 link_title: Solar for Bakeries
 heading: Solar Panels for Bakeries & Food Businesses in Manchester
@@ -16,7 +16,7 @@ That's why Ashley is a good fit for this kind of job. He's the person who quotes
 
 ## The bakery story you might have heard
 
-We recently spoke to a [Prestwich](/prestwich/commercial-solar-installations/) baker who was spending £10,000 a month on electricity and nearly went under because of it. That's the kind of bill a properly designed [commercial solar installation](/services/commercial-solar-installations/) can transform. Most commercial installs reduce monthly costs by 70-100%, with payback typically within 3-4 years and 20+ years of low-cost energy after that.
+We recently spoke to a [Prestwich](/prestwich/commercial-solar-installations/) baker who was spending £10,000 a month on electricity and nearly went under because of it. That's the kind of bill a properly designed [commercial solar installation](/services/commercial-solar-installations/) can transform. A commercial install can cover a large share of daytime consumption. We model the reduction and the payback from your own bills rather than quoting an average.
 
 ## Why food businesses see strong returns
 
@@ -38,7 +38,7 @@ There's no one-size-fits-all answer, which is the point of doing the survey prop
 - Pitched roofs, which work well on factory units, larger commercial buildings and hospitality properties
 - [Ground-mounted systems](/ground-mounted-solar-installations-manchester/), if you have spare land, grass verges or yard space
 
-He'll often present multiple options. A recent design for a [Bolton](/bolton/commercial-solar-installations/) carpet warehouse, for example, included a 50-panel flat-roof option with three-year payback and a 115-panel option covering both flat and pitched roofs with four-year payback. The principle is the same for a bakery, just sized to match your kitchen's load.
+He'll often present multiple options. A recent design for a [Bolton](/bolton/commercial-solar-installations/) carpet warehouse, for example, included a 50-panel flat-roof option and a larger 115-panel option covering both the flat and pitched roofs. The principle is the same for a bakery, just sized to match your kitchen's load.
 
 If the building is smaller and the useful roof space is on an extension, store room or garage-style outbuilding, the [flat roof property page](/properties/flat-roofs/) explains the domestic and small-building side of that work.
 

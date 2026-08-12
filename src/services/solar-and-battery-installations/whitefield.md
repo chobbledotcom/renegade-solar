@@ -40,7 +40,7 @@ We've got a {{ reviews.averageRating | round: 2 }}/10 rating on [Checkatrade](ht
 
 > "Ashley was very professional on time, great price and excellent work would recommend"
 
-Ashley has 15+ years on the tools as an electrician, including time spent working in the Channel Islands, and the surveys are done by him rather than a salesperson - so the advice comes from the person who'll be doing the work.
+Ashley has 20+ years on the tools as an electrician, including time spent working in the Channel Islands, and the surveys are done by him rather than a salesperson - so the advice comes from the person who'll be doing the work.
 
 ## Local install
 

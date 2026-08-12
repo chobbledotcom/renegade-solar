@@ -56,7 +56,7 @@ There's no panic and no pressure - Ashley will explain everything clearly and gi
 
 ## Credentials
 
-- [NAPIT Registered](/accreditations/napit/) (66870) - qualifications you can verify online
+- [NAPIT registered](/accreditations/napit/) and [MCS-certified](/accreditations/mcs-certified/) under certificate NAP-66870 - both verifiable online
 - 20+ years' experience as an electrician
 - Same-day certificates as digital copies, with physical available on request
 - {{ reviews.averageRating | round: 2 }}/10 on Checkatrade from {{ reviews.total }}+ verified reviews

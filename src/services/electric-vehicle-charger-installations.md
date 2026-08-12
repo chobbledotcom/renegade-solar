@@ -47,7 +47,7 @@ EV charger repair availability depends on the brand, parts and manufacturer supp
 
 ## Solar + EV integration
 
-If you've already got solar panels, or you're thinking about getting them, we can set the EV charger up to work with the system. That means you can charge the car from excess solar energy, which can bring your charging costs close to zero during the sunnier months. We've experience with [GivEnergy](/givenergy-installer-manchester/) systems and can configure smart charging to match solar generation and time-of-use tariffs like [Octopus Intelligent Go](/octopus-go-battery-installer-manchester/). Getting the EV charger integrated with the rest of your home energy setup means you get more out of both, and less of your driving comes off the grid.
+If you've already got solar panels, or you're thinking about getting them, we can set the EV charger up to work with the system. That means you can charge the car from excess solar energy, which can cover a good share of your charging during the sunnier months. We've experience with [GivEnergy](/givenergy-installer-manchester/) systems and can configure smart charging to match solar generation and time-of-use tariffs like [Octopus Intelligent Go](/octopus-go-battery-installer-manchester/). Getting the EV charger integrated with the rest of your home energy setup means you get more out of both, and less of your driving comes off the grid.
 
 ## Installation process
 

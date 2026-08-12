@@ -23,7 +23,7 @@ Looking for a solar installer in Crumpsall? We're Renegade Solar, led by Ashley,
 
 One customer said: "Absolutely fantastic work carried out by Ashley. Very reliable and friendly, would highly recommend."
 
-That's the level of care we bring to every Crumpsall installation. With over 15 years as an electrician, we won't oversell or push unnecessary extras. We'll tell you straight whether solar's right for your property.
+That's the level of care we bring to every Crumpsall installation. With over 20 years as an electrician, we won't oversell or push unnecessary extras. We'll tell you straight whether solar's right for your property.
 
 ## Perfect for Crumpsall Properties
 

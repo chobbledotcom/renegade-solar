@@ -12,7 +12,7 @@ noindex: false
 
 ## About Renegade Solar
 
-I'm Ashley Merritt and I run Renegade Solar from North Manchester. I've been working as an electrician for around fifteen years. Most of that has been commercial - factories, offices, industrial sites - though there's always been a fair amount of domestic alongside it.
+I'm Ashley Merritt and I run Renegade Solar from North Manchester. I've been working as an electrician for over twenty years. Most of that has been commercial - factories, offices, industrial sites - though there's always been a fair amount of domestic alongside it.
 
 Between 2016 and 2018 I was working in the Channel Islands, mostly on high-end mansions and apartments. The work there ranged from loft conversions, kitchens and extensions through to bigger commercial and industrial jobs, including the Jersey Recycling Centre. When I came back to Manchester in 2018 I set up Renegade Electrical, and the solar side of the business has grown out of that since.
 

@@ -95,7 +95,7 @@ He configures your system for optimal performance with your chosen tariff and an
 
 - [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
 - [**MCS-certified**](/accreditations/mcs-certified/) (NAP-66870)
-- [**NAPIT Registered**](/accreditations/napit/) (66870)
+- [**NAPIT registered**](/accreditations/napit/)
 - [**TrustMark Registered**](/accreditations/trustmark/)
 - **20+ years' experience as an electrician**
 - **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews

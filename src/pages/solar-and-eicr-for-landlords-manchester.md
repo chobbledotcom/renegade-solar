@@ -56,7 +56,7 @@ New builds aren't automatically safe either - around one in five has electrical 
 
 ## Credentials
 
-- [NAPIT Registered](/accreditations/napit/) (66870) - qualifications you can verify online
+- [NAPIT registered](/accreditations/napit/) and [MCS-certified](/accreditations/mcs-certified/) under certificate NAP-66870 - both verifiable online
 - [MCS-certified](/accreditations/mcs-certified/) (NAP-66870) - solar installations qualify for Smart Export Guarantee
 - [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/)
 - 20+ years' experience as an electrician

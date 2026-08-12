@@ -16,11 +16,11 @@ Based in nearby Prestwich, we're perfectly positioned to serve homeowners across
 
 ## Why Bury Homes Are Perfect for Solar
 
-Bury's mix of property types makes it ideal for [solar and battery installations](/services/solar-and-battery-installations/). We regularly work with traditional Victorian houses throughout the town, 1960s semi-detached properties in the suburbs, modern new-build developments, and commercial properties with flat roofs. Each property type has its own character, but they all love generating free electricity.
+Bury's mix of property types makes it ideal for [solar and battery installations](/services/solar-and-battery-installations/). We regularly work with traditional Victorian houses throughout the town, 1960s semi-detached properties in the suburbs, modern new-build developments, and commercial properties with flat roofs. Each property type has its own character, but they can all generate a useful amount of their own electricity.
 
 ## Solar as a Long-Term Investment
 
-With the cost of living crisis hitting everyone's pockets, solar panels represent a smart long-term investment for Bury homeowners. While the upfront cost might seem significant, the savings add up over time. Most systems pay for themselves within 8-10 years, then continue generating free electricity for decades. That's a better return than most investments, and certainly more reliable than backing the right horse at the races.
+With the cost of living crisis hitting everyone's pockets, solar panels represent a smart long-term investment for Bury homeowners. While the upfront cost might seem significant, the savings add up over time. How long a system takes to pay for itself depends on your consumption, your tariff and the size of the array, so we work it out for your property rather than quoting an average. That's a better return than most investments, and certainly more reliable than backing the right horse at the races.
 
 With energy prices continuing to rise, locking in your own electricity generation makes real financial sense. Plus, if you add a [battery storage system](/services/home-battery-installations/), you can store excess power during the day and use it in the evening when electricity costs more. It's like having your own personal power station, but without the cooling towers.
 

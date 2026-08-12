@@ -17,7 +17,9 @@ through the `photo` field in its front matter, falling back to its icon.
       <a href="{{ service.url }}">
         <div class="service-tiles__media">
           {%- if service.data.photo %}
-          <img src="/assets/photos/{{ service.data.photo }}" alt="" loading="lazy" decoding="async" eleventy:ignore>
+          <img src="/assets/photos/{{ service.data.photo }}" alt=""
+            sizes="(max-width: 768px) 100vw, (max-width: 900px) 50vw, 380px"
+            eleventy:widths="800,600,400" loading="lazy" decoding="async">
           {%- endif %}
           {%- if service.data.icon %}
           <span class="service-tiles__icon">

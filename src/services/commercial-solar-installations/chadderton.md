@@ -3,7 +3,7 @@ permalink: /chadderton/commercial-solar-installations/
 redirect_from:
   - /services/commercial-solar-installations/chadderton/
 title: Commercial Solar Installations in Chadderton | Renegade Solar
-description: Commercial solar for Chadderton businesses. Cut electricity costs 70-100% with 3-4 year payback. MCS-certified installer based nearby in Prestwich.
+description: Commercial solar for Chadderton businesses. Cut daytime electricity costs with commercial solar. MCS-certified installer based nearby in Prestwich.
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Chadderton
 icon: /assets/icons/commercial-solar.svg
@@ -15,7 +15,7 @@ gallery_tags: [commercial]
 
 Chadderton's M60 corridor has commercial and industrial units with exactly the right profile for solar - big flat roofs, high daytime electricity consumption, and bills that keep climbing. We're based nearby in [Prestwich](/prestwich/commercial-solar-installations/) and serve Chadderton businesses with [MCS-certified](/accreditations/mcs-certified/) commercial solar installations.
 
-The key advantage of commercial solar over domestic is timing - businesses use electricity during the day when panels are generating. You consume nearly every unit your panels produce, which means payback of typically 3-4 years, then 20+ years of dramatically reduced costs.
+The key advantage of commercial solar over domestic is timing - businesses use electricity during the day when panels are generating. You consume nearly every unit your panels produce, which is what shortens the payback. We model it from your own consumption and show you the assumptions.
 
 ## Where the returns are strongest
 

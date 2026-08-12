@@ -22,7 +22,7 @@ Looking for a solar panel installer in Cheetham Hill? We're Renegade Solar, led 
 
 One Prestwich customer saved thousands when we gave them a second opinion: "Another electrician convinced us we needed a whole house rewire. After inspecting, Ashley let us know it was fully unnecessary and we just needed a new fuse board. He saved us thousands of pounds with that first visit."
 
-That's the difference with Renegade Solar - we won't sell you something you don't need. With over 15 years' experience as an electrician, we'll give you straight advice about whether solar's right for your property.
+That's the difference with Renegade Solar - we won't sell you something you don't need. With over 20 years' experience as an electrician, we'll give you straight advice about whether solar's right for your property.
 
 ## Cheetham Hill property types
 

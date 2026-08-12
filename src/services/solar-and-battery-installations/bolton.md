@@ -14,11 +14,11 @@ gallery_tags: [solar-panels]
 
 [Renegade Solar](/about/) provides expert [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Bolton. As an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, we bring our expertise directly to Bolton homeowners and businesses looking to reduce energy bills and carbon footprints.
 
-We've successfully installed solar systems on a wide variety of Bolton properties - from traditional terraced houses to larger detached homes and commercial buildings. Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 15 years of experience who understands the unique characteristics of Bolton's diverse housing stock.
+We've successfully installed solar systems on a wide variety of Bolton properties - from traditional terraced houses to larger detached homes and commercial buildings. Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 20 years of experience who understands the unique characteristics of Bolton's diverse housing stock.
 
 ## Solar Performance in Bolton
 
-Many Bolton residents ask us if solar panels are effective in Greater Manchester's changeable weather. The answer is a resounding yes! Modern solar panels work efficiently even on cloudy days, generating at 80%+ of their capacity without direct sunlight.
+Many Bolton residents ask us if solar panels are effective in Greater Manchester's changeable weather. The answer is yes. Panels generate from daylight rather than direct sunshine, so they keep producing on overcast days, though output is lower than in bright conditions. Your generation projection accounts for local weather, roof orientation and shading.
 
 Bolton's position well connected to the motorway network makes us ideally placed to serve the area efficiently, and we've completed numerous installations across the borough.
 

@@ -14,11 +14,11 @@ gallery_tags: [solar-panels]
 
 We provide expert [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Stockport, including [Marple](/marple/solar-and-battery-installations/), Marple Bridge, [Bramhall](/bramhall/solar-and-battery-installations/), and surrounding areas. As an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, we bring our expertise directly to Stockport homeowners looking to reduce energy bills and carbon footprints.
 
-We've successfully installed solar systems on a wide variety of Stockport properties - from the elegant Victorian and Edwardian homes in [Bramhall](/bramhall/solar-and-battery-installations/) to the charming stone cottages in Marple Bridge. Our team is led by [Ashley Merritt](/about/), a fully qualified electrician with over 15 years of experience who understands the unique characteristics of Stockport's housing stock.
+We've successfully installed solar systems on a wide variety of Stockport properties - from the elegant Victorian and Edwardian homes in [Bramhall](/bramhall/solar-and-battery-installations/) to the charming stone cottages in Marple Bridge. Our team is led by [Ashley Merritt](/about/), a fully qualified electrician with over 20 years of experience who understands the unique characteristics of Stockport's housing stock.
 
 ## Solar Performance in Stockport
 
-Many Stockport residents ask us if solar panels are effective in Manchester's famously changeable weather. The answer is a resounding yes! Modern solar panels work efficiently even on cloudy days, generating at 80%+ of their capacity without direct sunlight. The [Bramhall](/bramhall/solar-and-battery-installations/) and Marple Bridge areas actually benefit from slightly higher elevation than central Manchester, often resulting in better solar exposure throughout the year.
+Many Stockport residents ask us if solar panels are effective in Manchester's famously changeable weather. The answer is yes. Panels generate from daylight rather than direct sunshine, so they keep producing on overcast days, though output is lower than in bright conditions. Your generation projection accounts for local weather, roof orientation and shading. The [Bramhall](/bramhall/solar-and-battery-installations/) and Marple Bridge areas actually benefit from slightly higher elevation than central Manchester, often resulting in better solar exposure throughout the year.
 
 ## Property Types in Stockport
 

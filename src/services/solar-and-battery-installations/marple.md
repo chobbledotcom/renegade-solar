@@ -14,11 +14,11 @@ gallery_tags: [solar-panels]
 
 [Renegade Solar](/about/) provides [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Marple, including Rose Hill, Hawk Green, Marple Bridge, and Mellor. As an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, we work with homeowners across Marple looking to cut their energy bills.
 
-We've fitted solar systems on all sorts of Marple properties - Victorian terraces along Stockport Road, the semis and detached houses on the side streets up towards Mellor, and the newer builds near Hawk Green. Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 15 years of experience who understands the quirks of older properties and the straightforward approach needed for newer ones.
+We've fitted solar systems on all sorts of Marple properties - Victorian terraces along Stockport Road, the semis and detached houses on the side streets up towards Mellor, and the newer builds near Hawk Green. Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 20 years of experience who understands the quirks of older properties and the straightforward approach needed for newer ones.
 
 ## Solar Panels in Marple's Climate
 
-Do solar panels work round here? Yes. Modern panels generate at 80%+ capacity even on overcast days - they don't need direct sunlight. Marple sits higher than central Manchester, which often means clearer conditions and better solar exposure throughout the year.
+Do solar panels work round here? Yes. Panels generate from daylight rather than direct sunshine, so they keep producing on overcast days, though output is lower than in bright conditions. Marple sits higher than central Manchester, which often means clearer conditions and better solar exposure throughout the year.
 
 The hills mean some properties have excellent south-facing roof space, while others need a bit more thought about positioning. That's where the personal survey comes in - we look at your actual roof, not just guess from satellite photos.
 

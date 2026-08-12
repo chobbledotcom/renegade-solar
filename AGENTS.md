@@ -36,10 +36,10 @@ Target terms include, but are not limited to:
 
 ## Company Background
 
-- Renegade Solar is owned by Ashley Merritt, a fully qualified electrician with over 15 years of experience, including more than 10 years on commercial projects.
+- Renegade Solar is owned by Ashley Merritt, a fully qualified electrician with over 20 years of experience, including more than 10 years on commercial projects.
 - Ashley established Renegade Electrical in 2018 and expanded into solar panel, battery storage, and EV charger installations.
 - The company is based in North Manchester, around Prestwich and Middleton, and serves Greater Manchester with a focus on North Manchester.
-- MCS certification number: `NAP-66870`.
+- MCS certification number: `NAP-66870`, listed at https://mcscertified.com/find-an-installer/renegade-electrical-ltd/. The `NAP` prefix means it is administered through NAPIT, where Ashley is member `66870`. It is the same number under both schemes, not two registrations - both `NAPIT registered (66870)` and `MCS-certified (NAP-66870)` are correct.
 - Customers deal directly with Ashley rather than a call centre or commissioned sales team.
 - Installation work is handled in-house. Specialist scaffolding is the only subcontracted part of the installation process.
 - Ashley remains personally involved in surveys, design, electrical installation, commissioning, and aftercare, while working with the in-house Renegade Solar team.

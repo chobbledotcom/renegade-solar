@@ -20,7 +20,7 @@ On another mixed installation, we combined a roof array and ground-mounted solar
 
 ## Who runs the work
 
-Renegade Solar is run by Ashley Merritt. He's [MCS-certified](/accreditations/mcs-certified/) ([NAP-66870](https://mcscertified.com/find-an-installer/)) and has over fifteen years' experience as an electrician, including more than ten years on commercial projects. He surveys and designs the system, remains involved in the electrical installation and commissioning, and looks after it afterwards. The installation is completed by the in-house team, with only specialist scaffolding subcontracted.
+Renegade Solar is run by Ashley Merritt. He's [MCS-certified](/accreditations/mcs-certified/) ([NAP-66870](https://mcscertified.com/find-an-installer/)) and has over twenty years' experience as an electrician, including more than ten years on commercial projects. He surveys and designs the system, remains involved in the electrical installation and commissioning, and looks after it afterwards. The installation is completed by the in-house team, with only specialist scaffolding subcontracted.
 
 That electrician-led approach matters on a ground-mounted solar installation because the buried cable route, outdoor protection, battery position and connection back to the property all have to be designed as one system.
 

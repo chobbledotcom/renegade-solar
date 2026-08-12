@@ -1,7 +1,7 @@
 ---
 title: Commercial Solar Installations
 snippet: Slash business electricity costs with commercial solar
-description: Commercial solar installations across Greater Manchester. Cut £700-£10,000+ monthly bills to zero with 3-4 year payback. Factories, retail, hospitality, and commercial properties.
+description: Commercial solar installations across Greater Manchester. Cut heavy monthly electricity bills with commercial solar. Factories, retail, hospitality, and commercial properties.
 icon: /assets/icons/commercial-solar.svg
 photo: commercial-solar-panels.jpg
 order: 3
@@ -15,17 +15,17 @@ hero_sub: "Commercial solar installations across Greater Manchester for factorie
 
 # Commercial Solar Installations in Greater Manchester
 
-If your business is spending hundreds or thousands a month on electricity, commercial solar can cut that down sharply - often to near zero. We design and install systems that pay back in as little as three years, and after that you're looking at twenty-plus years of cheap or free energy. We've worked with [factories](/solar-panels-for-factories-manchester/), retail units, [hotels](/solar-panels-for-hotels-manchester/), cafes and [bakeries](/solar-panels-for-bakeries-manchester/), and we'll put together a [solar and battery setup](/services/solar-and-battery-installations/) that makes financial sense for the way your business actually runs.
+If your business is spending hundreds or thousands a month on electricity, commercial solar can cut that down sharply. We design and install systems and model the payback from your own consumption figures. Panels commonly carry warranties in the 25 to 30 year range, so there is a long stretch of much cheaper electricity after that. We've worked with [factories](/solar-panels-for-factories-manchester/), retail units, [hotels](/solar-panels-for-hotels-manchester/), cafes and [bakeries](/solar-panels-for-bakeries-manchester/), and we'll put together a [solar and battery setup](/services/solar-and-battery-installations/) that makes financial sense for the way your business actually runs.
 
 ## Why commercial properties benefit more than domestic
 
-Commercial electricity prices have gone up sharply over the last few years, and businesses have generally been hit harder than domestic customers. We recently spoke to a [Prestwich](/prestwich/commercial-solar-installations/) baker who was spending £10,000 a month on electricity and nearly went under because of it. Another client of ours, a carpet warehouse in [Bolton](/bolton/commercial-solar-installations/), spends £700 a month. A 50-panel flat-roof design takes that to zero with a three-year payback, and after that it's 20-plus years of free electricity and protection from future price rises.
+Commercial electricity prices have gone up sharply over the last few years, and businesses have generally been hit harder than domestic customers. We recently spoke to a [Prestwich](/prestwich/commercial-solar-installations/) baker who was spending £10,000 a month on electricity and nearly went under because of it. Another client of ours, a carpet warehouse in [Bolton](/bolton/commercial-solar-installations/), spends £700 a month. A 50-panel flat-roof design is sized to cover a large share of that daytime load, with the generation and payback figures modelled from their own consumption and the assumptions written down alongside them.
 
 The maths works particularly well for commercial because businesses use electricity during the day, which is when solar is generating the most. Domestic properties typically use most of their electricity in the evening, which means you usually need [battery storage](/services/home-battery-installations/) to make full use of solar. Commercial properties consume the energy as it's generated - so you're using nearly every kilowatt-hour the panels produce, and that's what shortens the payback.
 
 ## Real examples from our commercial work
 
-We're currently working with a [carpet and interior design warehouse](/commercial-solar-for-warehouses-manchester/) in Bolton. They own the building, they've got a large flat roof going unused, and they were spending £700 a month on electricity. We've put two options together for them: a 50+ panel system covering just the flat roof, which takes the bill to zero with a three-year payback; or a larger 115-panel system using both the flat roof and the pitched sections, which has a four-year payback but generates more on top of that. Either way they're looking at decades of free electricity afterwards, plus income from selling excess back to the grid through the Smart Export Guarantee.
+We're currently working with a [carpet and interior design warehouse](/commercial-solar-for-warehouses-manchester/) in Bolton. They own the building, they've got a large flat roof going unused, and they were spending £700 a month on electricity. We've put two options together for them: a 50+ panel system covering just the flat roof; or a larger 115-panel system using both the flat roof and the pitched sections, which costs more up front but generates more on top of that. Either way they're looking at much cheaper electricity afterwards, plus payment for exported units through the Smart Export Guarantee.
 
 We've also installed [ground-mounted solar systems](/ground-mounted-solar-installations-manchester/) connected to outdoor fuse boards for businesses that want to offer free [EV charging](/services/electric-vehicle-charger-installations/) to their staff. It's a useful staff benefit, it cuts the firm's transport fuel costs, and because it's all running off solar it doesn't add anything to the electricity bill. More on this on our [solar carports and workplace EV charging](/solar-carports-workplace-ev-charging-manchester/) page.
 
@@ -57,9 +57,9 @@ Installations are scheduled around your business operations to keep disruption d
 
 ## Financial benefits and payback
 
-From the moment the system's commissioned, the electricity bill drops sharply. Most commercial installations cut monthly costs by 70 to 100 per cent, with payback typically within three to four years. That's faster than domestic installations because commercial properties tend to use electricity during the day, when the panels are generating most.
+From the moment the system's commissioned, the electricity bill drops sharply. A commercial installation can cover a large share of daytime consumption, and we model the reduction and the payback from your own half-hourly figures. That's faster than domestic installations because commercial properties tend to use electricity during the day, when the panels are generating most.
 
-The system's expected life is 20-plus years, which gives you a long stretch of cheap or free electricity once the payback is done. Solar-equipped commercial properties also tend to be more attractive to buyers and tenants, especially as energy efficiency becomes more of a factor in commercial property decisions.
+Panels commonly carry warranties in the 25 to 30 year range, so there is a long stretch of much cheaper electricity once the payback is done. Solar-equipped commercial properties also tend to be more attractive to buyers and tenants, especially as energy efficiency becomes more of a factor in commercial property decisions.
 
 ## What you need to qualify
 

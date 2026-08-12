@@ -34,7 +34,7 @@ There are a few practical advantages. The disconnection is documented properly, 
 
 ## Who runs the work
 
-Renegade Solar is run by Ashley Merritt. He's [NAPIT registered](/accreditations/napit/) (66870), with over fifteen years' experience as an electrician, including more than ten years on commercial projects. Ashley quotes and plans the relocation, remains involved at both properties and carries out the electrical work with the in-house Renegade team. There is no salesperson or project-manager handover.
+Renegade Solar is run by Ashley Merritt. He's [NAPIT registered](/accreditations/napit/), with over twenty years' experience as an electrician, including more than ten years on commercial projects. Ashley quotes and plans the relocation, remains involved at both properties and carries out the electrical work with the in-house Renegade team. There is no salesperson or project-manager handover.
 
 ## Why this is worth doing
 
@@ -64,7 +64,7 @@ Each job is different - the cost depends on the cable route at the new property,
 
 - [NAPIT Registered](/accreditations/napit/) (66870) - certification at both ends valid for insurance and future house sale
 - [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/)
-- Over 15 years' experience as an electrician, including more than 10 years on commercial projects
+- Over 20 years' experience as an electrician, including more than 10 years on commercial projects
 - {{ reviews.averageRating | round: 2 }}/10 on Checkatrade from {{ reviews.total }}+ verified reviews
 
 ## Coverage

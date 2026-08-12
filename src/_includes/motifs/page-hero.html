@@ -18,7 +18,8 @@ copy. A page with no `hero_sub` simply shows its title.
 <section class="page-hero">
   {%- if ph_photo %}
   <div class="page-hero__bg" aria-hidden="true">
-    <img src="/assets/photos/{{ ph_photo }}" alt="" loading="eager" decoding="async" eleventy:ignore>
+    <img src="/assets/photos/{{ ph_photo }}" alt="" sizes="100vw"
+         eleventy:widths="1600,1200,900,600,400" loading="eager" decoding="async" fetchpriority="high">
   </div>
   {%- endif %}
   <div class="page-hero__inner">
