@@ -10,6 +10,9 @@ location_pages: true
 gallery_tags:
   - solar-panels
   - battery
+process_set: solar
+faq_set: solar
+hero_sub: "MCS-certified solar panel and battery installation across Greater Manchester, designed by a qualified electrician for pitched, flat and awkward roofs."
 ---
 
 # Solar and Battery Installations in Manchester

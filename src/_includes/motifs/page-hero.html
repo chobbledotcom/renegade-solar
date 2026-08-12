@@ -1,8 +1,14 @@
 {%- comment -%}
 Compact dark header for service, location and standard pages: breadcrumb,
 page title, and the short benefit run. The h1 here is the page's real h1 -
-markdown bodies that still open with their own "# Heading" keep it as a
-second-level heading in the prose.
+layouts lift it out of the markdown with the `firstHeading` filter so it does
+not appear twice.
+
+The standfirst comes from `hero_sub` in the page's front matter, and only
+from there. It deliberately does NOT fall back to the meta `description`:
+descriptions are written for search results and several carry claims - "3-4
+year payback", "bills to zero" - that AGENTS.md does not allow as on-page
+copy. A page with no `hero_sub` simply shows its title.
 
   {% assign ph_crumb_text = "Services" %}
   {% assign ph_crumb_url = "/services/" %}
@@ -20,7 +26,8 @@ second-level heading in the prose.
     <p class="breadcrumb"><a href="{{ ph_crumb_url | default: '/' }}">&larr; {{ ph_crumb_text }}</a></p>
     {%- endif %}
     <h1>{{ ph_title | default: heading | default: link_title | default: title }}</h1>
-    {%- if ph_sub %}<p>{{ ph_sub }}</p>{% endif %}
+    {%- assign ph_standfirst = ph_sub | default: hero_sub -%}
+    {%- if ph_standfirst %}<p>{{ ph_standfirst }}</p>{% endif %}
     {%- assign trust_short = true -%}
     {%- assign trust_variant = "bare" -%}
     {% include "motifs/trust-bar.html" %}

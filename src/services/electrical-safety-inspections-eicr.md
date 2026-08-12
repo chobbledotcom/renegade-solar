@@ -6,6 +6,9 @@ photo: bowlee-heywood-new-build-exterior.jpg
 location_pages: true
 order: 6
 root: true
+process_set: inspection
+faq_set: inspection
+hero_sub: "Electrical safety inspections for homeowners, landlords and buyers across Greater Manchester, with the findings explained in plain English."
 ---
 
 # Electrical Safety Inspections (EICR) - Greater Manchester

@@ -1,6 +1,7 @@
 {%- comment -%}
-Four numbers worth shouting about. The review figures come straight from
-src/_data/reviews.json so they never go stale.
+Four numbers worth shouting about, each linked to the page that backs it up.
+The review figures come straight from src/_data/reviews.json so they never go
+stale.
 
   {% assign stat_variant = "dark" %}   dark | light (default light)
   {% include "motifs/stat-strip.html" %}
@@ -14,20 +15,28 @@ src/_data/reviews.json so they never go stale.
   <div class="band__inner">
     <ul class="stat-strip">
       <li>
-        <span class="stat-value">{{ reviews.averageRating | round: 2 }}/10</span>
-        <span class="stat-label">Average across {{ reviews.total }} verified reviews</span>
+        <a href="/reviews/">
+          <span class="stat-value">{{ reviews.averageRating | round: 2 }}/10</span>
+          <span class="stat-label">Average across {{ reviews.total }} verified reviews</span>
+        </a>
       </li>
       <li>
-        <span class="stat-value">15+</span>
-        <span class="stat-label">Years as a qualified electrician, domestic and commercial</span>
+        <a href="/about/">
+          <span class="stat-value">15+</span>
+          <span class="stat-label">Years as a qualified electrician, domestic and commercial</span>
+        </a>
       </li>
       <li>
-        <span class="stat-value">1&ndash;2</span>
-        <span class="stat-label">Days for a standard domestic solar install</span>
+        <a href="/services/solar-and-battery-installations/">
+          <span class="stat-value">1&ndash;2</span>
+          <span class="stat-label">Days for a standard domestic solar install</span>
+        </a>
       </li>
       <li>
-        <span class="stat-value">MCS</span>
-        <span class="stat-label">Certified installer, NAP-66870</span>
+        <a href="/accreditations/mcs-certified/">
+          <span class="stat-value">MCS</span>
+          <span class="stat-label">Certified installer, NAP-66870</span>
+        </a>
       </li>
     </ul>
   </div>

@@ -8,11 +8,11 @@ layout: base.html
 
 <article id="content">
   {% assign ph_title = page_h1 | default: title %}
-  {% assign ph_sub = description %}
   {% assign ph_photo = "summer-2025-solar-rooflights.jpg" %}
   {% include "motifs/page-hero.html" %}
 
-  <div class="card content">{{ body_html }}</div>
+  {% assign prose_html = body_html %}
+  {% include "motifs/prose.html" %}
 
   <div class="card">
     {% include "photo-gallery.html" %}

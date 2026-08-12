@@ -10,7 +10,6 @@ layout: base.html
   {% assign ph_crumb_text = "All accreditations" %}
   {% assign ph_crumb_url = "/accreditations/" %}
   {% assign ph_title = page_h1 | default: title %}
-  {% assign ph_sub = snippet %}
   {% assign ph_photo = "panels.jpg" %}
   {% include "motifs/page-hero.html" %}
 
@@ -26,7 +25,8 @@ layout: base.html
     <a href="{{ url }}"> {{ url | replace: "https://", "" }} </a>
   </div>
   {% endif %}
-  <div class="card content">{{ body_html }}</div>
+  {% assign prose_html = body_html %}
+  {% include "motifs/prose.html" %}
 
   {% include "motifs/accreditation-band.html" %}
 

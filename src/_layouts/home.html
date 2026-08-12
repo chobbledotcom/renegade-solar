@@ -11,8 +11,10 @@ layout: base.html
   <div class="hero__inner">
     <p class="hero__eyebrow">
       <span class="stars" aria-hidden="true">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-      <strong>{{ reviews.averageRating | round: 2 }}/10</strong>
-      from {{ reviews.total }} verified reviews
+      <a href="/reviews/">
+        <strong>{{ reviews.averageRating | round: 2 }}/10</strong>
+        from {{ reviews.total }} verified reviews
+      </a>
     </p>
     {% if heading %}
     <h1>{{ heading }}</h1>
@@ -34,14 +36,13 @@ layout: base.html
 </div>
 
 <article>
-  {% assign trust_variant = "dark" %}
-  {% include "motifs/trust-bar.html" %}
-
   {% include "motifs/service-tiles.html" %}
 
+  {% assign stat_variant = "dark" %}
   {% include "motifs/stat-strip.html" %}
 
-  <div class="card content">{{ content }}</div>
+  {% assign prose_html = content %}
+  {% include "motifs/prose.html" %}
 
   {% assign fs_photo = "ashley.jpg" %}
   {% assign fs_alt = "Ashley Merritt on site alongside a ground-mounted solar array" %}
@@ -66,6 +67,9 @@ layout: base.html
   {% include "motifs/feature-split.html" %}
 
   {% include "motifs/why-us.html" %}
+
+  {% assign trust_variant = "tint" %}
+  {% include "motifs/trust-bar.html" %}
 
   {% include "motifs/process.html" %}
 

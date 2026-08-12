@@ -244,3 +244,13 @@ footer {
     }
   }
 }
+
+.site-footer__badges a {
+  color: inherit;
+  text-decoration: none;
+
+  &:hover {
+    color: var(--green-400);
+    text-decoration: underline;
+  }
+}

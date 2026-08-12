@@ -8,6 +8,9 @@ order: 3
 root: true
 location_pages: true
 gallery_tags: [commercial]
+process_set: commercial
+faq_set: solar
+hero_sub: "Commercial solar installations across Greater Manchester for factories, warehouses, retail and hospitality, designed against your actual half-hourly consumption."
 ---
 
 # Commercial Solar Installations in Greater Manchester

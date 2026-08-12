@@ -15,6 +15,9 @@ src/_data/motifs.json.
       <div class="why-card">
         <h3>{{ item.title }}</h3>
         <p>{{ item.body }}</p>
+        {%- if item.link_url %}
+        <p class="why-card__link"><a href="{{ item.link_url }}">{{ item.link_text }} &rarr;</a></p>
+        {%- endif %}
       </div>
       {%- endfor %}
     </div>

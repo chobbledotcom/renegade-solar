@@ -9,13 +9,13 @@ layout: base.html
 
 <article>
   {% assign ph_title = page_h1 | default: title %}
-  {% assign ph_sub = description %}
   {% assign ph_photo = "renegade-solar-panel-installation-banner.jpg" %}
   {% include "motifs/page-hero.html" %}
 
   {% include "motifs/accreditation-band.html" %}
 
-  <div class="card content">{{ body_html }}</div>
+  {% assign prose_html = body_html %}
+  {% include "motifs/prose.html" %}
 
   <section class="band band--white">
     <div class="band__inner">

@@ -24,6 +24,13 @@ number and email right there for people who would rather just ring.
           <li><span class="tick" aria-hidden="true">&#10003;</span>{{ point }}</li>
           {%- endfor %}
         </ul>
+        <p class="contact-panel__evidence">
+          <a href="/reviews/">{{ reviews.averageRating | round: 2 }}/10 from {{ reviews.total }} verified reviews</a>
+          &middot;
+          <a href="/accreditations/mcs-certified/">MCS NAP-66870</a>
+          &middot;
+          <a href="/accreditations/">all our accreditations</a>
+        </p>
         <div class="contact-panel__direct">
           <a href="tel:07868643147">
             <img src="/assets/icons/phone.svg" alt="" eleventy:ignore>07868 643 147

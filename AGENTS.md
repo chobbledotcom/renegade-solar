@@ -473,6 +473,22 @@ Pages are broken up with reusable snippets rather than long unbroken slabs of pr
 
 Copy for the data-driven motifs lives in `src/_data/motifs.json` - benefits, the process steps, the FAQs and the contact points. Change it there and it changes on every page at once. Anything factual in that file is subject to the same evidence rules as page copy.
 
+Steps and questions are grouped into named sets, because an EICR is not a roof job and solar questions are no use on an inspection page. A page picks its set in front matter:
+
+```yaml
+process_set: inspection   # solar (default) | battery | commercial | ev | inspection | none
+faq_set: inspection       # solar (default) | inspection | ev | none
+```
+
+A page can also supply its own `faqs` list of `{q, a}` pairs, which wins over the set.
+
+Two other front matter fields matter:
+
+- `hero_sub` is the standfirst shown under the page title in the hero. The hero does **not** fall back to the meta `description`, deliberately: descriptions are written for search results and several carry claims - "3-4 year payback", "bills to zero" - that the rules above do not allow as on-page copy. A page with no `hero_sub` just shows its title.
+- `photo` is the photograph used behind the page hero and on the service tile.
+
+Every credential a motif states is linked to the page that backs it up - the MCS number to the MCS accreditation page, the review score to `/reviews/`. When you add a claim to a motif, add the link with it.
+
 Layouts apply the motifs automatically, so a new markdown page gets the full treatment without doing anything. Three Eleventy filters make that work:
 
 - `firstHeading` and `withoutFirstHeading` lift a page's `<h1>` out of the rendered markdown so the page hero can show it without the heading appearing twice.

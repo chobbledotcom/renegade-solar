@@ -5,7 +5,7 @@ Three review cards side by side, with a link through to the full list.
   {% include "motifs/review-strip.html" %}
 {%- endcomment -%}
 {%- assign review_offset = review_offset | default: 0 -%}
-{%- assign strip_reviews = reviews.reviews | slice: review_offset, 3 -%}
+{%- assign strip_reviews = featuredReviews | slice: review_offset, 3 -%}
 <section class="band">
   <div class="band__inner">
     {%- assign sh_eyebrow = "What customers say" -%}
@@ -17,7 +17,7 @@ Three review cards side by side, with a link through to the full list.
       <li>
         <span class="stars" aria-hidden="true">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
         <h3>{{ review.title }}</h3>
-        <p>{{ review.review | strip_newlines | truncate: 230 }}</p>
+        <p>&ldquo;{{ review.review }}&rdquo;</p>
         <p class="review-strip__meta">
           {{ review.rating.rating | round: 1 }}/10
           {%- if review.location.postcode and review.location.postcode != "" %}

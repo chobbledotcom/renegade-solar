@@ -8,13 +8,13 @@ layout: base.html
 
 <article>
   {% assign ph_title = page_h1 %}
-  {% assign ph_sub = description %}
   {% assign ph_photo = photo | default: "panels.jpg" %}
   {% include "motifs/page-hero.html" %}
 
   {% assign chunks = body_html | splitContent: 2 %}
   {% for chunk in chunks %}
-  <div class="card content">{{ chunk }}</div>
+  {% assign prose_html = chunk %}
+  {% include "motifs/prose.html" %}
   {% unless forloop.last %}
     {% assign trust_variant = "dark" %}
     {% include "motifs/trust-bar.html" %}

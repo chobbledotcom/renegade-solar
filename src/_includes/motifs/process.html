@@ -1,19 +1,27 @@
 {%- comment -%}
-Numbered steps from first phone call to handover. Content comes from
-src/_data/motifs.json so every page tells the same story.
+The steps from first phone call to handover.
 
-  {% assign process_eyebrow = "How it works" %}
-  {% assign process_title = "What happens after you get in touch" %}
-  {% include "motifs/process.html" %}
+Different work needs different steps - an EICR is not a roof job - so the sets
+live in `process_sets` in src/_data/motifs.json and a page picks one with
+`process_set` in its front matter:
+
+  process_set: inspection      # solar (default) | battery | commercial | ev | inspection
+
+A page can override the heading with `process_title`, or skip the motif
+entirely by setting `process_set: none`.
 {%- endcomment -%}
+{%- assign process_key = process_set | default: "solar" -%}
+{%- assign process_data = motifs.process_sets[process_key] -%}
+{%- if process_data == nil -%}{%- assign process_data = motifs.process_sets.solar -%}{%- endif -%}
+{%- if process_key != "none" and process_data.steps.size > 0 -%}
 <section class="band band--white">
   <div class="band__inner">
     {%- assign sh_eyebrow = process_eyebrow | default: "How it works" -%}
-    {%- assign sh_title = process_title | default: "What happens after you get in touch" -%}
-    {%- assign sh_sub = process_sub | default: "Six steps, the same every time, and the same person through all of them." -%}
+    {%- assign sh_title = process_title | default: process_data.title -%}
+    {%- assign sh_sub = process_sub | default: process_data.sub -%}
     {% include "motifs/section-head.html" %}
     <ol class="steps">
-      {%- for step in motifs.process %}
+      {%- for step in process_data.steps %}
       <li>
         <h3>{{ step.title }}</h3>
         <p>{{ step.body }}</p>
@@ -23,6 +31,7 @@ src/_data/motifs.json so every page tells the same story.
     </ol>
   </div>
 </section>
+{%- endif -%}
 {%- assign process_eyebrow = nil -%}
 {%- assign process_title = nil -%}
 {%- assign process_sub = nil -%}

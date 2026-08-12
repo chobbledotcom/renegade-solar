@@ -2,13 +2,24 @@
 Accordion of the questions people actually ask. Built on <details> so it
 opens and closes without any JavaScript.
 
-Questions come from src/_data/motifs.json. A page can override them by
-setting `faqs` in its front matter as a list of {q, a} pairs.
+Like the process steps, the questions are grouped into sets in
+src/_data/motifs.json because solar questions are no use on an EICR page.
+A page picks one with `faq_set` in its front matter:
 
-  {% assign faq_title = "Solar panel questions, answered" %}
-  {% include "motifs/faq.html" %}
+  faq_set: inspection      # solar (default) | inspection | ev
+
+A page can also supply its own list with a `faqs` front matter block of
+{q, a} pairs, which wins over the set, or skip the motif with
+`faq_set: none`.
 {%- endcomment -%}
-{%- assign faq_items = faqs | default: motifs.faqs -%}
+{%- assign faq_key = faq_set | default: "solar" -%}
+{%- if faqs -%}
+  {%- assign faq_items = faqs -%}
+{%- elsif faq_key == "none" -%}
+  {%- assign faq_items = nil -%}
+{%- else -%}
+  {%- assign faq_items = motifs.faq_sets[faq_key] | default: motifs.faq_sets.solar -%}
+{%- endif -%}
 {%- if faq_items and faq_items.size > 0 -%}
 <section class="band">
   <div class="band__inner">
@@ -25,6 +36,9 @@ setting `faqs` in its front matter as a list of {q, a} pairs.
       </details>
       {%- endfor %}
     </div>
+    <p class="motif-actions">
+      <a class="btn secondary-btn" href="/contact/">Ask us something else</a>
+    </p>
   </div>
 </section>
 {%- endif -%}

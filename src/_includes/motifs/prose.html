@@ -1,0 +1,23 @@
+{%- comment -%}
+The markdown body, in a card, inside a band.
+
+Every other block on a page is a full-bleed <section>, so the prose needs to
+be one too - otherwise a card sits loose on the page background between two
+sections and the vertical rhythm goes out.
+
+  {% assign prose_html = chunk %}
+  {% assign prose_variant = "white" %}   plain (default) | white | tint
+  {% include "motifs/prose.html" %}
+{%- endcomment -%}
+{%- case prose_variant -%}
+  {%- when "white" -%}{%- assign prose_class = "band band--white" -%}
+  {%- when "tint" -%}{%- assign prose_class = "band band--green-tint" -%}
+  {%- else -%}{%- assign prose_class = "band" -%}
+{%- endcase -%}
+<section class="{{ prose_class }} band--prose">
+  <div class="band__inner">
+    <div class="card content">{{ prose_html }}</div>
+  </div>
+</section>
+{%- assign prose_html = nil -%}
+{%- assign prose_variant = nil -%}

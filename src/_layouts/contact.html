@@ -9,13 +9,13 @@ contact: true
 
 <article>
   {% assign ph_title = page_h1 | default: title %}
-  {% assign ph_sub = description %}
   {% assign ph_photo = "residential-solar-installation-wide-view.jpg" %}
   {% include "motifs/page-hero.html" %}
 
   {% include "motifs/contact-panel.html" %}
 
-  <div class="card content">{{ body_html }}</div>
+  {% assign prose_html = body_html %}
+  {% include "motifs/prose.html" %}
 
   {% include "motifs/accreditation-band.html" %}
 

@@ -1,20 +1,34 @@
 {
   "benefits": [
-    "MCS-certified installer, NAP-66870",
-    "Surveyed and designed by a qualified electrician",
-    "In-house installation team",
-    "Two years of routine maintenance included"
+    {
+      "text": "MCS-certified installer, NAP-66870",
+      "url": "/accreditations/mcs-certified/"
+    },
+    {
+      "text": "Surveyed and designed by a qualified electrician",
+      "url": "/about/"
+    },
+    {
+      "text": "TrustMark registered and NAPIT approved",
+      "url": "/accreditations/trustmark/"
+    },
+    {
+      "text": "Two years of routine maintenance included",
+      "url": "/services/solar-and-battery-installations/"
+    }
   ],
   "benefits_short": [
-    "MCS-certified",
-    "No salespeople",
-    "In-house team",
-    "Free survey"
+    { "text": "MCS-certified", "url": "/accreditations/mcs-certified/" },
+    { "text": "No salespeople", "url": "/about/" },
+    { "text": "In-house team", "url": "/about/" },
+    { "text": "Free survey", "url": "/contact/" }
   ],
   "why": [
     {
       "title": "You deal with Ashley",
-      "body": "Ashley Merritt runs Renegade Solar, does the survey himself and designs the system. There is no call centre and nobody works on commission."
+      "body": "Ashley Merritt runs Renegade Solar, does the survey himself and designs the system. There is no call centre and nobody works on commission.",
+      "link_text": "About Ashley",
+      "link_url": "/about/"
     },
     {
       "title": "An electrician designs it",
@@ -26,68 +40,239 @@
     },
     {
       "title": "Awkward roofs welcome",
-      "body": "Flat roofs, rooflights, dormers, chimneys, parapets, mixed roof sections and ground-mounted arrays. We design around what is actually up there."
+      "body": "Flat roofs, rooflights, dormers, chimneys, parapets, mixed roof sections and ground-mounted arrays. We design around what is actually up there.",
+      "link_text": "See the gallery",
+      "link_url": "/gallery/"
     }
   ],
-  "process": [
-    {
-      "title": "Free survey",
-      "body": "A qualified electrician comes out and looks at the actual roof, the consumer unit, the cable route and how you use electricity. Not a salesperson with a script.",
-      "note": "No charge, no obligation"
+  "process_sets": {
+    "solar": {
+      "title": "What happens after you get in touch",
+      "sub": "The same order every time, and the same person through all of it.",
+      "steps": [
+        {
+          "title": "Free survey",
+          "body": "A qualified electrician comes out and looks at the actual roof, the consumer unit, the cable route and how you use electricity. Not a salesperson with a script.",
+          "note": "No charge, no obligation"
+        },
+        {
+          "title": "System design",
+          "body": "Panel layout, inverter and battery sizing, 3D modelling and generation projections worked out for your property and your tariff rather than a Google Earth guess."
+        },
+        {
+          "title": "Written proposal",
+          "body": "The equipment, the layout and the numbers in writing, with the payback calculation and the assumptions behind it so you can check the working."
+        },
+        {
+          "title": "Installation",
+          "body": "Fitted by the in-house team. A standard domestic install is commonly one to two days, subject to scaffolding, roof condition, consumer unit work and weather.",
+          "note": "Commonly 1 to 2 days"
+        },
+        {
+          "title": "Commissioning and certification",
+          "body": "Tested and certified to the applicable BS 7671 requirements, with MCS-certified equipment and installation so the system is eligible for the Smart Export Guarantee."
+        },
+        {
+          "title": "Handover and aftercare",
+          "body": "We show you the monitoring, explain how to get the most out of the system, and cover two years of routine maintenance afterwards.",
+          "note": "Two years routine maintenance"
+        }
+      ]
     },
-    {
-      "title": "System design",
-      "body": "Panel layout, inverter and battery sizing, 3D modelling and generation projections worked out for your property and your tariff rather than a Google Earth guess."
+    "battery": {
+      "title": "How a battery installation runs",
+      "sub": "Whether it is going in alongside solar or on its own.",
+      "steps": [
+        {
+          "title": "Free survey",
+          "body": "We look at where the battery can safely go, the consumer unit, the incoming supply and any existing solar. Lofts are ruled out - that goes against NAPIT guidance.",
+          "note": "No charge, no obligation"
+        },
+        {
+          "title": "Sizing it to your usage",
+          "body": "Capacity is chosen from how much electricity you actually get through and when, along with your tariff. Typical domestic systems are roughly 5kWh to 15kWh."
+        },
+        {
+          "title": "Written proposal",
+          "body": "The battery, the inverter, where each unit goes and what it will cost, with the assumptions behind any savings figure written down alongside it."
+        },
+        {
+          "title": "Installation",
+          "body": "Fitted by the in-house team, including any consumer unit work. If backup during a power cut is part of the design, the essential circuits are agreed before we start."
+        },
+        {
+          "title": "Commissioning and certification",
+          "body": "Tested and certified to the applicable BS 7671 requirements, with charge and discharge windows set up for your tariff."
+        },
+        {
+          "title": "Handover and aftercare",
+          "body": "We walk you through the monitoring app and the tariff settings, then stay on the end of the phone."
+        }
+      ]
     },
-    {
-      "title": "Written proposal",
-      "body": "The equipment, the layout and the numbers in writing, with the payback calculation and the assumptions behind it so you can check the working."
+    "commercial": {
+      "title": "How a commercial installation runs",
+      "sub": "Bigger roofs, more paperwork, same person running it.",
+      "steps": [
+        {
+          "title": "Site survey",
+          "body": "Roof construction and condition, available area, plant and access, the incoming supply and your half-hourly consumption if you have it."
+        },
+        {
+          "title": "Design and modelling",
+          "body": "Array layout, mounting method for the roof type, inverter selection and a generation model built against how the site actually uses electricity through the day."
+        },
+        {
+          "title": "Proposal and grid application",
+          "body": "Costs and projections in writing, with the assumptions stated. Where the system size requires it, we handle the DNO application."
+        },
+        {
+          "title": "Installation",
+          "body": "Scheduled around your operation. Programme depends on roof area, access and scaffolding, and is agreed before we start rather than guessed at."
+        },
+        {
+          "title": "Commissioning and certification",
+          "body": "Tested and certified to the applicable BS 7671 requirements, with the documentation you need for your own records and insurers."
+        },
+        {
+          "title": "Monitoring and aftercare",
+          "body": "Monitoring set up so you can see generation against consumption, and we stay available afterwards."
+        }
+      ]
     },
-    {
-      "title": "Installation",
-      "body": "Fitted by the in-house team. A standard domestic install is commonly one to two days, subject to scaffolding, roof condition, consumer unit work and weather.",
-      "note": "Commonly 1 to 2 days"
+    "ev": {
+      "title": "How an EV charger installation runs",
+      "sub": "The charger is the easy bit. The supply and the earthing are what need checking.",
+      "steps": [
+        {
+          "title": "Survey",
+          "body": "Supply capacity, consumer unit, earthing arrangement, cable route and where the charger should actually go so the lead reaches without crossing a footpath."
+        },
+        {
+          "title": "Choosing the charger",
+          "body": "Tethered or untethered, single or three phase, load management if the supply needs it, and whether it should talk to existing solar or a battery."
+        },
+        {
+          "title": "Installation",
+          "body": "Charger, protective device, cable route and any consumer unit work carried out by a NAPIT-registered electrician."
+        },
+        {
+          "title": "Testing and certification",
+          "body": "Tested and certified to the applicable BS 7671 requirements, including the earthing and protection arrangements specific to EV charging."
+        },
+        {
+          "title": "Handover",
+          "body": "App set up, charging schedules explained, and a walk through of how to use an off-peak tariff if you are on one."
+        }
+      ]
     },
-    {
-      "title": "Commissioning and certification",
-      "body": "Tested and certified to the applicable BS 7671 requirements, with MCS-certified equipment and installation so the system is eligible for the Smart Export Guarantee."
-    },
-    {
-      "title": "Handover and aftercare",
-      "body": "We show you the monitoring, explain how to get the most out of the system, and cover two years of routine maintenance afterwards.",
-      "note": "Two years routine maintenance"
+    "inspection": {
+      "title": "How an inspection works",
+      "sub": "Testing, a written report, and a plain explanation of what is actually urgent.",
+      "steps": [
+        {
+          "title": "Book a slot",
+          "body": "Tell us the property type, roughly how many circuits and consumer units there are, and whether you need it for a tenancy or a sale."
+        },
+        {
+          "title": "Visual inspection",
+          "body": "Consumer unit, earthing and bonding, accessible wiring, sockets, switches and any visible damage or unsafe alterations."
+        },
+        {
+          "title": "Dead and live testing",
+          "body": "Circuit by circuit: continuity, insulation resistance, polarity, earth fault loop impedance and RCD operation."
+        },
+        {
+          "title": "The report",
+          "body": "Observations coded C1, C2, C3 or FI, with each one explained in plain English so you can tell what is dangerous from what is merely worth improving."
+        },
+        {
+          "title": "Certificate",
+          "body": "Issued to you in the form you need, including for landlord records."
+        },
+        {
+          "title": "Remedial work, if you want it",
+          "body": "Anything that needs doing is priced separately and you are free to take it elsewhere. There is no hard sell attached to the report."
+        }
+      ]
     }
-  ],
-  "faqs": [
-    {
-      "q": "Do solar panels actually work in Manchester?",
-      "a": "Yes. Panels generate from daylight rather than direct sunshine, so they keep producing on the grey days we get plenty of, and they often run more efficiently in cooler temperatures than in a heatwave. The annual generation projection we give you already accounts for local weather, your roof orientation and any shading."
-    },
-    {
-      "q": "How long does an installation take?",
-      "a": "A standard residential solar panel installation is commonly completed in one to two days. That can stretch if scaffolding is complicated, the roof needs repair first, the consumer unit needs upgrading, the DNO has requirements, or the weather turns."
-    },
-    {
-      "q": "Do I need planning permission?",
-      "a": "Many domestic solar installations are permitted development. Listed buildings, conservation areas, some flat roofs, ground-mounted arrays and unusual positions can need extra checks or consent. We will tell you where your property sits before you commit to anything."
-    },
-    {
-      "q": "Can I have a battery without solar panels?",
-      "a": "Yes. Standalone home battery installations make sense where the roof is shaded, unsuitable, not yours to alter, or you would rather not have panels on it. On a time-of-use tariff the battery charges at the cheaper off-peak rate and runs the house through the expensive periods."
-    },
-    {
-      "q": "Will a battery keep my house running in a power cut?",
-      "a": "Only if the system is specifically designed for it. Backup needs the right equipment and an essential-circuits design agreed up front, so it is something to raise at survey stage rather than assume. Not every battery installation gives you backup."
-    },
-    {
-      "q": "Who actually turns up to do the work?",
-      "a": "Ashley and the in-house Renegade Solar team. Specialist scaffolding is the only part of the installation we subcontract. The person who surveyed your property is the person overseeing the install and the person you ring afterwards."
-    },
-    {
-      "q": "My roof is a strange shape. Is that a problem?",
-      "a": "Usually not. We have fitted arrays around rooflights, chimneys, dormers and roof lanterns, split installations across several flat roof sections, and put arrays on the ground where the roof was not the right answer. It is worth a survey before you write your property off."
-    }
-  ],
+  },
+  "faq_sets": {
+    "solar": [
+      {
+        "q": "Do solar panels actually work in Manchester?",
+        "a": "Yes. Panels generate from daylight rather than direct sunshine, so they keep producing on the grey days we get plenty of, and they often run more efficiently in cooler temperatures than in a heatwave. The annual generation projection we give you already accounts for local weather, your roof orientation and any shading."
+      },
+      {
+        "q": "How long does an installation take?",
+        "a": "A standard residential solar panel installation is commonly completed in one to two days. That can stretch if scaffolding is complicated, the roof needs repair first, the consumer unit needs upgrading, the DNO has requirements, or the weather turns."
+      },
+      {
+        "q": "Do I need planning permission?",
+        "a": "Many domestic solar installations are permitted development. Listed buildings, conservation areas, some flat roofs, ground-mounted arrays and unusual positions can need extra checks or consent. We will tell you where your property sits before you commit to anything."
+      },
+      {
+        "q": "Can I have a battery without solar panels?",
+        "a": "Yes. Standalone home battery installations make sense where the roof is shaded, unsuitable, not yours to alter, or you would rather not have panels on it. On a time-of-use tariff the battery charges at the cheaper off-peak rate and runs the house through the expensive periods."
+      },
+      {
+        "q": "Will a battery keep my house running in a power cut?",
+        "a": "Only if the system is specifically designed for it. Backup needs the right equipment and an essential-circuits design agreed up front, so it is something to raise at survey stage rather than assume. Not every battery installation gives you backup."
+      },
+      {
+        "q": "Who actually turns up to do the work?",
+        "a": "Ashley and the in-house Renegade Solar team. Specialist scaffolding is the only part of the installation we subcontract. The person who surveyed your property is the person overseeing the install and the person you ring afterwards."
+      },
+      {
+        "q": "My roof is a strange shape. Is that a problem?",
+        "a": "Usually not. We have fitted arrays around rooflights, chimneys, dormers and roof lanterns, split installations across several flat roof sections, and put arrays on the ground where the roof was not the right answer. It is worth a survey before you write your property off."
+      }
+    ],
+    "inspection": [
+      {
+        "q": "How long does an inspection take?",
+        "a": "It depends on the size of the property and how many circuits there are. A small flat with one consumer unit is a good deal quicker than a large house that has been extended twice. We will give you a realistic idea when you book rather than an optimistic one."
+      },
+      {
+        "q": "What do the C1, C2, C3 and FI codes mean?",
+        "a": "C1 means danger is present and needs immediate attention. C2 means potentially dangerous and needs remedial work. C3 means improvement is recommended but the installation is not unsafe. FI means something needs further investigation. C1 and C2 make a report unsatisfactory; C3 on its own does not."
+      },
+      {
+        "q": "Do landlords legally need an EICR?",
+        "a": "Private landlords in England must have the electrical installation in a rented property inspected and tested at least every five years, and give the tenant a copy of the report. Check the current regulations for your situation, since the rules differ between England, Wales, Scotland and Northern Ireland."
+      },
+      {
+        "q": "Do I have to use you for any remedial work?",
+        "a": "No. The report is yours and you are free to take the work elsewhere. We will quote separately for anything that needs doing, and we will tell you what is genuinely urgent and what can wait."
+      },
+      {
+        "q": "Do you need access to everything?",
+        "a": "We need to get to the consumer unit, the incoming supply and the sockets, switches and light fittings on each circuit. The more that is accessible on the day, the fewer items end up coded as needing further investigation."
+      },
+      {
+        "q": "Will you turn the power off?",
+        "a": "Yes, for parts of it. Dead testing means circuits are switched off while they are tested. We will work through it in a sensible order and tell you before anything goes off so you can shut computers down."
+      }
+    ],
+    "ev": [
+      {
+        "q": "Can my supply take an EV charger?",
+        "a": "Usually, but it needs checking rather than assuming. We look at the incoming supply, the main fuse rating, the consumer unit and what else in the house draws heavily. Where the supply is tight, load management can let the charger throttle back instead of tripping the main fuse."
+      },
+      {
+        "q": "How long does it take to fit?",
+        "a": "Most domestic charger installations are a day or less. A long or awkward cable route, a consumer unit upgrade or a three-phase supply can add to that."
+      },
+      {
+        "q": "Can the charger run off my solar panels?",
+        "a": "With the right charger, yes. Some models can be set to charge only from surplus solar generation, or to top up from the grid when there is not enough. It is worth raising at survey stage so the right charger goes in."
+      },
+      {
+        "q": "Who does the work?",
+        "a": "A NAPIT-registered electrician. The supply, the earthing arrangement, the protective device and the certification all matter more on an EV charger than people expect, which is why an electrician does the survey rather than a salesperson."
+      }
+    ]
+  },
   "contact_points": [
     "A qualified electrician does the survey, not a salesperson",
     "Free survey and a written proposal with the numbers behind it",

@@ -8,6 +8,9 @@ location_pages: true
 order: 5
 root: true
 gallery_tags: [electric-vehicle]
+process_set: ev
+faq_set: ev
+hero_sub: "Home and workplace EV charger installation by a NAPIT-registered electrician, with the supply, earthing and protection checked properly first."
 ---
 
 # Electric Vehicle Charger Installations

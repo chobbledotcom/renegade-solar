@@ -1,26 +1,29 @@
 {%- comment -%}
-One real review, blown up large, on a dark band. Reviews come from
-src/_data/reviews.json - nothing here is written by us.
+One real review, set large on a dark band. Reviews come from
+src/_data/featuredReviews.js - a stable pool of top-rated reviews already
+short enough to print whole, so nothing gets cut off mid-sentence and the
+choice does not change character every time the review feed updates.
 
-  {% assign quote_index = 3 %}   which review to pull (default 0)
+  {% assign quote_index = 3 %}   which review to pull (default 0, wraps around)
   {% include "motifs/quote-feature.html" %}
 {%- endcomment -%}
 {%- assign quote_index = quote_index | default: 0 -%}
-{%- assign quote_review = reviews.reviews[quote_index] -%}
+{%- assign quote_index = quote_index | modulo: featuredReviews.size -%}
+{%- assign quote_review = featuredReviews[quote_index] -%}
 {%- if quote_review -%}
 <section class="band band--dark band--tight">
   <div class="band__inner">
     <figure class="quote-feature">
-      <span class="quote-mark" aria-hidden="true">&ldquo;</span>
       <span class="stars" aria-hidden="true">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-      <blockquote>{{ quote_review.review | strip_newlines | truncate: 320 }}</blockquote>
+      <blockquote>&ldquo;{{ quote_review.review }}&rdquo;</blockquote>
       <figcaption class="quote-feature__attrib">
         {{ quote_review.rating.rating | round: 1 }}/10
         {%- if quote_review.location.postcode and quote_review.location.postcode != "" %}
           &middot; {{ quote_review.location.postcode }}
         {%- endif %}
-        &middot; verified review on {{ quote_review.source | default: "Checkatrade" | capitalize }}
         &middot; {{ quote_review.createdAt | date: "%B %Y" }}
+        &middot; <a href="/reviews/">one of {{ reviews.total }} verified reviews</a>
+        from {{ quote_review.source | default: "Checkatrade" | capitalize }}
       </figcaption>
     </figure>
   </div>

@@ -8,6 +8,9 @@ order: 2
 root: true
 gallery_tags:
   - battery
+process_set: battery
+faq_set: solar
+hero_sub: "Home battery storage sized around how you actually use electricity, with or without solar panels, so you can charge at off-peak rates."
 ---
 
 # Home Battery Installations in Manchester

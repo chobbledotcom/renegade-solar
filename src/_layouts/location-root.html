@@ -10,21 +10,21 @@ layout: base.html
   {% assign ph_crumb_text = "All areas" %}
   {% assign ph_crumb_url = "/services/" %}
   {% assign ph_title = page_h1 %}
-  {% assign ph_sub = description %}
   {% assign ph_photo = photo | default: "residential-solar-installation-wide-view.jpg" %}
   {% include "motifs/page-hero.html" %}
 
-  {% assign trust_variant = "dark" %}
-  {% include "motifs/trust-bar.html" %}
-
   {% assign chunks = body_html | splitContent: 2 %}
   {% for chunk in chunks %}
-  <div class="card content">{{ chunk }}</div>
+  {% assign prose_html = chunk %}
+  {% include "motifs/prose.html" %}
   {% unless forloop.last %}
     {% assign quote_index = 1 %}
     {% include "motifs/quote-feature.html" %}
   {% endunless %}
   {% endfor %}
+
+  {% assign trust_variant = "dark" %}
+  {% include "motifs/trust-bar.html" %}
 
   <section class="band band--white">
     <div class="band__inner">

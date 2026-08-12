@@ -30,10 +30,10 @@ All parameters are optional and reset after use:
       <a class="btn ghost-btn" href="{{ cta_secondary_url }}">{{ cta_secondary_text }}</a>
     </div>
     <ul class="cta-banner__meta">
-      <li>{{ reviews.averageRating | round: 2 }}/10 from {{ reviews.total }} reviews</li>
-      <li>MCS-certified, NAP-66870</li>
-      <li>TrustMark registered</li>
-      <li>Reply within 24 hours</li>
+      <li><a href="/reviews/">{{ reviews.averageRating | round: 2 }}/10 from {{ reviews.total }} reviews</a></li>
+      <li><a href="/accreditations/mcs-certified/">MCS-certified, NAP-66870</a></li>
+      <li><a href="/accreditations/trustmark/">TrustMark registered</a></li>
+      <li><a href="/accreditations/napit/">NAPIT approved</a></li>
     </ul>
   </div>
 </section>

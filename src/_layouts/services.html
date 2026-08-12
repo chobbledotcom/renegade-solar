@@ -8,16 +8,16 @@ layout: base.html
 
 <article>
   {% assign ph_title = page_h1 %}
-  {% assign ph_sub = description %}
   {% assign ph_photo = "commercial-solar-panels.jpg" %}
   {% include "motifs/page-hero.html" %}
 
-  {% assign trust_variant = "dark" %}
-  {% include "motifs/trust-bar.html" %}
-
-  <div class="card content">{{ body_html }}</div>
+  {% assign prose_html = body_html %}
+  {% include "motifs/prose.html" %}
 
   {% include "motifs/service-tiles.html" %}
+
+  {% assign trust_variant = "dark" %}
+  {% include "motifs/trust-bar.html" %}
 
   {% include "motifs/why-us.html" %}
 
