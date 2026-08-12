@@ -1,0 +1,22 @@
+{%- comment -%}
+Section heading: small pill, big title, optional standfirst.
+
+Set these immediately before including, they are cleared again at the end:
+  sh_eyebrow  - short label in the pill (optional)
+  sh_title    - the heading (required)
+  sh_sub      - one line of explanation (optional)
+  sh_align    - "left" to left-align (optional, defaults to centred)
+
+  {% assign sh_eyebrow = "How it works" %}
+  {% assign sh_title = "From first phone call to handover" %}
+  {% include "motifs/section-head.html" %}
+{%- endcomment -%}
+<div class="section-head{% if sh_align == 'left' %} section-head--left{% endif %}">
+  {%- if sh_eyebrow %}<span class="eyebrow">{{ sh_eyebrow }}</span>{% endif -%}
+  <h2>{{ sh_title }}</h2>
+  {%- if sh_sub %}<p>{{ sh_sub }}</p>{% endif -%}
+</div>
+{%- assign sh_eyebrow = nil -%}
+{%- assign sh_title = nil -%}
+{%- assign sh_sub = nil -%}
+{%- assign sh_align = nil -%}

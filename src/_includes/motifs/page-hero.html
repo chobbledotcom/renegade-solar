@@ -1,0 +1,41 @@
+{%- comment -%}
+Compact dark header for service, location and standard pages: breadcrumb,
+page title, and the short benefit run. The h1 here is the page's real h1 -
+layouts lift it out of the markdown with the `firstHeading` filter so it does
+not appear twice.
+
+The standfirst comes from `hero_sub` in the page's front matter, and only
+from there. It deliberately does NOT fall back to the meta `description`:
+descriptions are written for search results and several carry claims - "3-4
+year payback", "bills to zero" - that AGENTS.md does not allow as on-page
+copy. A page with no `hero_sub` simply shows its title.
+
+  {% assign ph_crumb_text = "Services" %}
+  {% assign ph_crumb_url = "/services/" %}
+  {% assign ph_photo = "panels-roof-in-progress.jpg" %}   (optional backdrop)
+  {% include "motifs/page-hero.html" %}
+{%- endcomment -%}
+<section class="page-hero">
+  {%- if ph_photo %}
+  <div class="page-hero__bg" aria-hidden="true">
+    <img src="/assets/photos/{{ ph_photo }}" alt="" sizes="100vw"
+         eleventy:widths="1600,1200,900,600,400" loading="eager" decoding="async" fetchpriority="high">
+  </div>
+  {%- endif %}
+  <div class="page-hero__inner">
+    {%- if ph_crumb_text %}
+    <p class="breadcrumb"><a href="{{ ph_crumb_url | default: '/' }}">&larr; {{ ph_crumb_text }}</a></p>
+    {%- endif %}
+    <h1>{{ ph_title | default: heading | default: link_title | default: title }}</h1>
+    {%- assign ph_standfirst = ph_sub | default: hero_sub -%}
+    {%- if ph_standfirst %}<p>{{ ph_standfirst }}</p>{% endif %}
+    {%- assign trust_short = true -%}
+    {%- assign trust_variant = "bare" -%}
+    {% include "motifs/trust-bar.html" %}
+  </div>
+</section>
+{%- assign ph_crumb_text = nil -%}
+{%- assign ph_crumb_url = nil -%}
+{%- assign ph_photo = nil -%}
+{%- assign ph_title = nil -%}
+{%- assign ph_sub = nil -%}

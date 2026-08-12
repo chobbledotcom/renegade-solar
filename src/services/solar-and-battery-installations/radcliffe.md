@@ -14,7 +14,7 @@ gallery_tags: [solar-panels]
 
 We provide [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Radcliffe. We're based about fifteen minutes up the road in [Prestwich](/prestwich/), so getting out for a survey isn't an issue, and there are no travel charges on top.
 
-Ashley Merritt runs Renegade Solar. He's an [MCS-certified](/accreditations/mcs-certified/) electrician with over fifteen years on the tools, and he does every survey himself. When you enquire, you get a qualified electrician looking at your roof and designing your system - not a salesperson.
+Ashley Merritt runs Renegade Solar. He's an [MCS-certified](/accreditations/mcs-certified/) electrician with over twenty years on the tools, and he does every survey himself. When you enquire, you get a qualified electrician looking at your roof and designing your system - not a salesperson.
 
 ## Radcliffe property types and solar suitability
 

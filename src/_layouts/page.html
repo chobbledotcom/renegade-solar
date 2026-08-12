@@ -2,7 +2,38 @@
 layout: base.html
 ---
 
+{%- assign body_html = content -%}
+{%- assign page_h1 = body_html | firstHeading -%}
+{%- assign body_html = body_html | withoutFirstHeading -%}
+
 <article>
-  <div class="card content">{{ content }}</div>
-  {% include "contact-form.html" %}
+  {% assign ph_title = page_h1 %}
+  {% assign ph_photo = photo | default: "panels.jpg" %}
+  {% include "motifs/page-hero.html" %}
+
+  {% assign chunks = body_html | splitContent: 2 %}
+  {% for chunk in chunks %}
+  {% assign prose_html = chunk %}
+  {% include "motifs/prose.html" %}
+  {% unless forloop.last %}
+    {% assign trust_variant = "dark" %}
+    {% include "motifs/trust-bar.html" %}
+  {% endunless %}
+  {% endfor %}
+
+  {% unless hide_motifs %}
+  {% if chunks.size < 2 %}
+    {% assign trust_variant = "dark" %}
+    {% include "motifs/trust-bar.html" %}
+  {% endif %}
+
+  {% include "motifs/accreditation-band.html" %}
+
+  {% assign quote_index = 2 %}
+  {% include "motifs/quote-feature.html" %}
+
+  {% include "motifs/cta-banner.html" %}
+  {% endunless %}
+
+  {% include "motifs/contact-panel.html" %}
 </article>

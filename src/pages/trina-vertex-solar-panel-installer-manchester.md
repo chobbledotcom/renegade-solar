@@ -59,7 +59,7 @@ He'll assess your roof during the free survey, plan the optimal layout for your 
 
 - [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870)
 - [**TrustMark Registered**](/accreditations/trustmark/)
-- [**NAPIT Registered**](/accreditations/napit/) (66870)
+- [**NAPIT registered**](/accreditations/napit/)
 - [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
 - **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews
 - 5-year minimum warranty on all equipment, panels warranted up to 30 years

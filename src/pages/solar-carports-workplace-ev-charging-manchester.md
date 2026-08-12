@@ -79,7 +79,7 @@ Planning workplace EV charging in phases is also possible. The first installatio
 
 ## An electrician-led installation
 
-Renegade Solar is run by Ashley Merritt, a qualified NAPIT-registered electrician with over fifteen years of experience, including more than ten years on commercial projects. His commercial and industrial background includes work at the Jersey Recycling Centre. He assesses the site, designs the electrical installation and remains involved through installation, testing, certification and aftercare. The Renegade team handles installation work in-house, with only specialist scaffolding subcontracted where an MCS-certified solar installation needs it.
+Renegade Solar is run by Ashley Merritt, a qualified NAPIT-registered electrician with over twenty years of experience, including more than ten years on commercial projects. His commercial and industrial background includes work at the Jersey Recycling Centre. He assesses the site, designs the electrical installation and remains involved through installation, testing, certification and aftercare. The Renegade team handles installation work in-house, with only specialist scaffolding subcontracted where an MCS-certified solar installation needs it.
 
 That commercial background matters when the chargers have to connect to an existing distribution system without disrupting normal operations. Installation can be planned around shifts, deliveries and customer access at offices, factories, warehouses and retail sites, with testing and certification completed as part of the work.
 

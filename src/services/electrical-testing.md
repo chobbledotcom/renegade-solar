@@ -3,8 +3,12 @@ title: Electrical Testing
 snippet: Testing, inspecting, and commissioning from an electrician with 20+
   years experience.
 icon: /assets/icons/plug.svg
+photo: bowlee-smart-home-controls.jpg
 order: 4
 root: true
+process_set: inspection
+faq_set: inspection
+hero_sub: "Testing, inspection and commissioning for domestic and commercial properties, documented so you can prove what was checked."
 ---
 # Electrical Testing
 

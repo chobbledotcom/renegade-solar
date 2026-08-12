@@ -1,0 +1,1385 @@
+// Reusable page motifs
+//
+// These are the repeating blocks that break a page up: benefit bars, stat
+// strips, numbered process steps, pull quotes, photo strips, CTA banners and
+// so on. Each one has a matching snippet in src/_includes/motifs/ so a page
+// only ever includes the snippet - it never hand-writes this markup.
+
+$page-width: 1200px !default;
+$mobile-width: 768px !default;
+
+// ---------------------------------------------------------------------------
+// Bands
+//
+// A band is a full-bleed horizontal stripe. Everything inside it is held to
+// the page width by .band__inner. Bands are what give a page its rhythm:
+// alternate light, white and dark and a long page stops reading as one slab.
+// ---------------------------------------------------------------------------
+
+.band {
+  width: 100%;
+  padding: var(--band-pad) 0;
+  background: var(--surface-alt);
+  position: relative;
+
+  &__inner {
+    max-width: $page-width;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+  &--tight {
+    padding: var(--band-pad-tight) 0;
+  }
+
+  &--flush {
+    padding: 0;
+  }
+
+  &--white {
+    background: var(--surface);
+  }
+
+  &--green-tint {
+    background: var(--green-50);
+  }
+
+  &--dark {
+    background: var(--ink-900);
+    color: #ffffff;
+
+    h2,
+    h3,
+    h4 {
+      color: #ffffff;
+    }
+
+    a {
+      color: var(--green-400);
+    }
+
+    p {
+      color: rgba(255, 255, 255, 0.82);
+    }
+  }
+
+  &--green {
+    background: linear-gradient(135deg, var(--green-800), var(--green-600));
+    color: #ffffff;
+
+    h2,
+    h3,
+    h4 {
+      color: #ffffff;
+    }
+
+    a {
+      color: #ffffff;
+    }
+
+    p {
+      color: rgba(255, 255, 255, 0.9);
+    }
+  }
+
+  // A hairline at the top of a band, used where two light bands meet.
+  &--ruled {
+    border-top: 1px solid var(--border);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Section heading: eyebrow pill, title, standfirst
+// ---------------------------------------------------------------------------
+
+.section-head {
+  text-align: center;
+  max-width: 44rem;
+  margin: 0 auto 2.5rem;
+
+  &--left {
+    text-align: left;
+    margin-left: 0;
+  }
+
+  .eyebrow {
+    display: inline-block;
+    background: var(--green-100);
+    color: var(--green-800);
+    font-family: "Abel", var(--system-ui);
+    font-size: 0.95rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.3rem 0.9rem;
+    border-radius: var(--radius-pill);
+    line-height: 1.6;
+    margin-bottom: 0.9rem;
+  }
+
+  h2 {
+    font-size: 2.35rem;
+    line-height: 1.15;
+    margin: 0 0 0.75rem;
+
+    @media (max-width: $mobile-width) {
+      font-size: 1.7rem;
+    }
+  }
+
+  p {
+    margin: 0;
+    color: var(--ink-500);
+    line-height: 1.65;
+  }
+}
+
+.band--dark .section-head,
+.band--green .section-head {
+  .eyebrow {
+    background: rgba(255, 255, 255, 0.12);
+    color: var(--green-300);
+  }
+
+  p {
+    color: rgba(255, 255, 255, 0.8);
+  }
+}
+
+.band--green .section-head .eyebrow {
+  color: #ffffff;
+}
+
+// ---------------------------------------------------------------------------
+// Trust bar: a horizontal run of short benefit statements with tick marks.
+// This is the motif that appears most often - directly under a hero, between
+// two heavy text sections, or above the contact form.
+// ---------------------------------------------------------------------------
+
+.trust-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 2.5rem;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-family: "Abel", var(--system-ui);
+    font-size: 1.1rem;
+    line-height: 1.35;
+    color: inherit;
+  }
+
+  .tick {
+    flex: 0 0 auto;
+    width: 1.4rem;
+    height: 1.4rem;
+    border-radius: 50%;
+    background: var(--green-500);
+    color: #ffffff;
+    display: grid;
+    place-items: center;
+    font-size: 0.85rem;
+    font-weight: 700;
+    line-height: 1;
+  }
+
+  @media (max-width: $mobile-width) {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.7rem;
+
+    li {
+      font-size: 1rem;
+    }
+  }
+
+  // The standalone band version gets one column per benefit so longer
+  // statements sit in a tidy row instead of wrapping raggedly.
+  &--grid {
+    @media (min-width: 900px) {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1.5rem;
+      align-items: start;
+
+      li {
+        align-items: flex-start;
+      }
+
+      .tick {
+        margin-top: 0.1rem;
+      }
+    }
+  }
+}
+
+.band--dark .trust-bar .tick {
+  background: var(--green-500);
+}
+
+// ---------------------------------------------------------------------------
+// Stat strip: the handful of numbers worth shouting about.
+// ---------------------------------------------------------------------------
+
+.stat-strip {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.25rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  @media (max-width: 900px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  li {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.5rem 1.25rem;
+    text-align: center;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .stat-value {
+    display: block;
+    font-family: "Abel", var(--system-ui);
+    font-size: 2.5rem;
+    line-height: 1.1;
+    color: var(--green-700);
+    margin-bottom: 0.35rem;
+
+    @media (max-width: $mobile-width) {
+      font-size: 2rem;
+    }
+  }
+
+  .stat-label {
+    display: block;
+    font-size: 0.95rem;
+    line-height: 1.4;
+    color: var(--ink-500);
+  }
+}
+
+.band--dark .stat-strip li {
+  background: rgba(255, 255, 255, 0.05);
+  border-color: rgba(255, 255, 255, 0.12);
+  box-shadow: none;
+}
+
+.band--dark .stat-strip {
+  .stat-value {
+    color: var(--green-400);
+  }
+
+  .stat-label {
+    color: rgba(255, 255, 255, 0.72);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// CTA banner: the "right, get in touch" block. Dropped in several times down
+// a long page so there is always one within a screen or two.
+// ---------------------------------------------------------------------------
+
+.cta-banner {
+  text-align: center;
+
+  h2 {
+    font-size: 2.1rem;
+    line-height: 1.2;
+    margin: 0 0 0.75rem;
+
+    @media (max-width: $mobile-width) {
+      font-size: 1.6rem;
+    }
+  }
+
+  &__sub {
+    margin: 0 auto 1.75rem;
+    max-width: 46rem;
+    font-size: 1.05rem;
+  }
+
+  &__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 1.25rem;
+    justify-content: center;
+    margin: 1.5rem 0 0;
+    padding: 0;
+    list-style: none;
+    font-size: 0.95rem;
+    color: rgba(255, 255, 255, 0.75);
+
+    li + li::before {
+      content: "·";
+      margin-right: 1.25rem;
+      opacity: 0.6;
+    }
+  }
+
+  &__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Numbered process steps
+// ---------------------------------------------------------------------------
+
+.steps {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  counter-reset: step;
+  display: grid;
+  gap: 1.25rem;
+
+  li {
+    counter-increment: step;
+    position: relative;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.4rem 1.5rem 1.4rem 4.5rem;
+    box-shadow: var(--shadow-sm);
+
+    &::before {
+      content: counter(step);
+      position: absolute;
+      left: 1.25rem;
+      top: 1.35rem;
+      width: 2.4rem;
+      height: 2.4rem;
+      border-radius: 50%;
+      background: var(--green-700);
+      color: #ffffff;
+      font-family: "Abel", var(--system-ui);
+      font-size: 1.25rem;
+      display: grid;
+      place-items: center;
+      line-height: 1;
+    }
+
+    @media (max-width: $mobile-width) {
+      padding: 1.2rem 1.1rem 1.2rem 3.9rem;
+
+      &::before {
+        left: 0.85rem;
+        width: 2.1rem;
+        height: 2.1rem;
+        font-size: 1.1rem;
+      }
+    }
+  }
+
+  h3 {
+    margin: 0 0 0.4rem;
+    font-size: 1.25rem;
+    line-height: 1.3;
+  }
+
+  p {
+    margin: 0;
+    line-height: 1.6;
+    color: var(--ink-600);
+  }
+
+  .step-note {
+    display: inline-block;
+    margin-top: 0.75rem;
+    background: var(--green-50);
+    border: 1px solid var(--green-100);
+    color: var(--green-800);
+    border-radius: var(--radius-pill);
+    padding: 0.2rem 0.8rem;
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+
+  @media (min-width: 900px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Feature split: photograph one side, words the other. Alternate the side to
+// keep a long page moving.
+// ---------------------------------------------------------------------------
+
+.feature-split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  align-items: center;
+
+  @media (max-width: 900px) {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  &__media {
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+    line-height: 0;
+
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      max-height: 26rem;
+      object-fit: cover;
+      object-position: center 40%;
+      // Beat the global .content img rules, which float images right.
+      float: none;
+      margin: 0;
+      max-width: 100%;
+      border: 0;
+      border-radius: 0;
+    }
+  }
+
+  &--reverse &__media {
+    order: 2;
+
+    @media (max-width: 900px) {
+      order: 0;
+    }
+  }
+
+  h2 {
+    margin-top: 0;
+    font-size: 2rem;
+    line-height: 1.2;
+
+    @media (max-width: $mobile-width) {
+      font-size: 1.6rem;
+    }
+  }
+
+  p {
+    line-height: 1.7;
+  }
+
+  .btn {
+    margin-top: 0.5rem;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Pull quote from a real review
+// ---------------------------------------------------------------------------
+
+.quote-feature {
+  max-width: 52rem;
+  margin: 0 auto;
+  text-align: center;
+
+  blockquote {
+    margin: 0;
+    font-style: normal;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    text-wrap: pretty;
+
+    @media (max-width: $mobile-width) {
+      font-size: 1.2rem;
+    }
+  }
+
+  &__attrib {
+    margin: 1.25rem 0 0;
+    font-size: 0.98rem;
+    opacity: 0.75;
+  }
+
+  .stars {
+    color: var(--amber-500);
+    letter-spacing: 0.1em;
+    display: block;
+    margin-bottom: 0.75rem;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Review cards, three across
+// ---------------------------------------------------------------------------
+
+.review-strip {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  @media (max-width: 900px) {
+    grid-template-columns: 1fr;
+  }
+
+  li {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    box-shadow: var(--shadow-sm);
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .stars {
+    color: var(--amber-500);
+    letter-spacing: 0.08em;
+  }
+
+  h3 {
+    margin: 0;
+    font-size: 1.15rem;
+    line-height: 1.35;
+  }
+
+  p {
+    margin: 0;
+    line-height: 1.6;
+    color: var(--ink-600);
+  }
+
+  .review-strip__meta {
+    margin-top: auto;
+    padding-top: 0.5rem;
+    font-size: 0.9rem;
+    color: var(--ink-400);
+    border-top: 1px solid var(--border);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Photo strip: a horizontal run of real job photographs.
+// ---------------------------------------------------------------------------
+
+.photo-strip {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(15rem, 1fr);
+  gap: 1rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  padding-bottom: 0.25rem;
+  list-style: none;
+  margin: 0;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  li {
+    scroll-snap-align: start;
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+    line-height: 0;
+    background: var(--ink-800);
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+    // Beat the global .content img float rules.
+    float: none;
+    margin: 0;
+    max-width: 100%;
+    max-height: none;
+    border: 0;
+    border-radius: 0;
+  }
+
+  a:hover img,
+  a:focus img {
+    transform: scale(1.05);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Two-tone checklist: what is included / what to watch out for
+// ---------------------------------------------------------------------------
+
+.checklists {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+
+  @media (max-width: 900px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.checklist {
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  border: 1px solid var(--border);
+  background: var(--surface);
+
+  h3 {
+    margin: 0 0 1rem;
+    font-size: 1.2rem;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.65rem;
+  }
+
+  li {
+    display: grid;
+    grid-template-columns: 1.4rem 1fr;
+    gap: 0.7rem;
+    align-items: start;
+    line-height: 1.55;
+  }
+
+  .mark {
+    width: 1.4rem;
+    height: 1.4rem;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #ffffff;
+    margin-top: 0.25rem;
+    line-height: 1;
+  }
+
+  &--yes {
+    background: var(--green-50);
+    border-color: var(--green-100);
+
+    h3 {
+      color: var(--green-800);
+    }
+
+    .mark {
+      background: var(--green-600);
+    }
+  }
+
+  &--no {
+    background: #fdf3f2;
+    border-color: #f6ddda;
+
+    h3 {
+      color: #a1352a;
+    }
+
+    .mark {
+      background: #c2452f;
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// FAQ accordion, built on <details> so it works without JavaScript
+// ---------------------------------------------------------------------------
+
+.faq {
+  display: grid;
+  gap: 0.75rem;
+  max-width: 52rem;
+  margin: 0 auto;
+
+  details {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-sm);
+    overflow: hidden;
+  }
+
+  summary {
+    cursor: pointer;
+    padding: 1.1rem 3rem 1.1rem 1.25rem;
+    font-family: "Abel", var(--system-ui);
+    font-size: 1.2rem;
+    line-height: 1.4;
+    color: var(--green-800);
+    position: relative;
+    list-style: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::after {
+      content: "+";
+      position: absolute;
+      right: 1.25rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 1.6rem;
+      line-height: 1;
+      color: var(--green-600);
+      transition: transform 0.2s ease;
+    }
+  }
+
+  details[open] summary::after {
+    content: "\2212";
+  }
+
+  summary:hover {
+    background: var(--green-50);
+  }
+
+  .faq__answer {
+    padding: 0 1.25rem 1.25rem;
+    line-height: 1.7;
+    color: var(--ink-600);
+
+    p:first-child {
+      margin-top: 0;
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Chip list, used for the areas covered
+// ---------------------------------------------------------------------------
+
+.chip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  a {
+    display: inline-block;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-pill);
+    padding: 0.35rem 1rem;
+    text-decoration: none;
+    font-size: 1rem;
+    line-height: 1.7;
+    transition:
+      background 0.2s ease,
+      border-color 0.2s ease,
+      transform 0.2s ease;
+
+    &:hover {
+      background: var(--green-700);
+      border-color: var(--green-700);
+      color: #ffffff;
+      transform: translateY(-1px);
+    }
+  }
+
+  .chip-plain {
+    display: inline-block;
+    padding: 0.35rem 1rem;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: var(--ink-400);
+  }
+}
+
+.band--dark .chip-list a {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.14);
+  color: rgba(255, 255, 255, 0.88);
+
+  &:hover {
+    background: var(--green-600);
+    border-color: var(--green-600);
+    color: #ffffff;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Contact panel: reasons to get in touch on one side, the form on the other.
+// ---------------------------------------------------------------------------
+
+.contact-panel {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  align-items: start;
+
+  @media (max-width: 900px) {
+    grid-template-columns: 1fr;
+    gap: 1.75rem;
+  }
+
+  h2 {
+    margin-top: 0;
+    font-size: 2rem;
+    line-height: 1.2;
+
+    @media (max-width: $mobile-width) {
+      font-size: 1.6rem;
+    }
+  }
+
+  &__points {
+    list-style: none;
+    margin: 1.5rem 0 0;
+    padding: 0;
+    display: grid;
+    gap: 0.9rem;
+
+    li {
+      display: grid;
+      grid-template-columns: 1.5rem 1fr;
+      gap: 0.75rem;
+      align-items: start;
+      line-height: 1.55;
+    }
+
+    .tick {
+      width: 1.5rem;
+      height: 1.5rem;
+      border-radius: 50%;
+      background: var(--green-500);
+      color: #ffffff;
+      display: grid;
+      place-items: center;
+      font-size: 0.85rem;
+      font-weight: 700;
+      margin-top: 0.2rem;
+      line-height: 1;
+    }
+  }
+
+  &__direct {
+    margin-top: 1.75rem;
+    display: grid;
+    gap: 0.6rem;
+
+    a {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.6rem;
+      font-family: "Abel", var(--system-ui);
+      font-size: 1.25rem;
+      text-decoration: none;
+
+      img {
+        width: 1.4rem;
+        height: 1.4rem;
+        // Beat the global .content img rules.
+        float: none;
+        margin: 0;
+        border: 0;
+        border-radius: 0;
+        max-width: none;
+      }
+    }
+  }
+
+  .contact-form-form {
+    margin: 0;
+    max-width: none;
+    width: 100%;
+  }
+}
+
+.band--dark .contact-panel {
+  .contact-form-form {
+    background: var(--surface);
+  }
+
+  &__direct a {
+    color: var(--green-400);
+
+    img {
+      filter: invert(64%) sepia(38%) saturate(628%) hue-rotate(73deg)
+        brightness(96%) contrast(88%);
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Service cards with photographs
+// ---------------------------------------------------------------------------
+
+.service-tiles {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+
+  @media (max-width: 900px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (max-width: $mobile-width) {
+    grid-template-columns: 1fr;
+  }
+
+  a {
+    display: flex;
+    flex-direction: column;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    text-decoration: none;
+    box-shadow: var(--shadow-sm);
+    transition:
+      transform 0.2s ease,
+      box-shadow 0.2s ease;
+
+    &:hover {
+      transform: translateY(-3px);
+      box-shadow: var(--shadow-lg);
+
+      .service-tiles__media img {
+        transform: scale(1.05);
+      }
+    }
+  }
+
+  &__media {
+    position: relative;
+    line-height: 0;
+    overflow: hidden;
+    background: var(--ink-800);
+    aspect-ratio: 16 / 9;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.4s ease;
+      float: none;
+      margin: 0;
+      max-width: 100%;
+      max-height: none;
+      border: 0;
+      border-radius: 0;
+    }
+  }
+
+  &__icon {
+    position: absolute;
+    left: 1rem;
+    bottom: 1rem;
+    width: 3rem;
+    height: 3rem;
+    border-radius: var(--radius-sm);
+    background: rgba(14, 22, 19, 0.72);
+    display: grid;
+    place-items: center;
+    backdrop-filter: blur(2px);
+
+    img {
+      width: 1.7rem !important;
+      height: 1.7rem !important;
+      object-fit: contain;
+      filter: brightness(0) invert(1);
+    }
+  }
+
+  &__body {
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    flex: 1;
+  }
+
+  h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    line-height: 1.35;
+  }
+
+  p {
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.55;
+    color: var(--ink-500);
+  }
+
+  .service-tiles__more {
+    margin-top: auto;
+    padding-top: 0.5rem;
+    font-family: "Abel", var(--system-ui);
+    color: var(--green-700);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Compact page header used at the top of service and location pages
+// ---------------------------------------------------------------------------
+
+.page-hero {
+  background: var(--ink-900);
+  color: #ffffff;
+  padding: 3.25rem 0;
+  min-height: 15rem;
+  display: flex;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+
+  @media (max-width: $mobile-width) {
+    padding: 2.25rem 0;
+    min-height: 0;
+  }
+
+  &__bg {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 55%;
+      float: none;
+      margin: 0;
+      max-width: 100%;
+      max-height: none;
+      border: 0;
+      border-radius: 0;
+    }
+
+    // Dark enough for white text to sit on comfortably, light enough that the
+    // photograph still reads as a photograph.
+    &::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        100deg,
+        rgba(10, 18, 14, 0.92) 0%,
+        rgba(10, 18, 14, 0.8) 45%,
+        rgba(16, 45, 25, 0.62) 100%
+      );
+    }
+  }
+
+  &__inner {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    max-width: $page-width;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+  .breadcrumb {
+    font-size: 0.95rem;
+    margin: 0 0 0.75rem;
+    color: rgba(255, 255, 255, 0.7);
+
+    a {
+      color: var(--green-300);
+      text-decoration: none;
+
+      &:hover {
+        color: #ffffff;
+        text-decoration: underline;
+      }
+    }
+  }
+
+  h1 {
+    color: #ffffff;
+    margin: 0;
+    font-size: 2.6rem;
+    line-height: 1.15;
+
+    @media (max-width: $mobile-width) {
+      font-size: 1.85rem;
+    }
+  }
+
+  p {
+    margin: 0.85rem 0 0;
+    max-width: 46rem;
+    color: rgba(255, 255, 255, 0.85);
+    line-height: 1.6;
+  }
+
+  .trust-bar {
+    justify-content: flex-start;
+    margin-top: 1.5rem;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Buttons on dark backgrounds
+// ---------------------------------------------------------------------------
+
+.btn.accent-btn {
+  background-color: var(--amber-500);
+  color: var(--ink-900);
+
+  &:hover {
+    background-color: var(--amber-400);
+    box-shadow: 0 5px 15px rgba(245, 166, 35, 0.35);
+  }
+}
+
+.btn.ghost-btn {
+  background-color: transparent;
+  color: #ffffff;
+  border: 2px solid rgba(255, 255, 255, 0.6);
+
+  &:hover {
+    background-color: rgba(255, 255, 255, 0.12);
+    border-color: #ffffff;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Why-us cards
+// ---------------------------------------------------------------------------
+
+.why-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+
+  @media (max-width: 1000px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (max-width: $mobile-width) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.why-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-top: 3px solid var(--green-500);
+  border-radius: var(--radius);
+  padding: 1.5rem 1.35rem;
+  box-shadow: var(--shadow-sm);
+
+  h3 {
+    margin: 0 0 0.6rem;
+    font-size: 1.2rem;
+    line-height: 1.3;
+  }
+
+  p {
+    margin: 0;
+    line-height: 1.6;
+    color: var(--ink-600);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Shared bits
+// ---------------------------------------------------------------------------
+
+// The centred button under a motif.
+.motif-actions {
+  text-align: center;
+  margin: 2rem 0 0;
+}
+
+.accreditation-band__title {
+  text-align: center;
+  font-family: "Abel", var(--system-ui);
+  font-size: 0.95rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-400);
+  margin: 0 0 1.25rem;
+}
+
+.feature-split__body .eyebrow {
+  display: inline-block;
+  background: var(--green-100);
+  color: var(--green-800);
+  font-family: "Abel", var(--system-ui);
+  font-size: 0.95rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.3rem 0.9rem;
+  border-radius: var(--radius-pill);
+  line-height: 1.6;
+  margin-bottom: 0.9rem;
+}
+
+.band--dark .feature-split__body .eyebrow {
+  background: rgba(255, 255, 255, 0.12);
+  color: var(--green-300);
+}
+
+
+// ---------------------------------------------------------------------------
+// Links inside motifs
+//
+// Claims are linked to the page that backs them up - the MCS number to the
+// MCS page, the review score to the reviews. Underlines only appear on hover
+// so a row of five linked benefits does not look like a link farm.
+// ---------------------------------------------------------------------------
+
+.trust-bar a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+  padding-bottom: 1px;
+
+  &:hover,
+  &:focus-visible {
+    border-bottom-style: solid;
+  }
+}
+
+.band--dark .trust-bar a:hover,
+.page-hero .trust-bar a:hover {
+  color: var(--green-400);
+}
+
+.stat-strip a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+
+  &:hover .stat-value,
+  &:focus-visible .stat-value {
+    text-decoration: underline;
+  }
+}
+
+.cta-banner__meta a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+
+  &:hover {
+    border-bottom-style: solid;
+  }
+}
+
+.quote-feature__attrib a,
+.contact-panel__evidence a {
+  color: var(--green-400);
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.contact-panel__evidence {
+  margin: 1.25rem 0 0;
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
+
+.why-card__link {
+  margin: 0.75rem 0 0;
+  font-family: "Abel", var(--system-ui);
+
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Prose band
+//
+// The markdown card sits inside a band like every other block, so it no
+// longer floats loose on the page background between two sections.
+// ---------------------------------------------------------------------------
+
+.band--prose {
+  padding: 2.5rem 0;
+
+  @media (max-width: $mobile-width) {
+    padding: 1.5rem 0;
+  }
+
+  .card {
+    margin: 0;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Focus states
+//
+// Everything interactive needs a visible keyboard focus ring.
+// ---------------------------------------------------------------------------
+
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+  outline: 3px solid var(--green-500);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+.band--dark a:focus-visible,
+.band--green a:focus-visible,
+.page-hero a:focus-visible,
+.hero a:focus-visible,
+footer a:focus-visible {
+  outline-color: var(--green-400);
+}
+
+// ---------------------------------------------------------------------------
+// Reduced motion
+// ---------------------------------------------------------------------------
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+.hero__eyebrow a {
+  color: inherit;
+  text-decoration: none;
+
+  &:hover strong,
+  &:focus-visible strong {
+    text-decoration: underline;
+  }
+}

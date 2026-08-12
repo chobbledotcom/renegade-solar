@@ -3,10 +3,14 @@ title: EV Charger Installation, Repair and Relocation
 snippet: Electric vehicle chargers for homes and businesses
 description: EV charger installation, repair, fault diagnosis and relocation by a NAPIT-registered electrician across North Manchester, with solar panels and home battery integration.
 icon: /assets/icons/car.svg
+photo: commercial-solar-ev-fleet-2.jpg
 location_pages: true
 order: 5
 root: true
 gallery_tags: [electric-vehicle]
+process_set: ev
+faq_set: ev
+hero_sub: "Home and workplace EV charger installation by a NAPIT-registered electrician, with the supply, earthing and protection checked properly first."
 ---
 
 # Electric Vehicle Charger Installations
@@ -43,7 +47,7 @@ EV charger repair availability depends on the brand, parts and manufacturer supp
 
 ## Solar + EV integration
 
-If you've already got solar panels, or you're thinking about getting them, we can set the EV charger up to work with the system. That means you can charge the car from excess solar energy, which can bring your charging costs close to zero during the sunnier months. We've experience with [GivEnergy](/givenergy-installer-manchester/) systems and can configure smart charging to match solar generation and time-of-use tariffs like [Octopus Intelligent Go](/octopus-go-battery-installer-manchester/). Getting the EV charger integrated with the rest of your home energy setup means you get more out of both, and less of your driving comes off the grid.
+If you've already got solar panels, or you're thinking about getting them, we can set the EV charger up to work with the system. That means you can charge the car from excess solar energy, which can cover a good share of your charging during the sunnier months. We've experience with [GivEnergy](/givenergy-installer-manchester/) systems and can configure smart charging to match solar generation and time-of-use tariffs like [Octopus Intelligent Go](/octopus-go-battery-installer-manchester/). Getting the EV charger integrated with the rest of your home energy setup means you get more out of both, and less of your driving comes off the grid.
 
 ## Installation process
 

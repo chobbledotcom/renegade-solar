@@ -13,7 +13,7 @@ gallery_tags: [solar-panels]
 
 We provide [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Hale Barns. We're an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, and we're experienced with the substantial properties that characterise this area.
 
-Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 15 years of experience. When you enquire with us, an electrician surveys your property and designs your system - we don't employ salespeople.
+Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 20 years of experience. When you enquire with us, an electrician surveys your property and designs your system - we don't employ salespeople.
 
 ## Hale Barns properties and solar suitability
 

@@ -1,0 +1,28 @@
+{%- comment -%}
+Four reasons to use Renegade rather than a national outfit. Content lives in
+src/_data/motifs.json.
+
+  {% include "motifs/why-us.html" %}
+{%- endcomment -%}
+<section class="band band--white">
+  <div class="band__inner">
+    {%- assign sh_eyebrow = why_eyebrow | default: "Why us" -%}
+    {%- assign sh_title = why_title | default: "A small Manchester outfit, not a sales operation" -%}
+    {%- assign sh_sub = why_sub | default: "Renegade Solar is run by Ashley Merritt, a qualified electrician. Here is what that changes." -%}
+    {% include "motifs/section-head.html" %}
+    <div class="why-grid">
+      {%- for item in motifs.why %}
+      <div class="why-card">
+        <h3>{{ item.title }}</h3>
+        <p>{{ item.body }}</p>
+        {%- if item.link_url %}
+        <p class="why-card__link"><a href="{{ item.link_url }}">{{ item.link_text }} &rarr;</a></p>
+        {%- endif %}
+      </div>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+{%- assign why_eyebrow = nil -%}
+{%- assign why_title = nil -%}
+{%- assign why_sub = nil -%}

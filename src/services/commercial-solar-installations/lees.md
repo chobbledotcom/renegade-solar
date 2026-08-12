@@ -3,7 +3,7 @@ permalink: /lees/commercial-solar-installations/
 redirect_from:
   - /services/commercial-solar-installations/lees/
 title: Commercial Solar Installations in Lees | Renegade Solar
-description: Commercial solar for Lees businesses. Cut electricity costs 70-100% with 3-4 year payback. MCS-certified installer based in Prestwich.
+description: Commercial solar for Lees businesses. Cut daytime electricity costs with commercial solar. MCS-certified installer based in Prestwich.
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Lees
 icon: /assets/icons/commercial-solar.svg
@@ -13,7 +13,7 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Lees Businesses
 
-Lees businesses spending heavily on electricity can slash those costs with commercial solar. Businesses consume electricity during the day when panels generate - you use nearly every unit directly, which means payback of typically 3-4 years and decades of reduced costs after that.
+Lees businesses spending heavily on electricity can slash those costs with commercial solar. Businesses consume electricity during the day when panels generate - you use nearly every unit directly, which is what shortens the payback. We model it from your own consumption and show you the assumptions.
 
 ## Local businesses that benefit
 

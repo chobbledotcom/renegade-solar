@@ -2,9 +2,13 @@
 title: Electrical Safety Inspections (EICR)
 snippet: Just £150 plus VAT with same-day certificates and no hard sells.
 icon: /assets/icons/check.svg
+photo: bowlee-heywood-new-build-exterior.jpg
 location_pages: true
 order: 6
 root: true
+process_set: inspection
+faq_set: inspection
+hero_sub: "Electrical safety inspections for homeowners, landlords and buyers across Greater Manchester, with the findings explained in plain English."
 ---
 
 # Electrical Safety Inspections (EICR) - Greater Manchester
@@ -79,7 +83,7 @@ Ashley's been doing this for years, so most problems aren't as scary as they sou
 
 ## Why Choose Us for Your EICR?
 
-**NAPIT Registered (66870)** with proper qualifications you can verify online. Ashley's **20+ years experience** means he knows what he's looking at and how to explain it clearly.
+**NAPIT-registered** and **MCS-certified** (certificate [NAP-66870](https://mcscertified.com/find-an-installer/renegade-electrical-ltd/)), both of which you can verify online. Ashley's **20+ years experience** means he knows what he's looking at and how to explain it clearly.
 
 **Honest approach** - we check everything that needs checking and only recommend work that actually needs doing. We don't push hard sells, we don't tack on jobs that don't need doing, and we won't try to scare you into work you don't need.
 

@@ -1,7 +1,7 @@
 ---
 permalink: /middleton/commercial-solar-installations/
 title: Commercial Solar Installations in Middleton | Renegade Solar
-description: Commercial solar for Middleton businesses. Stakehill Industrial Estate, Langley, town centre retail. 3-4 year payback with MCS-certified installer.
+description: Commercial solar for Middleton businesses. Stakehill Industrial Estate, Langley, town centre retail. Designed and installed by an MCS-certified installer.
 redirect_from:
   - /commercial-solar-installations-middleton/
   - /services/commercial-solar-installations/middleton/
@@ -14,7 +14,7 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Middleton Businesses
 
-Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. Typically three to four years, then 20-plus years of dramatically reduced bills.
+Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. It depends on your consumption and the size of the system, so we model it from your own bills and show you the assumptions.
 
 We're based in [Prestwich](/prestwich/commercial-solar-installations/), a short run down the road from Middleton.
 
@@ -28,7 +28,7 @@ A Prestwich baker we spoke to recently was spending around £10,000 a month on e
 
 ## How it tends to play out on the numbers
 
-A manufacturing unit with a large flat roof and a 15-20kW daytime load typically sees payback in around three years, sometimes less. A retail unit with more modest consumption might be closer to four, but the numbers still work because the generation covers the bulk of the daytime electricity draw. We provide multiple design options with detailed projections so you can weigh payback speed against total savings.
+A manufacturing unit with a large flat roof and a 15-20kW daytime load is the kind of building where the payback comes out shortest. A retail unit with more modest consumption might be closer to four, but the numbers still work because the generation covers the bulk of the daytime electricity draw. We provide multiple design options with detailed projections so you can weigh payback speed against total savings.
 
 ## Flat and pitched roofs
 

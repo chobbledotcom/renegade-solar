@@ -3,68 +3,94 @@ layout: base.html
 ---
 
 <div class="hero">
-  <img eleventy:widths="1200,900,600,400,200" src="/assets/photos/renegade-solar-panel-installation-banner.jpg"
-    alt="Solar panels on a tiled residential roof during an installation by Manchester installer Renegade Solar" sizes="auto" loading="eager"
-    fetchpriority="high" />
-  {% if heading %}
-  <h1>{{ heading }}</h1>
-  {% else %}
-  <h1>Solar panel installations in Manchester</h1>
-  {% endif %}
+  <div class="hero__media">
+    <img eleventy:widths="1600,1200,900,600,400" src="/assets/photos/renegade-solar-panel-installation-banner.jpg"
+      alt="Solar panels on a tiled residential roof during an installation by Manchester installer Renegade Solar"
+      sizes="100vw" loading="eager" fetchpriority="high" />
+  </div>
+  <div class="hero__inner">
+    <p class="hero__eyebrow">
+      <span class="stars" aria-hidden="true">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+      <a href="/reviews/">
+        <strong>{{ reviews.averageRating | round: 2 }}/10</strong>
+        from {{ reviews.total }} verified reviews
+      </a>
+    </p>
+    {% if heading %}
+    <h1>{{ heading }}</h1>
+    {% else %}
+    <h1>Solar panel installations in Manchester</h1>
+    {% endif %}
+    <p class="hero__sub">
+      MCS-certified solar panel and battery storage installation across North Manchester,
+      designed and fitted by a qualified electrician rather than a salesperson.
+    </p>
+    {% assign trust_short = true %}
+    {% assign trust_variant = "bare" %}
+    {% include "motifs/trust-bar.html" %}
+    <div class="hero__actions">
+      <a class="btn accent-btn" href="/contact/">Book a free survey</a>
+      <a class="btn ghost-btn" href="/services/">See what we do</a>
+    </div>
+  </div>
 </div>
 
 <article>
-  <div class="card">
-    <div class="services-heading">
-      <h2>Services We Offer</h2>
-    </div>
-    {% include "services-list.html" %}
-  </div>
+  {% include "motifs/service-tiles.html" %}
 
-  {% include "accreditations.html" %}
+  {% assign stat_variant = "dark" %}
+  {% include "motifs/stat-strip.html" %}
 
-  <div class="card">
-    {{ content }}
-    <p>
-      <a class="btn primary-btn" href="/contact/">
-        Contact Renegade Solar
-      </a>
-    </p>
-  </div>
+  {% assign prose_html = content %}
+  {% include "motifs/prose.html" %}
 
-  <div class="row">
-    <div class="highlight">
-      <h3>Top Rated</h3>
-      <p>
-        {{ reviews.averageRating | round: 2 }}/10 on
-        <a href="/reviews/">Checkatrade</a>!
-      </p>
-    </div>
-    <div class="highlight">
-      <h3>Experience</h3>
-      <p>
-        15+ years experience as an Electrician - Residential &amp; Commercial
-      </p>
-    </div>
-    <div class="highlight">
-      <h3>Personalised Solutions</h3>
-      <p>
-        Every home and business is unique, and so are the solar solutions we
-        provide.
-      </p>
-    </div>
-    <div class="highlight">
-      <h3>Community Focused</h3>
-      <p>
-        Supporting local suppliers, charities, and
-        <a href="/social-value-policy/">community initiatives</a>
-        across Manchester.
-      </p>
-    </div>
-  </div>
+  {% assign fs_photo = "ashley.jpg" %}
+  {% assign fs_alt = "Ashley Merritt on site alongside a ground-mounted solar array" %}
+  {% assign fs_eyebrow = "Who you get" %}
+  {% assign fs_title = "You'll be dealing with Ashley" %}
+  {% capture fs_body %}
+  <p>
+    Renegade Solar is run by Ashley Merritt, an electrician with over 20 years on the tools
+    and more than 10 of those on commercial projects. He does the survey himself, designs
+    the system, oversees the install and picks up the phone afterwards.
+  </p>
+  <p>
+    That matters more than it sounds. When a salesperson specs a job you get whatever fits
+    the sales sheet. We have been called out to batteries fitted in lofts, which goes against
+    NAPIT guidance, and to quotes worked out from Google Earth that missed the flat roof that
+    made the most sense for the house.
+  </p>
+  {% endcapture %}
+  {% assign fs_link_url = "/about/" %}
+  {% assign fs_link_text = "About Renegade Solar" %}
+  {% assign fs_variant = "tint" %}
+  {% include "motifs/feature-split.html" %}
+
+  {% include "motifs/why-us.html" %}
+
+  {% assign trust_variant = "tint" %}
+  {% include "motifs/trust-bar.html" %}
+
+  {% include "motifs/process.html" %}
+
+  {% include "motifs/quote-feature.html" %}
+
+  {% include "motifs/accreditation-band.html" %}
+
+  {% assign strip_tags = "solar-panels,battery,commercial" %}
+  {% include "motifs/photo-strip.html" %}
 
   {% include "homepage-reviews.html" %}
-  {% include "contact-form.html" %}
+
+  {% include "motifs/faq.html" %}
+
+  {% include "motifs/areas-strip.html" %}
+
+  {% assign cta_title = "Get a free survey from an actual electrician" %}
+  {% include "motifs/cta-banner.html" %}
+
+  {% include "motifs/contact-panel.html" %}
+
   {% if gallery_tags %}
   <div class="card">
     <h3>Photo Gallery</h3>

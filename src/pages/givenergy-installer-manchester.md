@@ -49,7 +49,7 @@ Ashley regularly adds GivEnergy batteries or chargers to existing solar installa
 
 ## Credentials
 
-- [**NAPIT Registered**](/accreditations/napit/) (66870), so you get proper electrical certification valid for insurance and any future house sale
+- [**NAPIT registered**](/accreditations/napit/), so you get proper electrical certification valid for insurance and any future house sale
 - [**MCS-certified**](/accreditations/mcs-certified/) (NAP-66870)
 - [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
 - **20+ years' experience as an electrician**

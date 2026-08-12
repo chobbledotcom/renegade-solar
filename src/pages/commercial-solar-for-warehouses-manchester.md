@@ -1,6 +1,6 @@
 ---
 title: Commercial Solar for Warehouses & Distribution in Manchester | Renegade Solar
-description: Commercial solar for warehouses, distribution centres and retail units across Greater Manchester. Three-year payback on flat-roof installations. MCS-certified.
+description: Commercial solar for warehouses, distribution centres and retail units across Greater Manchester. Flat-roof installations designed around your daytime load. MCS-certified.
 permalink: /commercial-solar-for-warehouses-manchester/
 link_title: Solar for Warehouses
 heading: Commercial Solar for Warehouses & Distribution in Manchester
@@ -12,9 +12,9 @@ noindex: false
 
 If you own a warehouse, distribution centre or retail unit in Greater Manchester, the chances are you're sitting on a flat roof that could be earning its keep instead of just keeping the rain off.
 
-We're currently designing a system for a carpet and interior design warehouse in [Bolton](/bolton/commercial-solar-installations/). The family own their building, bought it in the 1980s, and currently spend £700 a month on electricity. Ashley's 50-panel flat-roof design takes that bill to zero with a three-year payback. A larger 115-panel system covering both the flat roof and the pitched sections still pays back in four years.
+We're currently designing a system for a carpet and interior design warehouse in [Bolton](/bolton/commercial-solar-installations/). The family own their building, bought it in the 1980s, and currently spend £700 a month on electricity. Ashley's 50-panel flat-roof design is sized to cover a large share of that daytime load, with the generation and payback figures modelled from their own consumption. A larger 115-panel system covers both the flat roof and the pitched sections, with the generation and payback figures modelled from their own consumption.
 
-After payback, both options deliver decades of free energy plus income from selling excess back to the grid through the Smart Export Guarantee.
+After payback, both options mean much cheaper electricity, plus payment for exported units through the Smart Export Guarantee.
 
 ## Who you'd be hiring
 
@@ -32,7 +32,7 @@ Warehouses tick most of the boxes for a strong return:
 - Long-term occupation, since most warehouse owners aren't planning to move
 - Flat roof flexibility, with panels mounted to point south regardless of building orientation
 
-Because warehouse and retail operations consume electricity during the day when [solar generation](/services/solar-and-battery-installations/) is at its peak, you use nearly every kilowatt-hour your panels produce. That's why payback periods on commercial properties are typically 3-4 years, much faster than on a typical home where most consumption happens in the evening.
+Because warehouse and retail operations consume electricity during the day when [solar generation](/services/solar-and-battery-installations/) is at its peak, you use nearly every kilowatt-hour your panels produce. That is why the payback on a commercial property is usually shorter than on a home, where most consumption happens in the evening. We work the figure out for your building rather than quoting a rule of thumb.
 
 ## Why flat roofs work well
 

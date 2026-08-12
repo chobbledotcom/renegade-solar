@@ -1,48 +1,104 @@
-{% include "social-media-links.html" %}
+{%- comment -%}
+Site footer. Four columns of genuinely useful links, the areas we cover, then
+a legal bar with the registration numbers.
+{%- endcomment -%}
 
-{% if page.url == "/" %}
-  {% include "areas-we-cover.html" %}
-{% endif %}
+<div class="site-footer__accreditations">
+  <div class="site-footer__inner">
+    <p class="site-footer__accreditations-title">Certified, registered and independently checked</p>
+    {% include "accreditations.html" %}
+  </div>
+</div>
 
-<p>© 2025 Renegade Electrical</p>
+<div class="site-footer__inner">
+  <div class="site-footer__columns">
+    <div class="site-footer__brand">
+      <img class="site-footer__logo" src="/assets/renegade-solar-logo.png" alt="Renegade Solar" eleventy:ignore>
+      <p>
+        MCS-certified solar panel, battery storage and EV charger installation across
+        North Manchester and the wider North West. Run by Ashley Merritt, a qualified
+        electrician, with the work carried out by our own team.
+      </p>
+      <ul class="site-footer__badges">
+        <li><a href="/accreditations/mcs-certified/">MCS NAP-66870</a></li>
+        <li><a href="/accreditations/trustmark/">TrustMark registered</a></li>
+        <li><a href="/accreditations/napit/">NAPIT</a></li>
+        <li><a href="/reviews/">{{ reviews.averageRating | round: 2 }}/10 from {{ reviews.total }} reviews</a></li>
+      </ul>
+      {% include "social-media-links.html" %}
+    </div>
 
-<p>
-  Registered Company Number:
-  <a href="https://find-and-update.company-information.service.gov.uk/company/11368812">11368812</a>
-</p>
+    <div>
+      <h2>Services</h2>
+      <ul class="site-footer__links">
+        {%- assign footer_services = collections.service | sort: 'data.order' -%}
+        {%- for service in footer_services -%}
+        {%- if service.data.root %}
+        <li><a href="{{ service.url }}">{{ service.data.link_title | default: service.data.title }}</a></li>
+        {%- endif -%}
+        {%- endfor %}
+      </ul>
+    </div>
 
-<p>
-  VAT Number: 501531837
-</p>
+    <div>
+      <h2>Company</h2>
+      <ul class="site-footer__links">
+        <li><a href="/about/">About Renegade Solar</a></li>
+        <li><a href="/reviews/">Reviews ({{ reviews.total }})</a></li>
+        <li><a href="/gallery/">Photo gallery</a></li>
+        <li><a href="/accreditations/">Accreditations</a></li>
+        <li><a href="/news/">News</a></li>
+        <li><a href="/documents/">Documents &amp; certifications</a></li>
+        <li><a href="/social-value-policy/">Social value policy</a></li>
+        <li><a href="/complaints/">Complaints</a></li>
+      </ul>
+    </div>
 
-<p>
-  <a href="/documents/">Documents & Certifications</a>
-  ·
-  <a href="/news/">News</a>
-  ·
-  <a href="/social-value-policy/">Social Value Policy</a>
-</p>
+    <div>
+      <h2>Get in touch</h2>
+      <ul class="site-footer__contact">
+        <li>
+          <img src="/assets/icons/phone.svg" alt="" eleventy:ignore>
+          <a href="tel:07868643147">07868 643 147</a>
+        </li>
+        <li>
+          <img src="/assets/icons/email.svg" alt="" eleventy:ignore>
+          <a href="mailto:renegadeelectrical99@gmail.com">renegadeelectrical99@gmail.com</a>
+        </li>
+        <li>
+          <img src="/assets/icons/check.svg" alt="" eleventy:ignore>
+          <span>Prestwich, North Manchester<br>Serving Greater Manchester and the North West</span>
+        </li>
+      </ul>
+      <p class="margin-top">
+        <a class="btn accent-btn" href="/contact/">Book a free survey</a>
+      </p>
+    </div>
+  </div>
 
-<p>
-  Email:
-  <a href="mailto:renegadeelectrical99@gmail.com">
-    renegadeelectrical99@gmail.com
-  </a>
-</p>
+  <div class="site-footer__areas">
+    <h2>Areas we cover</h2>
+    <p>
+      {%- for location in collections.location -%}
+      <a href="{{ location.url }}">{{ location.data.link_title }}</a>{% unless forloop.last %} &middot; {% endunless %}
+      {%- endfor -%}
+      {%- if collections.location.size > 0 %} &middot; {% endif -%}
+      and the rest of the North West
+    </p>
+  </div>
 
-<p>
-  Phone:
-  <a href="tel:07868643147">
-    07868 643 147
-  </a>
-</p>
-
-<p>
-  Location: Manchester, North West England
-</p>
-
-{% if page.url == "/" %}
-  <p>
-    <a rel="nofollow" href="https://chobble.com/examples/renegade-solar/">website by chobble.com</a>
-  </p>
-{% endif %}
+  <div class="site-footer__legal">
+    <p>
+      &copy; {{ "now" | date: "%Y" }} Renegade Electrical &middot;
+      Registered company
+      <a href="https://find-and-update.company-information.service.gov.uk/company/11368812">11368812</a>
+      &middot; VAT 501531837 &middot; MCS NAP-66870
+    </p>
+    <ul class="site-footer__policy-links">
+      <li><a href="/documents/">Documents</a></li>
+      <li><a href="/complaints/">Complaints</a></li>
+      <li><a href="/social-value-policy/">Social value</a></li>
+      <li><a rel="nofollow" href="https://chobble.com/examples/renegade-solar/">Website by Chobble</a></li>
+    </ul>
+  </div>
+</div>

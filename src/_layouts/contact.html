@@ -3,9 +3,26 @@ layout: base.html
 contact: true
 ---
 
+{%- assign body_html = content -%}
+{%- assign page_h1 = body_html | firstHeading -%}
+{%- assign body_html = body_html | withoutFirstHeading -%}
+
 <article>
-  <div class="card">
-    {{ content }}
-    {% include "contact-form-form.html" %}
-  </div>
+  {% assign ph_title = page_h1 | default: title %}
+  {% assign ph_photo = "residential-solar-installation-wide-view.jpg" %}
+  {% include "motifs/page-hero.html" %}
+
+  {% include "motifs/contact-panel.html" %}
+
+  {% assign prose_html = body_html %}
+  {% include "motifs/prose.html" %}
+
+  {% include "motifs/accreditation-band.html" %}
+
+  {% include "motifs/process.html" %}
+
+  {% assign quote_index = 5 %}
+  {% include "motifs/quote-feature.html" %}
+
+  {% include "motifs/areas-strip.html" %}
 </article>

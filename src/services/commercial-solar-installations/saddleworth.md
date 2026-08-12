@@ -3,7 +3,7 @@ permalink: /saddleworth/commercial-solar-installations/
 redirect_from:
   - /services/commercial-solar-installations/saddleworth/
 title: Commercial Solar Installations in Saddleworth | Renegade Solar
-description: Commercial solar for Saddleworth businesses - shops, hospitality, farms. Cut electricity costs 70-100% with 3-4 year payback. MCS-certified installer.
+description: Commercial solar for Saddleworth businesses - shops, hospitality, farms. Cut daytime electricity costs with commercial solar. MCS-certified installer.
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Saddleworth
 icon: /assets/icons/commercial-solar.svg
@@ -15,7 +15,7 @@ gallery_tags: [commercial]
 
 Saddleworth's village businesses, farms, and rural commercial properties are well-suited to solar. Hospitality businesses in Uppermill and Greenfield running kitchens all day, farms with large outbuildings, and any premises with decent roof space and high electricity consumption - these are the businesses where commercial solar transforms the economics.
 
-Payback is typically 3-4 years because commercial properties use electricity during the day when panels generate. After that, it's 20+ years of dramatically reduced costs.
+The payback tends to be shorter on a commercial property because the electricity is used during the day, as it is generated. We calculate it from your own consumption rather than quoting an average.
 
 ## Rural properties and farms
 

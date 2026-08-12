@@ -36,10 +36,10 @@ Target terms include, but are not limited to:
 
 ## Company Background
 
-- Renegade Solar is owned by Ashley Merritt, a fully qualified electrician with over 15 years of experience, including more than 10 years on commercial projects.
+- Renegade Solar is owned by Ashley Merritt, a fully qualified electrician with over 20 years of experience, including more than 10 years on commercial projects.
 - Ashley established Renegade Electrical in 2018 and expanded into solar panel, battery storage, and EV charger installations.
 - The company is based in North Manchester, around Prestwich and Middleton, and serves Greater Manchester with a focus on North Manchester.
-- MCS certification number: `NAP-66870`.
+- MCS certification number: `NAP-66870`, listed at https://mcscertified.com/find-an-installer/renegade-electrical-ltd/. The `NAP` prefix means it is administered through NAPIT, where Ashley is member `66870`. It is the same number under both schemes, not two registrations - both `NAPIT registered (66870)` and `MCS-certified (NAP-66870)` are correct.
 - Customers deal directly with Ashley rather than a call centre or commissioned sales team.
 - Installation work is handled in-house. Specialist scaffolding is the only subcontracted part of the installation process.
 - Ashley remains personally involved in surveys, design, electrical installation, commissioning, and aftercare, while working with the in-house Renegade Solar team.
@@ -447,6 +447,54 @@ When researching new pages:
 4. Record the source filename and permanent post URL in research notes.
 5. Download an approved image into the site's asset library before using it; never publish an expiring CDN URL.
 6. Write only what the evidence supports and identify anything that still needs confirmation from Ashley.
+
+## Page Motifs
+
+Pages are broken up with reusable snippets rather than long unbroken slabs of prose. Every one lives in `src/_includes/motifs/` and is dropped in with `{% include "motifs/<name>.html" %}`. Each file starts with a comment listing the variables it accepts, and clears them afterwards so a second use on the same page does not inherit the first one's settings.
+
+| Snippet | What it is |
+| --- | --- |
+| `section-head.html` | Eyebrow pill, heading, standfirst. Used inside the other motifs. |
+| `trust-bar.html` | Horizontal run of short benefit statements with tick marks. |
+| `stat-strip.html` | Four headline numbers, pulled live from `reviews.json`. |
+| `cta-banner.html` | Full-width "get in touch" banner with two buttons. |
+| `process.html` | The six numbered steps from first phone call to handover. |
+| `faq.html` | `<details>` accordion. A page can override the questions with a `faqs` list in its front matter. |
+| `why-us.html` | Four cards explaining what a small in-house outfit changes. |
+| `quote-feature.html` | One real review, blown up on a dark band. |
+| `review-strip.html` | Three review cards with a link to the full list. |
+| `photo-strip.html` | Sideways-scrolling run of real job photographs, filtered by `gallery_tags`. |
+| `feature-split.html` | Photograph one side, words the other. |
+| `service-tiles.html` | The services as picture cards. |
+| `areas-strip.html` | Every location page as a chip. |
+| `page-hero.html` | Dark header with breadcrumb, page title and the short benefit run. |
+| `contact-panel.html` | The contact form with reasons to fill it in beside it. |
+| `accreditation-band.html` | The accreditation logos with a line of context. |
+
+Copy for the data-driven motifs lives in `src/_data/motifs.json` - benefits, the process steps, the FAQs and the contact points. Change it there and it changes on every page at once. Anything factual in that file is subject to the same evidence rules as page copy.
+
+Steps and questions are grouped into named sets, because an EICR is not a roof job and solar questions are no use on an inspection page. A page picks its set in front matter:
+
+```yaml
+process_set: inspection   # solar (default) | battery | commercial | ev | inspection | none
+faq_set: inspection       # solar (default) | inspection | ev | none
+```
+
+A page can also supply its own `faqs` list of `{q, a}` pairs, which wins over the set.
+
+Two other front matter fields matter:
+
+- `hero_sub` is the standfirst shown under the page title in the hero. The hero does **not** fall back to the meta `description`, deliberately: descriptions are written for search results and several carry claims - "3-4 year payback", "bills to zero" - that the rules above do not allow as on-page copy. A page with no `hero_sub` just shows its title.
+- `photo` is the photograph used behind the page hero and on the service tile.
+
+Every credential a motif states is linked to the page that backs it up - the MCS number to the MCS accreditation page, the review score to `/reviews/`. When you add a claim to a motif, add the link with it.
+
+Layouts apply the motifs automatically, so a new markdown page gets the full treatment without doing anything. Three Eleventy filters make that work:
+
+- `firstHeading` and `withoutFirstHeading` lift a page's `<h1>` out of the rendered markdown so the page hero can show it without the heading appearing twice.
+- `splitContent` chops long markdown at its own `<h2>` boundaries so a layout can drop a motif between the sections. It refuses to split inside an unclosed `<div>`, and returns a single chunk for short pages.
+
+Styling is in `src/css/_motifs.scss`, with colours, radii and shadows in `src/css/_tokens.scss`. A full-bleed stripe is a `.band` with a `.band__inner` inside it; alternate `band--white`, `band--dark`, `band--green` and `band--green-tint` down a page to keep it moving.
 
 ## Final Check
 

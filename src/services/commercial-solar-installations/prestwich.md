@@ -1,7 +1,7 @@
 ---
 permalink: /prestwich/commercial-solar-installations/
 title: Commercial Solar Installations in Prestwich | Renegade Solar
-description: Commercial solar for Prestwich businesses. Local baker spending £10k/month nearly went under - we can help. 3-4 year payback, decades of savings.
+description: Commercial solar for Prestwich businesses. Local baker spending £10k/month nearly went under - we can help. Costs and generation modelled for your building.
 redirect_from:
   - /commercial-solar-installations-prestwich/
   - /services/commercial-solar-installations/prestwich/
@@ -14,7 +14,7 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Prestwich Businesses
 
-We're based in Prestwich, so this is essentially home turf. We've seen first-hand how electricity costs are hitting local businesses, and we recently spoke to a Prestwich baker who was spending around £10,000 a month on electricity and was close to going under because of it. Commercial solar typically pays back in three to four years and then runs for 20-plus years on dramatically reduced bills.
+We're based in Prestwich, so this is essentially home turf. We've seen first-hand how electricity costs are hitting local businesses, and we recently spoke to a Prestwich baker who was spending around £10,000 a month on electricity and was close to going under because of it. We model the payback from your own bills and write the assumptions down alongside it, rather than quoting an average.
 
 The economics work better than domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter as a result.
 

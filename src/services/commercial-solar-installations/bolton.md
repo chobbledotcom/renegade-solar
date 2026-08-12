@@ -1,7 +1,7 @@
 ---
 permalink: /bolton/commercial-solar-installations/
 title: Commercial Solar Installations in Bolton | Renegade Solar
-description: Commercial solar for Bolton businesses. Carpet warehouse cuts £700/month to zero with 3-year payback. Flat roofs, factories, retail - we cover Bolton.
+description: Commercial solar for Bolton businesses. Designing for a carpet warehouse spending £700 a month. Flat roofs, factories, retail - we cover Bolton.
 redirect_from:
   - /commercial-solar-installations-bolton/
   - /services/commercial-solar-installations/bolton/
@@ -14,7 +14,7 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Bolton Businesses
 
-We're working with a family-owned carpet and interior design warehouse in Bolton at the moment. They were spending around £700 a month on electricity, and they own the building, which is what makes the case work. The roof is mostly flat with some pitched, and we've put together two designs: a 50-panel layout on the flat roof alone, which pays back in around three years, or a 115-panel layout across both the flat and pitched roofs, which pays back in four years and brings in more excess to sell back to the grid.
+We're working with a family-owned carpet and interior design warehouse in Bolton at the moment. They were spending around £700 a month on electricity, and they own the building, which is what makes the case work. The roof is mostly flat with some pitched, and we've put together two designs: a 50-panel layout on the flat roof alone, or a 115-panel layout across both the flat and pitched roofs, which brings in more excess to sell back to the grid.
 
 Commercial solar tends to outperform domestic for one straightforward reason: businesses are using the electricity during the day when the panels are generating it. There's no need for a battery to bridge to the evening - the energy gets used as it's produced, which means most of what you generate offsets what you'd otherwise be paying for, and the payback is shorter as a result.
 

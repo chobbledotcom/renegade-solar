@@ -72,7 +72,7 @@ Read more about [home battery installations](/services/home-battery-installation
 
 - [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870)
 - [**TrustMark Registered**](/accreditations/trustmark/)
-- [**NAPIT Registered**](/accreditations/napit/) (66870)
+- [**NAPIT registered**](/accreditations/napit/)
 - [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
 - **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews
 - 5-year minimum warranty on all equipment

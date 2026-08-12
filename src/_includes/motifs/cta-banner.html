@@ -1,0 +1,46 @@
+{%- comment -%}
+The "right, get in touch" block. Use it more than once on a long page so
+there is always one within a screen or two of wherever the reader stops.
+
+All parameters are optional and reset after use:
+  cta_title, cta_sub, cta_primary_text, cta_primary_url,
+  cta_secondary_text, cta_secondary_url
+  cta_variant - "green" (default) or "dark"
+
+  {% assign cta_title = "Thinking about a battery?" %}
+  {% include "motifs/cta-banner.html" %}
+{%- endcomment -%}
+{%- assign cta_title = cta_title | default: "Get a free survey from an actual electrician" -%}
+{%- assign cta_sub = cta_sub | default: "Tell us about the property and we'll come out, look at the roof properly and put some real numbers in front of you. No commission, no call centre." -%}
+{%- assign cta_primary_text = cta_primary_text | default: "Book a free survey" -%}
+{%- assign cta_primary_url = cta_primary_url | default: "/contact/" -%}
+{%- assign cta_secondary_text = cta_secondary_text | default: "Read the reviews" -%}
+{%- assign cta_secondary_url = cta_secondary_url | default: "/reviews/" -%}
+{%- if cta_variant == "dark" -%}
+  {%- assign cta_class = "band band--dark" -%}
+{%- else -%}
+  {%- assign cta_class = "band band--green" -%}
+{%- endif -%}
+<section class="{{ cta_class }}">
+  <div class="band__inner cta-banner">
+    <h2>{{ cta_title }}</h2>
+    <p class="cta-banner__sub">{{ cta_sub }}</p>
+    <div class="cta-banner__actions">
+      <a class="btn accent-btn" href="{{ cta_primary_url }}">{{ cta_primary_text }}</a>
+      <a class="btn ghost-btn" href="{{ cta_secondary_url }}">{{ cta_secondary_text }}</a>
+    </div>
+    <ul class="cta-banner__meta">
+      <li><a href="/reviews/">{{ reviews.averageRating | round: 2 }}/10 from {{ reviews.total }} reviews</a></li>
+      <li><a href="/accreditations/mcs-certified/">MCS-certified, NAP-66870</a></li>
+      <li><a href="/accreditations/trustmark/">TrustMark registered</a></li>
+      <li><a href="/accreditations/napit/">NAPIT approved</a></li>
+    </ul>
+  </div>
+</section>
+{%- assign cta_title = nil -%}
+{%- assign cta_sub = nil -%}
+{%- assign cta_primary_text = nil -%}
+{%- assign cta_primary_url = nil -%}
+{%- assign cta_secondary_text = nil -%}
+{%- assign cta_secondary_url = nil -%}
+{%- assign cta_variant = nil -%}

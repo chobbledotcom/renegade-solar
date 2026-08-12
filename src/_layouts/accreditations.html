@@ -2,14 +2,40 @@
 layout: base.html
 ---
 
+{%- assign body_html = content -%}
+{%- assign page_h1 = body_html | firstHeading -%}
+{%- assign body_html = body_html | withoutFirstHeading -%}
 {% assign accs = collections.accreditation %}
 
 <article>
-  <div class="card">{{ content }}</div>
-  {% for acc in accs %}
-  <div class="card">
-    <h2><a href="{{ acc.url }}">{{ acc.data.title }}</a></h2>
-    <p>{{ acc.data.snippet }}</p>
-  </div>
-  {%- endfor -%} {% include "contact-form.html" %}
+  {% assign ph_title = page_h1 | default: title %}
+  {% assign ph_photo = "renegade-solar-panel-installation-banner.jpg" %}
+  {% include "motifs/page-hero.html" %}
+
+  {% include "motifs/accreditation-band.html" %}
+
+  {% assign prose_html = body_html %}
+  {% include "motifs/prose.html" %}
+
+  <section class="band band--white">
+    <div class="band__inner">
+      {% assign sh_eyebrow = "Checked and registered" %}
+      {% assign sh_title = "Our accreditations in full" %}
+      {% include "motifs/section-head.html" %}
+      <div class="why-grid">
+        {% for acc in accs %}
+        <div class="why-card">
+          <h3><a href="{{ acc.url }}">{{ acc.data.title }}</a></h3>
+          <p>{{ acc.data.snippet }}</p>
+        </div>
+        {%- endfor %}
+      </div>
+    </div>
+  </section>
+
+  {% include "motifs/stat-strip.html" %}
+
+  {% include "motifs/cta-banner.html" %}
+
+  {% include "motifs/contact-panel.html" %}
 </article>

@@ -3,12 +3,16 @@ title: Solar Panel and Battery Installations in Manchester
 snippet: Save money on your bills and cut CO2 with a solar and battery combo.
 description: MCS-certified solar panel installation and battery storage across Greater Manchester, designed by a qualified electrician for pitched, flat and awkward roofs.
 icon: /assets/icons/solar-panel.svg
+photo: panels.jpg
 order: 1
 root: true
 location_pages: true
 gallery_tags:
   - solar-panels
   - battery
+process_set: solar
+faq_set: solar
+hero_sub: "MCS-certified solar panel and battery installation across Greater Manchester, designed by a qualified electrician for pitched, flat and awkward roofs."
 ---
 
 # Solar and Battery Installations in Manchester

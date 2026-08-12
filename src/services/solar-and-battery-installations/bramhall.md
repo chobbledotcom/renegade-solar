@@ -14,7 +14,7 @@ gallery_tags: [solar-panels]
 
 We provide [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Bramhall, from the Victorian terraces near the village to the large detached properties around Bramhall Park. We're an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, and we know the specific challenges that Bramhall properties present - the mix of period homes, tree-lined streets, and where the conservation area restrictions apply.
 
-When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 15 years of experience.
+When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 20 years of experience.
 
 ## Bramhall property types and solar suitability
 
@@ -30,7 +30,7 @@ Parts of Bramhall village fall within conservation areas. This doesn't mean you 
 
 ## Solar performance in Bramhall
 
-Bramhall sits at a slightly higher elevation than central Manchester, which generally means better solar exposure. The area does well for solar generation, even with Manchester's changeable weather - modern panels work efficiently on cloudy days, generating at 80%+ capacity without direct sunlight.
+Bramhall sits at a slightly higher elevation than central Manchester, which generally means better solar exposure. The area does well for solar generation, even with Manchester's changeable weather - panels generate from daylight rather than direct sunshine, so they keep producing on overcast days, though output is lower than in bright conditions.
 
 The main factor affecting performance in Bramhall is tree shading rather than weather. Mature trees are common here, and we'll do a proper shading analysis as part of the survey to work out realistic generation figures for your specific location.
 

@@ -14,7 +14,7 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Crumpsall Businesses
 
-Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. Typically three to four years, then 20-plus years of dramatically reduced bills.
+Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. It depends on your consumption and the size of the system, so we model it from your own bills and show you the assumptions.
 
 We're based in [Prestwich](/prestwich/commercial-solar-installations/), just down the road from Crumpsall.
 
@@ -28,7 +28,7 @@ Shops, cafes and restaurants along Crumpsall Lane benefit from the straightforwa
 
 ## How it tends to play out on the numbers
 
-An industrial unit with a flat roof and a consistent daytime load typically sees payback in around three years. A retail unit with more modest consumption and a smaller roof might be closer to four, but the numbers still work because most of the generation gets used on site during opening hours. We provide multiple design options with detailed projections so you can weigh payback speed against total savings.
+An industrial unit with a flat roof and a consistent daytime load is the kind of building where the payback comes out shortest. A retail unit with more modest consumption and a smaller roof might be closer to four, but the numbers still work because most of the generation gets used on site during opening hours. We provide multiple design options with detailed projections so you can weigh payback speed against total savings.
 
 ## Flat and pitched roofs
 

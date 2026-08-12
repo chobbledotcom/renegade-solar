@@ -2,15 +2,57 @@
 layout: base.html
 ---
 
+{%- assign body_html = content -%}
+{%- assign page_h1 = body_html | firstHeading -%}
+{%- assign body_html = body_html | withoutFirstHeading -%}
+
 <article>
-  {% include "accreditations.html" %}
-  <div class="card content">
-    <p>
-      <a href="/services/"> &#8592; <strong>Services</strong> </a>
-    </p>
-    {{ content }}
-  </div>
-  {% include "contact-form.html" %}
+  {% assign ph_crumb_text = "All services" %}
+  {% assign ph_crumb_url = "/services/" %}
+  {% assign ph_title = page_h1 %}
+  {% assign ph_photo = photo | default: "panels-roof-in-progress.jpg" %}
+  {% include "motifs/page-hero.html" %}
+
+  {% include "motifs/accreditation-band.html" %}
+
+  {%- comment -%}
+  Long service pages get chopped at their own h2 headings so a motif can sit
+  between the sections rather than everything landing after a wall of prose.
+  {%- endcomment -%}
+  {% assign chunks = body_html | splitContent: 3 %}
+  {% for chunk in chunks %}
+  {% assign prose_html = chunk %}
+  {% include "motifs/prose.html" %}
+  {% unless forloop.last %}
+    {% if forloop.index == 1 %}
+      {% assign trust_variant = "dark" %}
+      {% include "motifs/trust-bar.html" %}
+    {% else %}
+      {% assign quote_index = 3 %}
+      {% include "motifs/quote-feature.html" %}
+    {% endif %}
+  {% endunless %}
+  {% endfor %}
+
+  {% if chunks.size < 2 %}
+    {% assign trust_variant = "dark" %}
+    {% include "motifs/trust-bar.html" %}
+  {% endif %}
+
+  {% include "motifs/process.html" %}
+
+  {% include "motifs/photo-strip.html" %}
+
+  {% include "motifs/stat-strip.html" %}
+
+  {% include "motifs/faq.html" %}
+
+  {% assign cta_title = "Want a price for your property?" %}
+  {% assign cta_sub = "A free survey, a system designed for your actual roof and usage, and a written proposal with the numbers behind it." %}
+  {% include "motifs/cta-banner.html" %}
+
+  {% include "motifs/contact-panel.html" %}
+
   {% if gallery_tags %}
   <div class="card">
     <h3>Photo Gallery</h3>

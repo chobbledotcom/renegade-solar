@@ -18,7 +18,7 @@ Renegade custom-designed, installed and commissioned the complete electrical ins
 
 On a new build, socket positions, switches, lighting circuits, controls and cable routes need deciding before plasterboard and finished surfaces make every change harder. Renegade handled that electrical design and installation across the property, including kitchen lighting, recessed ceiling lights and external wall lighting around the brick elevations.
 
-This is the kind of work Ashley's wider electrical background supports. He has over fifteen years' experience as an electrician, including more than ten years on commercial projects, and established Renegade Electrical in 2018 before expanding into solar panel installation, battery storage and EV charger installation.
+This is the kind of work Ashley's wider electrical background supports. He has over twenty years' experience as an electrician, including more than ten years on commercial projects, and established Renegade Electrical in 2018 before expanding into solar panel installation, battery storage and EV charger installation.
 
 ## Integrated smart-home controls
 

@@ -1,0 +1,45 @@
+{%- comment -%}
+Horizontal run of short benefit statements with tick marks. The workhorse
+motif - it goes between two heavy text sections, or above a contact form.
+
+Each benefit in src/_data/motifs.json carries the page that backs it up, so a
+claim like "MCS-certified, NAP-66870" links to the accreditation page rather
+than asking the reader to take our word for it.
+
+Do not put this directly after a page hero: the hero already carries the
+short version, and the two together read as the same list twice.
+
+  {% assign trust_variant = "dark" %}   dark | white | tint | bare (default tint)
+  {% assign trust_short = true %}        use the four short labels instead
+  {% include "motifs/trust-bar.html" %}
+{%- endcomment -%}
+{%- if trust_short -%}
+  {%- assign trust_items = motifs.benefits_short -%}
+{%- else -%}
+  {%- assign trust_items = motifs.benefits -%}
+{%- endif -%}
+{%- case trust_variant -%}
+  {%- when "dark" -%}{%- assign trust_class = "band band--tight band--dark" -%}
+  {%- when "white" -%}{%- assign trust_class = "band band--tight band--white" -%}
+  {%- when "bare" -%}{%- assign trust_class = "" -%}
+  {%- else -%}{%- assign trust_class = "band band--tight band--green-tint" -%}
+{%- endcase -%}
+{%- capture trust_list -%}
+  {%- for item in trust_items %}
+  <li>
+    <span class="tick" aria-hidden="true">&#10003;</span>
+    {%- if item.url %}<a href="{{ item.url }}">{{ item.text }}</a>{% else %}<span>{{ item.text }}</span>{% endif -%}
+  </li>
+  {%- endfor -%}
+{%- endcapture -%}
+{%- if trust_class == "" -%}
+<ul class="trust-bar">{{ trust_list }}</ul>
+{%- else -%}
+<section class="{{ trust_class }}">
+  <div class="band__inner">
+    <ul class="trust-bar trust-bar--grid">{{ trust_list }}</ul>
+  </div>
+</section>
+{%- endif -%}
+{%- assign trust_variant = nil -%}
+{%- assign trust_short = nil -%}

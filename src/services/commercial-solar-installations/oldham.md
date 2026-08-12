@@ -3,7 +3,7 @@ permalink: /oldham/commercial-solar-installations/
 redirect_from:
   - /services/commercial-solar-installations/oldham/
 title: Commercial Solar Installations in Oldham | Renegade Solar
-description: Commercial solar for Oldham businesses. Cut electricity costs 70-100% with 3-4 year payback. Factories, warehouses, retail - MCS-certified installer based 13 minutes away.
+description: Commercial solar for Oldham businesses. Cut daytime electricity costs with commercial solar. Factories, warehouses, retail - MCS-certified installer based 13 minutes away.
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Oldham
 icon: /assets/icons/commercial-solar.svg
@@ -13,7 +13,7 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Oldham Businesses
 
-Commercial solar tends to outperform domestic for one straightforward reason: businesses are using the electricity during the day when the panels are generating it. There's no need for a battery to bridge to the evening - the energy gets used as it's produced, which means most of what you generate offsets what you'd otherwise be paying for. Payback is typically three to four years.
+Commercial solar tends to outperform domestic for one straightforward reason: businesses are using the electricity during the day when the panels are generating it. There's no need for a battery to bridge to the evening - the energy gets used as it's produced, which means most of what you generate offsets what you'd otherwise be paying for. We model the payback from your own consumption rather than quoting an average.
 
 We're based in [Prestwich](/prestwich/commercial-solar-installations/), about thirteen minutes down the road from Oldham.
 

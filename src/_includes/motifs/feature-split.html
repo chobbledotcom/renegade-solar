@@ -1,0 +1,48 @@
+{%- comment -%}
+Photograph one side, words the other. Alternate the side down a page to keep
+it moving.
+
+  {% assign fs_photo = "ashley-hat.jpg" %}
+  {% assign fs_alt = "Ashley Merritt in front of a finished solar array" %}
+  {% assign fs_title = "You'll be dealing with Ashley" %}
+  {% assign fs_body = "..." %}
+  {% assign fs_link_text = "About Renegade Solar" %}   (optional)
+  {% assign fs_link_url = "/about/" %}                 (optional)
+  {% assign fs_reverse = true %}                       photo on the right
+  {% assign fs_variant = "white" %}                    white | tint | dark
+  {% include "motifs/feature-split.html" %}
+{%- endcomment -%}
+{%- case fs_variant -%}
+  {%- when "dark" -%}{%- assign fs_class = "band band--dark" -%}
+  {%- when "tint" -%}{%- assign fs_class = "band band--green-tint" -%}
+  {%- when "white" -%}{%- assign fs_class = "band band--white" -%}
+  {%- else -%}{%- assign fs_class = "band" -%}
+{%- endcase -%}
+<section class="{{ fs_class }}">
+  <div class="band__inner">
+    <div class="feature-split{% if fs_reverse %} feature-split--reverse{% endif %}">
+      <div class="feature-split__media">
+        <img src="/assets/photos/{{ fs_photo }}" alt="{{ fs_alt }}"
+          sizes="(max-width: 900px) 100vw, 580px"
+          eleventy:widths="1200,900,600" loading="lazy" decoding="async">
+      </div>
+      <div class="feature-split__body">
+        {%- if fs_eyebrow %}<span class="eyebrow">{{ fs_eyebrow }}</span>{% endif %}
+        <h2>{{ fs_title }}</h2>
+        {{ fs_body }}
+        {%- if fs_link_url %}
+        <p><a class="btn primary-btn" href="{{ fs_link_url }}">{{ fs_link_text | default: "Read more" }}</a></p>
+        {%- endif %}
+      </div>
+    </div>
+  </div>
+</section>
+{%- assign fs_photo = nil -%}
+{%- assign fs_alt = nil -%}
+{%- assign fs_title = nil -%}
+{%- assign fs_body = nil -%}
+{%- assign fs_eyebrow = nil -%}
+{%- assign fs_link_text = nil -%}
+{%- assign fs_link_url = nil -%}
+{%- assign fs_reverse = nil -%}
+{%- assign fs_variant = nil -%}

@@ -1,7 +1,7 @@
 ---
 permalink: /whitefield/commercial-solar-installations/
 title: Commercial Solar Installations in Whitefield | Renegade Solar
-description: Commercial solar for Whitefield businesses. Cut £700-£10k monthly bills to zero with 3-4 year payback. Factories, retail, hospitality - local service.
+description: Commercial solar for Whitefield businesses. Cut heavy monthly electricity bills with commercial solar. Factories, retail, hospitality - local service.
 redirect_from:
   - /commercial-solar-installations-whitefield/
   - /services/commercial-solar-installations/whitefield/
@@ -14,7 +14,7 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Whitefield Businesses
 
-Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. Typically three to four years.
+Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. We model it from your own consumption rather than quoting an average.
 
 We're based in [Prestwich](/prestwich/commercial-solar-installations/), just down the road from Whitefield.
 
@@ -28,7 +28,7 @@ Manufacturing and light industrial units in the area, with their high daytime co
 
 ## How it tends to play out on the numbers
 
-A light industrial unit with consistent daytime consumption and a suitable roof typically sees payback in around three years. A retail unit or food business with more modest consumption might be closer to four, but the numbers still stack up because most of the generation gets used on site during opening hours. We provide multiple design options with detailed projections for each.
+A light industrial unit with consistent daytime consumption and a suitable roof is the kind of building where the payback comes out shortest. A retail unit or food business with more modest consumption might be closer to four, but the numbers still stack up because most of the generation gets used on site during opening hours. We provide multiple design options with detailed projections for each.
 
 ## Flat roofs and ground-mount
 

@@ -9,7 +9,8 @@
 		"format:check": "prettier --check _site/**/*.html",
 		"fetch-facebook-posts": "node scripts/fetch-facebook-posts.js",
 		"fetch-instagram-posts": "node scripts/fetch-instagram-posts.js",
-		"update-reviews": "node scripts/merge-reviews.js"
+		"update-reviews": "node scripts/merge-reviews.js",
+		"optimise-photos": "node scripts/optimise-photos.mjs"
 	},
 	"dependencies": {
 		"@11ty/eleventy": "^3.0.0",

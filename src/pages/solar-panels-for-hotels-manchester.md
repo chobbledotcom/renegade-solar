@@ -1,6 +1,6 @@
 ---
 title: Solar Panels for Hotels & Guest Houses in Manchester | Renegade Solar
-description: Commercial solar for hotels, guest houses and hospitality businesses across Greater Manchester. MCS-certified installer with 3-4 year payback typical.
+description: Commercial solar for hotels, guest houses and hospitality businesses across Greater Manchester. MCS-certified installer covering Greater Manchester.
 permalink: /solar-panels-for-hotels-manchester/
 link_title: Solar for Hotels
 heading: Solar Panels for Hotels & Guest Houses in Manchester
@@ -24,7 +24,7 @@ For a hospitality business, the practical implication is that Ashley is your dir
 
 ## Why hospitality businesses benefit
 
-The financial case is similar to other commercial property types: because you're consuming electricity throughout the day when [solar generation](/services/solar-and-battery-installations/) is at its peak, you use nearly every kilowatt-hour your panels produce. Most commercial installations reduce monthly costs by 70-100%, with payback typically within 3-4 years. After payback, you're looking at 20+ years of low-cost energy.
+The financial case is similar to other commercial property types: because you're consuming electricity throughout the day when [solar generation](/services/solar-and-battery-installations/) is at its peak, you use nearly every kilowatt-hour your panels produce. A commercial installation can cover a large share of daytime consumption, and we model the reduction and the payback from your own bills. After payback, you're looking at a long stretch of much cheaper electricity.
 
 Hotels are a particularly good fit for a few specific reasons:
 

@@ -1,7 +1,7 @@
 ---
 permalink: /stockport/commercial-solar-installations/
 title: Commercial Solar Installations in Stockport | Renegade Solar
-description: Commercial solar for Stockport businesses. MCS-certified installer cutting electricity costs 70-100%. 3-4 year payback, decades of savings.
+description: Commercial solar for Stockport businesses. MCS-certified installer. Costs and generation modelled for your building.
 redirect_from:
   - /commercial-solar-installations-stockport/
   - /services/commercial-solar-installations/stockport/
@@ -14,7 +14,7 @@ gallery_tags: [commercial]
 
 # Commercial Solar for Stockport Businesses
 
-Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. Typically three to four years, then 20-plus years of dramatically reduced bills.
+Commercial solar outperforms domestic for one straightforward reason: businesses use electricity during the day when panels generate it. No battery needed to bridge to the evening. The energy gets used as it's produced, most of what you generate offsets what you'd otherwise be paying for, and payback is shorter. It depends on your consumption and the size of the system, so we model it from your own bills and show you the assumptions.
 
 We're based in [Prestwich](/prestwich/commercial-solar-installations/), around half an hour up the M60 from Stockport.
 
@@ -28,7 +28,7 @@ Temperature-controlled storage and distribution facilities are good candidates b
 
 ## How it tends to play out on the numbers
 
-A manufacturing unit with a large flat roof and a 15-20kW daytime load typically sees payback in around three years. A distribution warehouse running refrigeration around the clock can be even quicker because the generation covers a constant baseload. A smaller retail unit or office with more modest consumption might take closer to four years, but the numbers still work because most of what's generated gets used on site. We provide multiple design options with detailed projections for each.
+A manufacturing unit with a large flat roof and a 15-20kW daytime load is the kind of building where the payback comes out shortest. A distribution warehouse running refrigeration around the clock can be even quicker because the generation covers a constant baseload. A smaller retail unit or office with more modest consumption might take closer to four years, but the numbers still work because most of what's generated gets used on site. We provide multiple design options with detailed projections for each.
 
 ## Flat and pitched roofs
 

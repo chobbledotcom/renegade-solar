@@ -2,11 +2,17 @@
 title: MCS Certified
 logo: /assets/accreditation-logos/mcs-certified.png
 tooltip: Our MCS Certification Number is NAP-66870
-url: https://mcscertified.com
+url: https://mcscertified.com/find-an-installer/renegade-electrical-ltd/
 snippet: MCS certification is essential for accessing government incentives and ensures your North Manchester solar installation meets internationally recognised quality standards.
 ---
 
 # MCS Certified Solar Installer
+
+Our MCS certificate number is **NAP-66870**, which you can check on our
+[MCS listing](https://mcscertified.com/find-an-installer/renegade-electrical-ltd/).
+The `NAP` prefix means the certification is administered through
+[NAPIT](/accreditations/napit/), where we are member 66870 - the same number,
+issued under both schemes rather than two separate registrations.
 
 The Microgeneration Certification Scheme (MCS) is the gold standard for renewable energy installations in the UK, providing comprehensive certification for both products and installers.
 

@@ -30,7 +30,7 @@ The financial case for [commercial solar](/services/commercial-solar-installatio
 - Owner-occupied buildings can realise the full payback (which is required for the maths to work)
 - Manufacturers don't tend to move, so the long operational outlook supports the investment
 
-Because you're using nearly every kilowatt-hour your panels produce as it's generated, you don't need [battery storage](/services/home-battery-installations/) to make the numbers work the way a domestic property does. Most commercial installations reduce monthly costs by 70-100%, with payback typically within 3-4 years, followed by 20+ years of low-cost energy.
+Because you're using nearly every kilowatt-hour your panels produce as it's generated, you don't need [battery storage](/services/home-battery-installations/) to make the numbers work the way a domestic property does. A commercial installation can cover a large share of daytime consumption. We model the reduction and the payback from your own bills rather than quoting an average.
 
 Bolton's industrial heritage means many factories and manufacturing facilities with heavy machinery still operate across the area, and Greater Manchester more broadly is full of owner-occupied production buildings with large roofs that suit commercial solar well.
 

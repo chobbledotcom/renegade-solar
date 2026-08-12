@@ -32,6 +32,62 @@ module.exports = async (eleventyConfig) => {
 		},
 	});
 
+	// Page heroes show the page's own <h1>. These two filters let a layout lift
+	// that heading out of the rendered markdown and drop it into the hero,
+	// rather than every markdown file having to be edited to remove it.
+	const H1 = /<h1[^>]*>([\s\S]*?)<\/h1>/i;
+
+	eleventyConfig.addFilter("firstHeading", (html) => {
+		const match = H1.exec(typeof html === "string" ? html : "");
+		return match ? match[1].replace(/<[^>]+>/g, "").trim() : "";
+	});
+
+	eleventyConfig.addFilter("withoutFirstHeading", (html) =>
+		typeof html === "string" ? html.replace(H1, "") : html,
+	);
+
+	// Chop rendered markdown into roughly equal chunks at <h2> boundaries, so a
+	// layout can drop a motif between them instead of presenting one very long
+	// slab of prose. Returns fewer chunks than asked for when the page is short.
+	eleventyConfig.addFilter("splitContent", (html, parts = 2) => {
+		if (typeof html !== "string") return [html];
+
+		const pieces = html.split(/(?=<h2[\s>])/i).filter((piece) => piece.trim());
+		if (pieces.length < 2) return [html];
+
+		const wanted = Math.max(1, Math.min(parts, pieces.length));
+		const total = pieces.reduce((sum, piece) => sum + piece.length, 0);
+		const chunks = [];
+		let current = "";
+		let consumed = 0;
+
+		pieces.forEach((piece, index) => {
+			current += piece;
+			consumed += piece.length;
+
+			// Never break inside an unclosed <div> - the markdown wraps some
+			// images in one and splitting there would leave torn markup.
+			const opened = (current.match(/<div\b/gi) || []).length;
+			const closed = (current.match(/<\/div>/gi) || []).length;
+
+			const boundary = (total * (chunks.length + 1)) / wanted;
+			const isLastPiece = index === pieces.length - 1;
+
+			if (
+				!isLastPiece &&
+				chunks.length < wanted - 1 &&
+				consumed >= boundary &&
+				opened === closed
+			) {
+				chunks.push(current);
+				current = "";
+			}
+		});
+
+		if (current.trim()) chunks.push(current);
+		return chunks;
+	});
+
 	eleventyConfig.addShortcode("image", async (src, alt, sizes) => {
 		let metadata = await Image(src, {
 			widths: [150, 300],

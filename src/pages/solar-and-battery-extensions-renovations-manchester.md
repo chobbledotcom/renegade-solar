@@ -10,7 +10,7 @@ noindex: false
 
 ## An electrician who's done your kind of project
 
-Most solar installers are solar installers. Ashley had already spent years as an electrician before he became an MCS-certified solar installer, and that prior trade is the part that matters for renovation work. He has over fifteen years' electrical experience, including more than ten years on commercial projects, and spent 2016 in the Channel Islands doing electrical work on high-end mansions and apartments. That work included loft conversions, kitchens, extensions, domestic and commercial properties, and industrial sites including the Jersey Recycling Centre. The things you're already pulling your house apart for, in other words, are the things he's been the electrician on.
+Most solar installers are solar installers. Ashley had already spent years as an electrician before he became an MCS-certified solar installer, and that prior trade is the part that matters for renovation work. He has over twenty years' electrical experience, including more than ten years on commercial projects, and spent 2016 in the Channel Islands doing electrical work on high-end mansions and apartments. That work included loft conversions, kitchens, extensions, domestic and commercial properties, and industrial sites including the Jersey Recycling Centre. The things you're already pulling your house apart for, in other words, are the things he's been the electrician on.
 
 After coming back to Manchester he set up Renegade Electrical in 2018, and the solar side has grown out of that since. The order matters: solar got added to a real electrician's toolkit, not the other way round.
 
