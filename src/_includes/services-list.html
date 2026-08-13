@@ -2,7 +2,7 @@
   {% assign sorted_services = collections.service | sort: 'data.order' %}
   {% for service in sorted_services %}
   {% if service.data.root %}
-  <a href="{{ service.url }}">
+  <a href="{{ service.url | localServiceUrl: page.url, collections.all }}">
     {% if service.data.icon %}
     <img src="/assets/icons/{{ service.data.icon }}" alt="" eleventy:ignore>
     {% endif %}

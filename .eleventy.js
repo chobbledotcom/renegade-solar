@@ -88,6 +88,30 @@ module.exports = async (eleventyConfig) => {
 		return chunks;
 	});
 
+	// Prefer a town-specific version of a root service when that page exists.
+	// This derives the town from the first URL segment, so it works on both a
+	// town landing page and any service page beneath it without front matter.
+	eleventyConfig.addFilter(
+		"localServiceUrl",
+		(serviceUrl, currentUrl, pages = []) => {
+			if (
+				typeof serviceUrl !== "string" ||
+				typeof currentUrl !== "string" ||
+				!serviceUrl.startsWith("/services/")
+			) {
+				return serviceUrl;
+			}
+
+			const town = currentUrl.split("/").filter(Boolean)[0];
+			if (!town) return serviceUrl;
+
+			const localUrl = `/${town}/${serviceUrl.slice("/services/".length)}`;
+			return pages.some((entry) => entry.url === localUrl)
+				? localUrl
+				: serviceUrl;
+		},
+	);
+
 	eleventyConfig.addShortcode("image", async (src, alt, sizes) => {
 		let metadata = await Image(src, {
 			widths: [150, 300],

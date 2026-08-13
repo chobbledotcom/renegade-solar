@@ -14,7 +14,7 @@ through the `photo` field in its front matter, falling back to its icon.
       {%- assign tile_services = collections.service | sort: "data.order" -%}
       {%- for service in tile_services -%}
       {%- if service.data.root %}
-      <a href="{{ service.url }}">
+      <a href="{{ service.url | localServiceUrl: page.url, collections.all }}">
         <div class="service-tiles__media">
           {%- if service.data.photo %}
           <img src="/assets/photos/{{ service.data.photo }}" alt=""
