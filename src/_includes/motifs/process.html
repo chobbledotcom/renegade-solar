@@ -2,15 +2,15 @@
 The steps from first phone call to handover.
 
 Different work needs different steps - an EICR is not a roof job - so the sets
-live in `process_sets` in src/_data/motifs.json and a page picks one with
-`process_set` in its front matter:
+live in `process_sets` in src/_data/motifs.json. Service pages inherit the set
+for their service, or a page can override it with `process_set` in front matter:
 
   process_set: inspection      # solar (default) | battery | commercial | ev | inspection
 
 A page can override the heading with `process_title`, or skip the motif
 entirely by setting `process_set: none`.
 {%- endcomment -%}
-{%- assign process_key = process_set | default: "solar" -%}
+{%- assign process_key = process_set | default: service_process_set | default: "solar" -%}
 {%- assign process_data = motifs.process_sets[process_key] -%}
 {%- if process_data == nil -%}{%- assign process_data = motifs.process_sets.solar -%}{%- endif -%}
 {%- if process_key != "none" and process_data.steps.size > 0 -%}
