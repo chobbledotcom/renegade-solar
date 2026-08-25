@@ -69,6 +69,8 @@ Recommended page: a dedicated commercial testing page. Do not reuse the domestic
 
 ### Rochdale And Heywood
 
+Status: implemented in August 2026 as `/rochdale/` - one comprehensive hub covering solar panels, battery storage, EV chargers, electrical safety and the Bowlee new-build case study (correctly framed as electrical work with solar planned for a later phase). Service x location pages for Rochdale can follow if Search Console shows demand.
+
 Target terms:
 
 - solar panels Rochdale
