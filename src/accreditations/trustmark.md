@@ -1,5 +1,6 @@
 ---
 title: TrustMark
+description: Renegade Solar is TrustMark registered, the government-endorsed quality scheme covering workmanship and customer treatment for solar and electrical installations.
 logo: /assets/accreditation-logos/trustmark.png
 snippet: TrustMark accreditation guarantees your North Manchester solar
   installation meets government-endorsed quality and consumer protection

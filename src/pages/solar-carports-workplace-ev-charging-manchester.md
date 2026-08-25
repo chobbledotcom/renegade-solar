@@ -1,5 +1,5 @@
 ---
-title: Workplace EV Charger Installation Manchester | Solar Carports
+title: Workplace EV Charger Installation Manchester
 description: Workplace and commercial EV charger installation across Greater Manchester, with standalone charging points, solar integration and solar carport options.
 permalink: /solar-carports-workplace-ev-charging-manchester/
 link_title: Workplace EV Charging

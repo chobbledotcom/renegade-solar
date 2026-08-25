@@ -1,5 +1,5 @@
 ---
-title: Solar Panels for Bakeries & Food Businesses in Manchester | Renegade Solar
+title: Solar Panels for Bakeries in Manchester
 description: Commercial solar for bakeries, cafes and restaurants across Greater Manchester. Cut daytime electricity costs with commercial solar. MCS-certified installer.
 permalink: /solar-panels-for-bakeries-manchester/
 link_title: Solar for Bakeries

@@ -1,5 +1,6 @@
 ---
 title: HIES Consumer Code
+description: HIES consumer protection for Renegade Solar customers - deposit and workmanship guarantees for solar panel, battery and EV charger installations.
 logo: /assets/accreditation-logos/hies-consumer-code.png
 tooltip: A consumer protection organisation covering the installation of home energy products
 url: https://search.hiesscheme.org.uk/renegade-electrical-ltd-R399-800

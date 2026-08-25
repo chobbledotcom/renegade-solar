@@ -1,5 +1,5 @@
 ---
-title: Commercial Solar for Warehouses & Distribution in Manchester | Renegade Solar
+title: Commercial Solar for Manchester Warehouses
 description: Commercial solar for warehouses, distribution centres and retail units across Greater Manchester. Flat-roof installations designed around your daytime load. MCS-certified.
 permalink: /commercial-solar-for-warehouses-manchester/
 link_title: Solar for Warehouses

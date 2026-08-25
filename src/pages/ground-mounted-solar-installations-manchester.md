@@ -1,5 +1,5 @@
 ---
-title: Ground-Mounted Solar Installations in Manchester | Renegade Solar
+title: Ground-Mounted Solar in Manchester
 description: Ground-mounted solar panel installations across Greater Manchester. MCS-certified installer with experience on garden, farm and commercial ground-mount systems.
 permalink: /ground-mounted-solar-installations-manchester/
 link_title: Ground-Mounted Solar

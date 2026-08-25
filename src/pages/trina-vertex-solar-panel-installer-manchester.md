@@ -1,5 +1,5 @@
 ---
-title: Trina Vertex Solar Panel Installer in Manchester | Renegade Solar
+title: Trina Vertex Solar Panel Installer
 description: Trina Vertex solar panel installation across Greater Manchester. MCS-certified installer fitting Trina's N-type i-TOPCon residential modules.
 permalink: /trina-vertex-solar-panel-installer-manchester/
 link_title: Trina Vertex Panels

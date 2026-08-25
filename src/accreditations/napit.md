@@ -1,5 +1,6 @@
 ---
 title: NAPIT
+description: Renegade Solar is NAPIT registered (66870), a full-scope certification body covering electrical installation, testing and inspection work.
 logo: /assets/accreditation-logos/napit.png
 tooltip: A governing body that promotes safe and high-quality work while ensuring installers meet strict industry standards
 url: https://search.napit.org.uk/member/66870/renegade-electrical-ltd

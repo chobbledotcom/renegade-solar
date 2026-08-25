@@ -1,5 +1,6 @@
 ---
 title: MCS Certified
+description: Renegade Solar is MCS-certified (NAP-66870, administered through NAPIT) for solar panel and battery installations that qualify for Smart Export Guarantee payments.
 logo: /assets/accreditation-logos/mcs-certified.png
 tooltip: Our MCS Certification Number is NAP-66870
 url: https://mcscertified.com/find-an-installer/renegade-electrical-ltd/

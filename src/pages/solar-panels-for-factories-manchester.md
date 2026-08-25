@@ -1,5 +1,5 @@
 ---
-title: Solar Panels for Factories & Manufacturing in Manchester | Renegade Solar
+title: Solar Panels for Factories in Manchester
 description: Commercial solar for factories and manufacturing facilities across Greater Manchester. MCS-certified installer with 20+ years on commercial and industrial sites.
 permalink: /solar-panels-for-factories-manchester/
 link_title: Solar for Factories

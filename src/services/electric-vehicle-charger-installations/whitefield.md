@@ -1,6 +1,6 @@
 ---
 permalink: /whitefield/electric-vehicle-charger-installations/
-title: EV Charger Installations in Whitefield | Renegade Solar
+title: EV Charger Installations in Whitefield
 description: Expert EV charger installations in Whitefield by NAPIT-registered electrician. Professional service with smart charging and renewable energy integration.
 redirect_from:
   - /ev-charger-installer-whitefield/
@@ -18,7 +18,7 @@ We install EV chargers across Whitefield. Ashley is a NAPIT-registered electrici
 
 ## What it costs to charge at home
 
-Public chargers at supermarkets and petrol stations are running at 60-80p per kWh ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). On a tariff like Octopus Go, home charging is 9.5p overnight. For a daily run into Manchester via the A56, or trips to the Trafford Centre or Manchester Airport, the difference adds up to a fair bit over the course of a year.
+Public chargers at supermarkets and petrol stations are running at 60-80p per kWh ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). On a tariff like Octopus Go, home charging runs at a fraction of that overnight. For a daily run into Manchester via the A56, or trips to the Trafford Centre or Manchester Airport, the difference adds up to a fair bit over the course of a year.
 
 A 7kW wall charger does the job overnight in the cheap rate window. Granny chargers that plug into a normal socket take most of the day, which means you're paying daytime rates and missing the savings entirely.
 

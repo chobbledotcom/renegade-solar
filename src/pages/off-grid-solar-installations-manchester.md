@@ -1,5 +1,5 @@
 ---
-title: Off-Grid Solar for Farms, Mobile Catering & Rural Sites | Renegade Solar
+title: Off-Grid Solar for Farms & Rural Sites
 description: Off-grid solar installations across the North West for agricultural sites, mobile catering, remote offices and rural properties. MCS-certified installer.
 permalink: /off-grid-solar-installations-manchester/
 link_title: Off-Grid Solar

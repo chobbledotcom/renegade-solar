@@ -2,7 +2,7 @@
 permalink: /hale-barns/electrical-safety-inspections-eicr/
 redirect_from:
   - /services/electrical-safety-inspections-eicr/hale-barns/
-title: EICR Electrical Safety Inspections in Hale Barns | £150 plus VAT Same Day Certificate
+title: EICR in Hale Barns | £150 + VAT Same Day
 description: Professional EICR electrical inspections in Hale Barns. £150 plus VAT all domestic properties regardless of size, same day certificates. NAPIT registered.
 link_title: EICR Inspection
 heading: EICR Inspections in Hale Barns

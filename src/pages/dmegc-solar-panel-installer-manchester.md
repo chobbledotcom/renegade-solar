@@ -1,5 +1,5 @@
 ---
-title: DMEGC Solar Panel Installer in Manchester | Renegade Solar
+title: DMEGC Solar Panel Installer in Manchester
 description: Expert DMEGC solar panel installation across Manchester. MCS-certified installer with experience fitting DMEGC's high-efficiency N-type modules.
 permalink: /dmegc-solar-panel-installer-manchester/
 link_title: DMEGC Solar Panels

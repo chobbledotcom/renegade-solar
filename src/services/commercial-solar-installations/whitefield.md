@@ -1,6 +1,6 @@
 ---
 permalink: /whitefield/commercial-solar-installations/
-title: Commercial Solar Installations in Whitefield | Renegade Solar
+title: Commercial Solar Installations in Whitefield
 description: Commercial solar for Whitefield businesses. Cut heavy monthly electricity bills with commercial solar. Factories, retail, hospitality - local service.
 redirect_from:
   - /commercial-solar-installations-whitefield/

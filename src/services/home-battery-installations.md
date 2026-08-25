@@ -120,10 +120,13 @@ Most home battery installations don't require planning permission - they're typi
 
 ## Financial benefits
 
+- **0% VAT:** home battery installations, standalone or with solar, carry 0% VAT until 31 March 2027 - the relief covers the equipment and the installation together, with nothing to claim. Our [0% VAT explained](/0-vat-solar-panels-batteries-manchester/) page covers what qualifies.
 - **Immediate savings:** start saving from day one with smart tariff charging
 - **Payback period:** varies based on usage, but most customers see worthwhile returns within a few years
 - **Property value:** battery storage tends to make a property more attractive to buyers
 - **Future flexibility:** ready to be paired with solar or an EV charger when you're ready
+
+For the wider picture on generation, tariffs and payback, we've also written up [whether solar panels are worth it in Manchester](/are-solar-panels-worth-it-manchester/) - most of the logic applies to batteries, with or without panels.
 
 ## Coverage area
 

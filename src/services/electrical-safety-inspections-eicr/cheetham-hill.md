@@ -1,6 +1,6 @@
 ---
 permalink: /cheetham-hill/electrical-safety-inspections-eicr/
-title: EICR Electrical Safety Inspections in Cheetham Hill | £150 plus VAT Same Day Certificate
+title: EICR in Cheetham Hill | £150 + VAT Same Day
 description: Professional EICR electrical inspections in Cheetham Hill. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience.
 link_title: EICR Inspection
 heading: EICR Inspections in Cheetham Hill

@@ -1,5 +1,5 @@
 ---
-title: Solar Installations in Middleton | Renegade Solar
+title: Solar Installations in Middleton
 description: Professional solar panel and battery installations in Middleton. Local MCS-certified installer with comprehensive electrical services and outstanding reviews.
 link_title: Middleton
 heading: Solar Installations in Middleton

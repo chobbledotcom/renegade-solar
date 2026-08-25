@@ -2,7 +2,7 @@
 permalink: /royton/electric-vehicle-charger-installations/
 redirect_from:
   - /services/electric-vehicle-charger-installations/royton/
-title: EV Charger Installations in Royton | Renegade Solar
+title: EV Charger Installations in Royton
 description: Professional EV charger installations in Royton. NAPIT-registered electrician, smart charging, solar integration. Based nearby in Prestwich.
 link_title: EV Charger Installs
 heading: EV Charger Installations in Royton
@@ -15,7 +15,7 @@ EV charger installations in Royton from a NAPIT-registered electrician. Based in
 
 ## The cost comparison that matters
 
-Royton homeowners are investing in their properties - and an EV charger is one of the better investments. A typical commute to Manchester costs around £675 a year in petrol. On a home charger with Octopus Go's 9.5p/kWh overnight rate, the same commute costs about £100. That's over £500 back in your pocket every year.
+Royton homeowners are investing in their properties - and an EV charger is one of the better investments. A typical commute to Manchester on petrol costs several times what the same journey costs on a home charger overnight on Octopus Go's off-peak rate. Over a year, that is a serious amount back in your pocket.
 
 The worst option? Public rapid chargers at 50-80p per kWh - actually more expensive than filling up with petrol. Home charging is the only approach that makes daily driving affordable.
 

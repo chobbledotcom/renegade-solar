@@ -2,7 +2,7 @@
 permalink: /saddleworth/commercial-solar-installations/
 redirect_from:
   - /services/commercial-solar-installations/saddleworth/
-title: Commercial Solar Installations in Saddleworth | Renegade Solar
+title: Commercial Solar in Saddleworth
 description: Commercial solar for Saddleworth businesses - shops, hospitality, farms. Cut daytime electricity costs with commercial solar. MCS-certified installer.
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Saddleworth

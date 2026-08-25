@@ -61,6 +61,8 @@ We supply and install a range of EV chargers depending on your needs. Standard 7
 
 Installing an EV charger at home is more convenient than relying on public chargers, and it's significantly cheaper too. Home charging is typically 50-90% cheaper than using public charging points ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). On a smart tariff like Octopus Go you can charge overnight at rates well below standard electricity prices, and if you've got solar, you can cut summer charging costs further still. EV-ready homes are also becoming more sought-after as more drivers switch to electric. As with our [battery installations](/services/home-battery-installations/), time-of-use tariffs can knock a fair bit off your energy costs.
 
+One thing worth knowing on cost: unlike solar panels and batteries, which currently carry [0% VAT](/0-vat-solar-panels-batteries-manchester/), domestic EV charger installations are charged at the reduced 5% VAT rate. Your quote shows the rate applied, so there are no surprises on the invoice.
+
 ## Coverage area
 
 We cover the entire Greater Manchester area for EV charger installations. Being based in Prestwich, we know the local area well and can usually respond quickly to enquiries throughout North Manchester. We've installed plenty of chargers across the region and have a good understanding of the mix of property types and electrical systems we tend to come across. We're a local [NAPIT-registered](/accreditations/napit/) installer serving the whole region.

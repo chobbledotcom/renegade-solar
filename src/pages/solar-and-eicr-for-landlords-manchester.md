@@ -1,5 +1,5 @@
 ---
-title: Solar, Battery & EICR for Landlords in Manchester | Renegade Solar
+title: Landlord Solar, Battery & EICR in Manchester
 description: Electrical safety inspections, solar and battery installations for landlords across Greater Manchester. £150 plus VAT EICR, MCS-certified solar, NAPIT registered.
 permalink: /solar-and-eicr-for-landlords-manchester/
 link_title: For Landlords

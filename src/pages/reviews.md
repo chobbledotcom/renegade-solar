@@ -1,6 +1,7 @@
 ---
 link_title: Reviews
 title: Customer Reviews
+description: Verified customer reviews for Renegade Solar from Checkatrade, Google, Trustpilot and Facebook, covering solar, battery, EV charger and electrical work in Manchester.
 order: 3
 tags: top_link
 permalink: /reviews/

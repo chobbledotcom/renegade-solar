@@ -2,7 +2,7 @@
 permalink: /oldham/commercial-solar-installations/
 redirect_from:
   - /services/commercial-solar-installations/oldham/
-title: Commercial Solar Installations in Oldham | Renegade Solar
+title: Commercial Solar Installations in Oldham
 description: Commercial solar for Oldham businesses. Cut daytime electricity costs with commercial solar. Factories, warehouses, retail - MCS-certified installer based 13 minutes away.
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Oldham

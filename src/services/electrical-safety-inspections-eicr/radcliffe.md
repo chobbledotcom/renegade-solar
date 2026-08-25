@@ -8,7 +8,7 @@ redirect_from:
   - /radcliffe-eicr-inspections/
   - /services/electrical-safety-inspections-eicr/radcliffe/
 tags: [radcliffe, eicr]
-title: EICR Electrical Safety Inspections in Radcliffe | £150 plus VAT Same Day Certificate
+title: EICR in Radcliffe | £150 + VAT Same Day
 ---
 
 # EICR Electrical Safety Inspections in Radcliffe

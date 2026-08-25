@@ -2,7 +2,7 @@
 permalink: /royton/commercial-solar-installations/
 redirect_from:
   - /services/commercial-solar-installations/royton/
-title: Commercial Solar Installations in Royton | Renegade Solar
+title: Commercial Solar Installations in Royton
 description: Commercial solar for Royton businesses. Cut daytime electricity costs with commercial solar. MCS-certified installer based nearby in Prestwich.
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Royton

@@ -1,5 +1,6 @@
 ---
 title: Octopus Trusted Partner
+description: Renegade Solar is an Octopus Energy Trusted Partner for home battery and EV charger installations, vetted and referred by Octopus Energy.
 logo: /assets/accreditation-logos/octopus-trusted-partner.png
 tooltip: A verified installation partner for Octopus Energy's renewable energy solutions
 url: https://octopus.energy

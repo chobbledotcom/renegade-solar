@@ -1,5 +1,5 @@
 ---
-title: Octopus Go Battery Installer in Manchester | Save Without Solar | Renegade Solar
+title: Octopus Go Battery Installer in Manchester
 description: Home battery installations set up for Octopus Go and other smart tariffs across Manchester. Save money on energy bills with or without solar panels. Octopus Energy Trusted Partner.
 permalink: /octopus-go-battery-installer-manchester/
 link_title: Octopus Go Installer
@@ -17,6 +17,8 @@ For a battery-on-cheap-tariff setup, that combination matters: the savings depen
 ## Save on bills with a battery and Octopus Go - no solar required
 
 Most people think of home batteries as something that goes with solar panels. They don't have to. A home battery on its own, charging during cheap off-peak hours and powering your home through the day, can deliver significant savings even without a single solar panel on the roof.
+
+If you're weighing up which way to go, our [home battery installation](/services/home-battery-installations/) page covers sizing, locations and retrofit batteries for existing solar, and [are solar panels worth it in Manchester](/are-solar-panels-worth-it-manchester/) sets out the sums for adding panels into the mix - the battery-first route doesn't close that door later.
 
 ## How Octopus Go works
 

@@ -1,6 +1,6 @@
 ---
 permalink: /trafford/electric-vehicle-charger-installations/
-title: EV Charger Installations in Trafford | Renegade Solar
+title: EV Charger Installations in Trafford
 description: Professional EV charger installations throughout Trafford by NAPIT-registered electrician. Smart charging with solar integration available.
 redirect_from:
   - /ev-charger-installer-trafford/
@@ -18,7 +18,7 @@ We install EV chargers across Trafford, covering Altrincham, Sale, Stretford, an
 
 ## What it costs to charge at home
 
-Public chargers cost 50-80p per kWh ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). On a tariff like Octopus Go, home charging is 9.5p overnight. For someone doing regular driving, the difference adds up to a fair bit over the course of a year. The motorway network through Trafford (M60, M56, M6) means rapid chargers for the long trips are easy to find.
+Public chargers cost 50-80p per kWh ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). On a tariff like Octopus Go, home charging runs at a fraction of that overnight. For someone doing regular driving, the difference adds up to a fair bit over the course of a year. The motorway network through Trafford (M60, M56, M6) means rapid chargers for the long trips are easy to find.
 
 A 7kW wall charger does the job overnight in the cheap rate window. Granny chargers that plug into a normal socket take most of the day, which means you're paying daytime rates and missing the savings.
 

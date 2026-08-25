@@ -1,6 +1,6 @@
 ---
 permalink: /crumpsall/solar-and-battery-installations/
-title: Solar Panel Installer in Crumpsall | Renegade Solar
+title: Solar Panel Installer in Crumpsall
 description: Solar panel and battery installations in Crumpsall from Renegade Solar, an MCS-certified installer with excellent Checkatrade ratings.
 redirect_from:
   - /solar-panel-installer-crumpsall/

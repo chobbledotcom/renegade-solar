@@ -1,5 +1,5 @@
 ---
-title: EICR for New Build Properties in Manchester | £150 plus VAT Same Day | Renegade Solar
+title: EICR for New Builds in Manchester
 description: Independent EICR electrical safety inspections for new build homes in Greater Manchester. £150 plus VAT, same day certificates. NAPIT registered.
 permalink: /eicr-new-build-properties-manchester/
 link_title: EICR for New Builds

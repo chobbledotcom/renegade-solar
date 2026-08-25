@@ -1,5 +1,5 @@
 ---
-title: Solar Panels for Hotels & Guest Houses in Manchester | Renegade Solar
+title: Solar Panels for Hotels in Manchester
 description: Commercial solar for hotels, guest houses and hospitality businesses across Greater Manchester. MCS-certified installer covering Greater Manchester.
 permalink: /solar-panels-for-hotels-manchester/
 link_title: Solar for Hotels

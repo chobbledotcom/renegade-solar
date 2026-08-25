@@ -1,6 +1,6 @@
 ---
 permalink: /blackley/electric-vehicle-charger-installations/
-title: EV Charger Installations in Blackley | Renegade Solar
+title: EV Charger Installations in Blackley
 description: Professional EV charger installations in Blackley by NAPIT-registered electrician. Smart charging solutions with solar integration available.
 redirect_from:
   - /ev-charger-installer-blackley/
@@ -26,7 +26,7 @@ For properties around Higher Blackley and the Heaton Park side, the larger semis
 
 ## What it costs to charge at home
 
-A 7kW wall charger gets the car topped up overnight in the cheap rate window. On a tariff like Octopus Go that's 9.5p per kWh, against the 50-80p you'd pay at a public charger ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). The granny chargers that plug into a regular socket take most of the day, which means you're charging on peak rates and missing the savings entirely.
+A 7kW wall charger gets the car topped up overnight in the cheap rate window. On a tariff like Octopus Go that's a fraction of the 50-80p per kWh you'd pay at a public charger ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). The granny chargers that plug into a regular socket take most of the day, which means you're charging on peak rates and missing the savings entirely.
 
 You don't need solar to get on a time-of-use tariff - they're available to anyone with a smart meter.
 

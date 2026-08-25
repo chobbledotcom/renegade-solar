@@ -1,5 +1,6 @@
 ---
-title: Electrical Safety Inspections (EICR)
+title: EICR & Electrical Safety Inspections
+description: EICR electrical safety inspections in Manchester from £150 plus VAT for any domestic property. Same day certificates, NAPIT registered, 20+ years experience.
 snippet: Just £150 plus VAT with same-day certificates and no hard sells.
 icon: /assets/icons/check.svg
 photo: bowlee-heywood-new-build-exterior.jpg

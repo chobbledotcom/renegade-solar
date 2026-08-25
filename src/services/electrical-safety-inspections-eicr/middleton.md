@@ -1,6 +1,6 @@
 ---
 permalink: /middleton/electrical-safety-inspections-eicr/
-title: EICR Electrical Safety Inspections in Middleton | £150 plus VAT Same Day Certificate
+title: EICR in Middleton | £150 + VAT Same Day
 description: Professional EICR electrical inspections in Middleton. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electrical safety experts.
 link_title: EICR Inspection
 heading: EICR Inspections in Middleton

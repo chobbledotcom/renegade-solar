@@ -2,7 +2,7 @@
 permalink: /chadderton/commercial-solar-installations/
 redirect_from:
   - /services/commercial-solar-installations/chadderton/
-title: Commercial Solar Installations in Chadderton | Renegade Solar
+title: Commercial Solar Installations in Chadderton
 description: Commercial solar for Chadderton businesses. Cut daytime electricity costs with commercial solar. MCS-certified installer based nearby in Prestwich.
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Chadderton

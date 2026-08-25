@@ -1,6 +1,6 @@
 ---
 permalink: /altrincham/electric-vehicle-charger-installations/
-title: EV Charger Installations in Altrincham | Renegade Solar
+title: EV Charger Installations in Altrincham
 description: Expert EV charger installations in Altrincham by NAPIT-registered electrician. Professional service with smart charging and solar integration.
 redirect_from:
   - /ev-charger-installer-altrincham/
@@ -18,7 +18,7 @@ We install EV chargers across Altrincham. Ashley is a NAPIT-registered electrici
 
 ## What it costs to charge at home
 
-Public chargers around Altrincham and the Interchange are running at 60-80p per kWh during peak times ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). On a tariff like Octopus Go, home charging is 9.5p overnight. For a daily commute into central Manchester or a run to the airport (15 minutes down the M56), the difference adds up to a fair bit over the course of a year.
+Public chargers around Altrincham and the Interchange are running at 60-80p per kWh during peak times ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). On a tariff like Octopus Go, home charging runs at a fraction of that overnight. For a daily commute into central Manchester or a run to the airport (15 minutes down the M56), the difference adds up to a fair bit over the course of a year.
 
 A 7kW wall charger does the job overnight in the cheap rate window. The granny chargers that plug into a normal socket will take most of the day and miss that window entirely, so you end up on full daytime rates.
 

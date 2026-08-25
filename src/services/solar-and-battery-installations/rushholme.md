@@ -1,6 +1,6 @@
 ---
 permalink: /rushholme/solar-and-battery-installations/
-title: Solar Panel Installer in Rusholme | Renegade Solar
+title: Solar Panel Installer in Rusholme
 description: Solar panel and battery installations in Rusholme from Renegade Solar, an MCS-certified installer with excellent Checkatrade ratings.
 redirect_from:
   - /solar-panel-installer-rusholme/

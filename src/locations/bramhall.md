@@ -1,6 +1,6 @@
 ---
-title: Solar and Electrical Services in Bramhall | Renegade Solar
-description: Expert solar panel installations and electrical services in Bramhall. MCS-certified local installer with comprehensive renewable energy solutions and excellent customer reviews.
+title: Solar and Electrical Services in Bramhall
+description: Solar panel and battery installations in Bramhall from an MCS-certified local installer. EV chargers, conservation area advice and electrical work across SK7.
 link_title: Bramhall
 heading: Solar and Electrical Services in Bramhall
 layout: location-root.html
@@ -13,3 +13,15 @@ tags: location
 We cover Bramhall for solar, battery, EV charger and general electrical work. The area has a mix of property types, from Victorian terraces and semis around the village to larger detached homes around Bramhall Park, plus newer developments throughout. The right solar setup varies a lot from one street to the next.
 
 A couple of things specific to Bramhall: there are conservation area considerations to navigate, and the mature trees on many streets can cast shade that affects panel performance. We're familiar with both, and Ashley will have a proper look at the property before recommending anything.
+
+## Solar panels in Bramhall
+
+The larger detached houses round Bramhall are usually straightforward solar jobs in one sense - plenty of roof, decent electricity use - but the trees change the maths. A garden full of mature trees is lovely until it shades the south roof at the wrong time of day, so we check where shade actually falls across the year. Sometimes the answer is splitting the array across two roof faces, or putting the panels where the generation is honest rather than where they look biggest. Our [solar panel installations in Bramhall](/bramhall/solar-and-battery-installations/) are all designed around a measured survey for that reason.
+
+For the streets within conservation areas, panel position and visibility matter. It doesn't always rule solar out, but it shapes the layout, and it's better to know before you've picked a system. We cover the detail on our [conservation areas and period properties](/solar-panels-conservation-areas-period-properties/) page.
+
+## Batteries and EV charging in Bramhall
+
+Bigger homes and two-car households tend to get on well with a [home battery](/services/home-battery-installations/): charge it overnight on an off-peak tariff, run the house on it through the day, and top it up with solar when there's spare. Add a [home EV charger](/bramhall/electric-vehicle-charger-installations/) and the car charges on the same cheap overnight rates, ideally with the panels picking up a share of it in summer.
+
+We're based in Prestwich, about half an hour up the road. [Get in touch](/contact/) and Ashley will come out and give you a straight answer on what your roof's actually worth.

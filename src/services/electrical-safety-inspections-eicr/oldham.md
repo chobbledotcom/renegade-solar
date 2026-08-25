@@ -2,7 +2,7 @@
 permalink: /oldham/electrical-safety-inspections-eicr/
 redirect_from:
   - /services/electrical-safety-inspections-eicr/oldham/
-title: EICR Electrical Safety Inspections in Oldham | £150 plus VAT Same Day Certificate
+title: EICR in Oldham | £150 + VAT Same Day
 description: Professional EICR electrical inspections across Oldham. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience.
 link_title: EICR Inspection
 heading: EICR Inspections in Oldham

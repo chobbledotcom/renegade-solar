@@ -2,7 +2,7 @@
 permalink: /chadderton/solar-and-battery-installations/
 redirect_from:
   - /services/solar-and-battery-installations/chadderton/
-title: Solar Panel Installer in Chadderton | Renegade Solar
+title: Solar Panel Installer in Chadderton
 description: MCS-certified solar panel and battery installations in Chadderton. Based nearby in Prestwich, already working in Failsworth. Personal service from a qualified electrician.
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Chadderton

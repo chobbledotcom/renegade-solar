@@ -1,6 +1,6 @@
 ---
 permalink: /middleton/electric-vehicle-charger-installations/
-title: EV Charger Installations in Middleton | Renegade Solar
+title: EV Charger Installations in Middleton
 description: Expert EV charger installations in Middleton by local NAPIT-registered electrician. Professional service with excellent customer reviews.
 redirect_from:
   - /ev-charger-installer-middleton/
@@ -18,7 +18,7 @@ We install EV chargers across Middleton. Ashley is a NAPIT-registered electricia
 
 ## What it costs to charge at home
 
-A 7kW wall charger gets the car topped up overnight in the cheap rate window. On a tariff like Octopus Go that's 9.5p per kWh, against the 50-80p you'd pay at a public charger ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). The granny chargers that plug into a normal socket take most of the day, so you're paying daytime rates and missing the savings.
+A 7kW wall charger gets the car topped up overnight in the cheap rate window. On a tariff like Octopus Go that's a fraction of the 50-80p per kWh you'd pay at a public charger ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). The granny chargers that plug into a normal socket take most of the day, so you're paying daytime rates and missing the savings.
 
 You don't need solar to get on a time-of-use tariff - they're open to anyone with a smart meter.
 

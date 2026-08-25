@@ -1,5 +1,6 @@
 ---
 title: Checkatrade
+description: Verified Checkatrade reviews for Renegade Solar, the trading name behind our electrical, solar, battery and EV charger work across Greater Manchester.
 logo: /assets/accreditation-logos/checkatrade.png
 tooltip: Excellent rating on Checkatrade.com from verified customer reviews
 url: https://www.checkatrade.com/trades/renegadeelectrical

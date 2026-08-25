@@ -1,5 +1,5 @@
 ---
-title: GivEnergy Installer in Manchester | Solar, Battery & EV Charger | Renegade Solar
+title: GivEnergy Installer in Manchester
 description: GivEnergy battery, inverter and EV charger installations across Greater Manchester. NAPIT registered, Octopus Energy Trusted Partner.
 permalink: /givenergy-installer-manchester/
 link_title: GivEnergy Installer

@@ -1,5 +1,5 @@
 ---
-title: AlphaESS Battery Installer in Manchester | Renegade Solar
+title: AlphaESS Battery Installer in Manchester
 description: AlphaESS battery storage installations across Greater Manchester. MCS-certified installer, listed as an approved AlphaESS installer.
 permalink: /alphaess-battery-installer-manchester/
 link_title: AlphaESS Installer

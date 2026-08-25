@@ -2,7 +2,7 @@
 permalink: /shaw/commercial-solar-installations/
 redirect_from:
   - /services/commercial-solar-installations/shaw/
-title: Commercial Solar Installations in Shaw | Renegade Solar
+title: Commercial Solar Installations in Shaw
 description: Commercial solar for Shaw businesses. Cut daytime electricity costs with commercial solar. MCS-certified installer based in Prestwich.
 link_title: Commercial Solar Installations
 heading: Commercial Solar Installations in Shaw
@@ -22,6 +22,12 @@ Commercial properties use electricity during the day when solar generates. You c
 Shaw's industrial heritage means some businesses operate from converted mill buildings or older commercial premises with large, often flat roof areas. These are excellent candidates for solar - big footprint, plenty of space for panels, and usually high electricity consumption from machinery, lighting, or climate control.
 
 Newer commercial units along the main roads work just as well. Whether flat or pitched roof, we design systems that maximise generation from whatever you've got.
+
+## The practical bits
+
+On a flat mill roof we usually specify a [ballasted mounting system](/flat-roof-commercial-solar-manchester/) - weighted rails that hold the array without drilling through the roof, set in angled rows with the spacing worked out so the panels don't shade each other and the roof stays serviceable. Pitched roofs get fixed mountings appropriate to the covering, and either way the electrical design and certification are done by a qualified electrician, because a commercial solar array is an electrical installation first.
+
+Bigger systems need the distribution network operator's agreement before connection, and what the local network will take can shape the final system size. We prepare and manage that application ourselves rather than leaving it with you, along with [MCS certification](/accreditations/mcs-certified/) for the installation. Monitoring comes as standard where the equipment supports it, so the generation figures are there in black and white from day one.
 
 ## Our approach
 

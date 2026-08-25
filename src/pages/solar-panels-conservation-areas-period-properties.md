@@ -1,5 +1,5 @@
 ---
-title: Solar Panels in Conservation Areas & Period Properties | Renegade Solar
+title: Solar Panels in Conservation Areas
 description: Solar and battery installations on Victorian, Edwardian and listed-style properties across Greater Manchester. MCS-certified installer with high-end residential experience.
 permalink: /solar-panels-conservation-areas-period-properties/
 link_title: Conservation & Period

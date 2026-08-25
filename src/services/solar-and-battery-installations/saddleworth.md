@@ -2,7 +2,7 @@
 permalink: /saddleworth/solar-and-battery-installations/
 redirect_from:
   - /services/solar-and-battery-installations/saddleworth/
-title: Solar Panel Installer in Saddleworth | Renegade Solar
+title: Solar Panel Installer in Saddleworth
 description: MCS-certified solar panel and battery installations in Saddleworth - Uppermill, Greenfield, Delph, Dobcross, Diggle, Denshaw. Expert advice on stone-built properties and conservation areas.
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Saddleworth

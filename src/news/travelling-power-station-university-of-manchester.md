@@ -1,5 +1,5 @@
 ---
-title: Solar for the University of Manchester's Travelling Power Station
+title: University of Manchester Travelling Power Station
 description: Renegade Solar helped design and install the solar on the University of Manchester's Travelling Power Station, a mobile community energy project now visiting communities.
 permalink: /news/travelling-power-station-university-of-manchester/
 link_title: Solar for the Travelling Power Station

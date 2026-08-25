@@ -1,6 +1,7 @@
 ---
 link_title: Services
-title: Services Offered by Renegade Solar
+title: Services
+description: Solar panel and battery installations, home batteries, EV chargers, EICR inspections and commercial solar across Greater Manchester.
 section: services
 order: 2
 tags: top_link

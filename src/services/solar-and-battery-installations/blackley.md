@@ -1,6 +1,6 @@
 ---
 permalink: /blackley/solar-and-battery-installations/
-title: Solar Panel Installer in Blackley | Renegade Solar
+title: Solar Panel Installer in Blackley
 description: Local solar panel installations in Blackley with Renegade Solar. MCS certified specialists serving Prestwich, Blackley and North Manchester.
 redirect_from:
   - /solar-panel-installer-blackley/
@@ -29,7 +29,7 @@ Blackley has a wide range of property types, and we've installed across most of 
 
 Solar panel efficiency depends on hours of daylight rather than direct sunshine, and Manchester gets close to the same daylight hours as the south of England. The rain helps keep the panels clean as well.
 
-If you're after a [battery on its own](/services/home-battery-installations/), that works too. A battery charging on a cheap overnight tariff like Octopus Go (around 9.5p per kWh against 30p+ at peak) and powering the house through the day pays for itself without any solar at all. [The Octopus tariff page](https://octopus.energy/tariffs/) shows what's currently available for your postcode.
+If you're after a [battery on its own](/services/home-battery-installations/), that works too. A battery charging on a cheap overnight tariff like Octopus Go and powering the house through the day pays for itself without any solar at all. [The Octopus tariff page](https://octopus.energy/tariffs/) shows what's currently available for your postcode.
 
 ## Local install
 

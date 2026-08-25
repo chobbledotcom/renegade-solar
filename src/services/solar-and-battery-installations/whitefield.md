@@ -1,6 +1,6 @@
 ---
 permalink: /whitefield/solar-and-battery-installations/
-title: Solar Panel Installer in Whitefield | Renegade Solar
+title: Solar Panel Installer in Whitefield
 description: MCS-certified solar panel and battery installs in Whitefield, from Renegade Solar - a HIES-registered electrical engineer with an excellent rating on Checkatrade.
 redirect_from:
   - /solar-panel-installer-whitefield/

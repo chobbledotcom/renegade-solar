@@ -1,6 +1,6 @@
 ---
 permalink: /crumpsall/electric-vehicle-charger-installations/
-title: EV Charger Installations in Crumpsall | Renegade Solar
+title: EV Charger Installations in Crumpsall
 description: Professional EV charger installations in Crumpsall by NAPIT-registered electrician. Smart charging integration with solar panels and home batteries.
 redirect_from:
   - /ev-charger-installer-crumpsall/
@@ -18,7 +18,7 @@ We install EV chargers across Crumpsall. Ashley is a NAPIT-registered electricia
 
 ## What it costs to charge at home
 
-Public chargers cost 50-80p per kWh ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). On a tariff like Octopus Go, home charging overnight is 9.5p. A typical Manchester commute drops from over £10 at the public charger to under £2 at home, which over a year adds up to a fair bit.
+Public chargers cost 50-80p per kWh ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). On a tariff like Octopus Go, home charging overnight costs a fraction of public prices. A typical Manchester commute costs a few pounds at home against over £10 at a public charger, which over a year adds up to a fair bit.
 
 The [government EV grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) covers up to £350 off the install. We're OZEV-approved and we sort the paperwork.
 

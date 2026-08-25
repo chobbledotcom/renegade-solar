@@ -1,6 +1,6 @@
 ---
 permalink: /crumpsall/commercial-solar-installations/
-title: Commercial Solar Installations in Crumpsall | Renegade Solar
+title: Commercial Solar Installations in Crumpsall
 description: Commercial solar for Crumpsall businesses. Crumpsall Lane shops, Hendham Vale Industrial Park, healthcare facilities near North Manchester General. MCS-certified installer.
 redirect_from:
   - /commercial-solar-installations-crumpsall/

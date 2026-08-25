@@ -1,6 +1,6 @@
 ---
 permalink: /middleton/commercial-solar-installations/
-title: Commercial Solar Installations in Middleton | Renegade Solar
+title: Commercial Solar Installations in Middleton
 description: Commercial solar for Middleton businesses. Stakehill Industrial Estate, Langley, town centre retail. Designed and installed by an MCS-certified installer.
 redirect_from:
   - /commercial-solar-installations-middleton/

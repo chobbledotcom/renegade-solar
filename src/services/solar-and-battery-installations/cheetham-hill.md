@@ -1,6 +1,6 @@
 ---
 permalink: /cheetham-hill/solar-and-battery-installations/
-title: Solar Panel Installer in Cheetham Hill | Renegade Solar
+title: Solar Panel Installer in Cheetham Hill
 description: Solar panel and battery installations in Cheetham Hill from Renegade Solar, an MCS-certified installer with excellent Checkatrade ratings.
 redirect_from:
   - /solar-panel-installer-cheetham-hill/

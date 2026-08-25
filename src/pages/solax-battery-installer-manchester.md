@@ -1,5 +1,5 @@
 ---
-title: Solax Battery & Inverter Installer in Manchester | Renegade Solar
+title: Solax Battery Installer in Manchester
 description: Solax battery storage and inverter installations across Greater Manchester. MCS-certified installer fitting Solax residential energy storage systems.
 permalink: /solax-battery-installer-manchester/
 link_title: Solax Installer

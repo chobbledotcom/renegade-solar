@@ -1,5 +1,5 @@
 ---
-title: New-Build Electrical Installation in Bowlee, Heywood | Renegade Solar
+title: New-Build Electrical Installation in Bowlee, Heywood
 description: Whole-house electrical installation in Bowlee, Heywood, designed, installed and commissioned by Renegade, including lighting and smart-home controls.
 permalink: /news/bowlee-heywood-new-build-electrical-installation/
 link_title: Bowlee New-Build Electrical Installation

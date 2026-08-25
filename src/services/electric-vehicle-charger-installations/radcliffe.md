@@ -9,7 +9,7 @@ redirect_from:
   - /ev-charger-installer-radcliffe/
   - /services/electric-vehicle-charger-installations/radcliffe/
 tags: [radcliffe]
-title: EV Charger Installations in Radcliffe | Renegade Solar
+title: EV Charger Installations in Radcliffe
 ---
 
 # EV Charger Installations in Radcliffe
@@ -26,7 +26,7 @@ For properties without off-street parking, the [government EV chargepoint grant]
 
 ## What it costs to charge at home
 
-Public chargers cost 50-80p per kWh ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). On a tariff like Octopus Go, home charging overnight is 9.5p. A typical commute into Manchester drops from around £10 at the public charger to under £2 at home. Over a year the difference adds up to a fair bit.
+Public chargers cost 50-80p per kWh ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). On a tariff like Octopus Go, home charging overnight costs a fraction of public prices. A typical commute into Manchester costs a few pounds at home against £10 or more at a public charger. Over a year the difference adds up to a fair bit.
 
 You don't need solar to get on a time-of-use tariff - they're open to anyone with a smart meter.
 

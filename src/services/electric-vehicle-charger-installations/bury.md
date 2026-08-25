@@ -1,6 +1,6 @@
 ---
 permalink: /bury/electric-vehicle-charger-installations/
-title: EV Charger Installations in Bury | Renegade Solar
+title: EV Charger Installations in Bury
 description: Professional EV charger installations in Bury by NAPIT-registered electrician. Smart charging solutions with competitive pricing.
 redirect_from:
   - /ev-charger-installer-bury/
@@ -28,7 +28,7 @@ The newer developments on the outskirts tend to have modern consumer units that 
 
 ## What it costs to charge at home
 
-A 7kW wall charger gets the car topped up overnight in the cheap rate window. On a tariff like Octopus Go that's 9.5p per kWh, compared to the 50-80p you'd pay at a public charger ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). The granny chargers that plug into a normal socket will take most of the day to top the car up, which means you're paying daytime rates and missing the savings.
+A 7kW wall charger gets the car topped up overnight in the cheap rate window. On a tariff like Octopus Go that's a fraction of the 50-80p per kWh you'd pay at a public charger ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). The granny chargers that plug into a normal socket will take most of the day to top the car up, which means you're paying daytime rates and missing the savings.
 
 You don't need solar to get on a time-of-use tariff - they're open to anyone with a smart meter.
 

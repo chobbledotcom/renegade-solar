@@ -1,6 +1,6 @@
 ---
 permalink: /radcliffe/solar-and-battery-installations/
-title: Solar Panel Installer in Radcliffe | Renegade Solar
+title: Solar Panel Installer in Radcliffe
 description: MCS-certified solar panel and battery installations in Radcliffe. Victorian terraces, post-war semis, modern estates - honest advice from a local electrician with an outstanding Checkatrade rating.
 redirect_from:
   - /solar-panel-installer-radcliffe/
@@ -30,7 +30,7 @@ Radcliffe gets the same daylight hours as the rest of Greater Manchester, which 
 
 ## Battery storage and time-of-use tariffs
 
-Plenty of Radcliffe customers combine solar with battery storage. On a tariff like [Octopus Go](https://octopus.energy/tariffs/), the battery charges overnight at around 9.5p per kWh and runs the house through the day, with solar topping it up when the sun's out. If the roof isn't suitable for solar - because of orientation, shading, or the property type - a [battery-only system](/services/home-battery-installations/) still cuts bills substantially with a time-of-use tariff.
+Plenty of Radcliffe customers combine solar with battery storage. On a tariff like [Octopus Go](https://octopus.energy/tariffs/), the battery charges overnight at cheap off-peak rates and runs the house through the day, with solar topping it up when the sun's out. If the roof isn't suitable for solar - because of orientation, shading, or the property type - a [battery-only system](/services/home-battery-installations/) still cuts bills substantially with a time-of-use tariff.
 
 ## What customers say
 

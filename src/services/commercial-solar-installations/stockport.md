@@ -1,6 +1,6 @@
 ---
 permalink: /stockport/commercial-solar-installations/
-title: Commercial Solar Installations in Stockport | Renegade Solar
+title: Commercial Solar Installations in Stockport
 description: Commercial solar for Stockport businesses. MCS-certified installer. Costs and generation modelled for your building.
 redirect_from:
   - /commercial-solar-installations-stockport/

@@ -2,7 +2,7 @@
 permalink: /lees/solar-and-battery-installations/
 redirect_from:
   - /services/solar-and-battery-installations/lees/
-title: Solar Panel Installer in Lees | Renegade Solar
+title: Solar Panel Installer in Lees
 description: MCS-certified solar panel and battery installations in Lees, Oldham. Personal service from a qualified electrician based in Prestwich.
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Lees

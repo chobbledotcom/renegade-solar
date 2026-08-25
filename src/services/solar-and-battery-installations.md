@@ -53,7 +53,15 @@ Installs are carried out with minimal disruption to your home or business by the
 
 ## Commissioning
 
-The system gets tested and commissioned to the relevant safety and regulatory standards, and you'll receive the full electrical certification.
+The system gets tested and commissioned to the relevant safety and regulatory standards, and you'll receive the full electrical certification. The grid connection paperwork is part of the handover too - small systems are notified to the network operator under G98 and larger ones need a G99 application first, which we prepare and manage. We've written up [how G98 and G99 applications work](/g98-g99-dno-applications-solar-manchester/) if you want the detail.
+
+## Costs, VAT and export payments
+
+We don't publish package prices, because an honest number depends on the roof, the system size and the battery - and a quote modelled on your actual usage beats a brochure figure. What we can say up front:
+
+- **0% VAT applies to domestic solar panel and battery installations until 31 March 2027**, including standalone batteries. Nothing to claim - the rate is applied to the installation itself. See [0% VAT on solar panels and batteries](/0-vat-solar-panels-batteries-manchester/) for what qualifies.
+- **Surplus electricity can be exported for payment** under the Smart Export Guarantee. Because we're MCS-certified, your system qualifies, and we handle the documentation your supplier needs.
+- **Every quote shows its assumptions** - the generation model, the usage it's based on, and the tariff logic behind the payback figures. If you're weighing the whole thing up, our [are solar panels worth it in Manchester](/are-solar-panels-worth-it-manchester/) page sets out how we work the numbers honestly.
 
 ## Aftercare
 

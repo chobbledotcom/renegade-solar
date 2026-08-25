@@ -1,5 +1,6 @@
 ---
 title: Green Economy
+description: Renegade Solar is a member of the Greater Manchester Green Economy, supporting local low-carbon skills and renewable energy installation across the city region.
 logo: /assets/accreditation-logos/green-economy.png
 tooltip: Listed on Green Economy's curated marketplace of trusted green technology providers
 url: https://www.greeneconomy.co.uk

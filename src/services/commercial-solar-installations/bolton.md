@@ -1,6 +1,6 @@
 ---
 permalink: /bolton/commercial-solar-installations/
-title: Commercial Solar Installations in Bolton | Renegade Solar
+title: Commercial Solar Installations in Bolton
 description: Commercial solar for Bolton businesses. Designing for a carpet warehouse spending £700 a month. Flat roofs, factories, retail - we cover Bolton.
 redirect_from:
   - /commercial-solar-installations-bolton/

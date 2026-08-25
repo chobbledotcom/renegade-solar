@@ -1,5 +1,5 @@
 ---
-title: EV Charger and Ohme Charger Relocation in Manchester | Renegade Solar
+title: EV Charger Relocation in Manchester
 description: EV charger and Ohme Pro removal and reinstallation when moving house, completed by a NAPIT-registered electrician across Greater Manchester.
 permalink: /ev-charger-relocation-manchester/
 link_title: EV Charger Relocation

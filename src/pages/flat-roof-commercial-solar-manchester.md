@@ -1,5 +1,5 @@
 ---
-title: Flat Roof Commercial Solar Installations in Manchester | Renegade Solar
+title: Flat Roof Commercial Solar in Manchester
 description: Flat roof commercial solar installations across Greater Manchester. Designed around your daytime electricity use. MCS-certified installer with experience on warehouses, retail and industrial properties.
 permalink: /flat-roof-commercial-solar-manchester/
 link_title: Flat Roof Solar

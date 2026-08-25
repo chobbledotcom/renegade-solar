@@ -2,7 +2,7 @@
 permalink: /hale/electric-vehicle-charger-installations/
 redirect_from:
   - /services/electric-vehicle-charger-installations/hale/
-title: EV Charger Installations in Hale | Renegade Solar
+title: EV Charger Installations in Hale
 description: Expert EV charger installations in Hale by NAPIT-registered electrician. Any charger brand, any vehicle. Professional service with smart charging and solar integration.
 link_title: EV Charger Installs
 heading: EV Charger Installations in Hale
@@ -19,7 +19,7 @@ A recent job on Hale Road came in because the customer's Hypervolt charger had s
 
 ## What it costs to charge at home
 
-Public chargers at supermarkets and service stations are running at 60-80p per kWh during peak times ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). On a tariff like Octopus Go, home charging is 9.5p overnight. For a daily commute into Manchester or a run to the airport (15 minutes down the M56), the difference adds up to a fair bit over the course of a year.
+Public chargers at supermarkets and service stations are running at 60-80p per kWh during peak times ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). On a tariff like Octopus Go, home charging runs at a fraction of that overnight. For a daily commute into Manchester or a run to the airport (15 minutes down the M56), the difference adds up to a fair bit over the course of a year.
 
 A 7kW wall charger does the job overnight in the cheap rate window. Granny chargers that plug into a normal socket take most of the day and miss that window entirely.
 

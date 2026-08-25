@@ -1,5 +1,5 @@
 ---
-title: Solar & Battery for Extensions, Loft Conversions & Renovations | Renegade Solar
+title: Solar & Battery for Extensions & Renovations
 description: Solar, battery and electrical work for extensions, loft conversions, self-builds and renovations across Greater Manchester from an MCS-certified installer and qualified electrician.
 permalink: /solar-and-battery-extensions-renovations-manchester/
 link_title: For Renovations

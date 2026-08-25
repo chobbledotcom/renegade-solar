@@ -2,6 +2,20 @@
 
 This backlog records search intents that are weak or absent in the current site. It is based on the repository content audit and wider Manchester search results checked in July 2026. Search Console data should decide the final order when available.
 
+## Completed August 2026
+
+On-page fixes from the August 2026 audit:
+
+- All titles over ~61 characters rewritten (the EICR location template, brand pages, commercial verticals and location hubs). "Electrical safety inspections" remains in each EICR page's h1 and description; the price and place stay in the title.
+- Missing meta descriptions added: EICR root service page, electrical testing, Prestwich and Bolton hubs, plus accreditations, contact, reviews and services.
+- All 21 location hubs expanded from 75-176 words to 305-370 words with place-keyword headings, property detail and internal links. Unsourced property-price figures (Chadderton, Saddleworth, Oldham tenure stats, Hale conservation-area specificity, Royton price commentary) removed as part of the rewrite.
+- Thin service x location pages (commercial solar Lees and Shaw, EV chargers Lees and Shaw) expanded past 250 words.
+- Stale tariff figures removed site-wide: "9.5p/kWh Octopus Go" and derived £-figure comparisons replaced with rate-agnostic wording on 22 pages. Sourced public-charging figures (50-80p/kWh with zapmap/RAC links) and the Oldham commuting table with stated assumptions remain.
+- New guides published: `/are-solar-panels-worth-it-manchester/`, `/0-vat-solar-panels-batteries-manchester/`, `/g98-g99-dno-applications-solar-manchester/` (G98/G99 facts verified against Electricity North West).
+- 0% VAT sections added to the solar and battery money pages, with the correct 5% EV chargepoint rate noted on the EV page. Facts verified against gov.uk Notice 708/6: zero rate to 31 March 2027, standalone batteries included since 1 February 2024, 5% thereafter.
+- Battery-without-solar cluster cross-linked between home battery, Octopus Go and the worth-it guide.
+- Generation-data sections (kWh/kWp, sunshine hours) deliberately not added, and no cost page published - both still gated on Ashley's real figures.
+
 ## Highest Priority
 
 ### Electrical Services In North Manchester

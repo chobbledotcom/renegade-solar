@@ -2,7 +2,7 @@
 permalink: /shaw/solar-and-battery-installations/
 redirect_from:
   - /services/solar-and-battery-installations/shaw/
-title: Solar Panel Installer in Shaw | Renegade Solar
+title: Solar Panel Installer in Shaw
 description: MCS-certified solar panel and battery installations in Shaw and Crompton. Personal service from a qualified electrician based in Prestwich.
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Shaw

@@ -1,6 +1,6 @@
 ---
 permalink: /bramhall/solar-and-battery-installations/
-title: Solar Panel Installer in Bramhall | Renegade Solar
+title: Solar Panel Installer in Bramhall
 description: MCS-certified solar panel installations in Bramhall. Expert advice on Victorian and Edwardian properties, conservation areas, and mature tree shading from a local installer with excellent Checkatrade rating.
 redirect_from:
   - /solar-panel-installer-bramhall/

@@ -1,6 +1,6 @@
 ---
 permalink: /bury/electrical-safety-inspections-eicr/
-title: EICR Electrical Safety Inspections in Bury | £150 plus VAT Same Day Certificate
+title: EICR in Bury | £150 + VAT Same Day
 description: Professional EICR electrical inspections in Bury. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, 20+ years experience. Local electricians.
 link_title: EICR Inspection
 heading: EICR Inspections in Bury

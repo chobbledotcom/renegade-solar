@@ -1,6 +1,7 @@
 ---
 link_title: Contact
-title: Contact Renegade Solar
+title: Contact
+description: Get a free quote for solar panels, battery storage, EV chargers or electrical work across Greater Manchester. Talk directly to Ashley, no call centre.
 order: 5
 permalink: /contact/
 layout: contact.html

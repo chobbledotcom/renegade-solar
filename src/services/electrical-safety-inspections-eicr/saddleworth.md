@@ -2,7 +2,7 @@
 permalink: /saddleworth/electrical-safety-inspections-eicr/
 redirect_from:
   - /services/electrical-safety-inspections-eicr/saddleworth/
-title: EICR Electrical Safety Inspections in Saddleworth | £150 plus VAT Same Day Certificate
+title: EICR in Saddleworth | £150 + VAT Same Day
 description: Professional EICR electrical inspections across Saddleworth - Uppermill, Greenfield, Delph, Dobcross, Diggle. £150 plus VAT, same day certificates. NAPIT registered.
 link_title: EICR Inspection
 heading: EICR Inspections in Saddleworth

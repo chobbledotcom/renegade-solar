@@ -1,6 +1,6 @@
 ---
 permalink: /bury/commercial-solar-installations/
-title: Commercial Solar Installations in Bury | Renegade Solar
+title: Commercial Solar Installations in Bury
 description: Commercial solar for Bury businesses. Cut daytime electricity costs with commercial solar. Factories, retail, hospitality - MCS-certified installer.
 redirect_from:
   - /commercial-solar-installations-bury/

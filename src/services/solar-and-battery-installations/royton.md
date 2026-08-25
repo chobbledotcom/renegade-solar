@@ -2,7 +2,7 @@
 permalink: /royton/solar-and-battery-installations/
 redirect_from:
   - /services/solar-and-battery-installations/royton/
-title: Solar Panel Installer in Royton | Renegade Solar
+title: Solar Panel Installer in Royton
 description: MCS-certified solar panel and battery installations in Royton. Local installer based in Prestwich with personal service from a qualified electrician.
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Royton

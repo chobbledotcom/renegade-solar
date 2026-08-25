@@ -1,6 +1,6 @@
 ---
 permalink: /altrincham/electrical-safety-inspections-eicr/
-title: EICR Electrical Safety Inspections in Altrincham | £150 plus VAT Same Day Certificate
+title: EICR in Altrincham | £150 + VAT Same Day
 description: Professional EICR electrical inspections in Altrincham. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, specialist in period properties and modern developments.
 link_title: EICR Inspection
 heading: EICR Inspections in Altrincham

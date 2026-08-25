@@ -2,7 +2,7 @@
 permalink: /hale/electrical-safety-inspections-eicr/
 redirect_from:
   - /services/electrical-safety-inspections-eicr/hale/
-title: EICR Electrical Safety Inspections in Hale | £150 plus VAT Same Day Certificate
+title: EICR in Hale | £150 + VAT Same Day
 description: Professional EICR electrical inspections in Hale. £150 plus VAT all domestic properties regardless of size, same day certificates. NAPIT registered, specialist in period properties.
 link_title: EICR Inspection
 heading: EICR Inspections in Hale
