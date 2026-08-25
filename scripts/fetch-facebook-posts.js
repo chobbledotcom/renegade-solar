@@ -60,7 +60,7 @@ async function fetchPosts(facebookUrl, limit) {
   const response = await fetch(endpoint, {
     method: "POST",
     headers: {
-      Authorization: `Bearer ${process.env.APIFY_API_KEY}`,
+      Authorization: `Bearer ${process.env.APIFY_API_TOKEN}`,
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
@@ -99,7 +99,7 @@ function normalizePost(post) {
 
 async function main() {
   loadEnv();
-  if (!process.env.APIFY_API_KEY) throw new Error("APIFY_API_KEY is required in .env or the environment");
+  if (!process.env.APIFY_API_TOKEN) throw new Error("APIFY_API_TOKEN is required in .env or the environment");
 
   const socials = JSON.parse(fs.readFileSync(SOCIALS_FILE, "utf8"));
   const facebookUrl = socials.facebook?.url;
