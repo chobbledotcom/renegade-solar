@@ -1,7 +1,76 @@
 {
-  "total": 161,
+  "total": 164,
   "averageRating": 9.96,
   "reviews": [
+    {
+      "id": "gr-104783113520109143904-20260822",
+      "title": "I just had solar and batteries installed, they were very helpful with the system design to maximise the panels on my ...",
+      "review": "I just had solar and batteries installed, they were very helpful with the system design to maximise the panels on my roof and they were able to start quite soon. They worked quickly and it was completed to a high standard. Much cheaper than Octopus while providing more options.",
+      "createdAt": "2026-08-22T08:10:30.094Z",
+      "updatedAt": "2026-08-22T08:10:30.094Z",
+      "location": {
+        "postcode": ""
+      },
+      "verified": "VERIFIED",
+      "rating": {
+        "qualityOfWorkmanship": 10,
+        "reliabilityAndTimekeeping": 10,
+        "communication": 10,
+        "rating": 10
+      },
+      "reviewer": {
+        "id": "104783113520109143904",
+        "displayName": "Steven"
+      },
+      "source": "google",
+      "authorUrl": "https://www.google.com/maps/contrib/104783113520109143904?hl=en"
+    },
+    {
+      "id": "tp-6a54fec4ed7b3566f440ebcc-20260713",
+      "title": "How thoughts on renegade solar",
+      "review": "How thoughts on renegade solar.\n\nWe have been very pleased with Ashley and the team. Efficient and well fitted quality product. Great communication and support. We also have had a flat roof and the results are fabulous. Highly recommended.",
+      "createdAt": "2026-07-13T17:05:40.000Z",
+      "updatedAt": "2026-07-13T17:05:40.000Z",
+      "location": {
+        "postcode": ""
+      },
+      "verified": "VERIFIED",
+      "rating": {
+        "qualityOfWorkmanship": 10,
+        "reliabilityAndTimekeeping": 10,
+        "communication": 10,
+        "rating": 10
+      },
+      "reviewer": {
+        "id": "tp-6a54fec4ed7b3566f440ebcc",
+        "displayName": "Ruth Goulding"
+      },
+      "source": "trustpilot",
+      "authorUrl": "https://trustpilot.com/reviews/6a54fec4ed7b3566f440ebcc"
+    },
+    {
+      "id": "tp-6a3e6b6a65bb69b8e80b9d3f-20260626",
+      "title": "If you want a small company you can trust to give good advice and do a quality job look no further",
+      "review": "If you want a small company you can trust to give good advice and do a quality job look no further.\n\nWe were recommended by a friend and were not disappointed with this small but efficient company. They gave good advice carried out superb work and charged a reasonable price.Our daughter was so impressed they are having the same system installed.",
+      "createdAt": "2026-06-26T14:07:06.000Z",
+      "updatedAt": "2026-06-26T14:07:06.000Z",
+      "location": {
+        "postcode": ""
+      },
+      "verified": "VERIFIED",
+      "rating": {
+        "qualityOfWorkmanship": 10,
+        "reliabilityAndTimekeeping": 10,
+        "communication": 10,
+        "rating": 10
+      },
+      "reviewer": {
+        "id": "tp-6a3e6b6a65bb69b8e80b9d3f",
+        "displayName": "Peter Goulding"
+      },
+      "source": "trustpilot",
+      "authorUrl": "https://trustpilot.com/reviews/6a3e6b6a65bb69b8e80b9d3f"
+    },
     {
       "id": "tp-6a1ec8ac2e2437d38223f617-20260602",
       "title": "Brilliant bespoke service at very fair price",
