@@ -9,4 +9,4 @@ This site uses the following free and open source tools and assets:
 
 Business logos are copyright their respective owners.
 
-It was built by Stef from [chobble.com](https://chobble.com/)
+It was built by Stef from [chobble.com](https://www.chobble.com/)
