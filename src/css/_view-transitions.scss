@@ -1,0 +1,39 @@
+// =============================================================================
+// VIEW TRANSITIONS
+// =============================================================================
+// Opt in to native cross-document view transitions so page navigations animate
+// automatically in supporting browsers (a no-op where unsupported).
+//
+// Adapted from the chobble-template design system.
+
+@view-transition {
+  navigation: auto;
+}
+
+// The header and footer are identical on every page. Naming them lifts them
+// out of the root crossfade, so the site chrome stays put while the page
+// content animates between the old and new snapshots.
+//
+// Each named element must be unique on the page, which holds here: one
+// header, one article, one footer per layout.
+header {
+  view-transition-name: site-header;
+}
+
+article {
+  view-transition-name: page-content;
+}
+
+.site-footer {
+  view-transition-name: site-footer;
+}
+
+// Respect the user's motion preference: keep the instant snapshot swap but
+// drop the animation.
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-group(*),
+  ::view-transition-old(*),
+  ::view-transition-new(*) {
+    animation: none;
+  }
+}

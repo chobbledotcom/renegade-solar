@@ -2,6 +2,7 @@ $page-width: 1200px;
 $mobile-width: 768px;
 
 @import "_tokens";
+@import "_view-transitions";
 @import "_navbar";
 @import "_customer-reviews";
 @import "_photo-gallery";

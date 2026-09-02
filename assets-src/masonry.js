@@ -146,11 +146,10 @@ const init = () => {
 	layoutAll();
 };
 
-// Run on first load and after every Turbo navigation; relayout on resize.
+// Run on page load; relayout on resize.
 if (document.readyState === "loading") {
 	document.addEventListener("DOMContentLoaded", init);
 } else {
 	init();
 }
-document.addEventListener("turbo:load", init);
 window.addEventListener("resize", debounce(layoutAll, 100));
