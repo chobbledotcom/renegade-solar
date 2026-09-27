@@ -6,6 +6,15 @@ heading: Solar and Electrical Services in Bramhall
 layout: location-root.html
 permalink: /bramhall/
 tags: location
+faqs:
+  - q: Do you cover areas near Bramhall as well?
+    a: Yes, including Stockport, Cheadle Hulme, Hazel Grove and Poynton. The housing runs from Victorian terraces and semis round the village to larger detached homes near Bramhall Park, so the right solar setup varies from one street to the next.
+  - q: Do conservation area rules in Bramhall mean no solar?
+    a: Not automatically. Panel position and visibility matter on the streets within conservation areas, and it's better to know where you stand before you've picked a system. On most properties there's a layout that works, and the survey settles it early rather than after you've chosen equipment.
+  - q: Our garden has mature trees. Will they ruin solar generation?
+    a: They change the maths rather than ending it. What matters is where shade actually falls across the year, so we measure it, and sometimes the answer is splitting the array across two roof faces or choosing the face with the honest generation rather than the biggest one.
+  - q: Do you subcontract installations in Bramhall?
+    a: Only the scaffolding, which is specialist work. Ashley does the survey and the in-house team carries out the electrical installation, so the person who looked at your roof is the person overseeing the job.
 ---
 
 # Bramhall

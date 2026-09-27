@@ -6,6 +6,15 @@ heading: Solar and Electrical Services in Rochdale and Heywood
 layout: location-root.html
 permalink: /rochdale/
 tags: location
+faqs:
+  - q: "Does your work stretch to Heywood as well as Rochdale?"
+    a: "Yes, Heywood and the surrounding borough are part of the patch. The route over runs through Middleton, where we're already working most weeks, so a survey out your way is a straightforward trip rather than an expedition."
+  - q: "Was the new-build project in Bowlee a solar installation?"
+    a: "It was electrical work: Renegade designed, installed and commissioned the complete electrical installation, inside and out, with a wall-mounted smart-home interface. Solar panels were planned for a later phase, and the consumer unit and cable routes were designed with that in mind."
+  - q: "We're up towards Littleborough. Is the house too exposed for solar?"
+    a: "Exposed positions are manageable when the mounting design takes wind loading seriously, and the stone slate roofs up there need particular care with fixings and weathering. What actually decides the output is how the house sits on the slope, which a measured survey settles."
+  - q: "The wiring in my Rochdale terrace has been altered over the years. Does that matter?"
+    a: "It matters before anything gets added to it. An <a href=\"/services/electrical-safety-inspections-eicr/\">EICR electrical safety inspection</a> at £150 plus VAT for any domestic property, with same day certificates, shows what the consumer unit and earthing can take before solar, a battery or a charger goes on."
 ---
 
 # Solar and Electrical Services in Rochdale and Heywood

@@ -112,6 +112,95 @@ module.exports = async (eleventyConfig) => {
 		},
 	);
 
+	// FAQPage JSON-LD for the FAQ motif. Pages that skip the motif hand over
+	// an empty or missing list and get an empty string back, so no empty
+	// script tag reaches the output.
+	eleventyConfig.addFilter("faqJsonLd", (items, pageUrl, siteUrl) => {
+		if (!Array.isArray(items) || items.length === 0) return "";
+
+		const questions = items
+			.filter(
+				(item) =>
+					item &&
+					typeof item.q === "string" &&
+					item.q.trim() &&
+					typeof item.a === "string" &&
+					item.a.trim(),
+			)
+			.map((item) => ({
+				"@type": "Question",
+				name: item.q,
+				acceptedAnswer: { "@type": "Answer", text: item.a },
+			}));
+
+		if (questions.length === 0) return "";
+
+		return JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "FAQPage",
+			url: `${siteUrl || ""}${pageUrl || ""}`,
+			mainEntity: questions,
+		});
+	});
+
+	// LocalBusiness JSON-LD, emitted from the base layout on every page.
+	// Ratings and counts come from src/_data/reviews.json rather than being
+	// hardcoded, so the monthly review update flows through on its own.
+	eleventyConfig.addFilter(
+		"localBusinessJsonLd",
+		(areas, reviews = {}, socials = {}) => {
+			const areaServed = [
+				...(Array.isArray(areas) ? areas : []),
+				"Greater Manchester",
+				"North West England",
+			]
+				.map((area) => (typeof area === "string" ? area.trim() : ""))
+				.filter(Boolean);
+
+			const sameAs = Object.values(socials)
+				.map((entry) => (typeof entry === "string" ? entry : entry?.url))
+				.filter((url) => typeof url === "string" && url);
+
+			return JSON.stringify({
+				"@context": "https://schema.org",
+				"@type": ["LocalBusiness", "Electrician"],
+				name: "Renegade Solar",
+				alternateName: "Renegade Electrical Ltd",
+				url: "https://www.renegade-solar.co.uk",
+				image:
+					"https://www.renegade-solar.co.uk/assets/renegade-solar-logo.png",
+				telephone: "+447868643147",
+				email: "renegadeelectrical99@gmail.com",
+				address: {
+					"@type": "PostalAddress",
+					addressLocality: "Prestwich",
+					addressRegion: "Greater Manchester",
+					addressCountry: "GB",
+				},
+				areaServed,
+				aggregateRating: {
+					ratingValue: reviews.averageRating,
+					bestRating: "10",
+					ratingCount: reviews.total,
+					reviewCount: reviews.total,
+				},
+				hasCredential: [
+					"MCS Certified (NAP-66870)",
+					"TrustMark Registered",
+					"NAPIT Registered (66870)",
+					"HIES Consumer Code Member",
+					"Octopus Energy Trusted Partner",
+				],
+				sameAs,
+				identifier: {
+					"@type": "PropertyValue",
+					name: "UK Company Number",
+					value: "11368812",
+				},
+			});
+		},
+	);
+
 	eleventyConfig.addShortcode("image", async (src, alt, sizes) => {
 		let metadata = await Image(src, {
 			widths: [150, 300],

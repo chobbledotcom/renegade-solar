@@ -198,6 +198,54 @@
     }
   },
   "faq_sets": {
+    "battery": [
+      {
+        "q": "What size battery do I need?",
+        "a": "Most domestic installations land somewhere between 5kWh and 15kWh, but the right answer comes from your own usage rather than a rule of thumb. We look at what you get through and when, what tariff you are on and whether solar is involved, then size it from there at survey."
+      },
+      {
+        "q": "Can a battery be added to solar panels I already own?",
+        "a": "Yes, and it is routine work rather than an experiment. The inverter and the existing setup get checked for compatibility first, so the battery and the solar actually talk to each other instead of being bolted together. It also gets factored into the grid connection paperwork."
+      },
+      {
+        "q": "Where can a home battery actually be fitted?",
+        "a": "Garages, utility rooms, driveways and other suitable spaces - we have installed in all of them. Lofts are ruled out, which follows NAPIT guidance on battery locations, so if the loft is the only spot we will say so at survey rather than fit it anyway."
+      },
+      {
+        "q": "Which battery brands do you install?",
+        "a": "Batteries from manufacturers such as GivEnergy, Solax and AlphaESS, depending on what suits the property. Capacity, monitoring and how the unit handles an existing solar setup all come into it, and the recommendation comes out of the survey rather than out of a stockroom."
+      },
+      {
+        "q": "Will a home battery keep the lights on in a power cut?",
+        "a": "Not automatically. Backup has to be designed into the installation, with equipment chosen for it and the essential circuits agreed before we start. A standard battery installation does nothing during an outage, so tell us at survey if backup matters to you."
+      },
+      {
+        "q": "Which electricity tariffs suit a home battery?",
+        "a": "Time-of-use tariffs are where a battery earns its keep: it charges at the cheaper off-peak rate and runs the house through the expensive periods. We have written up how that runs day to day on our Octopus Go page at /octopus-go-battery-installer-manchester/."
+      }
+    ],
+    "commercial": [
+      {
+        "q": "What makes commercial solar pay back quickly?",
+        "a": "Daytime-heavy electricity use and a big usable roof. A business drawing power while the panels generate uses nearly every unit produced, and that is what pulls the payback in. The figures get modelled from your own half-hourly consumption rather than averages."
+      },
+      {
+        "q": "Do commercial installations need a DNO application?",
+        "a": "Smaller systems are connected and notified under G98, while anything exporting above that needs G99 approval before it connects. We handle the application where the system size requires it, and our /g98-g99-dno-applications-solar-manchester/ page explains which route applies."
+      },
+      {
+        "q": "How long does a commercial installation take?",
+        "a": "It comes down to roof area, access and scaffolding, so the programme is agreed with you before we start rather than guessed at on the day. Work is scheduled around your operation to keep disruption down."
+      },
+      {
+        "q": "Do commercial solar panels need planning permission?",
+        "a": "Permitted development rights are not a given for commercial premises, so each building is looked at on its own terms before anything is ordered. We will tell you where yours stands at survey stage rather than have you find out from the council later."
+      },
+      {
+        "q": "Can I get commercial solar if I lease my building?",
+        "a": "The payback needs a long-term stake in the property, so owning the building is the main requirement. On a lease it becomes a conversation with the landlord, and as a rule it does not stack up for a tenant on their own."
+      }
+    ],
     "solar": [
       {
         "q": "Do solar panels actually work in Manchester?",
@@ -270,6 +318,10 @@
       {
         "q": "Who does the work?",
         "a": "A NAPIT-registered electrician. The supply, the earthing arrangement, the protective device and the certification all matter more on an EV charger than people expect, which is why an electrician does the survey rather than a salesperson."
+      },
+      {
+        "q": "Can you move an EV charger to a new house?",
+        "a": "Yes. The charger comes off the old property and goes back on the wall at the new one, which one of our customers did recently after moving house. The supply and earthing at the new place still get checked first, and our /ev-charger-relocation-manchester/ page covers how it runs."
       }
     ]
   },

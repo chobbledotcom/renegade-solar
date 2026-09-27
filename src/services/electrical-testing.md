@@ -1,6 +1,6 @@
 ---
 title: Electrical Testing in Manchester
-description: Electrical testing, inspection and commissioning across Greater Manchester. Domestic and commercial certificates from a NAPIT-registered electrician.
+description: Electrical testing, inspection and commissioning across Greater Manchester by a NAPIT-registered electrician. Domestic and commercial certificates. Get a quote.
 snippet: Testing, inspecting, and commissioning from an electrician with 20+
   years experience.
 icon: /assets/icons/plug.svg

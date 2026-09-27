@@ -6,6 +6,15 @@ heading: Solar Installations in Chadderton
 layout: location-root.html
 permalink: /chadderton/
 tags: location
+faqs:
+  - q: "Is Chadderton too far away for you to take the job on?"
+    a: "Not at all. Chadderton sits along the M60, so it's an easy run from our base in Prestwich, and we already work in Failsworth just down the road."
+  - q: "Where do the panels go on a Chadderton terrace with a chimney?"
+    a: "The brick-built houses here have slate or tile roofs, and the chimney is usually the design decision: which side of the stack gets the panels, and keeping the array in the clean section of roof. Semis give you two faces to choose from, so orientation and shade settle it."
+  - q: "Is a battery worth adding to solar in Chadderton?"
+    a: "For the newer developments along the M60 corridor, with bigger roofs and higher energy use, solar plus battery storage earns its keep: the battery stores what the house doesn't use through the day and runs the evening off it. On the older terraces it depends on usage and roof space, which the survey measures."
+  - q: "Should I get the electrics checked before adding solar in Chadderton?"
+    a: "It's a sensible starting point on an older installation. We carry out <a href=\"/chadderton/electrical-safety-inspections-eicr/\">EICR inspections in Chadderton</a> at £150 plus VAT with same day certificates, which shows what the consumer unit, earthing and wiring can take before solar or a battery goes on."
 ---
 
 # Chadderton

@@ -6,6 +6,15 @@ heading: Solar Installations in Cheetham Hill
 layout: location-root.html
 permalink: /cheetham-hill/
 tags: location
+faqs:
+  - q: "I'm in a flat and the roof isn't mine. Can I still have a battery?"
+    a: "A standalone home battery works without panels, charged overnight on a cheap tariff and run down through the day. For a flat, the freeholder and lease questions come first, and it's better to have that conversation before the survey."
+  - q: "How many solar panels fit on a Cheetham Hill terrace?"
+    a: "The terraced streets here are compact two and three bedroom houses with chimney-heavy roofs, so it's usually about placing six to ten panels well rather than fitting as many as possible. Done right, that sized system still covers a serious share of a typical household's electricity."
+  - q: "Do you use subcontractors for the installation?"
+    a: "The installation is carried out by the in-house team. Specialist scaffolding is the only part we subcontract, and Ashley oversees every job from the survey onwards."
+  - q: "Do you take on commercial premises in Cheetham Hill?"
+    a: "Yes. The commercial buildings along the main roads out of the city are a different job again, and we take them on. Our <a href=\"/services/commercial-solar-installations/\">commercial solar</a> page covers how the bigger systems are designed and connected."
 ---
 
 # Cheetham Hill

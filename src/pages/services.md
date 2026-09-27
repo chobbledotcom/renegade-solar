@@ -1,7 +1,7 @@
 ---
 link_title: Services
-title: Services
-description: Solar panel and battery installations, home batteries, EV chargers, EICR inspections and commercial solar across Greater Manchester.
+title: Solar, Battery, EV and Electrical Services
+description: Solar panel and battery installations, home batteries, EV chargers, EICR inspections and commercial solar in Greater Manchester. MCS-certified. Free survey.
 section: services
 order: 2
 tags: top_link

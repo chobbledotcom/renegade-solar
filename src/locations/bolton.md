@@ -6,6 +6,15 @@ heading: Solar and Electrical Services in Bolton
 layout: location-root.html
 permalink: /bolton/
 tags: location
+faqs:
+  - q: "Will you come out to Farnworth, Great Lever and Deane, or just Bolton itself?"
+    a: "We cover the wider borough. The terraces in Farnworth, Great Lever and Deane have slate roofs with chimneys and shared party walls, so the design work is about finding the cleanest section and sizing the system to it."
+  - q: "What about the bigger houses out towards Belmont, Bromley Cross and Egerton?"
+    a: "Those larger roofs take bigger arrays, and with a battery in the mix most households can use most of what they generate rather than exporting it cheap. The newer developments out towards Horwich and Lostock are similar."
+  - q: "Do you do commercial solar in Bolton?"
+    a: "A fair bit of it. Bolton's industrial and trading estates are mostly big flat roofs, which suit weighted mounting rails and layouts that keep access walkways clear, and daytime-heavy electricity use is what makes commercial solar pay. Our <a href=\"/bolton/commercial-solar-installations/\">Bolton commercial solar</a> page has the detail."
+  - q: "I rent out property in Bolton. Do you do EICRs for landlords?"
+    a: "Yes, with same day certificates. It's a sensible first step on the older terraced stock round here, where consumer units and earthing arrangements don't always reflect the age of the wiring. See our <a href=\"/bolton/electrical-safety-inspections-eicr/\">EICR inspections in Bolton</a> page."
 ---
 
 # Renegade Solar in Bolton

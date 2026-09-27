@@ -6,6 +6,15 @@ heading: Solar Installations in Altrincham
 layout: location-root.html
 permalink: /altrincham/
 tags: location
+faqs:
+  - q: Do you have reviews from Altrincham customers?
+    a: Yes. A Checkatrade reviewer in the WA14 area gave a solar installation 10 out of 10 and wrote, "Excellent friendly informed advice, very tidy work and great value. Would recommend Ashley to anyone considering a new solar installation."
+  - q: I live near the centre of Altrincham. Do conservation area rules stop me having solar panels?
+    a: Not necessarily. Some streets around the centre fall within conservation areas, which can affect what's possible on street-facing elevations, but rear roofs and less visible faces often still work. It's a layout question more than a yes-or-no one, and it's best answered at survey stage before you've picked equipment.
+  - q: How far across Altrincham and the surrounding area do you work?
+    a: The town centre and out to Hale, Bowdon, Timperley and Broadheath, plus the newer developments round the edges. Ashley does every survey himself, so the advice on your roof comes from the electrician who'll be fitting the system.
+  - q: Can I have a home battery without solar panels?
+    a: Yes. A battery charged overnight on an off-peak tariff and run down during the day cuts the unit price of the electricity it covers, and it works with or without solar. For shaded or awkward roofs in Altrincham it's often the sensible first step.
 ---
 
 # Altrincham

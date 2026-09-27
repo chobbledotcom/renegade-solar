@@ -12,8 +12,18 @@
   <meta name="description" content="{{ description }}">
   {%- endif -%}
   {%- if noindex -%}
-  <meta name="robots" value="noindex, nofollow">
+  <meta name="robots" content="noindex, nofollow">
   {%- endif %}
+  {%- comment -%} LocalBusiness structured data on every page. The areas list
+  is the link titles of the location collection, and the filter pulls the
+  rating and review count from src/_data/reviews.json. {%- endcomment -%}
+  {%- capture area_names_raw -%}
+    {%- for location in collections.location -%}
+    {{ location.data.link_title }}|
+    {%- endfor -%}
+  {%- endcapture -%}
+  {%- assign area_names = area_names_raw | split: "|" -%}
+  <script type="application/ld+json">{{ area_names | localBusinessJsonLd: reviews, socials }}</script>
   <script async data-goatcounter="https://analytics.renegade-solar.co.uk/count"
     src="https://analytics.renegade-solar.co.uk/count.js"></script>
   <script src="/assets/botpoison.js" async></script>

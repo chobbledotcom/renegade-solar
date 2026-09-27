@@ -1,7 +1,7 @@
 ---
 title: Commercial Solar Installations
 snippet: Slash business electricity costs with commercial solar
-description: Commercial solar installations across Greater Manchester. Cut heavy monthly electricity bills with commercial solar. Factories, retail, hospitality, and commercial properties.
+description: Commercial solar installations for Greater Manchester factories and warehouses. MCS-certified - book a free site survey and see what commercial solar saves you.
 icon: /assets/icons/commercial-solar.svg
 photo: commercial-solar-panels.jpg
 order: 3
@@ -9,7 +9,7 @@ root: true
 location_pages: true
 gallery_tags: [commercial]
 process_set: commercial
-faq_set: solar
+faq_set: commercial
 hero_sub: "Commercial solar installations across Greater Manchester for factories, warehouses, retail and hospitality, designed against your actual half-hourly consumption."
 ---
 

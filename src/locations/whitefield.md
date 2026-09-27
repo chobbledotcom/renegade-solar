@@ -6,6 +6,15 @@ heading: Solar Installations in Whitefield
 layout: location-root.html
 permalink: /whitefield/
 tags: location
+faqs:
+  - q: "How quickly can you get to Whitefield for a survey?"
+    a: "Most weeks, at short notice. We're just over in Prestwich, so Whitefield is one of our closest patches, and Ashley does every survey himself rather than sending a sales rep."
+  - q: "Will solar panels work on the terraces in Whitefield, or is it only for the bigger houses?"
+    a: "They work on both. The terraces and semis need the usual design care round chimneys and orientation, while the newer developments towards the M60 and out towards Bury have larger roofs that take bigger arrays."
+  - q: "Are you a national solar company or a local outfit?"
+    a: "A local one, based in Prestwich. You deal with Ashley and the in-house team from survey to aftercare, only specialist scaffolding is subcontracted, and there's no call centre and no commissioned sales team."
+  - q: "What have Whitefield customers said about the work?"
+    a: "One Checkatrade reviewer in the M45 area said: \"From the start he was extremely friendly, knew what he was talking about and we agreed a price, he came did the job it took longer than he expected but he didn't complain he took his time to finish the job and came back next day to help set it up.\" The rest of the verified reviews are on our <a href=\"/reviews/\">reviews page</a>."
 ---
 
 # Whitefield

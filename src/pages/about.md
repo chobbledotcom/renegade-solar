@@ -1,8 +1,8 @@
 ---
 link_title: About
-title: About Us
-description: About Ashley Merritt at Renegade Solar, electrician from Manchester
-  specialising in solar panel and battery installations
+title: Ashley Merritt, MCS Certified Solar Installer
+description: Over 20 years as an electrician, 10 of them commercial. MCS, NAPIT and
+  TrustMark certified solar installer across Greater Manchester, with no salespeople.
 order: 1
 tags: top_link
 permalink: /about/

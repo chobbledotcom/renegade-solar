@@ -6,6 +6,15 @@ heading: Solar Installations in Blackley
 layout: location-root.html
 permalink: /blackley/
 tags: location
+faqs:
+  - q: "Is a Blackley terrace too small for solar panels?"
+    a: "Not usually. The traditional terraces round here have compact roofs cut up by chimneys and ridges, so we size the array to the best section of roof rather than trying to cover every face. Six or eight panels on the right part of the roof often beats a bigger layout that doesn't fit."
+  - q: "The big gardens and trees near Heaton Park cast a lot of shade. Does that rule my house out?"
+    a: "It doesn't automatically. We look at where the shade actually falls across the day rather than guessing from a map, and if the main roof genuinely won't work, a flat garage or extension roof often will."
+  - q: "Do you install EV chargers in Blackley?"
+    a: "Yes, and the first part of the job is checking the supply, earthing and consumer unit before quoting, because a charger is a new circuit on your installation. Details are on our <a href=\"/blackley/electric-vehicle-charger-installations/\">EV charger installation in Blackley</a> page."
+  - q: "I'm a landlord in Blackley. Do you do EICRs for rental properties?"
+    a: "We do. Landlords need an EICR every five years plus one for each new tenant, and we issue the report with same day certificates. The detail is on our <a href=\"/blackley/electrical-safety-inspections-eicr/\">EICR inspections in Blackley</a> page."
 ---
 
 # Blackley

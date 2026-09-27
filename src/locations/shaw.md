@@ -6,6 +6,15 @@ heading: Solar Installations in Shaw
 layout: location-root.html
 permalink: /shaw/
 tags: location
+faqs:
+  - q: Do you cover the whole of Shaw and Crompton?
+    a: We do, plus the rest of the Oldham borough including Royton and Oldham itself. We're based in Prestwich, about twenty minutes away, and Ashley does every survey himself rather than sending a sales rep.
+  - q: Will solar panels work on an older Shaw terrace?
+    a: Usually, as a compact array on the cleanest section of roof. The stone-built terraces have slate or heavy tile roofs with chimneys along the ridge, so the system gets sized to what the household actually uses and placed well rather than spread edge to edge.
+  - q: Should I get the electrics checked before adding solar or a charger?
+    a: It's worth knowing what the installation can take, especially in the older stone properties where the wiring routes are less predictable than a modern build. An EICR in Shaw is £150 plus VAT with same day certificates, and it gives you a clear picture of the electrics before anything new goes on them.
+  - q: Do you do commercial solar around Shaw?
+    a: Yes, for the workshops, retail units and converted mill buildings round Shaw and Crompton. Commercial enquiries get the same process as domestic, with Ashley surveying the roof and the in-house team carrying out the electrical work.
 ---
 
 # Shaw

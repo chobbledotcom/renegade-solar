@@ -6,6 +6,15 @@ heading: Solar Installations in Middleton
 layout: location-root.html
 permalink: /middleton/
 tags: location
+faqs:
+  - q: "Does your patch include Alkrington as well as Middleton?"
+    a: "All of it, across the M24. Middleton and Alkrington are regular work for us, and we can usually get out for a survey within a week or two."
+  - q: "My house is an older brick terrace in Middleton. Will it take solar?"
+    a: "Most of the housing round here, from the brick terraces near the town centre to the post-war semis and the newer estates, takes solar without much complication. The survey settles where the panels go and what the numbers look like for your roof."
+  - q: "Did Renegade Solar do the new-build project in Bowlee, Heywood?"
+    a: "We designed, installed and commissioned the complete electrical installation for that home, including the lighting and a wall-mounted smart-home interface. Solar was planned for a later phase, and the consumer unit and cable routes were chosen with that in mind."
+  - q: "What have Middleton customers said about you?"
+    a: "One Checkatrade reviewer in the M24 area wrote: \"I had a burning smell coming from my fuse box rang ash as 7.30am was with me within 20 minutes ensured everything was safe and advised me on what to say to electricity north west.\" There are dozens more M24 reviews on our <a href=\"/reviews/\">reviews page</a>."
 ---
 
 # Middleton

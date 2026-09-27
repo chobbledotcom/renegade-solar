@@ -1,7 +1,7 @@
 ---
 title: Home Battery Installations
 snippet: Store cheap electricity and slash your energy bills year-round.
-description: Professional home battery installations in Manchester. Store cheap off-peak electricity and use it when prices are high. Works with or without solar panels.
+description: Home battery installation in Manchester by an MCS-certified electrician. Store cheap off-peak electricity, with or without solar panels. Get a free survey.
 icon: /assets/icons/battery.svg
 photo: barnsley-job-inverter-battery.jpg
 order: 2
@@ -9,7 +9,7 @@ root: true
 gallery_tags:
   - battery
 process_set: battery
-faq_set: solar
+faq_set: battery
 hero_sub: "Home battery storage sized around how you actually use electricity, with or without solar panels, so you can charge at off-peak rates."
 ---
 

@@ -6,6 +6,15 @@ heading: Solar Installations in Royton
 layout: location-root.html
 permalink: /royton/
 tags: location
+faqs:
+  - q: How far does your Royton coverage stretch?
+    a: All of Royton, plus nearby Shaw, Oldham and the rest of the borough. We're based just up the road in Prestwich, so surveys and install days don't depend on a national company's regional schedule.
+  - q: Will solar panels suit a Royton terrace?
+    a: Most of them. The mill-town terraces are solid stone houses with chimneys along the ridge and clean roof sections either side of the stack, so a right-sized system on the honest roof face usually beats going big and ending up half in shade.
+  - q: Who deals with the grid connection paperwork?
+    a: Ashley does, as part of the install. Small domestic systems are notified to the network operator after connection and larger ones need approval first, and either way it's handled for you rather than left to chase.
+  - q: Can you help Royton businesses with solar?
+    a: Yes. We install commercial solar for the small businesses, workshops and commercial premises round Royton, with the system designed around the actual roof and daytime consumption. A survey puts real numbers on it, worked out from your own bills.
 ---
 
 # Royton

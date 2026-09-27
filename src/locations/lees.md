@@ -6,6 +6,15 @@ heading: Solar Installations in Lees
 layout: location-root.html
 permalink: /lees/
 tags: location
+faqs:
+  - q: Which areas do you cover from the Lees end?
+    a: Lees itself, plus Oldham, Saddleworth and further up towards Springhead and Grasscroft. We're based in Prestwich and cover the whole Oldham borough, so a Lees survey is a local visit rather than a long-distance appointment.
+  - q: My neighbours have solar panels but our roof faces a different way. Does that matter?
+    a: It can do, and it's exactly what a proper survey settles. Lees sits on the climb towards Saddleworth, so the aspect of the streets varies more than a couple of miles should account for, and two houses on the same road can have quite different solar potential depending on which way the roof faces along the valley.
+  - q: I'm a landlord in Lees. Do you carry out EICRs?
+    a: Yes, at £150 plus VAT with same day certificates. It's worth doing on the older terraces before adding solar, a battery or a charger, so you know the state of the electrics first. The inspection covers circuit testing and earthing, with clear documentation and practical recommendations at the end.
+  - q: Can I get a home EV charger fitted in Lees?
+    a: Yes. For the commute into Oldham or Manchester, a home EV charger on an overnight tariff is the cheap way to run a car, and it pairs with solar and a battery so the household and the car both use the cheap electricity first.
 ---
 
 # Lees

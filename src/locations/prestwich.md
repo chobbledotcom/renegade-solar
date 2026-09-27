@@ -6,6 +6,15 @@ heading: Renegade Solar in Prestwich
 layout: location-root.html
 permalink: /prestwich/
 tags: location
+faqs:
+  - q: "Are you actually based in Prestwich, or do you just cover it?"
+    a: "Based here, which is why most of our work sits within ten or fifteen minutes of the front door. Ashley runs the company himself, and the in-house team does the installing with only specialist scaffolding subcontracted. Whitefield, Crumpsall and Cheetham Hill are all a few minutes out."
+  - q: "What sort of Prestwich houses suit solar panels?"
+    a: "Semis, detached homes and bungalows all take solar here, and the Victorian terraces near St Mary's Park too. The usual design questions are orientation and chimneys, and the mature trees on several streets make a shade check worth the time."
+  - q: "Have you fitted solar on a house like mine in Prestwich?"
+    a: "There's a full write-up of one nearby: eleven panels and a Solax battery on a re-roofed Victorian end terrace, with the battery charging overnight on a time-of-use tariff. You can read the whole thing on our <a href=\"/prestwich/solar-and-battery-installations/\">solar panel installation in Prestwich</a> page."
+  - q: "Do you take on commercial solar work in Prestwich as well?"
+    a: "Yes, alongside the domestic jobs. Our <a href=\"/prestwich/commercial-solar-installations/\">commercial solar in Prestwich</a> page covers how we approach business premises."
 ---
 
 # Renegade Solar in Prestwich

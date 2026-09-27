@@ -6,6 +6,15 @@ heading: Solar and Electrical Services in Oldham
 layout: location-root.html
 permalink: /oldham/
 tags: location
+faqs:
+  - q: "How much of the Oldham borough do you actually work across?"
+    a: "The whole of it. We already work in Failsworth and cover Chadderton, Royton, Shaw, Lees and Saddleworth, so whether you're in a terrace in Coldhurst or a stone-built house in Uppermill, it comes down to your roof rather than the postcode."
+  - q: "Will solar panels work on an Oldham stone terrace?"
+    a: "They will, with the design done carefully. The stone terraces on the hillsides have slate roofs, thick walls and chimneys where you'd want the panels, so the job is using the clean roof section well rather than covering everything, and access on the steeper streets gets planned before install day rather than during it."
+  - q: "What do Oldham customers say about Renegade Solar?"
+    a: "One Checkatrade reviewer in the OL8 area wrote: \"Ashley was amazing! He removed my EV charger from my old house and came back at reinstalled at my new house.\""
+  - q: "Do you handle commercial solar in Oldham?"
+    a: "Yes, for businesses across the borough as well as homeowners. Our <a href=\"/oldham/commercial-solar-installations/\">Oldham commercial solar</a> page covers how we approach bigger systems and grid connections."
 ---
 
 # Renegade Solar in Oldham

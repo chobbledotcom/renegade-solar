@@ -6,6 +6,15 @@ heading: Solar Installations in Trafford
 layout: location-root.html
 permalink: /trafford/
 tags: location
+faqs:
+  - q: Do you work across the whole of Trafford?
+    a: Yes, including Stretford, Sale and the Altrincham end out towards Hale and Hale Barns. The housing varies from Victorian terraces to executive new-builds, so the survey measures the actual roof, shade and usage rather than quoting from a postcode.
+  - q: My house is a bay-fronted semi. Which roof should the panels go on?
+    a: The two faces either side of the bay usually perform differently, and a measured survey settles which one earns its keep by checking orientation and shade from next door's trees. Terraces nearer the older centres get compact arrays placed round the chimneys, while the larger homes towards Altrincham can take systems sized to the bills.
+  - q: Do you offer EICR inspections for Trafford landlords?
+    a: Yes. It's £150 plus VAT with same day certificates. The inspection works out whether the consumer unit, earthing and bonding have kept pace with any renovation work the property has been through, which matters on the older housing stock round here.
+  - q: Will I be dealing with a call centre?
+    a: No. Customers deal directly with Ashley rather than a call centre or commissioned sales team, and he does every survey himself. The installation is carried out by the in-house team, with only the specialist scaffolding subcontracted.
 ---
 
 # Trafford

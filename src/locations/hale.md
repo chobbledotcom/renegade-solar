@@ -6,6 +6,15 @@ heading: Solar Installations in Hale
 layout: location-root.html
 permalink: /hale/
 tags: location
+faqs:
+  - q: Is my Hale property suitable for solar panels?
+    a: Most of the housing here is detached and generously roofed, so the question is usually how much of your electricity you want to generate rather than whether panels fit. The mature trees on some streets are the main thing worth checking, and that's the kind of call that gets made on a measured survey, not a desktop quote.
+  - q: What do the conservation areas in Hale mean for solar?
+    a: Parts of Hale sit within conservation areas, which can affect what you can do on street-facing elevations. Where the rules apply, rear elevations and less visible roof faces often still work fine for panels, so it's usually a layout question rather than a no.
+  - q: Is a battery worth adding to a larger Hale home?
+    a: Larger homes with bigger bills get the most from battery storage. The battery charges cheap overnight on an off-peak tariff and runs the house through the day, with solar topping it up in summer, and the capacity is worked out from your actual usage.
+  - q: Do you fit EV chargers in Hale as well as solar?
+    a: Yes. Pairing an EV charger with solar and battery storage lets the cars charge on the same cheap overnight window as the house, and on surplus solar where the equipment supports it. The supply, earthing and cable route all get checked as part of the installation.
 ---
 
 # Hale

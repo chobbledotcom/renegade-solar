@@ -6,6 +6,15 @@ heading: Solar Installations in Bury
 layout: location-root.html
 permalink: /bury/
 tags: location
+faqs:
+  - q: "Do you work across all of Bury, out towards Tottington and Ramsbottom?"
+    a: "We've worked across most of it, from the terraces near the centre to the larger semis and detached homes out towards Tottington and Ramsbottom. Out that way the roofs get bigger and the gardens get leafier, so shading checks matter more."
+  - q: "Have you actually fitted solar and battery systems in the Bury area?"
+    a: "There is. A Checkatrade reviewer in the BL0 area wrote: \"Ashley and his team fitted a solar & battery unit to my house. They were all great.\""
+  - q: "My Bury house has old wiring. Can it still take solar?"
+    a: "Plenty of Bury's housing stock has been rewired in stages over decades, so the state of the consumer unit, earthing and wiring gets looked at before anything is agreed. An <a href=\"/bury/electrical-safety-inspections-eicr/\">EICR in Bury</a> at £150 plus VAT, with same day certificates, tells you where you stand first."
+  - q: "What decides how much electricity a solar array in Bury generates?"
+    a: "Orientation, shading and the obstructions on the roof, which is why Ashley surveys every property in person and the design matches what's actually there rather than what a satellite photo reckons. The annual projection is modelled on your roof and your usage."
 ---
 
 # Bury

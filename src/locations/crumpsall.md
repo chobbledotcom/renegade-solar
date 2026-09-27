@@ -6,6 +6,15 @@ heading: Solar Installations in Crumpsall
 layout: location-root.html
 permalink: /crumpsall/
 tags: location
+faqs:
+  - q: "Are you a local installer, or a national company sending whoever's free?"
+    a: "Local, and deliberately so. We're five minutes up the road in Prestwich, so the survey, the install and any follow-up get done by people who were already going past your street that week. There's no call centre and no commissioned sales team."
+  - q: "Can you get a decent system on a Crumpsall terrace?"
+    a: "Usually. The terraces round here follow the familiar North Manchester pattern, with roofs carved up by chimneys, so we put the panels on the cleanest section and size the system honestly around it. The semis and the newer developments further out take bigger arrays, often with a battery."
+  - q: "What's involved with an EV charger installation in Crumpsall?"
+    a: "Checking the supply and earthing comes before anything else, because a charger is a new circuit on your installation. After that it's a straightforward job on most properties here, and overnight charging on an off-peak tariff makes the car cheap to run."
+  - q: "Apart from Crumpsall, where else do you work nearby?"
+    a: "Cheetham Hill, Blackley and Moston are all part of the North Manchester patch, along with our home base in Prestwich. If you sit on the edge of two of them, just ask."
 ---
 
 # Crumpsall

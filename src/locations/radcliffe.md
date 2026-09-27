@@ -6,6 +6,15 @@ heading: Solar Installations in Radcliffe
 layout: location-root.html
 permalink: /radcliffe/
 tags: location
+faqs:
+  - q: "Does the Irwell valley affect solar in Radcliffe?"
+    a: "It can. Some streets sit with taller ground and trees to one side, so we look at how shade moves across the day rather than assuming a south-ish roof is automatically the right one."
+  - q: "What sort of roofs work best in Radcliffe?"
+    a: "The older terraces closer in have workable roofs with chimneys to design around, while the newer estates out towards the edges have larger, simpler roof faces that take bigger arrays. Between the two, most installations come down to orientation and honest sizing."
+  - q: "Is Radcliffe too far out of your way?"
+    a: "No. We're based nearby in Prestwich, and Radcliffe is a short trip whether it's a two-bed terrace in town or a detached house out towards Whitefield."
+  - q: "Is a home EV charger worth it in Radcliffe?"
+    a: "With the Metrolink running through and the M66 close by, plenty of households here run a car as well as a tram card, and overnight home charging on cheap rates is the affordable way to cover the miles. The supply, earthing and protection get checked before anything is fitted."
 ---
 
 # Electrical Services in Radcliffe

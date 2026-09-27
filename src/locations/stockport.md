@@ -6,6 +6,15 @@ heading: Solar Installations in Stockport
 layout: location-root.html
 permalink: /stockport/
 tags: location
+faqs:
+  - q: Which parts of Stockport do you cover?
+    a: All of the borough, from the terraces round the town centre out through Bramhall, Cheadle Hulme, Heaton Moor and Romiley. We're based in Prestwich, so a Stockport survey is a half hour run up the M60 rather than a slot in a national company's regional diary.
+  - q: Do you use subcontractors for solar installations?
+    a: Only for the scaffolding, which is specialist work. The survey, the design, the electrical installation and the commissioning are all done by Ashley and the in-house Renegade Solar team, and he remains the person you deal with from first phone call to handover.
+  - q: I'm a landlord in Stockport. Do you carry out EICR inspections?
+    a: We do. It's £150 plus VAT with same day certificates for homeowners and landlords across the borough. The inspection covers the consumer unit, circuit testing and earthing, and you get clear documentation with practical recommendations at the end of it.
+  - q: What do Stockport customers say about your work?
+    a: One Checkatrade reviewer, whose solar installation was an off-grid system for an allotment, wrote, "Ashley did a site inspection and we tweaked the initial design to better suit our location. The installation went ahead on the planned date and the work was completed to a very high standard."
 ---
 
 # Stockport

@@ -6,6 +6,15 @@ heading: Solar Installations in Marple
 layout: location-root.html
 permalink: /marple/
 tags: location
+faqs:
+  - q: Which places do you cover around Marple?
+    a: Marple itself plus Rose Hill, Hawk Green, Marple Bridge and Mellor. The housing runs from stone terraces near the centre and canalside to larger detached houses climbing the hills, and each takes a different solar layout.
+  - q: My garden is full of mature trees. Is solar still worth it?
+    a: Often, but it has to be measured rather than guessed. Tree cover is the thing we check hardest in Marple, because shade between your roof and the afternoon sun takes a real bite out of generation. Sometimes the answer is repositioning the array, sometimes splitting it across two roof faces.
+  - q: Have you done electrical work in Marple, not just solar?
+    a: Yes, we carry out general electrical work across the area alongside solar, batteries and EV chargers. One Checkatrade review from a job in the area reads, "Ashley completed the works in my kitchen to a good standard and at the price agreed. He also went the extra mile to put a new back box on one of my sockets which was not in good condition."
+  - q: Do I come to you for a survey or do you come to me?
+    a: Ashley comes to you. He does every Marple survey himself, and as an MCS-certified electrician he can talk through what will work on your specific roof and what the realistic returns look like for your usage before you commit to anything.
 ---
 
 # Marple

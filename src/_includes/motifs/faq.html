@@ -6,7 +6,7 @@ Like the process steps, the questions are grouped into sets in
 src/_data/motifs.json because solar questions are no use on an EICR page.
 A page picks one with `faq_set` in its front matter:
 
-  faq_set: inspection      # solar (default) | inspection | ev
+  faq_set: inspection      # solar (default) | battery | commercial | inspection | ev
 
 A page can also supply its own list with a `faqs` front matter block of
 {q, a} pairs, which wins over the set, or skip the motif with
@@ -21,6 +21,7 @@ A page can also supply its own list with a `faqs` front matter block of
   {%- assign faq_items = motifs.faq_sets[faq_key] | default: motifs.faq_sets.solar -%}
 {%- endif -%}
 {%- if faq_items and faq_items.size > 0 -%}
+<script type="application/ld+json">{{ faq_items | faqJsonLd: page.url, site.url }}</script>
 <section class="band">
   <div class="band__inner">
     {%- assign sh_eyebrow = faq_eyebrow | default: "Common questions" -%}

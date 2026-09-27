@@ -1,7 +1,7 @@
 ---
-title: EV Charger Installation, Repair and Relocation
+title: EV Charger Installation, Repair, Relocation
 snippet: Electric vehicle chargers for homes and businesses
-description: EV charger installation, repair, fault diagnosis and relocation by a NAPIT-registered electrician across North Manchester, with solar panels and home battery integration.
+description: EV charger installation, repair and relocation by a NAPIT-registered electrician in North Manchester. Solar panels and home battery integration. Get a quote.
 icon: /assets/icons/car.svg
 photo: commercial-solar-ev-fleet-2.jpg
 location_pages: true
