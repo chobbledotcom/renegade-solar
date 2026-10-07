@@ -31,4 +31,4 @@ The hills also mean the weather does its bit - panels run on daylight rather tha
 
 ## Electricians in Oldham
 
-Older properties and newer additions to them both need the electrics checking before solar, a battery or a charger goes on. We carry out [EICR inspections in Oldham](/oldham/electrical-safety-inspections-eicr/) at £150 plus VAT with same day certificates, plus consumer unit upgrades and general electrical work. For businesses, see [Oldham commercial solar](/commercial-solar-installations-oldham/). [Get in touch](/contact/) and Ashley will come out to the property.
+Older properties and newer additions to them both need the electrics checking before solar, a battery or a charger goes on. We carry out [EICR inspections in Oldham](/oldham/electrical-safety-inspections-eicr/) at £150 plus VAT with same day certificates, plus consumer unit upgrades and general electrical work. For businesses, see [Oldham commercial solar](/oldham/commercial-solar-installations/). [Get in touch](/contact/) and Ashley will come out to the property.

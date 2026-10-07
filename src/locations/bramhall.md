@@ -31,6 +31,6 @@ For the streets within conservation areas, panel position and visibility matter.
 
 ## Batteries and EV charging in Bramhall
 
-Bigger homes and two-car households tend to get on well with a [home battery](/services/home-battery-installations/): charge it overnight on an off-peak tariff, run the house on it through the day, and top it up with solar when there's spare. Add a [home EV charger](/bramhall/electric-vehicle-charger-installations/) and the car charges on the same cheap overnight rates, ideally with the panels picking up a share of it in summer.
+Bigger homes and two-car households tend to get on well with a [home battery](/services/home-battery-installations/): charge it overnight on an off-peak tariff, run the house on it through the day, and top it up with solar when there's spare. Add a [home EV charger](/services/electric-vehicle-charger-installations/) and the car charges on the same cheap overnight rates, ideally with the panels picking up a share of it in summer.
 
 We're based in Prestwich, about half an hour up the road. [Get in touch](/contact/) and Ashley will come out and give you a straight answer on what your roof's actually worth.

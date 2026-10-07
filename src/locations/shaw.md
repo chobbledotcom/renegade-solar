@@ -33,4 +33,4 @@ The stone construction that makes these houses solid also makes the wiring route
 
 If the house still has older wiring or a dated consumer unit, it's worth knowing before you add solar, a battery or a charger to it. An [EICR inspection in Shaw](/shaw/electrical-safety-inspections-eicr/) costs £150 plus VAT with same day certificates, and it gives you a clear picture of what the installation can take. We do the upgrades too where they're needed.
 
-For businesses round Shaw and Crompton, we also cover [commercial solar](/commercial-solar-installations-shaw/) on the workshops and units along the main routes. [Get in touch](/contact/) about any of it.
+For businesses round Shaw and Crompton, we also cover [commercial solar](/shaw/commercial-solar-installations/) on the workshops and units along the main routes. [Get in touch](/contact/) about any of it.
