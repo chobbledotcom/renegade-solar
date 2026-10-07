@@ -28,14 +28,21 @@ if (!match) {
 const CURRENT_MIN_TOKENS = Number(match[1]);
 const RATCHET_MIN_TOKENS = CURRENT_MIN_TOKENS - 1;
 
-// Paths matching the cpd script in package.json
+// Paths matching the cpd script and .jscpd.json (keep in sync)
 const paths = [
-  "src/_includes",
-  "src/_layouts",
-  "src/css",
-  "assets-src",
-  "scripts",
-  "_lib",
+	"src/_includes",
+	"src/_layouts",
+	"src/css",
+	"assets-src",
+	"scripts",
+	"_lib",
+	".eleventy.js",
+	"src/pages",
+	"src/services",
+	"src/locations",
+	"src/accreditations",
+	"src/news",
+	"src/properties",
 ];
 
 const result = spawnSync(

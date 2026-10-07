@@ -8,12 +8,12 @@
 		"**/package-lock.json",
 		"**/.jscpd-report/**"
 	],
-	"format": ["javascript", "markup", "css", "scss"],
+	"format": ["javascript", "markup", "css", "scss", "markdown"],
 	"ignorePattern": ["import.*from"],
 	"absolute": false,
 	"gitignore": true,
 	"exitCode": 1,
 	"minLines": 3,
 	"minTokens": 40,
-	"path": ["src/_includes", "src/_layouts", "src/css", "assets-src", "scripts", "_lib", ".eleventy.js"]
+	"path": ["src/_includes", "src/_layouts", "src/css", "assets-src", "scripts", "_lib", ".eleventy.js", "src/pages", "src/services", "src/locations", "src/accreditations", "src/news", "src/properties"]
 }
