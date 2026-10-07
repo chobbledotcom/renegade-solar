@@ -1,7 +1,7 @@
 ---
 layout: home.html
 title: Solar & Battery Installers Greater Manchester
-description: Solar panel, battery storage and EV charger installers in North Manchester and Greater Manchester. MCS-certified, 9.96/10 from 165 verified reviews. Free survey.
+description: Solar panel, battery storage and EV charger installers in North Manchester and Greater Manchester. MCS-certified, 9.96/10 from 168 verified reviews. Free survey.
 permalink: /
 tags: top_link
 link_title: Home
