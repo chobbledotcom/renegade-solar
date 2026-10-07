@@ -1,0 +1,72 @@
+#!/usr/bin/env node
+
+/**
+ * CPD ratchet check - fails if the duplication threshold could be lowered.
+ *
+ * Reads the current --min-tokens value from package.json's cpd script, then
+ * runs jscpd with minTokens - 1. If the codebase still passes at the lower
+ * threshold, this check fails to force tightening it.
+ *
+ * Ported from chobble-template's scripts/cpd-ratchet.js; paths mirror this
+ * repo's cpd script (keep the two in sync).
+ */
+
+import { spawnSync } from "node:child_process";
+import { readFileSync } from "node:fs";
+import { join, resolve } from "node:path";
+import { throwIfSpawnFailed } from "./cpd.mjs";
+
+const ROOT_DIR = resolve(import.meta.dirname, "..");
+
+// Read current threshold from package.json cpd script (single source of truth)
+const pkg = JSON.parse(readFileSync(join(ROOT_DIR, "package.json"), "utf-8"));
+const cpdScript = pkg.scripts.cpd;
+const match = cpdScript.match(/--min-tokens\s+(\d+)/);
+if (!match) {
+  throw new Error("Could not find --min-tokens in package.json cpd script");
+}
+const CURRENT_MIN_TOKENS = Number(match[1]);
+const RATCHET_MIN_TOKENS = CURRENT_MIN_TOKENS - 1;
+
+// Paths matching the cpd script in package.json
+const paths = [
+  "src/_includes",
+  "src/_layouts",
+  "src/css",
+  "assets-src",
+  "scripts",
+  "_lib",
+];
+
+const result = spawnSync(
+  "npx",
+  [
+    "jscpd",
+    ...paths,
+    "--min-tokens",
+    String(RATCHET_MIN_TOKENS),
+  ],
+  {
+    cwd: ROOT_DIR,
+    stdio: "inherit",
+  },
+);
+
+throwIfSpawnFailed(result, "jscpd");
+
+if (result.status === 0) {
+  // jscpd passed with lower threshold - threshold can be tightened!
+  console.error(
+    `\n❌ CPD ratchet failed: code passed with minTokens=${RATCHET_MIN_TOKENS}`,
+  );
+  console.error(
+    `   Update --min-tokens to ${RATCHET_MIN_TOKENS} in package.json cpd script`,
+  );
+  process.exit(1);
+} else {
+  // jscpd failed with lower threshold - current threshold is correct
+  console.log(
+    `\n✅ CPD ratchet passed: minTokens=${CURRENT_MIN_TOKENS} is correct`,
+  );
+  process.exit(0);
+}

@@ -5,6 +5,7 @@
 .sass-cache
 _site
 node_modules
+.jscpd-report
 result
 CLAUDE.md
 beeper-export/

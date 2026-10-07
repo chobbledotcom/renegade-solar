@@ -10,7 +10,9 @@
 		"fetch-facebook-posts": "node scripts/fetch-facebook-posts.js",
 		"fetch-instagram-posts": "node scripts/fetch-instagram-posts.js",
 		"update-reviews": "node scripts/merge-reviews.js",
-		"optimise-photos": "node scripts/optimise-photos.mjs"
+		"optimise-photos": "node scripts/optimise-photos.mjs",
+		"cpd": "node scripts/cpd.mjs --min-tokens 40",
+		"cpd:ratchet": "node scripts/cpd-ratchet.mjs"
 	},
 	"dependencies": {
 		"@11ty/eleventy": "^3.0.0",
@@ -23,6 +25,7 @@
 	},
 	"devDependencies": {
 		"esbuild": "^0.25.0",
+		"jscpd": "^4.0.9",
 		"uwrap": "^0.1.2"
 	}
 }
