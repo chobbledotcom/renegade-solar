@@ -1,6 +1,6 @@
 ---
 title: Solar & Battery for Extensions & Renovations
-description: Solar, battery and electrical work for extensions, loft conversions, self-builds and renovations in Greater Manchester. MCS-certified, qualified electrician.
+description: Solar, battery and electrical work for extensions, loft conversions, self-builds and renovations in Greater Manchester. MCS-certified installer, electrician.
 permalink: /solar-and-battery-extensions-renovations-manchester/
 link_title: For Renovations
 heading: Solar & Battery for Extensions, Loft Conversions & Renovations

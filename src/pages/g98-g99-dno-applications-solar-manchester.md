@@ -1,6 +1,6 @@
 ---
 title: G98 and G99 DNO Applications Explained
-description: G98 and G99 grid connection applications for solar and battery in Greater Manchester. What applies to your system, Electricity North West timescales.
+description: G98 and G99 grid connection applications for solar and battery installations in Greater Manchester. What applies to you, Electricity North West timescales.
 hero_sub: "Every grid-connected solar and battery installation needs the network operator told or asked. Here's which is which, and why it matters to your timescale."
 photo: commercial-solar-ev-fleet-2.jpg
 ---

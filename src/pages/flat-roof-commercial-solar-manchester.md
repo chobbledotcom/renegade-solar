@@ -1,6 +1,6 @@
 ---
 title: Flat Roof Commercial Solar in Manchester
-description: Flat roof commercial solar installations across Greater Manchester, designed around daytime electricity use. MCS-certified, warehouses, retail and industrial.
+description: MCS-certified installer of flat roof commercial solar in Greater Manchester, designed around daytime electricity use for warehouses, retail and industrial.
 permalink: /flat-roof-commercial-solar-manchester/
 link_title: Flat Roof Solar
 heading: Flat Roof Commercial Solar Installations in Manchester
