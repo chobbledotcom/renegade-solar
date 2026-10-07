@@ -1,7 +1,7 @@
 ---
 link_title: Reviews
-title: Reviews - 9.96/10 from 165 Verified Reviews
-description: "Rated 9.96/10 by 165 customers across Checkatrade, Google, Trustpilot and
+title: Reviews - 9.96/10 from 168 Verified Reviews
+description: "Rated 9.96/10 by 168 customers across Checkatrade, Google, Trustpilot and
   Facebook. Solar, battery, EV charger and electrical work in Greater Manchester."
 order: 3
 tags: top_link
