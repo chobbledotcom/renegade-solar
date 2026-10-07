@@ -1,6 +1,6 @@
 ---
 title: Octopus Go Battery Installer in Manchester
-description: Home battery installations set up for Octopus Go and other smart tariffs across Manchester. Save money on energy bills with or without solar panels. Octopus Energy Trusted Partner.
+description: Home battery installations for Octopus Go and other smart tariffs in Manchester. Save money with or without solar panels. Octopus Energy Trusted Partner.
 permalink: /octopus-go-battery-installer-manchester/
 link_title: Octopus Go Installer
 heading: Octopus Go Battery Installer in Manchester

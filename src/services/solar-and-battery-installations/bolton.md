@@ -1,7 +1,7 @@
 ---
 permalink: /bolton/solar-and-battery-installations/
 title: Solar Panel Installer in Bolton
-description: MCS-certified solar panel and battery installations in Bolton from Renegade Solar - a trusted local installer with excellent Checkatrade rating serving Bolton's diverse properties.
+description: MCS-certified solar panel and battery installations in Bolton from Renegade Solar - a trusted local installer with an excellent Checkatrade rating.
 redirect_from:
   - /solar-panel-installer-bolton/
   - /services/solar-and-battery-installations/bolton/

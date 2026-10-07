@@ -1,7 +1,7 @@
 ---
 permalink: /radcliffe/solar-and-battery-installations/
 title: Solar Panel Installer in Radcliffe
-description: MCS-certified solar panel and battery installations in Radcliffe. Victorian terraces, post-war semis, modern estates - honest advice from a local electrician with an outstanding Checkatrade rating.
+description: MCS-certified solar panel and battery installations in Radcliffe. Victorian terraces, post-war semis, modern estates, from a Checkatrade-rated electrician.
 redirect_from:
   - /solar-panel-installer-radcliffe/
   - /services/solar-and-battery-installations/radcliffe/

@@ -1,7 +1,7 @@
 ---
 permalink: /whitefield/electrical-safety-inspections-eicr/
 title: EICR in Whitefield | £150 + VAT Same Day
-description: Professional EICR electrical inspections in Whitefield. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, Victorian terrace and modern home specialist.
+description: EICR electrical inspections in Whitefield. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, Victorian terrace and modern homes.
 link_title: EICR Inspection
 heading: EICR Inspections in Whitefield
 icon: /assets/icons/check.svg

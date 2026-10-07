@@ -3,7 +3,7 @@ permalink: /oldham/solar-and-battery-installations/
 redirect_from:
   - /services/solar-and-battery-installations/oldham/
 title: Solar Panel Installer in Oldham
-description: MCS-certified solar panel and battery installations across Oldham. Terraced house specialists just 13 minutes from Prestwich. No salespeople - Ashley surveys, designs, and installs.
+description: MCS-certified solar panel and battery installations across Oldham. Terraced house specialists, 13 minutes from Prestwich. Ashley surveys, designs and installs.
 link_title: Solar Panel Installations
 heading: Solar Panel Installer in Oldham
 icon: /assets/icons/solar-panel.svg

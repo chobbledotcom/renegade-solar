@@ -1,7 +1,7 @@
 ---
 permalink: /bramhall/solar-and-battery-installations/
 title: Solar Panel Installer in Bramhall
-description: MCS-certified solar panel installations in Bramhall. Expert advice on Victorian and Edwardian properties, conservation areas, and mature tree shading from a local installer with excellent Checkatrade rating.
+description: MCS-certified solar panel installations in Bramhall. Conservation areas, Victorian and Edwardian properties, tree shading. Checkatrade-rated local installer.
 redirect_from:
   - /solar-panel-installer-bramhall/
   - /services/solar-and-battery-installations/bramhall/

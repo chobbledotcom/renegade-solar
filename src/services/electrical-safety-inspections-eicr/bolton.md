@@ -1,7 +1,7 @@
 ---
 permalink: /bolton/electrical-safety-inspections-eicr/
 title: EICR in Bolton | £150 + VAT Same Day
-description: Professional EICR electrical inspections in Bolton. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, terraced houses and commercial premises specialist.
+description: EICR electrical inspections in Bolton. £150 plus VAT all domestic properties, same day certificates. NAPIT registered, terraced and commercial premises.
 link_title: EICR Inspection
 heading: EICR Inspections in Bolton
 icon: /assets/icons/check.svg
