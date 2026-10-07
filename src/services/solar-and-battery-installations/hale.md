@@ -3,7 +3,7 @@ permalink: /hale/solar-and-battery-installations/
 redirect_from:
   - /services/solar-and-battery-installations/hale/
 title: Solar Panel Installer in Hale
-description: MCS-certified solar panel and battery installations in Hale. Expert advice on larger properties, conservation areas, and system sizing from a local installer. 0% VAT, 30-year panel warranty.
+description: MCS-certified solar panel and battery installations in Hale. Larger properties, conservation areas and system sizing. 0% VAT, 30-year panel warranty.
 link_title: Solar Panel Installs
 heading: Solar Panel Installer in Hale
 icon: /assets/icons/solar-panel.svg

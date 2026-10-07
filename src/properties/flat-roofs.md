@@ -1,6 +1,6 @@
 ---
 title: Solar Panels on Flat Roofs in Manchester
-description: Solar panel installation on flat roofs, garage roofs, extensions and outbuildings across Greater Manchester. MCS-certified installer for awkward domestic and small commercial roofs.
+description: Solar panel installation on flat roofs, garage roofs, extensions and outbuildings across Greater Manchester. MCS-certified installer, domestic and commercial.
 permalink: /properties/flat-roofs/
 link_title: Flat Roofs
 heading: Solar Panels on Flat Roofs

@@ -1,7 +1,7 @@
 ---
 permalink: /stockport/solar-and-battery-installations/
 title: Solar Panel Installer in Stockport
-description: MCS-certified solar panel and battery installations in Stockport, including Marple Bridge and Bramhall, from Renegade Solar - a trusted local installer with excellent Checkatrade rating.
+description: MCS-certified solar panel and battery installations in Stockport, Marple Bridge and Bramhall, from Renegade Solar, with excellent Checkatrade rating.
 redirect_from:
   - /solar-panel-installer-stockport/
   - /services/solar-and-battery-installations/stockport/
