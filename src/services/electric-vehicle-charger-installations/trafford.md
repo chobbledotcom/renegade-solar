@@ -18,13 +18,13 @@ We install EV chargers across Trafford, covering Altrincham, Sale, Stretford, an
 
 ## What it costs to charge at home
 
-Charging away from home runs 50-80p per kWh ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). At home on a tariff like Octopus Go, it's a fraction of that overnight, and the gap between the two is what adds up to real money across a year of regular driving. Trafford's motorway network (M60, M56, M6) makes rapid chargers easy to find for the long trips, but day-to-day miles are cheapest straight off your own driveway.
+Charging away from home runs 50-80p per kWh ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). At home on a tariff like Octopus Go, it's a fraction of that overnight, and the gap between the two is what adds up to real money across a year of regular driving. Trafford's motorway network (M60, M56, M6) makes rapid chargers easy to find for the long trips, but day-to-day miles are cheapest straight off your own driveway on a home charger.
 
 A 7kW wall charger finishes the job overnight inside the cheap rate window. Granny chargers that plug into a normal socket drag on for most of the day, which lands you on daytime rates and throws the savings away.
 
 ## Chargers we install
 
-As an Octopus Energy Trusted Partner we install the whole [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/) - smart units that sit idle until the off-peak window opens, then charge the car. Already running Solax or AlphaESS solar or battery gear? Their chargers talk to their own systems and we fit those as well. Ordered something else? Whatever you've bought, we'll put it up.
+As an Octopus Energy Trusted Partner we install the whole [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/) - smart units that sit idle until the off-peak window opens, then charge the car. Already running Solax or AlphaESS solar or battery gear? Their chargers talk to their own systems and we fit those as well. Ordered something else? Whatever you've bought, we'll put the charger up.
 
 ## The install
 

@@ -30,7 +30,7 @@ Where a conventional roof installation isn't possible because of shading, orient
 
 National installers can't match a personal service. Ashley oversees every stage of your installation - survey, design, installation, commissioning - and he's your direct contact from start to finish, not a salesperson or a call centre.
 
-We understand Stockport's planning requirements and the property types you find across the borough, from [Bramhall](/bramhall/solar-and-battery-installations/)'s detached homes to the stone buildings of [Marple](/marple/solar-and-battery-installations/) and Marple Bridge. Most installations are complete within a week, causing minimal disruption to your household.
+We understand Stockport's planning requirements and the property types you find across the borough, from [Bramhall](/bramhall/solar-and-battery-installations/)'s detached homes to the stone buildings of [Marple](/marple/solar-and-battery-installations/) and Marple Bridge, and we've installed solar across all of them. Most installations are complete within a week, causing minimal disruption to your household.
 
 ## What Our Customers Say
 

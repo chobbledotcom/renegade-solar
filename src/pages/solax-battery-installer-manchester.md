@@ -44,7 +44,7 @@ Solax residential batteries are designed to be stacked in modules, so the total 
 
 The arithmetic is simple: off-peak electricity costs as little as one third of what peak-rate electricity does, and a Solax battery is built to work that gap. It fills up during the cheap window, usually overnight, then runs the house through the expensive part of the day without you touching anything. Pair it with a smart tariff like [Octopus Go](/octopus-go-battery-installer-manchester/) and the savings keep coming through winter too, when solar panels are doing less of the work.
 
-If you've got panels as well, the battery banks their surplus during daylight and spends it through the evening, so the electricity you use after work is your own rather than bought back at peak rates.
+If you've got solar panels as well, the battery banks their surplus during daylight and spends it through the evening, so the electricity you use after work is your own rather than bought back at peak rates.
 
 ## Smart features
 

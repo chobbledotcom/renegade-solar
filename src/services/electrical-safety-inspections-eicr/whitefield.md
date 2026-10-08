@@ -31,18 +31,18 @@ The post-war semis vary a fair bit - some have been properly rewired with a mode
 
 ## For landlords
 
-The law expects landlords to hold a current EICR for each let property, renewed every five years and refreshed whenever a new tenancy begins. Breaching those rules can cost up to £30,000, and the council is entitled to carry out remedial work and recover the cost from you. Tenants already in place must get the report inside 28 days, and anyone about to move in receives it beforehand. If the inspection raises C1, C2 or FI codes, those need resolving within 28 days. Because Ashley is NAPIT registered and based just down the road, he can handle the inspection and any remedial installation work it leads to.
+The law expects landlords to hold a current EICR for each let property, certifying its electrical safety, renewed every five years and refreshed whenever a new tenancy begins. Breaching those rules can cost up to £30,000, and the council is entitled to carry out remedial work and recover the cost from you. Tenants already in place must get the report inside 28 days, and anyone about to move in receives it beforehand. If the inspection raises C1, C2 or FI codes, those need resolving within 28 days. Because Ashley is NAPIT registered and based just down the road, he can handle the inspection and any remedial installation work it leads to.
 
 ## For buyers
 
-Book the EICR before you complete. Between the older terraces around the centre and the newer developments on the edges, installation quality in Whitefield ranges widely, and testing is the only honest answer on the state of the wiring. Pick up an ageing consumer unit or inadequate earthing in the report and you've got leverage on price, or a legitimate reason to reconsider if the faults go beyond what you're prepared to take on.
+Book the EICR before you complete. Between the older terraces around the centre and the newer developments on the edges, electrical installation quality in Whitefield ranges widely, and testing is the only honest answer on the state of the electrical wiring. Pick up an ageing consumer unit or inadequate earthing in the report and you've got leverage on price, or a legitimate reason to reconsider if the faults go beyond what you're prepared to take on.
 
 ## What's included
 
-A full visual inspection of the wiring, sockets, switches and consumer unit comes first, followed by calibrated instrument tests for continuity, insulation resistance, earth fault loop impedance and RCD performance. The EICR certificate and report land the same day, set out in plain terms. If testing shows work is needed, we quote for it and book it in, and because we're NAPIT-registered installers the remedial work never leaves our hands.
+The visual inspection covers the wiring, sockets, switches and consumer unit first, followed by calibrated instrument tests of insulation resistance, continuity, earth fault loop impedance and RCD performance. The EICR certificate and report land the same day, set out in plain terms. If testing shows work is needed, we quote for it and slot it in, and because we're NAPIT-registered installers the remedial installation work never leaves our hands.
 
 ## When we find issues
 
-Where the inspection finds faults, we walk you through what's wrong, why it matters and what the installation needs to reach current standards, then quote honestly. Ashley has been carrying out EICR work across Whitefield for nearly twenty years and doesn't pad the price or invent extras. Remedial installation work is usually booked in within a month.
+Where the EICR finds faults, we walk you through what's wrong, why it matters and what would bring the installation back to standard, then quote honestly. Ashley, a local electrician, has been carrying out EICR work across Whitefield for nearly twenty years and doesn't pad the price or invent extras. Remedial installation work is usually booked in within a month.
 
 [Book an EICR inspection in Whitefield](/contact/).

@@ -25,13 +25,13 @@ Parts of Hale fall within conservation areas, including South Hale and the area 
 
 ## System sizing for larger properties
 
-Hale properties typically suit larger systems than average. A 3-bed semi usually takes a 4kW system; many Hale homes are better served by 6-10kW or more (15-25 panels) to match their higher energy consumption. We size around your usage and roof rather than a headline panel count.
+Hale properties typically suit larger systems than average. A 3-bed semi usually takes a 4kW system; many Hale homes are better served by 6-10kW or more (15-25 panels) to match their higher energy consumption. We size around your usage and roof rather than a headline panel count - a custom assessment for every property, weighing roof orientation, shading, and your energy consumption patterns.
 
-We've recently completed a 110-panel commercial system and we're quoting on a 600-panel one, so bigger domestic jobs are well within our experience - three-phase supplies and larger inverters included.
+We've recently completed a 110-panel commercial solar installation and we're quoting on a 600-panel one, so bigger domestic installations are well within our experience - three-phase supplies and larger inverters included.
 
 ## Equipment we install
 
-We're approved installers for **AlphaESS** batteries, whose UK office is in Dursley, Gloucestershire, and you'll find us on their [find an installer](https://www.alpha-ess.com/) page. **Solax** approval sits alongside that.
+We're approved installers for **AlphaESS** batteries and inverters, whose UK office is in Dursley, Gloucestershire, and you'll find us on their [find an installer](https://www.alpha-ess.com/) page. **Solax** approval sits alongside that. An AlphaESS battery storage system is our usual pick for the larger installations Hale homes tend to need.
 
 Panels come from manufacturers we trust, mainly **DMEGC** and **Trina Vertex** - both perform well on the slate roofs you see across Hale's Victorian and Edwardian streets. Happy to fit a brand you'd prefer; we've no exclusive deals holding us to a narrow range.
 
@@ -41,11 +41,11 @@ Panel warranties run **30 years** and battery warranties **10 years** on everyth
 
 We've come across other installers' work that breaks NAPIT safety guidelines - loft-mounted batteries being the clearest example. Salespeople spec those jobs; qualified electricians wouldn't.
 
-With us, whoever surveys your property knows the technical requirements inside out. On a period or conservation-area home there's enough to think about already without an unsafe design added to the list. We won't recommend anything unsafe or unsuitable to win a sale, we follow NAPIT guidelines properly, and all electrical work stays in-house with our own qualified electricians - never subcontracted.
+With us, whoever surveys your property knows the technical requirements inside out. On a period or conservation-area home there's enough to think about already without an unsafe design added to the list. We won't recommend anything unsafe or unsuitable to win a sale, we follow NAPIT guidelines properly, and every installation's electrical work stays in-house with our own qualified electricians - never subcontracted.
 
 ## Battery storage and time-of-use tariffs
 
-Plenty of Hale customers pair solar with a battery. It charges from the panels during the day and from cheap overnight electricity on tariffs like Octopus Intelligent or Octopus Go, then covers the expensive morning and evening peaks.
+Plenty of Hale customers pair solar panels with battery storage. The battery charges from the panels during the day and from cheap overnight electricity on tariffs like Octopus Intelligent or Octopus Go, then covers the expensive morning and evening peaks.
 
 Where a roof isn't the best home for panels - shading, orientation, or conservation area restrictions can all get in the way - our [battery-only solutions](/services/home-battery-installations/) work well with the same time-of-use tariffs.
 
@@ -53,7 +53,7 @@ We're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partne
 
 ## EPC ratings and property value
 
-Fitting renewable energy improves a property's EPC rating, and a stronger rating can help its value. Any property sold or let needs an EPC these days, and in Hale's part of the market that's worth factoring in alongside the energy savings.
+A solar panel installation improves a property's EPC rating, and a stronger rating can help its value. Any property sold or let needs an EPC these days, and in Hale's part of the market that's worth factoring in alongside the energy savings.
 
 ## 0% VAT on solar and battery
 
@@ -65,6 +65,6 @@ We also cover [Hale Barns](/hale-barns/solar-and-battery-installations/), [Altri
 
 ## Get started
 
-We hold MCS certification (number [NAP-66870](https://mcscertified.com/find-an-installer/)), which is what qualifies your installation for Smart Export Guarantee payments. Alongside that, we're accredited by [NAPIT](/accreditations/napit/), we work to the [HIES Consumer Code](/accreditations/hies-consumer-code/), and Octopus Energy lists us as a [Trusted Partner](/accreditations/octopus-trusted-partner/).
+We hold MCS certification (number [NAP-66870](https://mcscertified.com/find-an-installer/)), which is what qualifies your installation for Smart Export Guarantee payments. That MCS registration is the thing to check on any installer you're comparing us with. Alongside that, we're accredited by [NAPIT](/accreditations/napit/), we work to the [HIES Consumer Code](/accreditations/hies-consumer-code/), and Octopus Energy lists us as a [Trusted Partner](/accreditations/octopus-trusted-partner/).
 
 [Contact us](/contact/) for a no-obligation chat about your Hale property's solar potential.

@@ -30,7 +30,7 @@ For businesses across Bolton's growing economy, workplace charging is becoming e
 
 ## Chargers We Install
 
-We're an **Octopus Energy Trusted Partner**, which means we can install any of the chargers from [Octopus's EV charger programme](https://octopus.energy/get-an-ev-charger/). These are proper smart chargers that'll charge your car automatically when electricity is cheapest - usually overnight. If you're on something like Octopus Go, that's a fraction of the 50-80p per kWh you'd pay at a public charger ((rac.co.uk)[https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/]). The charger does all the thinking for you, so you just plug in whenever and it waits for the cheap rates.
+We're an **Octopus Energy Trusted Partner**, which means we can install any of the chargers from [Octopus's EV charger programme](https://octopus.energy/get-an-ev-charger/). These are proper smart chargers that'll charge your car automatically when electricity is cheapest - usually overnight. If you're on something like Octopus Go, that's a fraction of the 50-80p per kWh you'd pay at a public charger ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). The charger does all the thinking for you, so you just plug in whenever and it waits for the cheap rates.
 
 We also fit **Solax** and **AlphaESS** chargers if you've got their solar panels or batteries already. They talk to each other nicely. But honestly, if you've got a charger you want from anywhere else, just order it and we'll fit it. We're not fussy.
 
@@ -42,7 +42,7 @@ A 7kW charger fills the car overnight during the cheap rate window - you wake up
 
 ## The Installation
 
-Mounting is flexible because the chargers are weatherproof - garage wall, outside wall, wherever's most convenient for your parking spot. If the fuse board sits on the far side of the house from the driveway, that's no obstacle either; we run proper heavy duty armoured cable that's built to live outdoors in all conditions. A typical job takes a day with minimal mess. Your fuse board needs to be up to spec, and if you've already got solar panels or a battery, it will be. No solar? You can still get a time-of-use tariff purely for cheap overnight car charging.
+Mounting is flexible because the chargers are weatherproof - garage wall, outside wall, wherever's most convenient for your parking spot. If the fuse board sits on the far side of the house from the driveway, that's no obstacle either; we run proper heavy duty armoured cable that's built to live outdoors in all conditions. A typical charger install takes a day with minimal mess, and every install is tested and certified before we leave, so you can plug in that evening. Your fuse board needs to be up to spec, and if you've already got solar panels or a battery, it will be. No solar? You can still get a time-of-use tariff purely for cheap overnight car charging.
 
 ## Quality Installation Service
 

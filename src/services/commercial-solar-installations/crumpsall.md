@@ -32,10 +32,10 @@ Payback comes out shortest on a flat-roofed industrial unit with a steady load t
 
 ## Flat and pitched roofs
 
-Crumpsall's industrial stock is mostly flat-roofed, which suits us fine - on a flat roof we can put the array where it catches the most sun, whichever way the unit itself faces. Larger pitched buildings work too. Spare land or outdoor space can take a ground-mounted array, or feed [EV charging](/services/electric-vehicle-charger-installations/) for staff vehicles.
+Crumpsall's industrial stock is mostly flat-roofed, which suits us fine - on a flat roof we can put the panels where they catch the most sun, whichever way the unit faces. Larger pitched buildings work too. A ground-mounted array can use any spare land or outdoor space, or feed [EV charging](/services/electric-vehicle-charger-installations/) for staff vehicles.
 
 ## Our approach
 
-You need to own the building rather than lease it, and the higher your daytime electricity consumption, the better the returns come out. We're an [MCS-certified](/accreditations/mcs-certified/) installer and an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), and we deal with the [electrical certifications](/services/electrical-testing/) and grid connections as part of the job. If the numbers don't stack up for your business, we'll tell you plainly.
+You have to own the building rather than lease it, and the higher your daytime electricity consumption, the better the returns come out. We're an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), and we deal with the [electrical certifications](/services/electrical-testing/) and grid connections as part of the job. If the numbers don't stack up for your business, we'll tell you plainly.
 
 For a free commercial solar consultation, send us a note via the [contact page](/contact/).

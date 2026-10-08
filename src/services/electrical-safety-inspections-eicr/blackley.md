@@ -31,15 +31,15 @@ The council-built properties vary a fair bit. Some have been properly rewired wi
 
 ## For landlords
 
-Landlord law in Blackley works the same as elsewhere: an EICR every five years plus one for each new tenant. Fines for letting it slip reach £30,000, and the local authority can have remedial installation work done and charge it back to you. Existing tenants must be given the report within 28 days, new tenants before they move in, and C1, C2 or FI findings come with 28 days to put them right. Ashley is NAPIT registered, so the EICR and the remedial work it identifies can both come from the same electrician.
+Landlord law in Blackley works the same as elsewhere: an EICR every five years plus one for each new tenant - in plain terms, an electrical installation condition report kept current for every letting. Fines for letting it slip reach £30,000, and the local authority can have remedial installation work done and charge it back to you. Existing tenants must be given the report within 28 days, new tenants before they move in, and C1, C2 or FI findings come with 28 days to put them right. Ashley is NAPIT registered, so the EICR and the remedial work it identifies can both come from the same electrician.
 
 ## For buyers
 
-Get the EICR done before money changes hands. Between the traditional terraces, the former council properties and the larger detached homes up towards Heaton Park, electrical condition across Blackley varies a lot, and the report is the only reliable way to see inside the wiring before you buy. An outdated consumer unit or inadequate earthing is worth negotiating on, and the findings also tell you plainly if the installation isn't what you thought you were buying.
+Get the EICR done before money changes hands. Between the traditional terraces, the former council properties and the larger detached homes up towards Heaton Park, electrical condition across Blackley varies a lot, and the EICR report is the only reliable way to see inside the wiring before you buy. An outdated consumer unit or inadequate earthing is worth negotiating on, and the findings also tell you plainly if the installation isn't what you thought you were buying.
 
 ## What's included
 
-We open with a visual check of the wiring, sockets, switches and consumer unit, then move to calibrated testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The EICR certificate and report are issued the same day, with the findings explained rather than left to code references. Where the results call for remedial work, we'll quote and schedule it - Ashley's NAPIT registration as an installer means that work stays with the person who tested it.
+We open with a visual check of the wiring, sockets, switches and consumer unit, then move to calibrated testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The EICR certificate and report are issued the same day, with the findings explained rather than left to code references. Where the EICR results call for remedial work, we'll quote and schedule it - Ashley's NAPIT registration as an installer means that work stays with the same electrician who tested it.
 
 ## When we find issues
 

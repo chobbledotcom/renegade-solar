@@ -38,7 +38,7 @@ Ashley typically sizes domestic systems from 6kWh upwards depending on your usag
 
 Overnight electricity can cost a third of what it does at teatime, and an AlphaESS battery exists to exploit that difference. While you sleep it charges at the cheap rate; through the day it supplies the house instead of the grid. Put it on a smart tariff such as [Octopus Go](/octopus-go-battery-installer-manchester/) and the savings hold up even in winter, when solar generation is at its lowest.
 
-If there are panels on the roof too, surplus generation gets stored during daylight and used in the evening, so the house runs on your own stored power rather than electricity bought back at peak rates.
+If you've also got solar panels on the roof, the battery stores the surplus generation during daylight and uses it in the evening, so the house runs on your own stored power rather than electricity bought back at peak rates.
 
 ## Smart features
 

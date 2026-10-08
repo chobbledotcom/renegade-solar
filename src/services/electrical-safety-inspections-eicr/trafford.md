@@ -31,15 +31,15 @@ The terraced housing in Old Trafford and Stretford has its own patterns. These p
 
 ## For landlords
 
-Landlord obligations in Trafford are clear: a current EICR for every let, renewed at least every five years and issued again at the start of each new tenancy. Fall foul of that and fines can reach £30,000, with the local authority also empowered to arrange remedial work and reclaim the cost from the landlord. Tenants in place get the report within 28 days and those moving in receive it before they do. Where C1, C2 or FI codes appear, remedial action is due within 28 days. With Ashley's NAPIT registration, the EICR and any resulting remedial installation work can both be done by us.
+Landlord obligations in Trafford are clear: a current EICR for every let, renewed at least every five years and issued again at the start of each new tenancy. Fall foul of that and fines can reach £30,000, with the local authority also empowered to arrange remedial work and reclaim the cost from the landlord. Tenants in place get the report within 28 days and those moving in receive it before they do. Where C1, C2 or FI codes appear, the electrical faults behind them are due to be put right within 28 days. With Ashley's NAPIT registration, the EICR and any resulting remedial installation work can both be done by us.
 
 ## For buyers
 
-Get the inspection done before completion. With the values you see across Hale, Bowdon and the rest of the borough, £150 is nothing next to the cost of learning after moving day that the wiring or the consumer unit wants major work, and the EICR report hands you hard evidence to put to the seller. Property ages in Trafford stretch back more than a century, so installation quality swings a lot, and only proper testing settles it.
+Get the EICR done before completion. With the values you see across Hale, Bowdon and the rest of the borough, £150 is nothing next to the cost of learning after moving day that the wiring or the consumer unit wants major work, and the EICR report hands you hard evidence to put to the seller. Property ages in Trafford stretch back more than a century, so installation quality swings a lot, and only proper electrical testing settles it.
 
 ## What's included
 
-The visit opens with a visual inspection of wiring, sockets, switches and the consumer unit, then calibrated instrument testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. Certificates and the full EICR report are issued that same day in plain English. Where remedial work comes out of the findings, we price it, schedule it and, as NAPIT-registered installers, carry it out ourselves.
+The visit opens with a visual inspection of wiring, sockets, switches and the consumer unit, then calibrated instrument checks of continuity, earth fault loop impedance and insulation resistance, plus RCD operation. The certificates and full EICR report are issued that same day in plain English. Where remedial work comes out of the findings, we price it, schedule it and, as NAPIT-registered electrical installers, carry it out ourselves.
 
 ## When we find issues
 

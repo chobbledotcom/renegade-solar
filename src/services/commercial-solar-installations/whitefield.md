@@ -28,14 +28,14 @@ Manufacturing and light industrial units in the area, with their high daytime co
 
 ## How it tends to play out on the numbers
 
-A light industrial unit with consistent daytime consumption and a suitable roof is the kind of building where the payback comes out shortest. A retail unit or food business with more modest consumption might be closer to four, but the numbers still stack up because most of the generation gets used on site during opening hours. We provide multiple design options with detailed projections for each.
+For a light industrial unit with consistent daytime consumption and a suitable roof, the payback comes out shortest. A retail unit or food business with more modest consumption might be closer to four, but the numbers still stack up because most of the generation gets used on site during opening hours. We put several design options in front of you with detailed projections for each.
 
 ## Flat roofs and ground-mount
 
-A flat roof takes some of the guesswork out of the design - the mounting lets us face the panels south at the right tilt even when the building doesn't cooperate, and Whitefield has no shortage of flat-roofed commercial units. Pitched roofs on larger buildings are fine as well. Spare land or outdoor space can take a ground-mounted array, and we've done setups where [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles run entirely off the solar.
+A flat roof takes some of the guesswork out of the design - the mounting lets us face the panels south at the right tilt even when the building doesn't cooperate, and Whitefield has no shortage of flat-roofed commercial units. Pitched roofs on larger buildings are fine as well. Spare land or outdoor space can take a ground-mounted array, and we've carried out installations where [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles run on solar alone.
 
 ## Our approach
 
-The building needs to be yours rather than a landlord's, and the more electricity you use in the daytime the better the returns look. As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we sort out the [electrical certifications](/services/electrical-testing/) and grid connections the job involves. If the numbers don't work for your business, we'll say so.
+The building needs to be yours rather than a landlord's, and the more electricity you use in the daytime the better the returns look. We're listed as [MCS-certified](/accreditations/mcs-certified/) installers and [Octopus Energy Trusted Partners](/accreditations/octopus-trusted-partner/), so we sort out the [electrical certifications](/services/electrical-testing/) and grid connections the job involves. If the numbers don't work for your business, we'll say so.
 
 Drop us a line through the [contact page](/contact/) for a free commercial solar consultation.

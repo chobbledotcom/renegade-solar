@@ -32,7 +32,7 @@ Larger properties with three-phase supplies can take a 22kW charger if that suit
 
 ## The install
 
-We mount the charger wherever your parking sits - with driveways the norm around Altrincham, that's usually the garage or the wall nearest the drive, and because the units are weatherproof an exposed spot isn't a problem. From there it's a cable run back to the consumer unit; anything crossing open air goes in armoured cable rated for outdoor use. Most jobs are done in a day. If the consumer unit needs bringing up to current standards first, Ashley will pick that up on the survey, though if you've had solar or battery work done it already will be.
+We mount the charger wherever your parking sits - with driveways the norm around Altrincham, that's usually the garage or the wall nearest the drive, and because the chargers are weatherproof an exposed spot isn't a problem. From there it's a cable run back to the consumer unit; anything crossing open air goes in armoured cable rated for outdoor use. Most jobs are done in a day. If the consumer unit needs bringing up to current standards first, Ashley will pick that up on the survey, though if you've had solar or battery work done it already will be.
 
 > "Ashley was very knowledgeable polite and helpful. his workmanship was second to none i would definitely recommend him. excellent work."
 

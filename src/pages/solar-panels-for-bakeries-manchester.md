@@ -28,7 +28,7 @@ Because you're using nearly every kilowatt-hour your panels produce as it's gene
 
 Ashley Merritt owns and runs Renegade Solar. Before the solar side existed he'd already put in 20+ years as an electrician, ten of them on commercial work - industrial sites like the Jersey Recycling Centre among them. He's [MCS-certified](/accreditations/mcs-certified/) ([NAP-66870](https://mcscertified.com/find-an-installer/)) and an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/).
 
-For a food business the difference is practical: Ashley looks over the kitchen, the supply and the roof himself instead of sending a salesperson, and if the numbers don't stack up for your operation he'll tell you straight rather than oversell kit that won't deliver. He stays your contact from the first phone call through commissioning and aftercare, and the install gets worked around your trading hours so you're never shutting the doors on a service.
+For a food business the difference is practical: Ashley looks over the kitchen, the electrical supply and the roof himself instead of sending a salesperson, and if the numbers don't stack up for your operation he'll tell you straight rather than oversell kit that won't deliver. He stays your contact from the first phone call through commissioning and aftercare, and the install gets worked around your trading hours so you're never shutting the doors on a service.
 
 ## What a system might look like for your business
 

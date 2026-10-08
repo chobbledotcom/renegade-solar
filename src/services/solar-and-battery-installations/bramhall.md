@@ -64,6 +64,6 @@ We also cover surrounding areas including [Stockport](/stockport/solar-and-batte
 
 ## Get started
 
-With our MCS certification (number [NAP-66870](https://mcscertified.com/find-an-installer/)), your installation can earn Smart Export Guarantee payments. We're accredited by [NAPIT](/accreditations/napit/), we follow the [HIES Consumer Code](/accreditations/hies-consumer-code/), and Octopus Energy counts us among its [Trusted Partners](/accreditations/octopus-trusted-partner/).
+With our MCS certification (number [NAP-66870](https://mcscertified.com/find-an-installer/)), your installation can earn Smart Export Guarantee payments. That MCS number is the first thing to check on any installer quote you're weighing up. We're accredited by [NAPIT](/accreditations/napit/), we follow the [HIES Consumer Code](/accreditations/hies-consumer-code/), and Octopus Energy counts us among its [Trusted Partners](/accreditations/octopus-trusted-partner/).
 
 [Contact us](/contact/) for a no-obligation chat about your Bramhall property's solar potential. We'll respond within 48 hours to arrange a survey.

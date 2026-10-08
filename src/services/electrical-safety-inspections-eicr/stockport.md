@@ -31,15 +31,15 @@ The larger properties out towards Bramhall and Cheadle Hulme tend to have had mo
 
 ## For landlords
 
-Every landlord in Stockport has a legal duty to keep an EICR current: one every five years, plus a fresh one at the start of each new tenancy. Let it lapse and the fines reach £30,000, with the local authority also able to arrange remedial work itself and send you the bill. Current tenants must receive the report within 28 days, and incoming tenants get theirs before moving day. Where the inspection flags C1, C2 or FI findings, you then have 28 days to put them right. Ashley is NAPIT registered, so he can carry out the EICR and any remedial installation work that follows, without a second contractor getting involved.
+Every landlord in Stockport has a legal duty to keep an EICR current: one every five years, plus a fresh one at the start of each new tenancy. Let the electrical safety certificate lapse and the fines reach £30,000, with the local authority also able to arrange remedial work itself and send you the bill. Current tenants must receive the report within 28 days, and incoming tenants get theirs before moving day. Where the inspection flags C1, C2 or FI findings, you then have 28 days to put them right. As Ashley is NAPIT registered, he can carry out the EICR and any remedial installation work that follows, without a second contractor getting involved.
 
 ## For buyers
 
-An EICR before completion tells you what you're buying. Given how far apart a Heatons terrace and a Bramhall detached house are in age and wiring history, a £150 inspection is cheap certainty on whether the installation is sound or heading for a rewire. The report also gives you hard evidence to raise with the seller. Discovering after exchange that the consumer unit is overdue for replacement or the earthing falls short costs far more than the inspection would have.
+An EICR before completion tells you what you're buying. Given how far apart a Heatons terrace and a Bramhall detached house are in age and wiring history, a £150 inspection is cheap certainty on whether the electrical installation is sound or heading for a rewire. The EICR report also gives you hard evidence to raise with the seller. Discovering after exchange that the consumer unit is overdue for replacement or the earthing falls short costs far more than the inspection would have.
 
 ## What's included
 
-We start with a visual inspection of the wiring, sockets, switches and consumer unit, then move on to calibrated instrument testing covering continuity, insulation resistance, earth fault loop impedance and RCD operation. You get the EICR certificate and report the same day, written up in language that makes sense. Where something needs putting right, we'll price it and get it booked in - the remedial installation work stays in-house with our NAPIT registration rather than being passed to a third party.
+We start with a visual inspection of the wiring, sockets, switches and consumer unit, then get on to calibrated instrument tests: earth fault loop impedance, insulation resistance, continuity and RCD operation. You get the EICR certificate and report the same day, written up in language that makes sense. Where something needs putting right, we'll price it and get it booked in - the remedial installation work stays in-house with our NAPIT registration rather than being passed to a third party.
 
 ## When we find issues
 

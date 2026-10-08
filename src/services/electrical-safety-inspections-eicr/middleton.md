@@ -27,18 +27,18 @@ The post-war semis and more recent estates are generally in better shape, but ex
 
 ## For landlords
 
-The landlord rules apply in Middleton as anywhere else: an EICR every five years and another at the start of each tenancy. Get it wrong and the fines reach £30,000, while the local authority can commission remedial work and pass you the invoice. Existing tenants must receive the report within 28 days and new tenants before moving in. C1, C2 or FI findings come with their own 28-day clock for sorting out. Ashley can carry out the inspection and any remedial installation work that follows, and his NAPIT registration means you don't have to bring in a second contractor.
+The landlord rules apply in Middleton as anywhere else: an EICR every five years and another at the start of each tenancy - one electrical report per property, kept current. Get it wrong and the fines reach £30,000, while the local authority can commission remedial work and pass you the invoice. Existing tenants must receive the EICR report within 28 days and new tenants before moving in. C1, C2 or FI findings come with their own 28-day clock for sorting out. Ashley can carry out the inspection and any remedial installation work that follows, and his NAPIT registration means you don't have to bring in a second contractor.
 
 ## For buyers
 
-Get an EICR done before you commit. Middleton's brick terraces, post-war semis and newer estates vary widely in wiring history, and £150 buys you the truth before money changes hands. The report gives you something solid to take back to the seller, and it's far cheaper than discovering a consumer unit due for replacement or earthing work once you've moved in. We're only a few minutes down the road in Prestwich, so booking an inspection around a purchase timescale isn't a problem.
+Get an EICR done before you commit. Middleton's brick terraces, post-war semis and newer estates vary widely in electrical installation history, and £150 buys you the truth before money changes hands. The EICR report gives you something solid to take back to the seller, and it's far cheaper than discovering a consumer unit due for replacement or earthing work once you've moved in. We're only a few minutes down the road in Prestwich, so booking an electrical inspection around a purchase timescale isn't a problem.
 
 ## What's included
 
-A visual inspection of the wiring, sockets, switches and consumer unit comes first, then calibrated instrument testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The EICR certificate and report reach you the same day, written in terms you can act on. Remedial work identified along the way gets a quote and a slot in the diary from us, and as NAPIT-registered installers we don't hand that work off to anyone else.
+We look over the wiring, sockets, switches and consumer unit first, then put calibrated instruments to work measuring insulation resistance, continuity and earth fault loop impedance, with RCD operation tested alongside. The EICR certificate and report reach you the same day, written in terms you can act on. Remedial work identified along the way gets a quote and a slot in the diary from us, and as NAPIT-registered installers we don't hand that work off to anyone else.
 
 ## When we find issues
 
-Problems found by the EICR get a clear run-down: what's wrong, why it matters, what brings the installation up to standard. Ashley has been inspecting in Middleton for the best part of twenty years and quotes without inflating the price or tacking on extras. Remedial installation work is usually scheduled within a month.
+Problems found by the EICR get a clear run-down: what's wrong, why it matters, what brings the installation up to standard. Ashley has been working as an electrician in Middleton for the best part of twenty years and quotes without inflating the price or tacking on extras. Remedial installation work is usually scheduled within a month.
 
 [Book an EICR inspection in Middleton](/contact/).

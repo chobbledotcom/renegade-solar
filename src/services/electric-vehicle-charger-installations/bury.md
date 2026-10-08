@@ -30,7 +30,7 @@ The newer developments on the outskirts tend to have modern consumer units that 
 
 With a 7kW wall charger, the car fills up overnight inside the cheap rate window, and on Octopus Go that works out at a fraction of the 50-80p per kWh public chargers charge ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). The plug-in granny chargers are the slow option - most of the day to top the car up, so you're on daytime rates and losing the savings a home charger would have made.
 
-Time-of-use tariffs don't require solar either - a smart meter is all it takes.
+Time-of-use tariffs don't require solar either - a smart meter is all it takes, and the Octopus smart tariffs are the ones we set up most often.
 
 ## Chargers we install
 
@@ -38,7 +38,7 @@ The [Octopus charger range](https://octopus.energy/get-an-ev-charger/) is where 
 
 ## The install
 
-Installation is usually a single day. Weatherproof housings mean the charger can sit wherever your parking is, and cable that runs outside from the consumer unit goes in armoured cable rated for outdoor use. Consumer units must be up to current standards - with solar or battery work already carried out at the property, yours will be.
+Installation is usually a single day. Weatherproof housings mean the charger can sit wherever your parking is, and cable that runs outside from the consumer unit to the charger goes in armoured cable rated for outdoor use. Consumer units must be up to current standards - with solar or battery work already carried out at the property, yours will be.
 
 Bury has decent motorway access for longer trips when you need a rapid charger.
 

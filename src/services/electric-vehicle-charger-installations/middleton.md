@@ -28,7 +28,7 @@ Our Trusted Partner status with Octopus Energy means the full [Octopus EV charge
 
 ## The install
 
-Most Middleton installs are finished in a day. The charger goes on whatever wall suits your parking - garage, gable, wherever's practical - and since the units are weatherproof, exposure isn't a concern. Cable that has to travel outside from the consumer unit goes in armoured cable rated for outdoor use. If solar or battery work has been done at the property, the consumer unit will already meet current standards.
+Most Middleton charger installs are finished in a day. The charger goes on whatever wall suits your parking - garage, gable, wherever's practical - and since the units are weatherproof, exposure isn't a concern. Cable that has to travel outside from the consumer unit goes in armoured cable rated for outdoor use. If solar or battery work has been done at the property, the consumer unit will already meet current standards.
 
 Middleton has good motorway access (M60, M62) for longer trips when you need a rapid charger.
 

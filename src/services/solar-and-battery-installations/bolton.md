@@ -36,7 +36,7 @@ For properties where conventional solar isn't practical - shading, orientation, 
 
 The difference between us and the national outfits is simple: Ashley oversees your installation from first survey through design, installation, and commissioning. He's the person you deal with throughout - no salesperson, no call centre.
 
-We know Bolton's planning requirements and the borough's mix of terraces, semis, and larger detached homes, from Farnworth to Bromley Cross. Most installations are finished within a week, with minimal disruption.
+We know Bolton's planning requirements and the borough's mix of terraces, semis, and larger detached homes, from Farnworth to Bromley Cross, and we've installed across all of them. Most installations are finished within a week, with minimal disruption.
 
 ## What Our Customers Say
 

@@ -25,13 +25,13 @@ Many Hale Barns properties have the roof space for 15-25+ panels, and we're comf
 
 ## System sizing for larger properties
 
-A typical 3-bed semi gets a 4kW system. Many Hale Barns homes are better matched to 6-10kW or bigger, though the right answer depends on your roof and your actual consumption rather than on squeezing in the most panels possible.
+A typical 3-bed semi gets a 4kW system. Many Hale Barns homes are better matched to 6-10kW or bigger, though the right answer for your installation depends on your roof and your actual consumption rather than on squeezing in the most panels possible.
 
-The bigger jobs don't put us off - we've just finished a 110-panel commercial system and we're quoting on a 600-panel project. Three-phase supplies and larger inverters are all part of the day's work.
+The bigger jobs don't put us off - we've just finished a 110-panel commercial solar installation and we're quoting on a 600-panel project, so larger domestic installations hold no fears. Three-phase supplies and larger inverters are all part of the day's work.
 
 ## Equipment we install
 
-We fit kit we'd be happy to have on our own roofs. We're approved installers for **AlphaESS**, whose premium batteries are backed by a UK office in Dursley, Gloucestershire, and you'll find us on their [find an installer](https://www.alpha-ess.com/) page. **Solax** is the other brand we're approved for.
+We fit kit we'd be happy to have on our own roofs. We're approved installers for **AlphaESS**, whose premium batteries and inverters are backed by a UK office in Dursley, Gloucestershire, and you'll find us on their [find an installer](https://www.alpha-ess.com/) page. **Solax** is the other brand we're approved for. An AlphaESS battery is our usual recommendation for the bigger systems Hale Barns roofs allow.
 
 On panels we mostly use **DMEGC** and **Trina Vertex** modules. Panel choice matters more than people think on a big roof - a few extra watts per panel adds up quickly across a 20-panel array. If you'd rather specify a particular manufacturer, tell us; we're not tied into exclusive deals that narrow the range.
 
@@ -41,11 +41,11 @@ Everything we fit carries a **30-year warranty on panels** and a **10-year warra
 
 We've been asked to look at other installers' work that ignores NAPIT safety guidelines - batteries in lofts being the worst offender. That's what happens when a salesperson specs the job instead of a qualified electrician.
 
-When you deal with us, the person surveying your Hale Barns roof understands the technical side. We won't push an unsafe or unsuitable system just to close a sale. NAPIT guidelines are followed properly, and every bit of electrical work is done in-house by our own qualified electricians - we don't subcontract.
+When you deal with us, the person surveying your Hale Barns roof understands the technical side. We won't push an unsafe or unsuitable system just to close a sale. NAPIT guidelines are followed properly, and every installation's electrical work is done in-house by our own qualified electricians - we don't subcontract.
 
 ## Battery storage and time-of-use tariffs
 
-Battery storage is popular with our Hale Barns customers, particularly on the larger systems where surplus generation would otherwise be exported for very little. The battery fills up from solar during the day and from cheap overnight rates on tariffs such as Octopus Intelligent or Octopus Go, then runs the house through the expensive evening peak.
+Battery storage is popular with our Hale Barns customers, particularly on the larger installations where surplus generation would otherwise be exported for very little. The battery fills up from solar during the day and from cheap overnight rates on tariffs such as Octopus Intelligent or Octopus Go, then runs the house through the expensive evening peak.
 
 If shading or orientation makes roof-mounted solar a poor fit for your property, our [battery-only solutions](/services/home-battery-installations/) pair well with time-of-use tariffs on their own.
 
@@ -65,6 +65,6 @@ We also cover [Hale](/hale/solar-and-battery-installations/), [Altrincham](/altr
 
 ## Get started
 
-Our MCS certification (number [NAP-66870](https://mcscertified.com/find-an-installer/)) lets your installation earn Smart Export Guarantee payments. You'll also find us accredited by [NAPIT](/accreditations/napit/), signed up to the [HIES Consumer Code](/accreditations/hies-consumer-code/), and listed by Octopus Energy as a [Trusted Partner](/accreditations/octopus-trusted-partner/).
+Our MCS certification (number [NAP-66870](https://mcscertified.com/find-an-installer/)) lets your installation earn Smart Export Guarantee payments. That MCS number is worth checking on any installer quote you compare us against. You'll also find us accredited by [NAPIT](/accreditations/napit/), signed up to the [HIES Consumer Code](/accreditations/hies-consumer-code/), and listed by Octopus Energy as a [Trusted Partner](/accreditations/octopus-trusted-partner/).
 
 [Contact us](/contact/) for a no-obligation chat about your Hale Barns property's solar potential.

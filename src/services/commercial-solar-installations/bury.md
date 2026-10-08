@@ -28,7 +28,7 @@ Cold storage and distribution centres with large flat roofs are good candidates 
 
 ## Flat and pitched roofs
 
-Flat roofs keep the design simple for us - the mounting holds the panels at the right angle whichever way the building points. Larger pitched buildings work too. Ground-mounted arrays on spare land or grass verges can back up the rooftop, and we've fitted setups where [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles run entirely off the solar.
+Flat roofs keep the design simple for us - the mounting holds the panels at the right angle whichever way the building points. Larger pitched buildings work too. Ground-mounted arrays on spare land or grass verges can back up the rooftop, and we've installed setups where [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles run entirely off the solar.
 
 ## Our approach
 

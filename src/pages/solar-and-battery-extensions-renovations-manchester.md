@@ -56,7 +56,7 @@ That's a customer in M25 who started with one job and kept calling Ashley back a
 
 - [**TrustMark Registered**](/accreditations/trustmark/)
 - [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870)
-- **Panels warranted up to 30 years, 5-year minimum on all other equipment**
+- **Panels warranted up to 30 years, 5-year minimum warranty on all other equipment**
 - [**NAPIT Registered**](/accreditations/napit/) (66870)
 - **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews
 - [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
