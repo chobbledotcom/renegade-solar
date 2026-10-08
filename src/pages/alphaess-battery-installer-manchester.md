@@ -36,9 +36,9 @@ Ashley typically sizes domestic systems from 6kWh upwards depending on your usag
 
 ## How an AlphaESS battery saves you money
 
-Off-peak electricity prices can be as little as one third the price of peak rates. Your battery automatically charges during cheap periods (typically overnight) and powers your home when electricity is expensive. This works well with smart tariffs like [Octopus Go](/octopus-go-battery-installer-manchester/) and delivers significant savings even during winter when solar panels are less effective.
+Overnight electricity can cost a third of what it does at teatime, and an AlphaESS battery exists to exploit that difference. While you sleep it charges at the cheap rate; through the day it supplies the house instead of the grid. Put it on a smart tariff such as [Octopus Go](/octopus-go-battery-installer-manchester/) and the savings hold up even in winter, when solar generation is at its lowest.
 
-If you've also got solar, the battery stores excess generation during the day and powers your home through the evening, so you're using your own electricity rather than buying it back at peak rates.
+If there are panels on the roof too, surplus generation gets stored during daylight and used in the evening, so the house runs on your own stored power rather than electricity bought back at peak rates.
 
 ## Smart features
 

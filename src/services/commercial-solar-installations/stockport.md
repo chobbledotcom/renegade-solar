@@ -32,10 +32,10 @@ A manufacturing unit with a large flat roof and a 15-20kW daytime load is the ki
 
 ## Flat and pitched roofs
 
-Flat roofs make our job easier - we mount the panels at the optimal angle regardless of building orientation. Pitched roofs on larger commercial buildings, factories and hotels work too. Ground-mounted systems on spare land can supplement the rooftop or power [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles.
+Flat roofs keep the design straightforward - the mounting holds the panels at the best angle no matter which way the building points, and Stockport's estates have plenty of them. Pitched roofs on larger commercial buildings, factories and hotels work as well. Ground-mounted arrays on spare land can back up the rooftop or feed [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles.
 
 ## Our approach
 
-You need to own the building rather than leasing it, and the higher the daytime electricity consumption the better the returns. As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we handle the [electrical certifications](/services/electrical-testing/), grid connections and Smart Export Guarantee setup that come with the work. If the numbers don't work for your business, we'll tell you.
+Ownership is the one thing we can't work around - you need to own the building rather than lease it - and the more electricity you use through the day, the better this pays. As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we take care of the [electrical certifications](/services/electrical-testing/), the grid connection and the Smart Export Guarantee setup. If the sums don't work for your business, you'll hear it from us.
 
-[Contact us](/contact/) for a free commercial solar consultation.
+Get in touch through the [contact page](/contact/) and we'll model a free commercial solar consultation for your building.

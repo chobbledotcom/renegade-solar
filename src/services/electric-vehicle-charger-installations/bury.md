@@ -28,17 +28,17 @@ The newer developments on the outskirts tend to have modern consumer units that 
 
 ## What it costs to charge at home
 
-A 7kW wall charger gets the car topped up overnight in the cheap rate window. On a tariff like Octopus Go that's a fraction of the 50-80p per kWh you'd pay at a public charger ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). The granny chargers that plug into a normal socket will take most of the day to top the car up, which means you're paying daytime rates and missing the savings.
+With a 7kW wall charger, the car fills up overnight inside the cheap rate window, and on Octopus Go that works out at a fraction of the 50-80p per kWh public chargers charge ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). The plug-in granny chargers are the slow option - most of the day to top the car up, so you're on daytime rates and losing the savings a home charger would have made.
 
-You don't need solar to get on a time-of-use tariff - they're open to anyone with a smart meter.
+Time-of-use tariffs don't require solar either - a smart meter is all it takes.
 
 ## Chargers we install
 
-We're an Octopus Energy Trusted Partner, so we fit the full [Octopus charger range](https://octopus.energy/get-an-ev-charger/). These are smart units that wait for the cheap rate window before charging the car. If you've got Solax or AlphaESS solar or battery kit, their chargers integrate with their own systems and we fit those as well. If you've already ordered a different charger yourself, we'll install whatever you've got.
+The [Octopus charger range](https://octopus.energy/get-an-ev-charger/) is where we start - our Trusted Partner status means we can fit any unit in it, and they're all smart enough to hold off until the cheap rate window before pulling a charge. If Solax or AlphaESS solar or battery kit is already installed, we fit their chargers so everything integrates with their own systems. Already bought something else? Send it our way and we'll install that instead.
 
 ## The install
 
-Most jobs are done in a day. The chargers are weatherproof, so they go on whatever wall suits your parking. Where cable has to run outside from the consumer unit to the charger, we use armoured cable rated for outdoor use. The consumer unit needs to be up to current standards, but if you've had solar or battery work done it already will be.
+Installation is usually a single day. Weatherproof housings mean the charger can sit wherever your parking is, and cable that runs outside from the consumer unit goes in armoured cable rated for outdoor use. Consumer units must be up to current standards - with solar or battery work already carried out at the property, yours will be.
 
 Bury has decent motorway access for longer trips when you need a rapid charger.
 

@@ -18,9 +18,9 @@ After payback, both options mean much cheaper electricity, plus payment for expo
 
 ## Who you'd be hiring
 
-Ashley Merritt is the named director of Renegade Solar. He's been an electrician for 20+ years, ten of those on commercial projects, including electrical work on industrial sites such as the Jersey Recycling Centre. He's [MCS-certified](/accreditations/mcs-certified/) ([NAP-66870](https://mcscertified.com/find-an-installer/)) and an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/).
+Renegade Solar's named director is Ashley Merritt, an electrician of 20+ years with ten of those spent on commercial projects - the electrical work on industrial sites such as the Jersey Recycling Centre was part of that. He's [MCS-certified](/accreditations/mcs-certified/) ([NAP-66870](https://mcscertified.com/find-an-installer/)) and an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/).
 
-For a warehouse owner, the practical implication is that the person who walks the roof, the person who quotes the job and the person who runs the install are all the same person. Ashley personally surveyed the Bolton flat roof. Ashley designed both the 50-panel and 115-panel options. There's no salesperson handover, no key-account team and no install crew you've never met.
+On a warehouse job that means one person walks the roof, prices the work and runs the install. Ashley surveyed the Bolton flat roof himself and drew up both the 50-panel and 115-panel designs. There's no key-account team to be passed to and no install crew you've never met.
 
 ## Why warehouses are ideal for commercial solar
 

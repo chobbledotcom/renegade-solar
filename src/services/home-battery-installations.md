@@ -23,9 +23,11 @@ Off-peak electricity prices can be as little as **one third** the price of peak 
 
 ## Real customer results
 
-One of our Prestwich customers with a **6kWh Solax battery system** told us:
+A customer of ours in Prestwich runs a **6kWh Solax battery system**, and this is how they described it:
 
-> "During summer this new solar and battery system means our electricity bills are close to zero. In fact, in some months we sent enough electricity back to the grid that we ended up in credit with our supplier! In winter the days are shorter and so the panels don't generate enough to cover the whole day, but that's fine because we still save a tonne of money by charging the battery overnight."
+> "During summer this new solar and battery system means our electricity bills are close to zero. In fact, in some months we sent enough electricity back to the grid that we ended up in credit with our supplier!
+>
+> In winter the days are shorter and so the panels don't generate enough to cover the whole day, but that's fine because we still save a tonne of money by charging the battery overnight."
 
 ## Battery systems we install
 

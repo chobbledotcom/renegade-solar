@@ -26,17 +26,17 @@ For properties without off-street parking, the [government EV chargepoint grant]
 
 ## What it costs to charge at home
 
-Public chargers cost 50-80p per kWh ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). On a tariff like Octopus Go, home charging overnight costs a fraction of public prices. A typical commute into Manchester costs a few pounds at home against £10 or more at a public charger. Over a year the difference adds up to a fair bit.
+At a public charger you're looking at 50-80p per kWh ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). Plugged in at home on Octopus Go, the same charge costs a fraction of that, because the 7kW charger does its work overnight while the cheap rate window is open. A typical commute into Manchester costs a few pounds at home against £10 or more at a public charger. Stretched across a year, that gap becomes serious money.
 
 You don't need solar to get on a time-of-use tariff - they're open to anyone with a smart meter.
 
 ## Chargers we install
 
-We fit the full [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/) - smart units that wait for the cheap rate window before charging the car. If you've got Solax or AlphaESS solar or battery kit, their chargers integrate with their own systems and we fit those as well. If you've ordered a different charger yourself, we'll install whatever you've got.
+The [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/) is what we fit most - our Trusted Partner status covers the full range, and these units hold off until the cheap rate window opens before they draw anything. Solax or AlphaESS solar and battery kit already on the wall? Their own chargers pair with their systems and we install those too. And if you've bought a charger from somewhere else, bring it over - we'll fit whatever you've got.
 
 ## The install
 
-Most jobs are done in a day. The chargers are weatherproof, so they go on whatever wall suits your parking - garage, outside, wherever's practical. Where cable has to run outside from the consumer unit, we use armoured cable rated for outdoor use. The consumer unit needs to be up to current standards, but if you've had solar or battery work done it already will be.
+A straightforward Radcliffe job - charger by the driveway, cable back to the consumer unit - is done in a day. The units shrug off the weather, so wall choice comes down to where your parking sits. Any outdoor cable leg from the consumer unit is run in armoured cable rated for outdoor use. Consumer units need to meet current standards, and a property that's had solar or battery work will already comply.
 
 Radcliffe has good access to the M60 and M66 for longer trips when you need a rapid charger.
 

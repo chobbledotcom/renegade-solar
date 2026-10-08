@@ -13,78 +13,20 @@ layout: base.html
   <section class="customer-reviews">
     <div class="container">
       <div class="customer-reviews__header">
-        <h2>Customer Reviews</h2>
+        <h2>What customers say</h2>
         <p>
-          We're proud of our {{ reviews.total }} reviews with an average rating
-          of {{ reviews.averageRating | round: 2 }}/10
+          {{ reviews.total }} reviews across Checkatrade, Google, Facebook and
+          Trustpilot, averaging {{ reviews.averageRating | round: 2 }}/10
         </p>
       </div>
 
-      <div class="customer-reviews__cta">
-        <a
-          href="https://www.checkatrade.com/trades/renegadeelectrical/"
-          target="_blank"
-          class="btn primary-btn"
-        >
-          View on Checkatrade
-        </a>
-        <a
-          href="https://maps.app.goo.gl/8j3vvkz4uCafyRPN7"
-          target="_blank"
-          class="btn secondary-btn"
-        >
-          Review Us on Google
-        </a>
-        <a
-          href="https://www.facebook.com/RenSolarManchester"
-          target="_blank"
-          class="btn secondary-btn"
-        >
-          Review Us on Facebook
-        </a>
-        <a
-          href="https://www.trustpilot.com/review/renegade-solar.co.uk"
-          target="_blank"
-          class="btn secondary-btn"
-        >
-          Review Us on Trustpilot
-        </a>
-      </div>
+      {%- include "review-site-links.html" -%}
 
       <hr />
 
       {% render "review-list.html", reviews: reviews.reviews %}
 
-      <div class="customer-reviews__cta">
-        <a
-          href="https://www.checkatrade.com/trades/renegadeelectrical/"
-          target="_blank"
-          class="btn primary-btn"
-        >
-          View on Checkatrade
-        </a>
-        <a
-          href="https://maps.app.goo.gl/8j3vvkz4uCafyRPN7"
-          target="_blank"
-          class="btn secondary-btn"
-        >
-          Review Us on Google
-        </a>
-        <a
-          href="https://www.facebook.com/RenSolarManchester"
-          target="_blank"
-          class="btn secondary-btn"
-        >
-          Review Us on Facebook
-        </a>
-        <a
-          href="https://www.trustpilot.com/review/renegade-solar.co.uk"
-          target="_blank"
-          class="btn secondary-btn"
-        >
-          Review Us on Trustpilot
-        </a>
-      </div>
+      {%- include "review-site-links.html" -%}
     </div>
   </section>
 </article>

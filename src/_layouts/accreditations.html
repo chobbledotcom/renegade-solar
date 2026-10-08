@@ -2,9 +2,7 @@
 layout: base.html
 ---
 
-{%- assign body_html = content -%}
-{%- assign page_h1 = body_html | firstHeading -%}
-{%- assign body_html = body_html | withoutFirstHeading -%}
+{%- include "layout-head.html" -%}
 {% assign accs = collections.accreditation %}
 
 <article>

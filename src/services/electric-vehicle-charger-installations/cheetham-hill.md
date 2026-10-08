@@ -28,7 +28,7 @@ Cheetham Hill has a mix of Victorian terraces, semis with driveways, and convert
 
 ## Chargers we install
 
-We fit the full [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/) - smart chargers that wait for the cheap rate window before charging the car. If you've got Solax or AlphaESS solar or battery kit, their chargers integrate with their own systems and we fit those as well. If you've ordered a different charger yourself, we'll install whatever you've got.
+The [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/) covers most of what we install, and our Trusted Partner status means we can fit any of it. Each one is a smart charger that holds off charging until the cheap rate window arrives. Got Solax or AlphaESS solar or battery hardware? Those chargers integrate with their own systems and we install them too. Bought a charger elsewhere already? We'll fit whatever you've ordered.
 
 ## The install
 

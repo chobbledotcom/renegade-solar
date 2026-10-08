@@ -1,0 +1,9 @@
+  {% include "motifs/contact-panel.html" %}
+
+  {% if gallery_tags %}
+  <div class="card">
+    <h3>Photo Gallery</h3>
+    {% include "photo-gallery.html", tags: gallery_tags %}
+  </div>
+  {% endif %}
+</article>

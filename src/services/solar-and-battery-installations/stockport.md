@@ -24,19 +24,19 @@ Many Stockport residents ask us if solar panels are effective in Manchester's fa
 
 Stockport's diverse architecture presents exciting opportunities for solar installation. In [Bramhall](/bramhall/solar-and-battery-installations/), we frequently work with larger detached and semi-detached homes with ample roof space, ideal for maximising solar generation. Properties in [Marple](/marple/solar-and-battery-installations/) and Marple Bridge, with their mix of traditional stone buildings and newer developments, often benefit from our custom system designs that respect the architectural character while delivering excellent performance.
 
-For properties where conventional solar installation isn't suitable (due to shading, orientation, or planning restrictions), we offer [battery-only solutions](/services/home-battery-installations/) that work brilliantly with time-of-use tariffs like [Octopus Energy's](https://octopus.energy/tariffs/) - particularly valuable for homeowners in conservation areas around [Marple](/marple/solar-and-battery-installations/) or listed buildings in [Bramhall](/bramhall/solar-and-battery-installations/).
+Where a conventional roof installation isn't possible because of shading, orientation, or planning restrictions, [battery-only solutions](/services/home-battery-installations/) are a good fallback. They pair well with time-of-use tariffs such as [Octopus Energy's](https://octopus.energy/tariffs/) - particularly useful for homeowners in conservation areas around [Marple](/marple/solar-and-battery-installations/) or with listed buildings in [Bramhall](/bramhall/solar-and-battery-installations/).
 
 ## Local Knowledge & Personal Service
 
-What sets us apart from national installers is our personal approach. Ashley personally oversees every aspect of your installation - from initial survey through design and installation to final commissioning. He's your direct point of contact throughout, not a salesperson or a call centre.
+National installers can't match a personal service. Ashley oversees every stage of your installation - survey, design, installation, commissioning - and he's your direct contact from start to finish, not a salesperson or a call centre.
 
-Our local knowledge means we understand Stockport's planning requirements and have experience with the specific property types in areas like [Bramhall](/bramhall/solar-and-battery-installations/) and [Marple](/marple/solar-and-battery-installations/). We can typically complete most installations within a week with minimal disruption to your household.
+We understand Stockport's planning requirements and the property types you find across the borough, from [Bramhall](/bramhall/solar-and-battery-installations/)'s detached homes to the stone buildings of [Marple](/marple/solar-and-battery-installations/) and Marple Bridge. Most installations are complete within a week, causing minimal disruption to your household.
 
 ## What Our Customers Say
 
-Don't just take our word for it - check out [our customer reviews](/reviews/) where we maintain an exceptional **{{ reviews.averageRating | round: 2 }}/10 rating** on Checkatrade. Our customers consistently praise our honesty, professionalism, and the quality of our workmanship.
+Have a look at [our customer reviews](/reviews/) for the fuller picture - we hold an exceptional **{{ reviews.averageRating | round: 2 }}/10 rating** on Checkatrade, and customers regularly highlight our honesty, professionalism, and the quality of our workmanship.
 
-As one recent customer noted: "Really professional job would highly recommend" - just one of many glowing testimonials from satisfied customers across Greater Manchester.
+A recent one says: "Really professional job would highly recommend" - part of a long run of glowing feedback from customers across Greater Manchester.
 
 ## Stockport Coverage Areas
 

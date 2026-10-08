@@ -18,17 +18,17 @@ We install EV chargers across Middleton. Ashley is a NAPIT-registered electricia
 
 ## What it costs to charge at home
 
-A 7kW wall charger gets the car topped up overnight in the cheap rate window. On a tariff like Octopus Go that's a fraction of the 50-80p per kWh you'd pay at a public charger ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). The granny chargers that plug into a normal socket take most of the day, so you're paying daytime rates and missing the savings.
+Overnight, a 7kW wall charger tops the car up inside the cheap rate window, and on Octopus Go that costs a fraction of the 50-80p per kWh public charging runs to ([zapmap.com](https://www.zapmap.com/ev-stats/charging-price-index)). Leave it on the granny charger that plugs into a normal socket and you'll be waiting most of the day while paying daytime rates and losing the savings.
 
-You don't need solar to get on a time-of-use tariff - they're open to anyone with a smart meter.
+Worth knowing too: a time-of-use tariff isn't tied to solar - anyone with a smart meter can get on one.
 
 ## Chargers we install
 
-We're an Octopus Energy Trusted Partner, so we fit the full [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/). These are smart units that wait for the cheap rate window before charging the car. If you've got Solax or AlphaESS solar or battery kit, their chargers integrate with their own systems and we fit those as well. If you've already ordered a different charger yourself, we'll install whatever you've got.
+Our Trusted Partner status with Octopus Energy means the full [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/) is open to Middleton customers. They're smart units - nothing draws until the cheap rate window arrives. Solax or AlphaESS solar or battery setup in place already? We fit their chargers too, since they integrate with their own systems. And if you've ordered a charger from somewhere else, we'll install that instead, no problem.
 
 ## The install
 
-Most jobs are done in a day. The chargers are weatherproof, so they go on whatever wall suits your parking - garage, outside, wherever's practical. Where cable has to run outside from the consumer unit, we use armoured cable rated for outdoor use. The consumer unit needs to be up to current standards, but if you've had solar or battery work done it already will be.
+Most Middleton installs are finished in a day. The charger goes on whatever wall suits your parking - garage, gable, wherever's practical - and since the units are weatherproof, exposure isn't a concern. Cable that has to travel outside from the consumer unit goes in armoured cable rated for outdoor use. If solar or battery work has been done at the property, the consumer unit will already meet current standards.
 
 Middleton has good motorway access (M60, M62) for longer trips when you need a rapid charger.
 

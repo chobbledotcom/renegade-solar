@@ -11,7 +11,7 @@
 		"fetch-instagram-posts": "node scripts/fetch-instagram-posts.js",
 		"update-reviews": "node scripts/merge-reviews.js",
 		"optimise-photos": "node scripts/optimise-photos.mjs",
-		"cpd": "node scripts/cpd.mjs --min-tokens 40",
+		"cpd": "node scripts/cpd.mjs --min-tokens 38",
 		"cpd:ratchet": "node scripts/cpd-ratchet.mjs"
 	},
 	"dependencies": {

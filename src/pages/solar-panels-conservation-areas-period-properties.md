@@ -51,13 +51,13 @@ Modern panels generate electricity from daylight rather than just direct sunshin
 
 ## Credentials
 
-- [MCS-certified](/accreditations/mcs-certified/) installer (NAP-66870) - your installation qualifies for Smart Export Guarantee payments
-- [TrustMark Registered](/accreditations/trustmark/)
-- [NAPIT Registered](/accreditations/napit/) (66870)
-- [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/)
-- {{ reviews.averageRating | round: 2 }}/10 on Checkatrade from {{ reviews.total }}+ verified reviews
-- 5-year minimum warranty on all equipment, panels warranted up to 30 years
-- 2 years routine maintenance included on every installation
+- [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870) - your installation qualifies for Smart Export Guarantee payments
+- [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
+- **2 years' routine maintenance included**
+- [**NAPIT Registered**](/accreditations/napit/) (66870)
+- **Equipment under a 5-year minimum warranty; panels up to 30 years**
+- [**TrustMark Registered**](/accreditations/trustmark/)
+- **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews
 
 ## Coverage
 

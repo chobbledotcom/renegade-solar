@@ -32,10 +32,10 @@ A light industrial unit with consistent daytime consumption and a suitable roof 
 
 ## Flat roofs and ground-mount
 
-Flat roofs make our job easier - we mount the panels at the optimal angle regardless of building orientation. Pitched roofs on larger buildings work too. If there's spare land or outdoor space, ground-mounted systems can power [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles. We've installed setups where the staff charging runs entirely off the solar.
+A flat roof takes some of the guesswork out of the design - the mounting lets us face the panels south at the right tilt even when the building doesn't cooperate, and Whitefield has no shortage of flat-roofed commercial units. Pitched roofs on larger buildings are fine as well. Spare land or outdoor space can take a ground-mounted array, and we've done setups where [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles run entirely off the solar.
 
 ## Our approach
 
-You need to own the building rather than leasing it, and the higher the daytime electricity consumption the better the returns. As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we handle all the [electrical certifications](/services/electrical-testing/) and grid connections that come with the work. If the numbers don't work for your business, we'll tell you.
+The building needs to be yours rather than a landlord's, and the more electricity you use in the daytime the better the returns look. As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we sort out the [electrical certifications](/services/electrical-testing/) and grid connections the job involves. If the numbers don't work for your business, we'll say so.
 
-[Contact us](/contact/) for a free commercial solar consultation.
+Drop us a line through the [contact page](/contact/) for a free commercial solar consultation.

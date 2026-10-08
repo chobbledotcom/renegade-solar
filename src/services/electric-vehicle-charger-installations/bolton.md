@@ -36,21 +36,19 @@ We also fit **Solax** and **AlphaESS** chargers if you've got their solar panels
 
 ## Why Home Charging Makes Sense
 
-With the government banning new petrol and diesel cars from 2030, electric's the way forward. Bolton's well connected to the motorway network - M61, M60, M62 - so there's plenty of rapid chargers if you need a quick top-up on a long trip. But for day-to-day driving, charging at home is miles cheaper and more convenient.
+The 2030 cut-off for new petrol and diesel sales is coming, so electric is where all of this is heading. For long trips, Bolton's motorway links (M61, M60, M62) put rapid chargers within easy reach whenever you need a quick top-up on a longer journey. Day to day, though, home charging is the cheap and convenient option.
 
-A 7kW charger will top up your car overnight during the cheap rate window. Compare that to a granny charger that plugs into a normal socket - those take all day and you'd miss the cheap rates entirely. With a proper charger installed, you wake up to a full battery every morning for a couple of quid.
+A 7kW charger fills the car overnight during the cheap rate window - you wake up to a full battery for a couple of quid. The granny charger that plugs into a normal socket is the opposite: it takes all day, and the cheap rates pass you by entirely.
 
 ## The Installation
 
-The install's straightforward. The chargers are weatherproof so we can mount them wherever works best - garage wall, outside wall, wherever's convenient for your parking spot. If we need to run cable from your fuse board to the other side of the house, that's fine. We use proper heavy duty armoured cable that can go outside no problem.
-
-Most jobs are done in a day, mess is minimal. Your fuse board needs to be up to spec, but if you've already got solar panels or a battery, it will be anyway. Even if you haven't got solar, you can still get a time-of-use tariff just for cheap overnight car charging.
+Mounting is flexible because the chargers are weatherproof - garage wall, outside wall, wherever's most convenient for your parking spot. If the fuse board sits on the far side of the house from the driveway, that's no obstacle either; we run proper heavy duty armoured cable that's built to live outdoors in all conditions. A typical job takes a day with minimal mess. Your fuse board needs to be up to spec, and if you've already got solar panels or a battery, it will be. No solar? You can still get a time-of-use tariff purely for cheap overnight car charging.
 
 ## Quality Installation Service
 
-> "Fantastic communication, fantastic workmanship and a genuinely nice chap. Would not hesitate to recommend and will be using again."
-
 > "Ashley was friendly, knowledgeable and did a great job. He ensured that our new GivEnergy charger was properly integrated with the solar and battery system."
+
+> "Fantastic communication, fantastic workmanship and a genuinely nice chap. Would not hesitate to recommend and will be using again."
 
 ## Complete EV Charging Package
 

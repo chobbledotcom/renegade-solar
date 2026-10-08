@@ -31,18 +31,18 @@ The council-built properties vary a fair bit. Some have been properly rewired wi
 
 ## For landlords
 
-Landlords need an EICR every five years plus one for each new tenant. Fines for non-compliance run up to £30,000, and the local authority can have remedial installation work carried out and bill it back to you. Existing tenants need the EICR report within 28 days; new tenants get it before they move in. If the inspection turns up C1, C2 or FI issues, you've got 28 days to sort them. As a NAPIT-registered electrician, Ashley can carry out the EICR and any remedial work that comes from it.
+Landlord law in Blackley works the same as elsewhere: an EICR every five years plus one for each new tenant. Fines for letting it slip reach £30,000, and the local authority can have remedial installation work done and charge it back to you. Existing tenants must be given the report within 28 days, new tenants before they move in, and C1, C2 or FI findings come with 28 days to put them right. Ashley is NAPIT registered, so the EICR and the remedial work it identifies can both come from the same electrician.
 
 ## For buyers
 
-Get an EICR before money changes hands. If we find issues like an outdated consumer unit or inadequate earthing, you've got a basis for negotiating the purchase price, or for walking away from an installation that's not what you thought you were buying. Blackley's mix of property types and ages means the electrical quality varies considerably, and an EICR inspection is the only reliable way to know what state the wiring is actually in.
+Get the EICR done before money changes hands. Between the traditional terraces, the former council properties and the larger detached homes up towards Heaton Park, electrical condition across Blackley varies a lot, and the report is the only reliable way to see inside the wiring before you buy. An outdated consumer unit or inadequate earthing is worth negotiating on, and the findings also tell you plainly if the installation isn't what you thought you were buying.
 
 ## What's included
 
-The inspection covers a full visual check of wiring, sockets, switches and the consumer unit, then calibrated technical testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The EICR certificate and report are issued the same day, written in plain English. If we find work that needs doing, we can quote for that and schedule it in - as a qualified electrician and NAPIT-registered installer, Ashley can handle any remedial installation work without needing to bring in someone else.
+We open with a visual check of the wiring, sockets, switches and consumer unit, then move to calibrated testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The EICR certificate and report are issued the same day, with the findings explained rather than left to code references. Where the results call for remedial work, we'll quote and schedule it - Ashley's NAPIT registration as an installer means that work stays with the person who tested it.
 
 ## When we find issues
 
-If the EICR turns up problems, we explain what's wrong, why it matters, and what the installation needs to bring it up to standard. No inflated prices, no unnecessary extras - just an honest quote from a qualified electrician who's been working across Blackley and the surrounding area for the best part of two decades. Remedial installation work gets scheduled within a month.
+If the EICR flags problems, we explain what's wrong, why it matters and what brings the installation up to standard, and the quote that follows is honest. Ashley has worked across Blackley and the surrounding streets for close to twenty years, with no inflated prices and no extras you didn't ask for. Remedial installation work is scheduled within a month.
 
 [Book an EICR inspection in Blackley](/contact/).

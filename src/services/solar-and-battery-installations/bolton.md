@@ -30,19 +30,19 @@ We frequently work with Bolton's characteristic terraced properties in areas lik
 
 Bolton's industrial heritage means the town has excellent commercial opportunities. With substantial warehouses and manufacturing facilities across the borough, plus a growing logistics sector, Bolton's business community can benefit enormously from [commercial solar installations](/services/commercial-solar-installations/) with their generous roof space and high daytime energy consumption.
 
-For properties where conventional solar installation isn't suitable (due to shading, orientation, or planning restrictions), we offer [battery-only solutions](/services/home-battery-installations/) that work brilliantly with time-of-use tariffs like [Octopus Energy's](https://octopus.energy/tariffs/).
+For properties where conventional solar isn't practical - shading, orientation, or planning restrictions can all rule out roof panels - we install [battery-only solutions](/services/home-battery-installations/). These work well alongside time-of-use tariffs such as [Octopus Energy's](https://octopus.energy/tariffs/), charging up cheap overnight and running the house at peak rates.
 
 ## Local Knowledge & Personal Service
 
-What sets us apart from national installers is our personal approach. Ashley personally oversees every aspect of your installation - from initial survey through design and installation to final commissioning. He's your direct point of contact throughout, not a salesperson or a call centre.
+The difference between us and the national outfits is simple: Ashley oversees your installation from first survey through design, installation, and commissioning. He's the person you deal with throughout - no salesperson, no call centre.
 
-Our local knowledge means we understand Bolton's planning requirements and have experience with the specific property types across the borough. We can typically complete most installations within a week with minimal disruption.
+We know Bolton's planning requirements and the borough's mix of terraces, semis, and larger detached homes, from Farnworth to Bromley Cross. Most installations are finished within a week, with minimal disruption.
 
 ## What Our Customers Say
 
-Don't just take our word for it - check out our [customer reviews](/reviews/) where we maintain an exceptional **{{ reviews.averageRating | round: 2 }}/10 rating** on Checkatrade. Our customers consistently praise our honesty, professionalism, and the quality of our workmanship.
+Our [customer reviews](/reviews/) tell the story better than we can: an exceptional **{{ reviews.averageRating | round: 2 }}/10 rating** on Checkatrade, with honesty, professionalism, and quality workmanship the things customers mention most.
 
-As one recent customer noted: "Really professional job would highly recommend" - just one of many glowing testimonials from satisfied customers across Greater Manchester.
+One recent review reads: "Really professional job would highly recommend" - a typical example of the feedback we get from customers across Greater Manchester.
 
 ## Ready to Go Solar in Bolton?
 

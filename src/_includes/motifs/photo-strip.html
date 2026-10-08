@@ -17,15 +17,7 @@ src/_data/gallery.json as the full gallery, filtered by the page's
 {%- comment -%} First pass: how many photos match, so we can skip the whole band if barely any do. {%- endcomment -%}
 {%- assign strip_match_count = 0 -%}
 {%- for item in sorted_photos -%}
-  {%- assign keep = false -%}
-  {%- if strip_tag_list -%}
-    {%- for tag in strip_tag_list -%}
-      {%- assign clean_tag = tag | strip -%}
-      {%- if item.tags contains clean_tag -%}{%- assign keep = true -%}{%- endif -%}
-    {%- endfor -%}
-  {%- else -%}
-    {%- assign keep = true -%}
-  {%- endif -%}
+  {%- include "motifs/photo-strip-match.html" -%}
   {%- if keep -%}{%- assign strip_match_count = strip_match_count | plus: 1 -%}{%- endif -%}
 {%- endfor -%}
 {%- if strip_match_count > 2 -%}
@@ -38,15 +30,7 @@ src/_data/gallery.json as the full gallery, filtered by the page's
     <ul class="photo-strip">
       {%- assign strip_shown = 0 -%}
       {%- for item in sorted_photos -%}
-        {%- assign keep = false -%}
-        {%- if strip_tag_list -%}
-          {%- for tag in strip_tag_list -%}
-            {%- assign clean_tag = tag | strip -%}
-            {%- if item.tags contains clean_tag -%}{%- assign keep = true -%}{%- endif -%}
-          {%- endfor -%}
-        {%- else -%}
-          {%- assign keep = true -%}
-        {%- endif -%}
+        {%- include "motifs/photo-strip-match.html" -%}
         {%- if keep and strip_shown < strip_limit -%}
           {%- assign strip_shown = strip_shown | plus: 1 %}
       <li>
