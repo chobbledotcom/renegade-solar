@@ -28,7 +28,7 @@ A Prestwich baker we spoke to recently was spending around £10,000 a month on e
 
 ## How it tends to play out on the numbers
 
-The shortest paybacks we see come off Middleton manufacturing units - the sort with a big flat roof and machinery pulling a 15-20kW load through the working day. A town centre shop or cafe with a smaller roof and lighter demand tends to land nearer four years, which can still make sense because most of what the panels generate gets used while the doors are open. We put together several design options with full projections against each, so you can judge payback speed against total savings yourself.
+The buildings where payback comes out shortest are the manufacturing-type ones - big flat roof, machinery pulling a 15-20kW load through the working day. A town centre shop or cafe with a smaller roof and lighter demand might land nearer four years, and even then the payback can work because most of what the panels generate gets used while the doors are open. We put together several design options with full projections against each, so you can judge payback speed against total savings yourself.
 
 ## Flat and pitched roofs
 

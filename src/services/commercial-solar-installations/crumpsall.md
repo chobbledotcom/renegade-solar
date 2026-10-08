@@ -28,7 +28,7 @@ Shops, cafes and restaurants along Crumpsall Lane benefit from the straightforwa
 
 ## How it tends to play out on the numbers
 
-Payback comes out shortest on a flat-roofed industrial unit with a steady load through the working day. A shop or cafe on Crumpsall Lane with lighter consumption and a smaller roof is more likely to land nearer four years - still workable, because most of the generation gets used while the shutters are up. We set out several design options with detailed projections against each one, so you can weigh how fast it pays back against what it saves in total.
+Payback comes out shortest on a flat-roofed industrial unit with a steady load through the working day. A shop or cafe on Crumpsall Lane with lighter consumption and a smaller roof could land nearer four years - the payback still works, because most of the generation gets used while the shutters are up. We set out several design options with detailed projections against each one, so you can weigh how fast it pays back against what it saves in total.
 
 ## Flat and pitched roofs
 
