@@ -30,7 +30,7 @@ We frequently work with Bolton's characteristic terraced properties in areas lik
 
 Bolton's industrial heritage means the town has excellent commercial opportunities. With substantial warehouses and manufacturing facilities across the borough, plus a growing logistics sector, Bolton's business community can benefit enormously from [commercial solar installations](/services/commercial-solar-installations/) with their generous roof space and high daytime energy consumption.
 
-For properties where conventional solar isn't practical - shading, orientation, or planning restrictions can all rule out roof panels - we install [battery-only solutions](/services/home-battery-installations/). These work well alongside time-of-use tariffs such as [Octopus Energy's](https://octopus.energy/tariffs/), charging up cheap overnight and running the house at peak rates.
+For Bolton properties where a conventional solar installation isn't practical - shading, orientation, or planning restrictions can all rule out roof panels - we install [battery-only solutions](/services/home-battery-installations/). These work well alongside time-of-use tariffs such as [Octopus Energy's](https://octopus.energy/tariffs/), charging up cheap overnight and running the house at peak rates.
 
 ## Local Knowledge & Personal Service
 

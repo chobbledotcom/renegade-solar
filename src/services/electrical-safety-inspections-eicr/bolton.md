@@ -35,7 +35,7 @@ Arrange the EICR before completion. At £150 it's a small cost against learning 
 
 ## What's included in the EICR
 
-The EICR inspection itself combines a visual check of wiring, sockets, switches and the consumer unit with calibrated instrument testing - continuity, insulation resistance, earth fault loop impedance and RCD operation are all measured.
+Every EICR inspection we carry out in Bolton combines a visual check of wiring, sockets, switches and the consumer unit with calibrated instrument testing - continuity, insulation resistance, earth fault loop impedance and RCD operation are all measured.
 
 You'll have the EICR certificate and report the same day, set out in words you can follow rather than left to decode. If remedial work shows up, we quote and schedule it, and our NAPIT registration as electrical installers means it stays with us.
 

@@ -33,7 +33,7 @@ We've completed installations throughout Failsworth - you can see examples in ou
 
 ## What to expect
 
-A 4kW solar system in this area produces around 3,250 kWh per year in modelled conditions. What that saves you depends on your tariff and how much of the generation you use in the daytime, which is what the survey and the projection work out against your actual bills.
+A 4kW solar system on a Chadderton roof produces around 3,250 kWh per year in modelled conditions. What that saves you depends on your tariff and how much of the generation you use in the daytime, which is what the survey and the projection work out against your actual bills.
 
 As an [MCS-certified installer](/accreditations/mcs-certified/), your system qualifies for Smart Export Guarantee payments - you get paid for electricity you export to the grid.
 

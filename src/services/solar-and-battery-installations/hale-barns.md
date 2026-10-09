@@ -25,7 +25,7 @@ Many Hale Barns properties have the roof space for 15-25+ panels, and we're comf
 
 ## System sizing for larger properties
 
-A typical 3-bed semi gets a 4kW system. Many Hale Barns homes are better matched to 6-10kW or bigger, though the right answer for your installation depends on your roof and your actual consumption rather than on squeezing in the most panels possible.
+A typical 3-bed semi might take a 4kW system; many Hale Barns homes are better matched to 6-10kW or bigger, though the right answer for your installation depends on your roof and your actual consumption rather than on squeezing in the most panels possible.
 
 The bigger jobs don't put us off - we've just finished a 110-panel commercial solar installation and we're quoting on a 600-panel project, so larger domestic installations hold no fears. Three-phase supplies and larger inverters are all part of the day's work.
 
