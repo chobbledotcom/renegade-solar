@@ -28,14 +28,14 @@ Shops, cafes and restaurants along Crumpsall Lane benefit from the straightforwa
 
 ## How it tends to play out on the numbers
 
-An industrial unit with a flat roof and a consistent daytime load is the kind of building where the payback comes out shortest. A retail unit with more modest consumption and a smaller roof might be closer to four, but the numbers still work because most of the generation gets used on site during opening hours. We provide multiple design options with detailed projections so you can weigh payback speed against total savings.
+Payback comes out shortest on a flat-roofed industrial unit with a steady load through the working day. A shop or cafe on Crumpsall Lane with lighter consumption and a smaller roof could land nearer four years - the payback still works, because most of the generation gets used while the shutters are up. We set out several design options with detailed projections against each one, so you can weigh how fast it pays back against what it saves in total.
 
 ## Flat and pitched roofs
 
-Flat roofs make our job easier - we mount the panels at the optimal angle regardless of building orientation. Pitched roofs on larger buildings work too. If there's spare land or outdoor space, ground-mounted systems can supplement the rooftop or power [EV charging](/services/electric-vehicle-charger-installations/) for staff vehicles.
+Crumpsall's industrial stock is mostly flat-roofed, which suits us fine - on a flat roof we can put the panels where they catch the most sun, whichever way the unit faces. Larger pitched buildings work too. A ground-mounted array can use any spare land or outdoor space, or feed [EV charging](/services/electric-vehicle-charger-installations/) for staff vehicles.
 
 ## Our approach
 
-You need to own the building rather than leasing it, and the higher the daytime electricity consumption the better the returns. As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we handle all the [electrical certifications](/services/electrical-testing/) and grid connections that come with the work. If the numbers don't work for your business, we'll tell you.
+You have to own the building rather than lease it, and the higher your daytime electricity consumption, the better the returns come out. We're an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), and we deal with the [electrical certifications](/services/electrical-testing/) and grid connections as part of the job. If the numbers don't stack up for your business, we'll tell you plainly.
 
-[Contact us](/contact/) for a free commercial solar consultation.
+For a free commercial solar consultation, send us a note via the [contact page](/contact/).

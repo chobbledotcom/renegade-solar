@@ -47,7 +47,7 @@ We provide solar education resources to local homeowners and businesses, and we 
 | Measure | Value |
 |---|---|
 | Solar systems installed | 50+ |
-| Clean green solar energy generated | 25 tonnes of CO2 saved |
+| Clean green solar energy generated | An estimated 25 tonnes of CO2 saved against grid averages |
 | Local suppliers | Prioritised across all projects |
 | Training opportunities | Ongoing investment in skills and apprenticeships |
 

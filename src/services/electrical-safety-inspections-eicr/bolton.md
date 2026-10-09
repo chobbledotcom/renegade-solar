@@ -27,25 +27,21 @@ The newer estates and the larger properties out towards Bromley Cross tend to ha
 
 ## For landlords
 
-Landlords are legally required to have an EICR every five years and one for each new tenancy. Fines for non-compliance run up to £30,000, and the local authority can arrange remedial work and bill you for it. Existing tenants need the EICR report within 28 days; new tenants get it before they move in. If the EICR inspection turns up C1, C2 or FI issues, you've got 28 days to sort them. As a NAPIT-registered electrician, Ashley can carry out the EICR and any remedial installation work that comes out of it, which saves bringing in a separate contractor.
-
-Bolton has a strong rental market, particularly around the town centre, and we carry out EICR inspections for landlords across the borough on a regular basis. If you've got a portfolio of properties, we can schedule the EICR inspections to keep them all in compliance without it becoming a headache.
+Bolton's rental market keeps us busy with landlord work, and the [legal position](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) is the same across the borough: an EICR every five years and a fresh EICR at the start of each new tenancy. Penalties for non-compliance go up to £30,000, and the local authority can arrange remedial work and bill you for it. Tenants in place must have the EICR report within 28 days, new tenants before moving in, and C1, C2 or FI findings give you 28 days to act - one electrical report serving both audiences. Ashley's NAPIT registration covers both the EICR and the remedial installation work, which saves you finding a second contractor. If you've got a portfolio of properties, we can stagger the EICR inspections and spread the electrical testing across the year, so everything stays compliant without it becoming a headache, and without a last-minute scramble each time a tenancy changes. One NAPIT-registered electrician covers the lot, so there's no chasing a second contractor if anything needs putting right. Travel isn't charged either, so the £150 plus VAT price is the same whether the property sits in Farnworth or out at Bromley Cross.
 
 ## For buyers
 
-Get an EICR before completion. £150 is a small outlay against the cost of finding out the consumer unit needs replacing or the wiring isn't up to standard after you've moved in, and the EICR report gives you something concrete to take back to the seller. Bolton's mix of property ages means the electrical installation quality varies enormously - a house that looks fine on the surface can have wiring or earthing issues that only proper EICR testing reveals.
-
-With Bolton's property market the way it is, finding out after completion that you need a full rewire is a more expensive surprise than it needs to be.
+Arrange the EICR before completion. At £150 it's a small cost against learning after you've moved in that the consumer unit is due for replacement or the wiring falls short, and the EICR report gives you solid ground to go back to the seller with. Bolton's housing runs from terraces near the centre to the bigger homes around Bromley Cross, so installation quality varies enormously and EICR testing is how you find out which side your purchase falls on. Proper electrical testing before exchange is the cheapest insurance in the whole process. With the market the way it is, discovering after completion that you need a full rewire is the expensive version of the same lesson. If anything does come up in the report, your electrician can tell you straight away how urgent it is and what the electrical installation needs before you're committed.
 
 ## What's included in the EICR
 
-The EICR inspection covers a full visual check of wiring, sockets, switches and the consumer unit, then calibrated technical testing for continuity, insulation resistance, earth fault loop impedance and RCD operation.
+Every EICR inspection we carry out in Bolton combines a visual check of wiring, sockets, switches and the consumer unit with calibrated instrument testing - continuity, insulation resistance, earth fault loop impedance and RCD operation are all measured.
 
-The EICR certificate and report are issued the same day, written in plain English so you can understand what's been found and what it means. If we find work that needs doing, we can quote for that and schedule it in - we're NAPIT-registered electrical installers, so the remedial work stays with us rather than getting handed off to someone else.
+You'll have the EICR certificate and report the same day, set out in words you can follow rather than left to decode. If remedial work shows up, we quote and schedule it, and our NAPIT registration as electrical installers means it stays with us.
 
 ## When we find issues
 
-If the EICR inspection turns up problems, we explain what's wrong, why it matters, and what the installation needs to bring it up to standard. No inflated prices, no unnecessary extras - just an honest quote from a qualified electrician who's been doing this work in Bolton for the best part of two decades. We can usually schedule remedial installation work within a month of the EICR.
+Faults found during the EICR get a full explanation - what's wrong, why it matters, what the installation needs - followed by an honest quote. Ashley has been working in Bolton for the best part of twenty years now, and there's no padding in his pricing. We can usually get remedial installation work done within a month of the EICR, and most EICR bookings themselves can normally be fitted in within a few days of asking, too.
 
 We also do [solar panel installation](/services/solar-and-battery-installations/) and [battery storage installation](/services/home-battery-installations/) across Bolton and the surrounding areas, so if you're planning renewable energy upgrades alongside electrical safety work, it's worth having the conversation while we're there doing the EICR.
 

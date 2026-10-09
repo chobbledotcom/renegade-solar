@@ -27,18 +27,18 @@ The newer estates and the properties out towards Ramsbottom tend to have more re
 
 ## For landlords
 
-Landlords are legally required to have an EICR every five years and one for each new tenancy. Fines for non-compliance run up to £30,000, and the local authority can arrange remedial work and bill you for it. Existing tenants need the report within 28 days; new tenants get it before they move in. If the inspection turns up C1, C2 or FI issues, you've got 28 days to sort those. As a NAPIT-registered electrician, Ashley can carry out the EICR and any remedial installation work that comes from it without needing to involve a separate contractor.
+If you rent out property in Bury, the government's [electrical safety rules for landlords](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) require an EICR every five years and again at the start of every new tenancy. The penalties reach £30,000, and the local authority can arrange remedial work itself and bill the landlord for it. Tenants already in the property need the report within 28 days; those about to move in get theirs beforehand. C1, C2 or FI findings start a 28-day window for the remedial work. As a NAPIT-registered electrician, Ashley can do the inspection and carry out the remedial installation work it produces, so it's one job with one firm rather than two contractors, and booking the two together usually saves a repeat visit.
 
 ## For buyers
 
-Get an EICR before completion. If we find issues like an outdated consumer unit or earthing that needs bringing up to standard, you've got a basis for negotiating the purchase price, or grounds to walk away if the work needed is more than you signed up for. With Bury's mix of property ages, the electrical installation quality varies enormously - a house that looks fine on the surface can have wiring or earthing issues that only proper testing reveals.
+Get the EICR sorted before completion. Between the terraces near the town centre and the larger homes out towards Tottington and Ramsbottom, the electrical installation condition in Bury varies enormously, and only a proper EICR tells you where a particular house sits. A consumer unit past its best or earthing that needs attention is exactly the sort of finding that shifts the negotiation, and the report puts it in writing before you're committed.
 
 ## What's included
 
-The inspection covers a full visual check of wiring, sockets, switches and the consumer unit, then calibrated technical testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The EICR certificate and report are issued the same day, written in plain English. If we find work that needs doing, we can quote for that and schedule it in - we're NAPIT-registered electrical installers, so the remedial work stays with us rather than getting handed off.
+We inspect visually across the wiring, sockets, switches and consumer unit first, then bring in the calibrated instruments covering continuity, insulation resistance, RCD operation and earth fault loop impedance. A plain-English EICR certificate and report reach you the same day. Where the findings point to remedial work, we quote for it and book it in, and because we're NAPIT-registered electrical installers it doesn't get passed on to anyone else.
 
 ## When we find issues
 
-If the EICR inspection turns up problems, we explain what's wrong, why it matters, and what the installation needs to bring it up to standard. No inflated prices, no unnecessary extras - just an honest quote from a qualified electrician who's been doing this work in Bury for the best part of two decades. Remedial installation work gets scheduled within a month.
+If the EICR highlights problems, we go through what's wrong, why it matters and what needs doing to bring the installation back up to standard, then leave you with an honest quote. There's no price inflation and no invented extras from an electrician who's covered Bury for the best part of twenty years. Remedial installation work gets scheduled within a month of the report.
 
 [Book an EICR inspection in Bury](/contact/).

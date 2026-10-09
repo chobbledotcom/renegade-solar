@@ -22,7 +22,7 @@ Pairing solar panels with a [home battery system](/services/home-battery-install
 
 ## Costs and returns
 
-A 4kW system in Middleton produces around 3,250 kWh per year. For a typical household that's £350-570 off your annual energy bills, plus around 4% added to your property value. Solar also bumps your EPC rating by roughly one band.
+A 4kW system in Middleton produces around 3,250 kWh per year in modelled conditions. What that knocks off your bills depends on your tariff and how much you use while the panels are generating - the quote models it from your actual consumption. Solar generally helps your EPC rating too, often by a full band on older properties.
 
 ## Why us
 

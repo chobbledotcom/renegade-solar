@@ -15,7 +15,7 @@ We're Renegade Solar, based in Prestwich, serving the whole [Oldham](/oldham/) b
 
 ## Royton - a growing area
 
-Royton property prices have grown over 40% in the last five years. Homeowners here are putting money into their homes, and solar is one of the best returns you'll get - it adds around 4% to your property value while cutting your energy bills from day one.
+Homeowners in Royton put money into their homes, and solar is one of the few improvements that pays you back twice over - it cuts your energy bills from day one and lifts the EPC rating that buyers and lenders now ask about. With 0% VAT on domestic installations until March 2027, the timing's not bad either.
 
 The housing stock is mostly terraces and semis around Royton centre and along Rochdale Road, with newer family homes on the fringes towards [Shaw](/shaw/). The terraces typically suit 3-4kW systems; the semis and larger homes can take 4-6kW.
 

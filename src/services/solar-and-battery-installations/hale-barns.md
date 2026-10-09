@@ -11,7 +11,7 @@ tags: [hale-barns]
 gallery_tags: [solar-panels]
 ---
 
-We provide [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Hale Barns. We're an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, and we're experienced with the substantial properties that characterise this area.
+We provide [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Hale Barns. We're an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, and we're experienced with the substantial properties that characterise this area. Your MCS-certified installer is part of our in-house team, so the people on your roof are the people you enquired with - only the scaffolding is subcontracted.
 
 Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 20 years of experience. When you enquire with us, an electrician surveys your property and designs your system - we don't employ salespeople.
 
@@ -25,39 +25,39 @@ Many Hale Barns properties have the roof space for 15-25+ panels, and we're comf
 
 ## System sizing for larger properties
 
-Where a typical 3-bed semi might have a 4kW system, many Hale Barns homes benefit from 6-10kW systems or larger. We size systems based on your actual usage and roof characteristics, not by maximising panel count.
+A typical 3-bed semi might take a 4kW system; many Hale Barns homes are better matched to 6-10kW or bigger, though the right answer for your installation depends on your roof and your actual consumption rather than on squeezing in the most panels possible.
 
-We have experience with larger installations - we've recently completed a 110-panel commercial system and we're currently quoting on a 600-panel project. Larger domestic systems don't phase us, and we're comfortable with three-phase supplies and larger inverters where needed.
+The bigger jobs don't put us off - we've just finished a 110-panel commercial solar installation and we're quoting on a 600-panel project, so larger domestic installations hold no fears. Three-phase supplies and larger inverters are all part of the day's work.
 
 ## Equipment we install
 
-We're approved installers for **AlphaESS**, who manufacture premium battery systems and have their UK office in Dursley, Gloucestershire. AlphaESS produce high-quality inverters and batteries, and we're listed on their [find an installer](https://www.alpha-ess.com/) page. We're also **Solax approved installers**.
+We fit kit we'd be happy to have on our own roofs. We're approved installers for **AlphaESS**, whose premium batteries and inverters are backed by a UK office in Dursley, Gloucestershire, and you'll find us on their [find an installer](https://www.alpha-ess.com/) page. **Solax** is the other brand we're approved for. An AlphaESS battery is our usual recommendation for the bigger systems Hale Barns roofs allow.
 
-We use quality panels including DMEGC and Trina Vertex. If you have a preference for a specific manufacturer, we can accommodate that - we're not locked into exclusive deals that limit what we can offer.
+On panels we mostly use **DMEGC** and **Trina Vertex** modules. Panel choice matters more than people think on a big roof - a few extra watts per panel adds up quickly across a 20-panel array. If you'd rather specify a particular manufacturer, tell us; we're not tied into exclusive deals that narrow the range.
 
-All installations come with a **30-year warranty on panels** and **10-year warranty on batteries**.
+Everything we fit carries a **30-year warranty on panels** and a **10-year warranty on batteries**.
 
 ## Why the installer matters
 
-We've seen other installers recommend dangerous setups - batteries installed in lofts, for example, which directly contradicts NAPIT safety guidelines. This happens when salespeople spec jobs instead of qualified electricians.
+We've been asked to look at other installers' work that ignores NAPIT safety guidelines - batteries in lofts being the worst offender. That's what happens when a salesperson specs the job instead of a qualified electrician.
 
-With Renegade, the person who surveys your property understands the technical requirements. We won't recommend something that's unsafe or unsuitable just to make a sale. We follow NAPIT guidelines properly, and all electrical work is done in-house by qualified electricians - we don't subcontract.
+When you deal with us, the person surveying your Hale Barns roof understands the technical side. Because we're MCS-certified, the electrical work on every job is signed off to the standard the scheme requires before we hand over. We won't push an unsafe or unsuitable system just to close a sale. NAPIT guidelines are followed properly, and every installation's electrical work is done in-house by our own qualified electricians - we don't subcontract.
 
 ## Battery storage and time-of-use tariffs
 
-Many Hale Barns customers combine solar with battery storage. The battery charges from solar generation during the day and from cheap overnight electricity on tariffs like Octopus Intelligent or Octopus Go. It then powers the house during expensive peak periods.
+Battery storage is popular with our Hale Barns customers, particularly on the larger installations where surplus generation would otherwise be exported for very little. The battery fills up from solar during the day and from cheap overnight rates on tariffs such as Octopus Intelligent or Octopus Go, then runs the house through the expensive evening peak.
 
-For properties where roof-mounted solar isn't the best option - due to shading or orientation - we offer [battery-only solutions](/services/home-battery-installations/) that work well with time-of-use tariffs.
+If shading or orientation makes roof-mounted solar a poor fit for your property, our [battery-only solutions](/services/home-battery-installations/) pair well with time-of-use tariffs on their own.
 
-We're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), vetted by Octopus for quality installations.
+We're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), which means Octopus has vetted our installation quality.
 
 ## EPC ratings and property value
 
-Installing renewable energy increases your EPC rating, which can increase property value. Every property nowadays needs an EPC, and in an area like Hale Barns where property values are significant, this is worth considering alongside the energy bill savings.
+Renewable energy from your own roof lifts a property's EPC rating, and a better rating generally supports value. Every property sold or let needs an EPC nowadays. With the sort of property values Hale Barns has, that's worth weighing alongside the savings on the bills.
 
 ## 0% VAT on solar and battery
 
-As MCS-certified installers, our solar panel and battery installations qualify for 0% VAT. This applies to domestic properties and makes a meaningful difference to the overall cost.
+Solar panels and battery storage count as energy-saving materials, so domestic solar panel and battery installations attract 0% VAT - a rate set to run until March 2027. On a larger system, that saving is a meaningful chunk of the overall cost.
 
 ## Nearby areas
 
@@ -65,6 +65,6 @@ We also cover [Hale](/hale/solar-and-battery-installations/), [Altrincham](/altr
 
 ## Get started
 
-As an [MCS-certified installer](/accreditations/mcs-certified/) (certification number [NAP-66870](https://mcscertified.com/find-an-installer/)), we ensure your installation qualifies for Smart Export Guarantee payments. We're also accredited by [NAPIT](/accreditations/napit/), [HIES Consumer Code](/accreditations/hies-consumer-code/), and we're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/).
+Being an MCS-certified installer (number [NAP-66870](https://mcscertified.com/find-an-installer/)) lets your installation earn Smart Export Guarantee payments. That MCS number is worth checking on any installer quote you compare us against. As your local installer we handle the survey, the design, and the commissioning ourselves, so nothing gets lost between companies. You'll also find us accredited by [NAPIT](/accreditations/napit/), signed up to the [HIES Consumer Code](/accreditations/hies-consumer-code/), and listed by Octopus Energy as a [Trusted Partner](/accreditations/octopus-trusted-partner/).
 
 [Contact us](/contact/) for a no-obligation chat about your Hale Barns property's solar potential.

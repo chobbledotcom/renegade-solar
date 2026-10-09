@@ -27,18 +27,18 @@ The post-war semis and newer estates tend to have more recent installations, but
 
 ## For landlords
 
-Landlords are legally required to have an EICR every five years and one for each new tenancy. Fines for non-compliance run up to £30,000, and the local authority can arrange remedial work and bill you for it. Existing tenants need the report within 28 days; new tenants get it before they move in. If the inspection turns up C1, C2 or FI issues, you've got 28 days to put them right. Prestwich's rental market means a fair number of landlords need EICR inspections on a regular basis, and as a local electrician based in the area, we can usually fit them in quickly.
+Prestwich has a busy rental market, and the [law](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) keeps landlords on their toes here as everywhere: an EICR every five years, plus one at the start of each new tenancy. Non-compliance can cost up to £30,000, and the local authority can step in, arrange remedial work and bill you for it. Tenants already living in the property must have the report inside 28 days, and new tenants receive theirs before they move in. If the inspection raises C1, C2 or FI issues, those are due to be fixed within 28 days too. Ashley lives and works locally with NAPIT registration behind him, so he can do the EICR and the remedial installation work it produces, and we can usually fit inspections in at short notice. You're dealing with a local electrician directly rather than a call centre, which keeps the whole thing straightforward.
 
 ## For buyers
 
-Get an EICR before completion. With the mix of property ages around Prestwich, the EICR gives you a clear picture of whether you're walking into a straightforward installation or one that's going to want some work, and the report gives you something concrete to negotiate with if anything does come up. Finding out after you've moved in that the consumer unit needs replacing or the earthing isn't up to standard is a more expensive surprise than it needs to be.
+Ask for the EICR before completion. From the Victorian terraces near the village to the semis, detached homes and bungalows elsewhere in the area, Prestwich's electrical installations vary a lot, and the EICR report tells you whether you're buying a sound job or funding someone else's shortcuts. It also gives you hard evidence to negotiate with if anything comes up. Finding out after the keys are yours that the consumer unit is overdue or the earthing falls short is the expensive version of the same information.
 
 ## What's included
 
-The inspection covers a full visual check of wiring, sockets, switches and the consumer unit, then calibrated technical testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The EICR certificate and report are issued the same day, written in plain English. If we find work that needs doing, we can quote for that and schedule it in - as a qualified electrician and NAPIT-registered installer, Ashley can carry out any remedial installation work without needing to bring in someone else.
+We begin with a visual pass over the wiring, sockets, switches and consumer unit, then run calibrated checks on continuity, earth fault loop impedance, insulation resistance and RCD operation. The EICR certificate and report come out the same day and read plainly, without burying the findings in jargon. If anything needs putting right we'll quote and book it in, and Ashley is both a qualified electrician and a NAPIT-registered installer, so the remedial work sits with the same person who tested it.
 
 ## When we find issues
 
-If the EICR turns up problems, we explain what's wrong, why it matters, and what the installation needs to bring it up to current standards. No pressure and no inflated prices - just an honest assessment from an electrician who's been working in Prestwich for the best part of two decades. Remedial installation work gets scheduled within a month.
+If the EICR comes back with problems, we tell you what's wrong, why it matters and what the installation needs, without the hard sell. You're dealing with an electrician who's worked around Prestwich for the best part of twenty years, so the quote will be an honest one. Remedial installation work gets a date inside a month.
 
 [Book an EICR inspection in Prestwich](/contact/).

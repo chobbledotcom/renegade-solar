@@ -38,7 +38,7 @@ The cracking grid infrastructure in Prestwich means our installations rarely nee
 
 With a proper 7kW charger, you can get your car fully charged overnight during the cheap electricity window. A granny charger that plugs into a regular socket? That'll take all day, which means you'll be charging during expensive daytime rates. Not ideal.
 
-The new petrol and diesel car ban coming in 2030 means more people are switching to electric. Manchester's motorway connections - M60, M62 - mean there's no shortage of rapid chargers when you're doing longer trips. But for everyday driving around Prestwich and Manchester, home charging at off-peak rates beats paying 50-80p at a public charger.
+The [new petrol and diesel car ban coming in 2030](https://www.gov.uk/government/news/review-launched-to-shape-pathway-to-reach-zero-emission-driving-by-2035) means more people are switching to electric. Manchester's motorway connections - M60, M62 - mean there's no shortage of rapid chargers when you're doing longer trips. But for everyday driving around Prestwich and Manchester, home charging at off-peak rates beats paying 50-80p at a public charger.
 
 ## Which Chargers We Fit
 

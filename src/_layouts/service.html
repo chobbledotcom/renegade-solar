@@ -2,9 +2,7 @@
 layout: base.html
 ---
 
-{%- assign body_html = content -%}
-{%- assign page_h1 = body_html | firstHeading -%}
-{%- assign body_html = body_html | withoutFirstHeading -%}
+{%- include "layout-head.html" -%}
 
 <article>
   {% assign ph_crumb_text = "All services" %}
@@ -53,12 +51,4 @@ layout: base.html
   {% assign cta_sub = "A free survey, a system designed for your actual roof and usage, and a written proposal with the numbers behind it." %}
   {% include "motifs/cta-banner.html" %}
 
-  {% include "motifs/contact-panel.html" %}
-
-  {% if gallery_tags %}
-  <div class="card">
-    <h3>Photo Gallery</h3>
-    {% include "photo-gallery.html", tags: gallery_tags %}
-  </div>
-  {% endif %}
-</article>
+  {%- include "layout-tail.html" -%}

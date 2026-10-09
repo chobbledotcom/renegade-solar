@@ -29,18 +29,18 @@ The terraced stock near the town centre frequently turns up electrical installat
 
 ## For landlords
 
-Landlords are legally required to have an EICR every five years and one for each new tenancy. Fines for non-compliance run up to £30,000, and the local authority can arrange remedial work and bill you for it. Existing tenants need the report within 28 days; new tenants get it before they move in. If the inspection turns up C1, C2 or FI issues, you've got 28 days to sort those. As a NAPIT-registered electrician, Ashley can carry out the EICR and any remedial installation work that comes from it, which saves bringing in a separate contractor.
+If you let property in Radcliffe, the [rules](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) require an EICR every five years and another one whenever a new tenancy starts. Non-compliance carries fines of up to £30,000, and the local authority can commission remedial work and charge it back to you. Sitting tenants must see the report within 28 days; incoming tenants get theirs before the keys change hands. C1, C2 or FI findings then give you 28 days to arrange the fixes. Ashley's NAPIT registration means he can do the electrical inspection and follow it through with any remedial installation work, so you're not juggling a second electrician.
 
 ## For buyers
 
-Get an EICR before completion. If we find issues like an old consumer unit or earthing that needs work, you've got something concrete to negotiate with before money changes hands, or a clear picture of what you're committing to. Radcliffe's mix of property ages means the electrical installation quality varies considerably, and proper testing is the only way to know what you're walking into.
+Have the EICR done before completion. Radcliffe runs from late Victorian and Edwardian terraces near the centre to newer estates on the edges, and that range shows in the electrical wiring, so an EICR is the only way to know what you're taking on. An out-of-date consumer unit or earthing that needs attention is worth real money in the negotiation, and the report puts the evidence in front of the seller before you commit. It's the cheapest way there is to learn the true state of the electrical installation.
 
 ## What's included
 
-The inspection covers a full visual check of wiring, sockets, switches and the consumer unit, then calibrated technical testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The EICR certificate and report are issued the same day, written in plain English. If we find work that needs doing, we can quote for that and schedule it in - we're NAPIT-registered electrical installers, so the remedial work stays with us.
+First comes a visual check across the wiring, sockets, switches and consumer unit, then calibrated testing that takes in insulation resistance, earth fault loop impedance, continuity and RCD operation. The certificate and EICR report are with you the same day, written so they're easy to follow. Any remedial installation work the findings point to gets quoted and scheduled by us, and as NAPIT-registered electrical installers we keep that work under our own registration.
 
 ## When we find issues
 
-If the EICR turns up problems, we explain what's wrong, why it matters, and what the installation needs to bring it up to standard. No inflated prices, no unnecessary extras - just an honest quote from a qualified electrician who's been doing this work in Radcliffe for the best part of two decades. Remedial installation work gets scheduled within a month.
+When the EICR surfaces problems, we set out plainly what's wrong, why it matters and what would put the installation right, then give you an honest quote. There's no inflation and no padding, just the judgement of an electrician who's worked around Radcliffe for close to twenty years. Remedial installation work goes in the diary within a month.
 
 [Book an EICR inspection in Radcliffe](/contact/).

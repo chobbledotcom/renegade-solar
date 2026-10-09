@@ -20,7 +20,7 @@ We're based in [Prestwich](/prestwich/commercial-solar-installations/), a short 
 
 ## Middleton businesses where it tends to work
 
-Middleton's industrial areas house factories, distribution centres, engineering firms and manufacturing units running heavy machinery through the day. These buildings tend to have large flat or low-pitched roofs, and the daytime consumption is high and consistent - that's where commercial solar gives the fastest payback.
+Middleton's industrial areas - Stakehill Industrial Estate especially, plus the units out towards Langley - hold plenty of factories, distribution centres and engineering firms running heavy machinery through the day. Steady, high daytime consumption over a large flat or low-pitched roof is the profile where commercial solar pays back quickest, and Middleton has a good stock of buildings that fit it.
 
 Middleton town centre has a spread of retail, cafes and food businesses. The roof space on these units varies, but the consumption pattern is good - people are in them during the day, and the electricity that runs the lights, tills, refrigeration and kitchen equipment is being drawn at the same time the panels are generating.
 
@@ -28,14 +28,14 @@ A Prestwich baker we spoke to recently was spending around £10,000 a month on e
 
 ## How it tends to play out on the numbers
 
-A manufacturing unit with a large flat roof and a 15-20kW daytime load is the kind of building where the payback comes out shortest. A retail unit with more modest consumption might be closer to four, but the numbers still work because the generation covers the bulk of the daytime electricity draw. We provide multiple design options with detailed projections so you can weigh payback speed against total savings.
+The buildings where payback comes out shortest are the manufacturing-type ones - big flat roof, machinery pulling a 15-20kW load through the working day. A town centre shop or cafe with a smaller roof and lighter demand might land nearer four years, and even then the payback can work because most of what the panels generate gets used while the doors are open. We put together several design options with full projections against each, so you can judge payback speed against total savings yourself.
 
 ## Flat and pitched roofs
 
-Flat roofs make our job easier - we mount the panels at the optimal angle regardless of building orientation. Pitched roofs on larger buildings work too. If there's spare land or outdoor space, ground-mounted systems can supplement the rooftop or power [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles.
+Flat roofs are the easy case for us - the mounting lets us set the panels at the best angle whatever direction the building faces, and Middleton's industrial units have plenty of them. Bigger buildings with pitched roofs work as well. Where there's spare land or outdoor space, a ground-mounted array can add to the rooftop or run [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles.
 
 ## Our approach
 
-You need to own the building rather than leasing it, and the higher the daytime electricity consumption the better the returns. As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we handle all the [electrical certifications](/services/electrical-testing/) and grid connections that come with the work. If the numbers don't work for your business, we'll tell you.
+The one hard requirement is that you own the building - leasing changes the maths - and the more electricity you get through in the daytime, the better the returns. We're an [MCS-certified](/accreditations/mcs-certified/) installer and an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), so the [electrical certifications](/services/electrical-testing/) and grid connections that come with commercial work stay with us. If the numbers don't add up for your building, we'll say so.
 
-[Contact us](/contact/) for a free commercial solar consultation.
+Ask us for a free commercial solar consultation - the details are on the [contact page](/contact/).

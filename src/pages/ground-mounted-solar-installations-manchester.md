@@ -53,16 +53,16 @@ Permitted Development for domestic ground-mounted solar in England has tight lim
 
 ## Credentials
 
-- [MCS-certified](/accreditations/mcs-certified/) installer (NAP-66870), so eligible installations can apply for Smart Export Guarantee payments
-- [TrustMark Registered](/accreditations/trustmark/)
-- [NAPIT Registered](/accreditations/napit/) (66870)
-- [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/)
-- {{ reviews.averageRating | round: 2 }}/10 on Checkatrade from {{ reviews.total }}+ verified reviews
-- 5-year minimum warranty on all equipment, panels warranted up to 30 years
-- 2 years routine maintenance included on every installation
+- [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
+- [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870), so eligible installations can apply for Smart Export Guarantee payments
+- [**TrustMark Registered**](/accreditations/trustmark/)
+- **2 years routine maintenance with every installation**
+- [**NAPIT Registered**](/accreditations/napit/) (66870)
+- **5-year minimum warranty on equipment; panels warranted up to 30 years**
+- **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews
 
 ## Coverage
 
-Based in Prestwich, we install ground-mounted solar across Greater Manchester and the wider North West.
+Based in Prestwich, we design and install ground-mounted solar across Greater Manchester and the wider North West.
 
 [Get in touch](/contact/) for a free survey and a no-pressure conversation about whether ground-mount is right for your property.

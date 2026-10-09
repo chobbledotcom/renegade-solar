@@ -28,11 +28,11 @@ Whitefield has a wide mix of housing - Victorian and Edwardian terraces around t
 
 ## Chargers we install
 
-We're an Octopus Energy Trusted Partner, so we fit the full [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/). These are smart units that wait for the cheap rate window before charging the car. If you've got Solax or AlphaESS solar or battery kit, their chargers integrate with their own systems and we fit those as well. If you've already ordered something different, we'll install whatever you've got.
+Being an Octopus Energy Trusted Partner, we can install anything from the [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/). Those chargers wait for the cheap rate window before they charge the car - proper smart behaviour, and no fiddling with timers. Solax or AlphaESS solar or battery kit in place? Their chargers integrate with their own systems and we fit those too. If you've ordered a different charger already, we'll put that up instead.
 
 ## The install
 
-The chargers are weatherproof, so they go on whatever wall suits your parking - garage, outside, wherever works. Where cable has to run outside from the consumer unit, we use armoured cable rated for outdoor use. The consumer unit needs to be up to current standards, but if you've had solar or battery work done it already will be.
+The chargers cope with the weather, so placement follows your parking rather than the forecast - garage, outside wall, wherever works best. Cable running outdoors from the consumer unit is armoured and rated for outdoor use. A consumer unit has to meet current standards; if it's already carried solar or battery work, it does.
 
 Whitefield has decent motorway access (M60, M62) for longer trips when you need a rapid charger.
 

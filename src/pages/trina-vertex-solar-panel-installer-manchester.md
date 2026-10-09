@@ -57,19 +57,19 @@ He'll assess your roof during the free survey, plan the optimal layout for your 
 
 ## Credentials
 
+- **2 years routine maintenance on every installation**
 - [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870)
-- [**TrustMark Registered**](/accreditations/trustmark/)
+- **5-year minimum equipment warranty, with panels covered up to 30 years**
 - [**NAPIT registered**](/accreditations/napit/)
+- **{{ reviews.averageRating | round: 2 }}/10 from {{ reviews.total }}+ verified Checkatrade reviews**
+- [**TrustMark Registered**](/accreditations/trustmark/)
 - [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
-- **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews
-- 5-year minimum warranty on all equipment, panels warranted up to 30 years
-- 2 years routine maintenance included on every installation
 
 ## Areas covered
 
 Based in Prestwich, Ashley covers the whole of Greater Manchester, including [Blackley](/blackley/solar-and-battery-installations/), [Middleton](/middleton/solar-and-battery-installations/), [Failsworth](/failsworth/solar-and-battery-installations/), [Radcliffe](/radcliffe/solar-and-battery-installations/), [Stockport](/stockport/solar-and-battery-installations/), [Altrincham](/altrincham/solar-and-battery-installations/) and throughout [Trafford](/trafford/solar-and-battery-installations/).
 
-Being local means no call-out charges for surveys and quick response times if you ever need anything sorting after installation.
+Being local means no call-out charges for surveys and quick response times if you ever need anything sorting after the installation is signed off.
 
 ## Get a quote
 

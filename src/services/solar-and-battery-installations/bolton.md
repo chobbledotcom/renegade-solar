@@ -24,25 +24,25 @@ Bolton's position well connected to the motorway network makes us ideally placed
 
 ## Property Types in Bolton
 
-Bolton is the UK's largest town with around 280,000 residents, and its housing reflects its rich industrial heritage. Terraced and semi-detached properties make up 70% of Bolton's housing stock - a legacy of the town's mill worker cottages from when over 200 cotton mills operated here.
+Bolton is the UK's largest town with around 280,000 residents, and its housing reflects its industrial heritage. Most of the stock is terraced or semi-detached - a legacy of the mill worker cottages from the town's cotton-mill years.
 
-We frequently work with Bolton's characteristic terraced properties in areas like Farnworth (average property price £168k), Great Lever, and Deane, where careful system design maximises generation within available roof space. For larger homes in Bolton's premium postcodes like Belmont, Bromley Cross, and Egerton (average £282k), we can design more substantial systems.
+We frequently work with Bolton's characteristic terraced properties in areas like Farnworth, Great Lever, and Deane, where careful system design maximises generation within available roof space. For larger homes in Bolton's premium postcodes like Belmont, Bromley Cross, and Egerton, we can design more substantial systems - the sort of 6-10kW arrays that suit bigger roofs and higher consumption.
 
 Bolton's industrial heritage means the town has excellent commercial opportunities. With substantial warehouses and manufacturing facilities across the borough, plus a growing logistics sector, Bolton's business community can benefit enormously from [commercial solar installations](/services/commercial-solar-installations/) with their generous roof space and high daytime energy consumption.
 
-For properties where conventional solar installation isn't suitable (due to shading, orientation, or planning restrictions), we offer [battery-only solutions](/services/home-battery-installations/) that work brilliantly with time-of-use tariffs like [Octopus Energy's](https://octopus.energy/tariffs/).
+For Bolton properties where a conventional solar installation isn't practical - shading, orientation, or planning restrictions can all rule out roof panels - we install [battery-only solutions](/services/home-battery-installations/). These work well alongside time-of-use tariffs such as [Octopus Energy's](https://octopus.energy/tariffs/), charging up cheap overnight and running the house at peak rates.
 
 ## Local Knowledge & Personal Service
 
-What sets us apart from national installers is our personal approach. Ashley personally oversees every aspect of your installation - from initial survey through design and installation to final commissioning. He's your direct point of contact throughout, not a salesperson or a call centre.
+The difference between us and the national outfits is simple: Ashley oversees your installation from first survey through design, installation, and commissioning. He's the person you deal with throughout - no salesperson, no call centre. Your installer is also the same person from day one: only the scaffolding is subcontracted, and everything else is done by our own team.
 
-Our local knowledge means we understand Bolton's planning requirements and have experience with the specific property types across the borough. We can typically complete most installations within a week with minimal disruption.
+We know Bolton's planning requirements and the borough's mix of terraces, semis, and larger detached homes, from Farnworth to Bromley Cross, and which installation approach suits each. Most installations are finished within a week, with minimal disruption.
 
 ## What Our Customers Say
 
-Don't just take our word for it - check out our [customer reviews](/reviews/) where we maintain an exceptional **{{ reviews.averageRating | round: 2 }}/10 rating** on Checkatrade. Our customers consistently praise our honesty, professionalism, and the quality of our workmanship.
+Our [customer reviews](/reviews/) tell the story better than we can: an exceptional **{{ reviews.averageRating | round: 2 }}/10 rating** on Checkatrade, with honesty, professionalism, and quality workmanship the things customers mention most.
 
-As one recent customer noted: "Really professional job would highly recommend" - just one of many glowing testimonials from satisfied customers across Greater Manchester.
+One recent review reads: "Really professional job would highly recommend" - a typical example of the feedback we get from customers across Greater Manchester.
 
 ## Ready to Go Solar in Bolton?
 

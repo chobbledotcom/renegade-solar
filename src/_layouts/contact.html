@@ -3,9 +3,7 @@ layout: base.html
 contact: true
 ---
 
-{%- assign body_html = content -%}
-{%- assign page_h1 = body_html | firstHeading -%}
-{%- assign body_html = body_html | withoutFirstHeading -%}
+{%- include "layout-head.html" -%}
 
 <article>
   {% assign ph_title = page_h1 | default: title %}

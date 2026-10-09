@@ -50,9 +50,9 @@ Ashley fits [DMEGC](/dmegc-solar-panel-installer-manchester/) and [Trina Vertex]
 
 ## Older rental stock - what to expect
 
-A lot of rental properties in North Manchester are older. Victorian terraces, common in Prestwich and Whitefield, often have old wiring systems like cloth-covered cables, inadequate earthing (proper earthing wasn't standard when these houses were built), circuits designed for gas lighting and a few basic appliances rather than modern loads, and ancient fuse boxes with no RCD protection. Around 70% of electrical fires happen in buildings built before 1950, so a proper EICR matters more on older stock, not less.
+A lot of rental properties in North Manchester are older. Victorian terraces, common in Prestwich and Whitefield, often have old wiring systems like cloth-covered cables, inadequate earthing (proper earthing wasn't standard when these houses were built), circuits designed for gas lighting and a few basic appliances rather than modern loads, and ancient fuse boxes with no RCD protection. Older stock is exactly where those electrical problems concentrate, so a proper EICR matters more on it, not less.
 
-New builds aren't automatically safe either - around one in five has electrical faults of some kind, which is why the [new-build EICR](/eicr-new-build-properties-manchester/) service exists.
+New builds aren't automatically safe either - electrical faults turn up in them often enough that they're worth checking too, which is why the [new-build EICR](/eicr-new-build-properties-manchester/) service exists.
 
 ## Credentials
 

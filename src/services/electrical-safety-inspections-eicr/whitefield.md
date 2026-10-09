@@ -31,18 +31,18 @@ The post-war semis vary a fair bit - some have been properly rewired with a mode
 
 ## For landlords
 
-Landlords are legally required to have an EICR every five years and one for each new tenancy. Fines for non-compliance run up to £30,000, and the local authority can arrange remedial work and bill you for it. Existing tenants need the report within 28 days; new tenants get it before they move in. If the inspection turns up C1, C2 or FI issues, you've got 28 days to sort those. As a NAPIT-registered electrician based locally, Ashley can carry out the EICR and any remedial installation work that comes from it.
+[The law](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) expects landlords to hold a current EICR for each let property, certifying its electrical safety, renewed every five years and refreshed whenever a new tenancy begins. Breaching those rules can cost up to £30,000, and the council is entitled to carry out remedial work and recover the cost from you. Tenants already in place must get the report inside 28 days, and anyone about to move in receives it beforehand. If the inspection raises C1, C2 or FI codes, those need resolving within 28 days. Because Ashley is a NAPIT-registered electrician based just down the road, he can handle the inspection and any remedial installation work it leads to.
 
 ## For buyers
 
-Get an EICR before completion. If we find issues like an outdated consumer unit or earthing that needs bringing up to standard, you've got a basis for negotiating the purchase price, or grounds to walk away if the work needed is more than you bargained for. Whitefield's mix of property ages means the electrical installation quality varies considerably, and proper testing is the only reliable way to know what state the wiring is in.
+Book the EICR before you complete. Between the older terraces around the centre and the newer developments on the edges, electrical installation quality in Whitefield ranges widely, and testing is the only honest answer on the state of the electrical wiring. Pick up an ageing consumer unit or inadequate earthing in the report and you've got leverage on price, or a legitimate reason to reconsider if the faults go beyond what you're prepared to take on, and your electrician can size up any fix alongside you before you negotiate.
 
 ## What's included
 
-The inspection covers a full visual check of wiring, sockets, switches and the consumer unit, then calibrated technical testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The EICR certificate and report are issued the same day, written in plain English. If we find work that needs doing, we can quote for that and schedule it in - as a qualified electrician and NAPIT-registered installer, the remedial installation work stays with us.
+The visual inspection covers the wiring, sockets, switches and consumer unit first, followed by calibrated instrument tests of insulation resistance, continuity, earth fault loop impedance and RCD performance. The EICR certificate and report land the same day, set out in plain terms. If testing shows work is needed, we quote for it and slot it in, and because we're NAPIT-registered installers the remedial installation work never leaves our hands.
 
 ## When we find issues
 
-If the EICR turns up problems, we explain what's wrong, why it matters, and what the installation needs to bring it up to current standards. No inflated prices, no unnecessary extras - just an honest quote from a qualified electrician who's been doing this work in Whitefield for the best part of two decades. Remedial installation work gets scheduled within a month.
+Where the EICR finds faults, we walk you through what's wrong, why it matters and what would bring the installation back to standard, then quote honestly. Ashley, a local electrician, has been carrying out EICR work across Whitefield for nearly twenty years and doesn't pad the price or invent extras. Remedial installation work is usually booked in within a month.
 
 [Book an EICR inspection in Whitefield](/contact/).

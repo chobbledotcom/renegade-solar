@@ -31,10 +31,16 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - name: Build with Node
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check for duplicated code and content
         run: |
-          npm ci
-          npx @11ty/eleventy
+          npm run cpd
+          npm run cpd:ratchet
+
+      - name: Build with Node
+        run: npx @11ty/eleventy
 
       - name: Format with Prettier
         run: npm run format

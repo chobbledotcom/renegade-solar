@@ -28,19 +28,19 @@ The newer properties on the larger plots have their own patterns. Extensions, lo
 
 ## For landlords
 
-Landlords are legally required to have an EICR every five years and one for each new tenancy. Fines for non-compliance run up to £30,000, and the local authority can arrange remedial work and bill you for it. Existing tenants need the report within 28 days; new tenants get it before they move in. If the inspection turns up C1, C2 or FI issues, you've got 28 days to sort them. As a NAPIT-registered electrician, Ashley can carry out the EICR and any remedial installation work that comes from it without needing to bring in a separate contractor.
+Hale landlords have the same [statutory duties](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) as any others: an EICR every five years and a fresh report at the start of each new tenancy. Ignore the requirement and fines run to £30,000, while the local authority can arrange remedial work and recover the cost from you. Current tenants must receive the report within 28 days, incoming tenants before they move in, and any C1, C2 or FI findings allow 28 days for the work to be done. The electrical safety rules are the same here as anywhere, and Ashley holds NAPIT registration, so the EICR and the remedial installation work that follows can all come from us, without bringing in a separate electrician.
 
 ## For buyers
 
-Get an EICR before completion. Solicitors and buyers ask for them regularly now, and with Hale's property values, finding out after you've moved in that the consumer unit needs replacing or there's earthing work required is a more expensive surprise than it needs to be. The EICR report gives you something concrete to go back to the seller with if anything comes up, and proper testing is the only reliable way to know what state the electrical installation is actually in.
+An EICR before completion is now standard practice for Hale buyers, and solicitors ask for them regularly. At these property values, learning after moving in that the consumer unit needs replacing or the earthing falls short is a costly way to find out, whereas the report gives you hard evidence to raise with the seller beforehand if anything comes up. Testing is the only dependable way to judge an electrical installation you can't see inside.
 
 ## What's included
 
-The inspection covers a full visual check of wiring, sockets, switches and the consumer unit, then calibrated technical testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The EICR certificate and report are issued the same day, written in plain English. If we find work that needs doing, we can quote for that and schedule it in - as a qualified electrician and NAPIT-registered installer, Ashley can handle any remedial installation work.
+The EICR inspection pairs a full visual check of the wiring, sockets, switches and consumer unit with calibrated testing that covers earth fault loop impedance, continuity, insulation resistance and RCD operation. Certificates and the EICR report are issued the same day, plainly written. If anything needs correcting, we quote and schedule it, and Ashley's qualifications as an electrician and NAPIT-registered installer mean the remedial installation work stays with the people who did the testing.
 
 ## When we find issues
 
-If the EICR inspection turns up problems, we explain what's wrong, why it matters, and what the installation needs to bring it up to standard. No pressure, no inflated prices - just an honest quote from a qualified electrician who's been working across Hale for the best part of two decades. Remedial work gets scheduled within a month.
+Where the EICR turns up faults, we explain what's wrong, why it matters and what's needed to bring the installation up to standard, then quote honestly for the electrical work. Ashley has worked across Hale as an electrician for the best part of twenty years and doesn't inflate prices or invent extra jobs. Remedial work is normally in the diary within a month of the report.
 
 We also cover [Hale Barns](/hale-barns/electrical-safety-inspections-eicr/) and [Altrincham](/altrincham/electrical-safety-inspections-eicr/) nearby.
 

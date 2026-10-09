@@ -28,10 +28,10 @@ Cold storage and distribution centres with large flat roofs are good candidates 
 
 ## Flat and pitched roofs
 
-Flat roofs make our job easier - we mount the panels at the optimal angle regardless of building orientation. Pitched roofs work too, particularly on larger buildings with extensive roof area. If there's spare land or grass verges, ground-mounted systems can supplement the rooftop or power [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles. We've installed setups where the staff charging runs entirely off the solar.
+Flat roofs keep the design simple for us - the mounting holds the panels at the right angle whichever way the building points. Larger pitched buildings work too. Ground-mounted arrays on spare land or grass verges can back up the rooftop, and we've installed setups where [EV charging points](/services/electric-vehicle-charger-installations/) for staff vehicles run entirely off the solar.
 
 ## Our approach
 
-You need to own the building rather than leasing it, and the higher the daytime electricity consumption the better the returns. As an [MCS-certified](/accreditations/mcs-certified/) installer and [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we handle all the [electrical certifications](/services/electrical-testing/) and grid connections that come with the work. If the numbers don't work for your business, we'll tell you.
+You need to own the building rather than leasing it, and the more electricity your business gets through during the day, the better the returns. Being an [MCS-certified](/accreditations/mcs-certified/) installer and an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we deal with the [electrical certifications](/services/electrical-testing/) and grid connection paperwork that comes with it. If the numbers don't work for your business, you'll hear that from us first.
 
-[Contact us](/contact/) for a free commercial solar consultation.
+For a free commercial solar consultation, head to the [contact page](/contact/).

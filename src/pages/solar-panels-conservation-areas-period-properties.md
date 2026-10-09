@@ -47,17 +47,17 @@ That's the M43 customer who had Ashley install a multi-part system. Period prope
 
 ## Performance in our climate
 
-Modern panels generate electricity from daylight rather than just direct sunshine, and they actually run more efficiently in cooler temperatures, which suits us up here. Manchester rain helps keep them clean. Ashley fits [DMEGC](/dmegc-solar-panel-installer-manchester/) and [Trina Vertex](/trina-vertex-solar-panel-installer-manchester/) panels - both N-type modules with long warranties.
+Modern panels generate electricity from daylight rather than just direct sunshine, and they actually run more efficiently in cooler temperatures, which suits us up here. Manchester rain helps keep them clean. Even in winter a properly designed solar panel installation keeps generating, and a battery stores the surplus for the evening. Ashley fits [DMEGC](/dmegc-solar-panel-installer-manchester/) and [Trina Vertex](/trina-vertex-solar-panel-installer-manchester/) panels - both N-type modules with long warranties.
 
 ## Credentials
 
-- [MCS-certified](/accreditations/mcs-certified/) installer (NAP-66870) - your installation qualifies for Smart Export Guarantee payments
-- [TrustMark Registered](/accreditations/trustmark/)
-- [NAPIT Registered](/accreditations/napit/) (66870)
-- [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/)
-- {{ reviews.averageRating | round: 2 }}/10 on Checkatrade from {{ reviews.total }}+ verified reviews
-- 5-year minimum warranty on all equipment, panels warranted up to 30 years
-- 2 years routine maintenance included on every installation
+- [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870) - your installation qualifies for Smart Export Guarantee payments
+- [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
+- **2 years' routine maintenance included with every installation**
+- [**NAPIT Registered**](/accreditations/napit/) (66870)
+- **Equipment under a 5-year minimum warranty; panels up to 30 years**
+- [**TrustMark Registered**](/accreditations/trustmark/)
+- **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews
 
 ## Coverage
 

@@ -1,0 +1,9 @@
+{%- assign keep = false -%}
+{%- if strip_tag_list -%}
+  {%- for tag in strip_tag_list -%}
+    {%- assign clean_tag = tag | strip -%}
+    {%- if item.tags contains clean_tag -%}{%- assign keep = true -%}{%- endif -%}
+  {%- endfor -%}
+{%- else -%}
+  {%- assign keep = true -%}
+{%- endif -%}

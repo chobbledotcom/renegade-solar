@@ -20,7 +20,7 @@ We install EV chargers across Cheetham Hill. Ashley is a NAPIT-registered electr
 
 Public chargers around Manchester Fort cost 50-80p per kWh ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). On a tariff like Octopus Go, home charging overnight costs a fraction of public prices. For a typical commute into the city, you pay a few pounds at home against £10 or more at the public charger, and over a year the difference adds up to a fair bit.
 
-The [government EV grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) covers up to £350 off the install. We're OZEV-approved and we sort the paperwork.
+Renters and flat owners can claim the [government EV chargepoint grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household): 75% off the install, up to £500. We're OZEV-approved and we sort the paperwork.
 
 ## Working with Cheetham Hill properties
 
@@ -28,7 +28,7 @@ Cheetham Hill has a mix of Victorian terraces, semis with driveways, and convert
 
 ## Chargers we install
 
-We fit the full [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/) - smart chargers that wait for the cheap rate window before charging the car. If you've got Solax or AlphaESS solar or battery kit, their chargers integrate with their own systems and we fit those as well. If you've ordered a different charger yourself, we'll install whatever you've got.
+The [Octopus EV charger range](https://octopus.energy/get-an-ev-charger/) covers most of what we install, and our Trusted Partner status means we can fit any of it. Each one is a smart charger that holds off charging until the cheap rate window arrives. Got Solax or AlphaESS solar or battery hardware? Those chargers integrate with their own systems and we install them too. Bought a charger elsewhere already? We'll fit whatever you've ordered.
 
 ## The install
 

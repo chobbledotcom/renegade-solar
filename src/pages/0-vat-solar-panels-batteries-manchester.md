@@ -7,7 +7,7 @@ photo: panels.jpg
 
 # 0% VAT on Solar Panels and Batteries
 
-If you install solar panels or a battery in a home in the UK at the moment, the installation carries 0% VAT rather than the standard 20%. It's the government's energy-saving materials relief, it applies automatically, and it runs until 31 March 2027. This page explains what it covers, because the detail matters when you're comparing quotes.
+If you install solar panels or a battery in a home in the UK at the moment, the installation carries 0% VAT rather than the standard 20%. It's the government's [energy-saving materials relief](https://www.gov.uk/guidance/vat-on-energy-saving-materials-and-heating-equipment-notice-7086), it applies automatically, and it runs until 31 March 2027. This page explains what it covers, because the detail matters when you're comparing quotes.
 
 ## What qualifies
 

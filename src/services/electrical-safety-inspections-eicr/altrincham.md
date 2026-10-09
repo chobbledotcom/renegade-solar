@@ -29,7 +29,7 @@ Modern developments and apartment conversions have their own issues. Installatio
 
 ## For landlords
 
-Landlords are legally required to have an EICR every five years and one for each new tenancy. Fines for non-compliance run up to £30,000, and the local authority can arrange remedial work and bill you for it. Existing tenants need the report within 28 days; new tenants get it before they move in. If the inspection turns up C1, C2 or FI issues, you've got 28 days to get those sorted. Altrincham's mix of property types means you might be dealing with anything from a converted Victorian villa to a modern apartment, and each presents different electrical installation considerations for the EICR.
+Landlords are [legally required](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) to have an EICR every five years and one for each new tenancy. Fines for non-compliance run up to £30,000, and the local authority can arrange remedial work and bill you for it. Existing tenants need the report within 28 days; new tenants get it before they move in. If the inspection turns up C1, C2 or FI issues, you've got 28 days to get those sorted. Altrincham's mix of property types means you might be dealing with anything from a converted Victorian villa to a modern apartment, and each presents different electrical installation considerations for the EICR.
 
 ## For buyers
 

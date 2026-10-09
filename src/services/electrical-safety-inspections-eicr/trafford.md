@@ -31,18 +31,18 @@ The terraced housing in Old Trafford and Stretford has its own patterns. These p
 
 ## For landlords
 
-Landlords are legally required to have an EICR every five years and one for each new tenancy. Fines for non-compliance run up to £30,000, and the local authority can arrange remedial work and bill you for it. Existing tenants need the report within 28 days; new tenants get it before they move in. If the inspection turns up C1, C2 or FI issues, you've got 28 days to sort them. As a NAPIT-registered electrician, Ashley can carry out the EICR and any remedial installation work that comes from it, which saves bringing in a separate contractor.
+[Landlord obligations](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) in Trafford are clear: a current EICR for every let, renewed at least every five years and issued again at the start of each new tenancy. Fall foul of that and fines can reach £30,000, with the local authority also empowered to arrange remedial work and reclaim the cost from the landlord. Tenants in place get the report within 28 days and those moving in receive it before they do. Where C1, C2 or FI codes appear, the electrical faults behind them are due to be put right within 28 days. With Ashley's NAPIT registration, one electrician covers the EICR and any resulting remedial installation work.
 
 ## For buyers
 
-Get an EICR before completion. With the property values across Trafford, £150 is a small outlay against the cost of finding out after you've moved in that the wiring or the consumer unit needs serious work, and the EICR report gives you something concrete to go back to the seller with. Trafford's spread of property ages means the electrical installation quality varies enormously, and proper testing is the only reliable way to know what you're walking into.
+Get the EICR done before completion. With the values you see across Hale, Bowdon and the rest of the borough, £150 is nothing next to the cost of learning after moving day that the wiring or the consumer unit wants major work, and the EICR report hands you hard evidence to put to the seller, along with a clear picture of the electrical installation you're taking on. Property ages in Trafford stretch back more than a century, so installation quality swings a lot, and only proper electrical testing settles it.
 
 ## What's included
 
-The inspection covers a full visual check of wiring, sockets, switches and the consumer unit, then calibrated technical testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The EICR certificate and report are issued the same day, written in plain English. If we find work that needs doing, we can quote for that and schedule it in - as NAPIT-registered electrical installers, the remedial work stays with us.
+The visit opens with a visual inspection of wiring, sockets, switches and the consumer unit, then calibrated instrument checks of continuity, earth fault loop impedance and insulation resistance, plus RCD operation. The certificates and full EICR report are issued that same day in plain English. Where remedial work comes out of the findings, we price it, schedule it and, as NAPIT-registered electrical installers, carry it out ourselves.
 
 ## When we find issues
 
-If the EICR inspection turns up problems, we explain what's wrong, why it matters, and what the installation needs to bring it up to standard. No pressure, no inflated prices - just an honest quote from a qualified electrician who's been doing this work across Trafford for the best part of two decades. Remedial installation work gets scheduled within a month.
+Any faults the EICR identifies get explained in full: what's behind them, why they matter, and what lifts the installation back to standard. You'll deal with an electrician who's covered Trafford for the best part of twenty years and quotes straight, with no pressure attached. Remedial installation work is normally arranged within a month of the inspection.
 
 [Book an EICR inspection in Trafford](/contact/).

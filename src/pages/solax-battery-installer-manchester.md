@@ -42,9 +42,9 @@ Solax residential batteries are designed to be stacked in modules, so the total 
 
 ## How a Solax battery saves you money
 
-Off-peak electricity prices can be as little as one third the price of peak rates. Your battery automatically charges during cheap periods (typically overnight) and powers your home when electricity is expensive. This works well with smart tariffs like [Octopus Go](/octopus-go-battery-installer-manchester/) and delivers significant savings even during winter when solar panels are less effective.
+The arithmetic is simple: off-peak electricity costs as little as one third of what peak-rate electricity does, and a Solax battery is built to work that gap. It fills up during the cheap window, usually overnight, then runs the house through the expensive part of the day without you touching anything. Pair it with a smart tariff like [Octopus Go](/octopus-go-battery-installer-manchester/) and the savings keep coming through winter too, when solar panels are doing less of the work.
 
-If you've also got solar, the battery stores excess generation during the day and powers your home through the evening, so you're using your own electricity rather than buying it back at peak rates.
+If you've got solar panels as well, the battery banks their surplus during daylight and spends it through the evening, so the electricity you use after work is your own rather than bought back at peak rates.
 
 ## Smart features
 
@@ -70,13 +70,13 @@ Read more about [home battery installations](/services/home-battery-installation
 
 ## Credentials
 
-- [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870)
-- [**TrustMark Registered**](/accreditations/trustmark/)
 - [**NAPIT registered**](/accreditations/napit/)
+- [**MCS-certified**](/accreditations/mcs-certified/) installer (NAP-66870)
+- **5-year minimum warranty on all equipment**
+- [**TrustMark Registered**](/accreditations/trustmark/)
+- **2 years of routine maintenance included with every installation**
 - [**Octopus Energy Trusted Partner**](/accreditations/octopus-trusted-partner/)
-- **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** from {{ reviews.total }}+ verified reviews
-- 5-year minimum warranty on all equipment
-- 2 years routine maintenance included on every installation
+- **{{ reviews.averageRating | round: 2 }}/10 on Checkatrade** across {{ reviews.total }}+ verified reviews
 
 ## Coverage
 

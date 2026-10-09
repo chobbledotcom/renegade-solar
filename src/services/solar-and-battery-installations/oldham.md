@@ -31,7 +31,7 @@ For a typical 2-3 bed mid-terrace, we can usually fit a 3-4kW system that'll mak
 
 **Larger detached properties** (Saddleworth villages, parts of Shaw): 6-8kW+ systems. Bigger roofs, higher energy usage, and more scope for battery storage and [EV charging](/oldham/electric-vehicle-charger-installations/) integration.
 
-A 4kW system in Oldham produces around 3,250 kWh per year. That's enough to cover a significant chunk of an average household's consumption and can add around 4% to your property value.
+A 4kW system in Oldham produces around 3,250 kWh per year. That's enough to cover a significant chunk of an average household's consumption, and the surplus either cuts the bill further or earns export payments under the Smart Export Guarantee.
 
 ## Chimneys, shading, and honest advice
 

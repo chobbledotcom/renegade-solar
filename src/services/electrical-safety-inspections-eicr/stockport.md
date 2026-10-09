@@ -31,18 +31,18 @@ The larger properties out towards Bramhall and Cheadle Hulme tend to have had mo
 
 ## For landlords
 
-Landlords are legally required to have an EICR every five years and one for each new tenancy. Fines for non-compliance run up to £30,000, and the local authority can arrange remedial work and bill you for it. Existing tenants need the report within 28 days; new tenants get it before they move in. If the inspection turns up C1, C2 or FI issues, you've got 28 days to sort them. As a NAPIT-registered electrician, Ashley can carry out the EICR and any remedial installation work that comes from it, which saves bringing in a separate contractor.
+Every landlord in Stockport has a [legal duty](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) to keep an EICR current: one every five years, plus a fresh one at the start of each new tenancy. Let the electrical safety certificate lapse and the fines reach £30,000, with the local authority also able to arrange remedial work itself and send you the bill. Current tenants must receive the report within 28 days, and incoming tenants get theirs before moving day. Where the inspection flags C1, C2 or FI findings, you then have 28 days to put them right. As Ashley is a NAPIT-registered electrician, he can carry out the EICR and any remedial installation work that follows, without a second contractor getting involved.
 
 ## For buyers
 
-Get an EICR before completion. With Stockport's spread of property ages and values, the EICR inspection gives you a clear picture of whether you're walking into a straightforward installation or one that's going to want some work, and the report gives you something concrete to go back to the seller with. Finding out after you've moved in that the consumer unit needs replacing or the earthing isn't up to standard is a more expensive surprise than it needs to be.
+An EICR before completion tells you what you're buying. Given how far apart a Heatons terrace and a Bramhall detached house are in age and wiring history, a £150 inspection is cheap certainty on whether the electrical installation is sound or heading for a rewire. The EICR report also gives you hard evidence to raise with the seller. Discovering after exchange that the consumer unit is overdue for replacement or the earthing falls short costs far more than the inspection would have.
 
 ## What's included
 
-The inspection covers a full visual check of wiring, sockets, switches and the consumer unit, then calibrated technical testing for continuity, insulation resistance, earth fault loop impedance and RCD operation. The EICR certificate and report are issued the same day, written in plain English. If we find work that needs doing, we can quote for that and schedule it in - as NAPIT-registered electrical installers, the remedial work stays with us rather than getting handed off to someone else.
+We start with a visual inspection of the wiring, sockets, switches and consumer unit, then get on to calibrated instrument tests: earth fault loop impedance, insulation resistance, continuity and RCD operation. You get the EICR certificate and report the same day, written up in language that makes sense. Where something needs putting right, we'll price it and get it booked in - the remedial installation work stays in-house because we're a NAPIT-registered installer rather than being passed to a third party.
 
 ## When we find issues
 
-If the EICR inspection turns up problems, we explain what's wrong, why it matters, and what the installation needs to bring it up to standard. No pressure, no inflated prices - just an honest quote from a qualified electrician who's been doing this work across Stockport for the best part of two decades. Remedial installation work gets scheduled within a month.
+Anything the EICR flags gets a straightforward explanation from us: what's wrong, why it matters, and what brings the installation back up to standard. You'll get an honest quote from an electrician who's covered Stockport for the best part of twenty years, with none of the upselling. Remedial installation work is normally scheduled inside a month.
 
 [Book an EICR inspection in Stockport](/contact/).
