@@ -57,7 +57,7 @@ A solar panel installation improves a property's EPC rating by generating renewa
 
 ## 0% VAT on solar and battery
 
-Our solar panel and battery installations qualify for 0% VAT - as MCS-certified installers, that's what we can offer on domestic work. It makes a real dent in the overall cost, particularly on the bigger systems Hale properties tend to need. Only MCS-certified installations qualify for the 0% rate, so that certification does double duty.
+Solar panels and battery storage count as energy-saving materials, so domestic installations currently attract 0% VAT - a rate set to run until March 2027. It makes a real dent in the overall cost, particularly on the bigger systems Hale properties tend to need. MCS certification sits alongside that rather than inside it: an MCS-certified installation is what qualifies a home for Smart Export Guarantee payments, and as MCS-certified installers that's the part of the paperwork we handle.
 
 ## Nearby areas
 
