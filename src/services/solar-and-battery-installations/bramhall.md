@@ -54,7 +54,7 @@ Check out the [customer reviews](/reviews/) to see what people think.
 
 ## Planning and installation process
 
-Most Bramhall installations don't require planning permission unless you're in a conservation area or have a listed building. We handle all the technical aspects - DNO (electricity network) notifications, MCS certification for SEG payments, building regulations compliance, and system design documentation.
+Most Bramhall installations don't require planning permission unless you're in a conservation area or have a listed building. We handle all the technical aspects - DNO (electricity network) notifications, the MCS-certified installation paperwork that unlocks SEG payments, building regulations compliance, and system design documentation.
 
 Installation typically takes 1-2 days with minimal disruption. We're tidy, respectful of your property, and leave everything properly finished.
 
@@ -64,6 +64,6 @@ We also cover surrounding areas including [Stockport](/stockport/solar-and-batte
 
 ## Get started
 
-With our MCS certification (number [NAP-66870](https://mcscertified.com/find-an-installer/)), your installation can earn Smart Export Guarantee payments. That MCS number is the first thing to check on any installer quote you're weighing up. We're accredited by [NAPIT](/accreditations/napit/), we follow the [HIES Consumer Code](/accreditations/hies-consumer-code/), and Octopus Energy counts us among its [Trusted Partners](/accreditations/octopus-trusted-partner/).
+Because we're an MCS-certified installer (number [NAP-66870](https://mcscertified.com/find-an-installer/)), your installation can earn Smart Export Guarantee payments. That MCS number is the first thing to check on any installer quote you're weighing up. We're accredited by [NAPIT](/accreditations/napit/), we follow the [HIES Consumer Code](/accreditations/hies-consumer-code/), and Octopus Energy counts us among its [Trusted Partners](/accreditations/octopus-trusted-partner/).
 
 [Contact us](/contact/) for a no-obligation chat about your Bramhall property's solar potential. We'll respond within 48 hours to arrange a survey.

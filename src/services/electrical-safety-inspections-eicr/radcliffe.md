@@ -29,11 +29,11 @@ The terraced stock near the town centre frequently turns up electrical installat
 
 ## For landlords
 
-If you let property in Radcliffe, the rules require an EICR every five years and another one whenever a new tenancy starts. Non-compliance carries fines of up to £30,000, and the local authority can commission remedial work and charge it back to you. Sitting tenants must see the report within 28 days; incoming tenants get theirs before the keys change hands. C1, C2 or FI findings then give you 28 days to arrange the fixes. Ashley's NAPIT registration means he can do the electrical inspection and follow it through with any remedial installation work, so you're not juggling two contractors.
+If you let property in Radcliffe, the rules require an EICR every five years and another one whenever a new tenancy starts. Non-compliance carries fines of up to £30,000, and the local authority can commission remedial work and charge it back to you. Sitting tenants must see the report within 28 days; incoming tenants get theirs before the keys change hands. C1, C2 or FI findings then give you 28 days to arrange the fixes. Ashley's NAPIT registration means he can do the electrical inspection and follow it through with any remedial installation work, so you're not juggling two electricians.
 
 ## For buyers
 
-Have the EICR done before completion. Radcliffe runs from late Victorian and Edwardian terraces near the centre to newer estates on the edges, and that range shows in the electrical wiring, so an EICR is the only way to know what you're taking on. An out-of-date consumer unit or earthing that needs attention is worth real money in the negotiation, and the report puts the evidence in front of the seller before you commit.
+Have the EICR done before completion. Radcliffe runs from late Victorian and Edwardian terraces near the centre to newer estates on the edges, and that range shows in the electrical wiring, so an EICR is the only way to know what you're taking on. An out-of-date consumer unit or earthing that needs attention is worth real money in the negotiation, and the report puts the evidence in front of the seller before you commit. It's the cheapest way there is to learn the true state of the electrical installation.
 
 ## What's included
 

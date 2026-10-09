@@ -31,11 +31,11 @@ The terraced housing in Old Trafford and Stretford has its own patterns. These p
 
 ## For landlords
 
-Landlord obligations in Trafford are clear: a current EICR for every let, renewed at least every five years and issued again at the start of each new tenancy. Fall foul of that and fines can reach £30,000, with the local authority also empowered to arrange remedial work and reclaim the cost from the landlord. Tenants in place get the report within 28 days and those moving in receive it before they do. Where C1, C2 or FI codes appear, the electrical faults behind them are due to be put right within 28 days. With Ashley's NAPIT registration, the EICR and any resulting remedial installation work can both be done by us.
+Landlord obligations in Trafford are clear: a current EICR for every let, renewed at least every five years and issued again at the start of each new tenancy. Fall foul of that and fines can reach £30,000, with the local authority also empowered to arrange remedial work and reclaim the cost from the landlord. Tenants in place get the report within 28 days and those moving in receive it before they do. Where C1, C2 or FI codes appear, the electrical faults behind them are due to be put right within 28 days. With Ashley's NAPIT registration, one electrician covers the EICR and any resulting remedial installation work.
 
 ## For buyers
 
-Get the EICR done before completion. With the values you see across Hale, Bowdon and the rest of the borough, £150 is nothing next to the cost of learning after moving day that the wiring or the consumer unit wants major work, and the EICR report hands you hard evidence to put to the seller. Property ages in Trafford stretch back more than a century, so installation quality swings a lot, and only proper electrical testing settles it.
+Get the EICR done before completion. With the values you see across Hale, Bowdon and the rest of the borough, £150 is nothing next to the cost of learning after moving day that the wiring or the consumer unit wants major work, and the EICR report hands you hard evidence to put to the seller, along with a clear picture of the electrical installation you're taking on. Property ages in Trafford stretch back more than a century, so installation quality swings a lot, and only proper electrical testing settles it.
 
 ## What's included
 

@@ -63,6 +63,6 @@ Permitted Development for domestic ground-mounted solar in England has tight lim
 
 ## Coverage
 
-Based in Prestwich, we install ground-mounted solar across Greater Manchester and the wider North West.
+Based in Prestwich, we design and install ground-mounted solar across Greater Manchester and the wider North West.
 
 [Get in touch](/contact/) for a free survey and a no-pressure conversation about whether ground-mount is right for your property.

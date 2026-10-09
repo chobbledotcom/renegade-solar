@@ -11,7 +11,7 @@ tags: [hale-barns]
 gallery_tags: [solar-panels]
 ---
 
-We provide [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Hale Barns. We're an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, and we're experienced with the substantial properties that characterise this area.
+We provide [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Hale Barns. We're an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, and we're experienced with the substantial properties that characterise this area. Your MCS-certified installer is part of our in-house team, so the people on your roof are the people you enquired with - only the scaffolding is subcontracted.
 
 Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 20 years of experience. When you enquire with us, an electrician surveys your property and designs your system - we don't employ salespeople.
 
@@ -41,7 +41,7 @@ Everything we fit carries a **30-year warranty on panels** and a **10-year warra
 
 We've been asked to look at other installers' work that ignores NAPIT safety guidelines - batteries in lofts being the worst offender. That's what happens when a salesperson specs the job instead of a qualified electrician.
 
-When you deal with us, the person surveying your Hale Barns roof understands the technical side. We won't push an unsafe or unsuitable system just to close a sale. NAPIT guidelines are followed properly, and every installation's electrical work is done in-house by our own qualified electricians - we don't subcontract.
+When you deal with us, the person surveying your Hale Barns roof understands the technical side. Because we're MCS-certified, the electrical work on every job is signed off to the standard the scheme requires before we hand over. We won't push an unsafe or unsuitable system just to close a sale. NAPIT guidelines are followed properly, and every installation's electrical work is done in-house by our own qualified electricians - we don't subcontract.
 
 ## Battery storage and time-of-use tariffs
 
@@ -53,7 +53,7 @@ We're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partne
 
 ## EPC ratings and property value
 
-Renewable installations lift a property's EPC rating, and a better rating generally supports value. Every property sold or let needs an EPC nowadays. With the sort of property values Hale Barns has, that's worth weighing alongside the savings on the bills.
+Renewable energy from your own roof lifts a property's EPC rating, and a better rating generally supports value. Every property sold or let needs an EPC nowadays. With the sort of property values Hale Barns has, that's worth weighing alongside the savings on the bills.
 
 ## 0% VAT on solar and battery
 
@@ -65,6 +65,6 @@ We also cover [Hale](/hale/solar-and-battery-installations/), [Altrincham](/altr
 
 ## Get started
 
-Our MCS certification (number [NAP-66870](https://mcscertified.com/find-an-installer/)) lets your installation earn Smart Export Guarantee payments. That MCS number is worth checking on any installer quote you compare us against. You'll also find us accredited by [NAPIT](/accreditations/napit/), signed up to the [HIES Consumer Code](/accreditations/hies-consumer-code/), and listed by Octopus Energy as a [Trusted Partner](/accreditations/octopus-trusted-partner/).
+Our MCS certification (number [NAP-66870](https://mcscertified.com/find-an-installer/)) lets your installation earn Smart Export Guarantee payments. That MCS number is worth checking on any installer quote you compare us against. As your local installer we handle the survey, the design, and the commissioning ourselves, so nothing gets lost between companies. You'll also find us accredited by [NAPIT](/accreditations/napit/), signed up to the [HIES Consumer Code](/accreditations/hies-consumer-code/), and listed by Octopus Energy as a [Trusted Partner](/accreditations/octopus-trusted-partner/).
 
 [Contact us](/contact/) for a no-obligation chat about your Hale Barns property's solar potential.

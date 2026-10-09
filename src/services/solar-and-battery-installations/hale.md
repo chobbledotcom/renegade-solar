@@ -13,7 +13,7 @@ gallery_tags: [solar-panels]
 
 We provide [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Hale. We're an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, and we're familiar with the area's substantial properties and conservation area considerations around South Hale.
 
-Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 20 years of experience. When you enquire with us, an electrician surveys your property and designs your system - we don't employ salespeople.
+Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 20 years of experience. When you enquire with us, an electrician surveys your property and designs your system - we don't employ salespeople. The same in-house team installs everything, and your installer commissions the system before handover.
 
 ## Hale properties and solar suitability
 
@@ -41,7 +41,7 @@ Panel warranties run **30 years** and battery warranties **10 years** on everyth
 
 We've come across other installers' work that breaks NAPIT safety guidelines - loft-mounted batteries being the clearest example. Salespeople spec those jobs; qualified electricians wouldn't.
 
-With us, whoever surveys your property knows the technical requirements inside out. On a period or conservation-area home there's enough to think about already without an unsafe design added to the list. We won't recommend anything unsafe or unsuitable to win a sale, we follow NAPIT guidelines properly, and every installation's electrical work stays in-house with our own qualified electricians - never subcontracted.
+With us, whoever surveys your property knows the technical requirements inside out. On a period or conservation-area home there's enough to think about already without an unsafe design added to the list. We won't recommend anything unsafe or unsuitable to win a sale, we follow NAPIT guidelines properly, and every installation's electrical work stays in-house with our own qualified electricians - never subcontracted. And because we're MCS-certified, that work is certified to the BS 7671 requirements the scheme expects.
 
 ## Battery storage and time-of-use tariffs
 
@@ -53,11 +53,11 @@ We're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partne
 
 ## EPC ratings and property value
 
-A solar panel installation improves a property's EPC rating, and a stronger rating can help its value. Any property sold or let needs an EPC these days, and in Hale's part of the market that's worth factoring in alongside the energy savings.
+A solar panel installation improves a property's EPC rating by generating renewable energy from your own roof, and a stronger rating can help its value. Any property sold or let needs an EPC these days, and in Hale's part of the market that's worth factoring in alongside the energy savings.
 
 ## 0% VAT on solar and battery
 
-Our solar panel and battery installations qualify for 0% VAT - as MCS-certified installers, that's what we can offer on domestic work. It makes a real dent in the overall cost, particularly on the bigger systems Hale properties tend to need.
+Our solar panel and battery installations qualify for 0% VAT - as MCS-certified installers, that's what we can offer on domestic work. It makes a real dent in the overall cost, particularly on the bigger systems Hale properties tend to need. Only MCS-certified installations qualify for the 0% rate, so that certification does double duty.
 
 ## Nearby areas
 

@@ -69,7 +69,7 @@ He'll assess your roof during the free survey, plan the optimal layout for your 
 
 Based in Prestwich, Ashley covers the whole of Greater Manchester, including [Blackley](/blackley/solar-and-battery-installations/), [Middleton](/middleton/solar-and-battery-installations/), [Failsworth](/failsworth/solar-and-battery-installations/), [Radcliffe](/radcliffe/solar-and-battery-installations/), [Stockport](/stockport/solar-and-battery-installations/), [Altrincham](/altrincham/solar-and-battery-installations/) and throughout [Trafford](/trafford/solar-and-battery-installations/).
 
-Being local means no call-out charges for surveys and quick response times if you ever need anything sorting after installation.
+Being local means no call-out charges for surveys and quick response times if you ever need anything sorting after the installation is signed off.
 
 ## Get a quote
 

@@ -35,7 +35,7 @@ Landlord law in Blackley works the same as elsewhere: an EICR every five years p
 
 ## For buyers
 
-Get the EICR done before money changes hands. Between the traditional terraces, the former council properties and the larger detached homes up towards Heaton Park, electrical condition across Blackley varies a lot, and the EICR report is the only reliable way to see inside the wiring before you buy. An outdated consumer unit or inadequate earthing is worth negotiating on, and the findings also tell you plainly if the installation isn't what you thought you were buying.
+Get the EICR done before money changes hands. Between the traditional terraces, the former council properties and the larger detached homes up towards Heaton Park, electrical condition across Blackley varies a lot, and the EICR report is the only reliable way to see inside the wiring before you buy. An outdated consumer unit or inadequate earthing is worth negotiating on, and the findings also tell you plainly if the installation isn't what you thought you were buying. It's also worth having your electrician talk you through the findings before you commit.
 
 ## What's included
 

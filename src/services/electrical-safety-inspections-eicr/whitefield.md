@@ -31,11 +31,11 @@ The post-war semis vary a fair bit - some have been properly rewired with a mode
 
 ## For landlords
 
-The law expects landlords to hold a current EICR for each let property, certifying its electrical safety, renewed every five years and refreshed whenever a new tenancy begins. Breaching those rules can cost up to £30,000, and the council is entitled to carry out remedial work and recover the cost from you. Tenants already in place must get the report inside 28 days, and anyone about to move in receives it beforehand. If the inspection raises C1, C2 or FI codes, those need resolving within 28 days. Because Ashley is NAPIT registered and based just down the road, he can handle the inspection and any remedial installation work it leads to.
+The law expects landlords to hold a current EICR for each let property, certifying its electrical safety, renewed every five years and refreshed whenever a new tenancy begins. Breaching those rules can cost up to £30,000, and the council is entitled to carry out remedial work and recover the cost from you. Tenants already in place must get the report inside 28 days, and anyone about to move in receives it beforehand. If the inspection raises C1, C2 or FI codes, those need resolving within 28 days. Because Ashley is a NAPIT-registered electrician based just down the road, he can handle the inspection and any remedial installation work it leads to.
 
 ## For buyers
 
-Book the EICR before you complete. Between the older terraces around the centre and the newer developments on the edges, electrical installation quality in Whitefield ranges widely, and testing is the only honest answer on the state of the electrical wiring. Pick up an ageing consumer unit or inadequate earthing in the report and you've got leverage on price, or a legitimate reason to reconsider if the faults go beyond what you're prepared to take on.
+Book the EICR before you complete. Between the older terraces around the centre and the newer developments on the edges, electrical installation quality in Whitefield ranges widely, and testing is the only honest answer on the state of the electrical wiring. Pick up an ageing consumer unit or inadequate earthing in the report and you've got leverage on price, or a legitimate reason to reconsider if the faults go beyond what you're prepared to take on, and your electrician can size up any fix alongside you before you negotiate.
 
 ## What's included
 
