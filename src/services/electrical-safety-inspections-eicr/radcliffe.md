@@ -29,7 +29,7 @@ The terraced stock near the town centre frequently turns up electrical installat
 
 ## For landlords
 
-If you let property in Radcliffe, the [rules](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) require an EICR every five years and another one whenever a new tenancy starts. Non-compliance carries fines of up to £30,000, and the local authority can commission remedial work and charge it back to you. Sitting tenants must see the report within 28 days; incoming tenants get theirs before the keys change hands. C1, C2 or FI findings then give you 28 days to arrange the fixes. Ashley's NAPIT registration means he can do the electrical inspection and follow it through with any remedial installation work, so you're not juggling two electricians.
+If you let property in Radcliffe, the [rules](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) require an EICR every five years and another one whenever a new tenancy starts. Non-compliance carries fines of up to £30,000, and the local authority can commission remedial work and charge it back to you. Sitting tenants must see the report within 28 days; incoming tenants get theirs before the keys change hands. C1, C2 or FI findings then give you 28 days to arrange the fixes. Ashley's NAPIT registration means he can do the electrical inspection and follow it through with any remedial installation work, so you're not juggling a second electrician.
 
 ## For buyers
 

@@ -57,7 +57,7 @@ Renewable energy from your own roof lifts a property's EPC rating, and a better 
 
 ## 0% VAT on solar and battery
 
-Because we're MCS-certified, our solar panel and battery installations attract 0% VAT on domestic properties. On a larger system, that saving is a meaningful chunk of the overall cost.
+Solar panels and battery storage count as energy-saving materials, so domestic solar panel and battery installations attract 0% VAT - a rate set to run until March 2027. On a larger system, that saving is a meaningful chunk of the overall cost.
 
 ## Nearby areas
 
@@ -65,6 +65,6 @@ We also cover [Hale](/hale/solar-and-battery-installations/), [Altrincham](/altr
 
 ## Get started
 
-Our MCS certification (number [NAP-66870](https://mcscertified.com/find-an-installer/)) lets your installation earn Smart Export Guarantee payments. That MCS number is worth checking on any installer quote you compare us against. As your local installer we handle the survey, the design, and the commissioning ourselves, so nothing gets lost between companies. You'll also find us accredited by [NAPIT](/accreditations/napit/), signed up to the [HIES Consumer Code](/accreditations/hies-consumer-code/), and listed by Octopus Energy as a [Trusted Partner](/accreditations/octopus-trusted-partner/).
+Being an MCS-certified installer (number [NAP-66870](https://mcscertified.com/find-an-installer/)) lets your installation earn Smart Export Guarantee payments. That MCS number is worth checking on any installer quote you compare us against. As your local installer we handle the survey, the design, and the commissioning ourselves, so nothing gets lost between companies. You'll also find us accredited by [NAPIT](/accreditations/napit/), signed up to the [HIES Consumer Code](/accreditations/hies-consumer-code/), and listed by Octopus Energy as a [Trusted Partner](/accreditations/octopus-trusted-partner/).
 
 [Contact us](/contact/) for a no-obligation chat about your Hale Barns property's solar potential.

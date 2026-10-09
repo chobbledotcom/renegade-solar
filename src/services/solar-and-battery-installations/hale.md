@@ -25,7 +25,7 @@ Parts of Hale fall within conservation areas, including South Hale and the area 
 
 ## System sizing for larger properties
 
-Hale properties typically suit larger systems than average. A 3-bed semi usually takes a 4kW system; many Hale homes are better served by 6-10kW or more (15-25 panels) to match their higher energy consumption. We size around your usage and roof rather than a headline panel count - a custom assessment for every property, weighing roof orientation, shading, and your energy consumption patterns.
+Hale properties typically suit larger systems than average. A 3-bed semi might take a 4kW system; many Hale homes are better served by 6-10kW or more (15-25 panels) to match their higher energy consumption. We size around your usage and roof rather than a headline panel count - a custom assessment for every property, weighing roof orientation, shading, and your energy consumption patterns.
 
 We've recently completed a 110-panel commercial solar installation and we're quoting on a 600-panel one, so bigger domestic installations are well within our experience - three-phase supplies and larger inverters included.
 

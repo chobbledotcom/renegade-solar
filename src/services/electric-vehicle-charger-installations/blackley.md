@@ -30,7 +30,7 @@ On Octopus Go, charging overnight with a 7kW wall charger costs a fraction of th
 
 ## Chargers we install
 
-We fit the [Octopus charger range](https://octopus.energy/get-an-ev-charger/), and our Trusted Partner status covers every unit in it - smart chargers that hold off drawing power until the cheap rate window opens. Running Solax or AlphaESS solar or battery kit? Their own chargers integrate with their systems and we install those as well, and the Octopus units pair with the same cheap-rate tariffs. If you've ordered a charger from somewhere else already, that's what we'll fit.
+We fit the [Octopus charger range](https://octopus.energy/get-an-ev-charger/), and our Trusted Partner status covers every unit in it - smart chargers that hold off drawing power until the cheap rate window opens. Running Solax or AlphaESS solar or battery kit? Their own chargers integrate with their systems and we install those as well, and the Octopus Energy units pair with the same cheap-rate tariffs. If you've ordered a charger from somewhere else already, that's what we'll fit.
 
 ## The install
 
