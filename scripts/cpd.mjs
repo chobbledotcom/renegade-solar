@@ -13,7 +13,7 @@
  */
 
 import { spawnSync } from "node:child_process";
-import { readFileSync } from "node:fs";
+import { existsSync, readFileSync, rmSync } from "node:fs";
 import { isAbsolute, join, relative, resolve } from "node:path";
 import { pathToFileURL } from "node:url";
 
@@ -142,6 +142,11 @@ export const throwIfSpawnFailed = (result, commandName) => {
 };
 
 export const runCpd = (args = []) => {
+  // Drop any previous report so the failure path below can only describe
+  // clones from this invocation - a stale report would misreport a runner
+  // failure (missing dependency, bad config, crash) as duplication found.
+  rmSync(JSCPD_REPORT, { force: true });
+
   const result = spawnSync("npx", ["jscpd", ...args], {
     cwd: ROOT_DIR,
     stdio: "inherit",
@@ -150,9 +155,15 @@ export const runCpd = (args = []) => {
   throwIfSpawnFailed(result, "jscpd");
 
   if ((result.status ?? 1) !== 0) {
-    const report = loadCpdReport();
-    for (const line of buildCpdFailureLines(report)) {
-      console.error(line);
+    if (existsSync(JSCPD_REPORT)) {
+      const report = loadCpdReport();
+      for (const line of buildCpdFailureLines(report)) {
+        console.error(line);
+      }
+    } else {
+      console.error(
+        `\n❌ jscpd exited with status ${result.status ?? 1} but wrote no report - see the runner error above.`,
+      );
     }
   }
 
