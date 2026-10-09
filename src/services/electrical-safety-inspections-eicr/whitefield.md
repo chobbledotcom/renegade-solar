@@ -31,7 +31,7 @@ The post-war semis vary a fair bit - some have been properly rewired with a mode
 
 ## For landlords
 
-The law expects landlords to hold a current EICR for each let property, certifying its electrical safety, renewed every five years and refreshed whenever a new tenancy begins. Breaching those rules can cost up to £30,000, and the council is entitled to carry out remedial work and recover the cost from you. Tenants already in place must get the report inside 28 days, and anyone about to move in receives it beforehand. If the inspection raises C1, C2 or FI codes, those need resolving within 28 days. Because Ashley is a NAPIT-registered electrician based just down the road, he can handle the inspection and any remedial installation work it leads to.
+[The law](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) expects landlords to hold a current EICR for each let property, certifying its electrical safety, renewed every five years and refreshed whenever a new tenancy begins. Breaching those rules can cost up to £30,000, and the council is entitled to carry out remedial work and recover the cost from you. Tenants already in place must get the report inside 28 days, and anyone about to move in receives it beforehand. If the inspection raises C1, C2 or FI codes, those need resolving within 28 days. Because Ashley is a NAPIT-registered electrician based just down the road, he can handle the inspection and any remedial installation work it leads to.
 
 ## For buyers
 

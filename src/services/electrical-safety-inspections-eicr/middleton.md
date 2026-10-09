@@ -27,7 +27,7 @@ The post-war semis and more recent estates are generally in better shape, but ex
 
 ## For landlords
 
-The landlord rules apply in Middleton as anywhere else: an EICR every five years and another at the start of each tenancy - one electrical report per property, kept current. Get it wrong and the fines reach £30,000, while the local authority can commission remedial work and pass you the invoice. Existing tenants must receive the EICR report within 28 days and new tenants before moving in. C1, C2 or FI findings come with their own 28-day clock for sorting out. Ashley can carry out the inspection and any remedial installation work that follows, and his NAPIT registration means you don't have to bring in a second electrician.
+[The landlord rules](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) apply in Middleton as anywhere else: an EICR every five years and another at the start of each tenancy - one electrical report per property, kept current. Get it wrong and the fines reach £30,000, while the local authority can commission remedial work and pass you the invoice. Existing tenants must receive the EICR report within 28 days and new tenants before moving in. C1, C2 or FI findings come with their own 28-day clock for sorting out. Ashley can carry out the inspection and any remedial installation work that follows, and his NAPIT registration means you don't have to bring in a second electrician.
 
 ## For buyers
 

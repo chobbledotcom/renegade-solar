@@ -31,7 +31,7 @@ The terraced housing in Old Trafford and Stretford has its own patterns. These p
 
 ## For landlords
 
-Landlord obligations in Trafford are clear: a current EICR for every let, renewed at least every five years and issued again at the start of each new tenancy. Fall foul of that and fines can reach £30,000, with the local authority also empowered to arrange remedial work and reclaim the cost from the landlord. Tenants in place get the report within 28 days and those moving in receive it before they do. Where C1, C2 or FI codes appear, the electrical faults behind them are due to be put right within 28 days. With Ashley's NAPIT registration, one electrician covers the EICR and any resulting remedial installation work.
+[Landlord obligations](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) in Trafford are clear: a current EICR for every let, renewed at least every five years and issued again at the start of each new tenancy. Fall foul of that and fines can reach £30,000, with the local authority also empowered to arrange remedial work and reclaim the cost from the landlord. Tenants in place get the report within 28 days and those moving in receive it before they do. Where C1, C2 or FI codes appear, the electrical faults behind them are due to be put right within 28 days. With Ashley's NAPIT registration, one electrician covers the EICR and any resulting remedial installation work.
 
 ## For buyers
 

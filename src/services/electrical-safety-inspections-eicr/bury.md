@@ -27,7 +27,7 @@ The newer estates and the properties out towards Ramsbottom tend to have more re
 
 ## For landlords
 
-If you rent out property in Bury, an EICR must be in place every five years and again at the start of every new tenancy. The penalties reach £30,000, and the local authority can arrange remedial work itself and bill the landlord for it. Tenants already in the property need the report within 28 days; those about to move in get theirs beforehand. C1, C2 or FI findings start a 28-day window for the remedial work. As a NAPIT-registered electrician, Ashley can do the inspection and carry out the remedial installation work it produces, so it's one job with one firm rather than two contractors, and booking the two together usually saves a repeat visit.
+If you rent out property in Bury, the government's [electrical safety rules for landlords](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) require an EICR every five years and again at the start of every new tenancy. The penalties reach £30,000, and the local authority can arrange remedial work itself and bill the landlord for it. Tenants already in the property need the report within 28 days; those about to move in get theirs beforehand. C1, C2 or FI findings start a 28-day window for the remedial work. As a NAPIT-registered electrician, Ashley can do the inspection and carry out the remedial installation work it produces, so it's one job with one firm rather than two contractors, and booking the two together usually saves a repeat visit.
 
 ## For buyers
 

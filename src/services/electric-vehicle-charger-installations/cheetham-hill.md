@@ -20,7 +20,7 @@ We install EV chargers across Cheetham Hill. Ashley is a NAPIT-registered electr
 
 Public chargers around Manchester Fort cost 50-80p per kWh ([rac.co.uk](https://www.rac.co.uk/drive/electric-cars/charging/electric-car-public-charging-costs-rac-charge-watch/)). On a tariff like Octopus Go, home charging overnight costs a fraction of public prices. For a typical commute into the city, you pay a few pounds at home against £10 or more at the public charger, and over a year the difference adds up to a fair bit.
 
-The [government EV grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) covers up to £350 off the install. We're OZEV-approved and we sort the paperwork.
+Renters and flat owners can claim the [government EV chargepoint grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household): 75% off the install, up to £500. We're OZEV-approved and we sort the paperwork.
 
 ## Working with Cheetham Hill properties
 

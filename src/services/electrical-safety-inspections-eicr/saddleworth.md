@@ -20,15 +20,15 @@ Many Saddleworth homes are older stone-built properties, and their electrics ref
 
 Properties that have been through multiple rounds of renovation - and most Saddleworth homes have - can end up with a patchwork of different-era wiring. A proper EICR sorts through what's been done when and tells you whether any of it needs attention.
 
-## For buyers - £393k average means the stakes are higher
+## For buyers - where the stakes are higher
 
-Saddleworth's premium property prices mean you're making a major investment. Hidden electrical issues in older stone properties can be expensive to put right - £150 for an EICR before purchase is cheap insurance against discovering a £3,000-5,000 rewiring need after you've completed.
+Saddleworth's premium property prices mean you're making a major investment. Hidden electrical issues in older stone properties can be expensive to put right - £150 for an EICR before purchase is cheap insurance against discovering a full rewiring job is needed after you've completed.
 
 Older stone cottages and converted farm buildings in particular can harbour surprises. We'd rather find them before your money changes hands.
 
 ## For landlords
 
-**EICR every 5 years plus one for each new tenant.** Fines up to £30,000 for non-compliance. If you're also considering [solar panels](/saddleworth/solar-and-battery-installations/) to meet the 2030 EPC C deadline, start with an EICR - it identifies whether consumer unit or wiring upgrades are needed before a solar system can be connected.
+**EICR every 5 years plus one for each new tenant.** Fines up to £30,000 for non-compliance. If you're also considering [solar panels](/saddleworth/solar-and-battery-installations/) to meet the [2030 EPC C deadline](https://www.gov.uk/government/publications/warm-homes-plan), start with an EICR - it identifies whether consumer unit or wiring upgrades are needed before a solar system can be connected.
 
 ## What's included
 

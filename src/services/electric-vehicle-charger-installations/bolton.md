@@ -16,13 +16,13 @@ Professional EV charger installations throughout Bolton for homes and businesses
 
 ## Bolton's Electric Vehicle Revolution
 
-Bolton Council has committed £2.3M to roll out at least 400 electric vehicle charging points across the borough by 2028. This ambitious programme prioritises high-density residential areas and underserved neighbourhoods, with 150 charging points planned for installation in the first phase alone (2025-2026).
+[Bolton Council](https://www.bolton.gov.uk/roads-pavements/electric-vehicle-charging/1) has committed £2.3M to roll out at least 400 electric vehicle charging points across the borough. The programme prioritises high-density residential areas and underserved neighbourhoods, which is good news for terraced streets where a home charger isn't always straightforward. A public charger near the shops is handy for topping up, but the charging that actually matters happens at home - and that's the part we install.
 
-With Bolton currently having fewer than 80 public charge points, this expansion represents a transformative shift in the town's electric vehicle infrastructure. As Bolton works towards its net-zero carbon target by 2038, home and workplace charging becomes essential for the thousands of residents making the switch to electric cars.
+With Bolton's public charging network still playing catch-up, home and workplace charging becomes essential for the thousands of residents making the switch to electric cars.
 
 ## EV Solutions for Bolton Properties
 
-Terraced and semi-detached properties make up 70% of Bolton's homes. We install EV chargers on all property types, from Victorian terraces in Farnworth and Great Lever to modern developments in Horwich and Lostock.
+Most of Bolton's homes are terraced or semi-detached. We install EV chargers on all property types, from Victorian terraces in Farnworth and Great Lever to modern developments in Horwich and Lostock.
 
 For Bolton's many terraced properties where off-street parking may be limited, we can advise on the best charging solutions and work within any planning requirements. The council's focus on high-density residential areas means public charging is expanding, but home charging remains the most convenient and cost-effective option where possible.
 
@@ -36,7 +36,7 @@ We also fit **Solax** and **AlphaESS** chargers if you've got their solar panels
 
 ## Why Home Charging Makes Sense
 
-The 2030 cut-off for new petrol and diesel sales is coming, so electric is where all of this is heading. For long trips, Bolton's motorway links (M61, M60, M62) put rapid chargers within easy reach whenever you need a quick top-up on a longer journey. Day to day, though, home charging is the cheap and convenient option.
+The [2030 cut-off for new pure petrol and diesel cars](https://www.gov.uk/government/news/review-launched-to-shape-pathway-to-reach-zero-emission-driving-by-2035) is coming, so electric is where all of this is heading. For long trips, Bolton's motorway links (M61, M60, M62) put rapid chargers within easy reach whenever you need a quick top-up on a longer journey. Day to day, though, home charging is the cheap and convenient option.
 
 A 7kW charger fills the car overnight during the cheap rate window - you wake up to a full battery for a couple of quid. The granny charger that plugs into a normal socket is the opposite: it takes all day, and the cheap rates pass you by entirely.
 

@@ -28,7 +28,7 @@ The newer properties on the larger plots have their own patterns. Extensions, lo
 
 ## For landlords
 
-Hale landlords have the same statutory duties as any others: an EICR every five years and a fresh report at the start of each new tenancy. Ignore the requirement and fines run to £30,000, while the local authority can arrange remedial work and recover the cost from you. Current tenants must receive the report within 28 days, incoming tenants before they move in, and any C1, C2 or FI findings allow 28 days for the work to be done. The electrical safety rules are the same here as anywhere, and Ashley holds NAPIT registration, so the EICR and the remedial installation work that follows can all come from us, without bringing in a separate electrician.
+Hale landlords have the same [statutory duties](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) as any others: an EICR every five years and a fresh report at the start of each new tenancy. Ignore the requirement and fines run to £30,000, while the local authority can arrange remedial work and recover the cost from you. Current tenants must receive the report within 28 days, incoming tenants before they move in, and any C1, C2 or FI findings allow 28 days for the work to be done. The electrical safety rules are the same here as anywhere, and Ashley holds NAPIT registration, so the EICR and the remedial installation work that follows can all come from us, without bringing in a separate electrician.
 
 ## For buyers
 

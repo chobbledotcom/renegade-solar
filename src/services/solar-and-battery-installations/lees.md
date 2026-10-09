@@ -17,7 +17,7 @@ We're Renegade Solar, based in Prestwich, covering the whole [Oldham](/oldham/) 
 
 Lees sits at the point where Oldham starts climbing towards [Saddleworth](/saddleworth/). The housing reflects that transition - you've got terraces and semis on the lower streets that are typical Oldham borough stock, and as you head uphill towards Springhead and Grasscroft, the properties get bigger, the views get better, and the roofs get more interesting.
 
-The terraces around Lees centre suit 3-4kW systems. The semis and detached homes up the hill can take 4-6kW, sometimes more if the roof allows it. Average property prices around £240k mean solar's a proportionally significant investment - and the returns are genuine, with savings of £350-570 a year on typical energy bills.
+The terraces around Lees centre suit 3-4kW systems. The semis and detached homes up the hill can take 4-6kW, sometimes more if the roof allows it. Solar's a proportionally significant investment, so the returns get modelled on your actual usage and tariff rather than quoted as a generic yearly figure - that's what the survey and the written proposal are for.
 
 ## Grants worth knowing about
 

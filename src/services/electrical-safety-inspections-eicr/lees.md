@@ -22,7 +22,7 @@ For the terraces, the common electrical issues are the same as across the Oldham
 
 ## For landlords
 
-**EICR every 5 years plus one for each new tenant.** Fines up to £30,000 for non-compliance. If you're considering [solar panels](/lees/solar-and-battery-installations/) to meet the 2030 EPC C deadline, an EICR first tells you whether the consumer unit needs replacing - a job that can be done alongside the solar installation to save on labour costs.
+**EICR every 5 years plus one for each new tenant.** Fines up to £30,000 for non-compliance. If you're considering [solar panels](/lees/solar-and-battery-installations/) to meet the [2030 EPC C deadline](https://www.gov.uk/government/publications/warm-homes-plan), an EICR first tells you whether the consumer unit needs replacing - a job that can be done alongside the solar installation to save on labour costs.
 
 ## For buyers
 

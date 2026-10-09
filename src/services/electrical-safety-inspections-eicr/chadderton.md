@@ -22,13 +22,13 @@ The semis are generally in better shape electrically, but we still find issues -
 
 ## For landlords
 
-Chadderton has a decent-sized rental market. **EICR every 5 years plus one for each new tenant** - that's the law. Fines up to £30,000 if you don't comply. We do fast turnaround for landlords managing multiple properties, and if we find issues, we can handle the [remedial work](/services/) and get you compliant quickly.
+Chadderton has a decent-sized rental market. **EICR every 5 years plus one for each new tenant** - [that's the law](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance). Fines up to £30,000 if you don't comply. We do fast turnaround for landlords managing multiple properties, and if we find issues, we can handle the [remedial work](/services/) and get you compliant quickly.
 
-If you're also thinking about [solar](/chadderton/solar-and-battery-installations/) to meet the 2030 EPC C deadline, an EICR is a sensible first step - it tells you whether the consumer unit needs replacing before we connect a solar system to it.
+If you're also thinking about [solar](/chadderton/solar-and-battery-installations/) to meet the [2030 EPC C deadline](https://www.gov.uk/government/publications/warm-homes-plan), an EICR is a sensible first step - it tells you whether the consumer unit needs replacing before we connect a solar system to it.
 
 ## For buyers
 
-Average Chadderton property prices around £215k make it popular with first-time buyers. Get an EICR before you complete - if we find an outdated consumer unit or dodgy earthing, that's leverage in your negotiations and avoids a nasty surprise after you move in.
+Chadderton is popular with first-time buyers, which means a lot of houses changing hands. Get an EICR before you complete - if we find an outdated consumer unit or dodgy earthing, that's leverage in your negotiations and avoids a nasty surprise after you move in.
 
 ## What's included
 

@@ -22,7 +22,7 @@ Radcliffe's housing mix means most installations are straightforward but each ty
 
 The post-war semis spreading out from the centre usually have driveways, which is the simplest case - charger on the wall by the parking, cable from the consumer unit, done in a day. The newer estates on the edges tend to have modern consumer units that are ready for a 7kW charger without any extra work.
 
-For properties without off-street parking, the [government EV chargepoint grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) covers up to £350 towards installation where there's a suitable place to mount the charger. We're OZEV-approved and sort the paperwork.
+If you rent your home or live in a flat with dedicated off-street parking, the [government EV chargepoint grant](https://www.gov.uk/electric-vehicle-chargepoint-grant-household) covers 75% of the installation, up to £500. We're OZEV-approved and sort the paperwork.
 
 ## What it costs to charge at home
 

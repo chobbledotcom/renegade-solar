@@ -24,9 +24,9 @@ Bolton's position well connected to the motorway network makes us ideally placed
 
 ## Property Types in Bolton
 
-Bolton is the UK's largest town with around 280,000 residents, and its housing reflects its rich industrial heritage. Terraced and semi-detached properties make up 70% of Bolton's housing stock - a legacy of the town's mill worker cottages from when over 200 cotton mills operated here.
+Bolton is the UK's largest town with around 280,000 residents, and its housing reflects its industrial heritage. Most of the stock is terraced or semi-detached - a legacy of the mill worker cottages from the town's cotton-mill years.
 
-We frequently work with Bolton's characteristic terraced properties in areas like Farnworth (average property price £168k), Great Lever, and Deane, where careful system design maximises generation within available roof space. For larger homes in Bolton's premium postcodes like Belmont, Bromley Cross, and Egerton (average £282k), we can design more substantial systems.
+We frequently work with Bolton's characteristic terraced properties in areas like Farnworth, Great Lever, and Deane, where careful system design maximises generation within available roof space. For larger homes in Bolton's premium postcodes like Belmont, Bromley Cross, and Egerton, we can design more substantial systems - the sort of 6-10kW arrays that suit bigger roofs and higher consumption.
 
 Bolton's industrial heritage means the town has excellent commercial opportunities. With substantial warehouses and manufacturing facilities across the borough, plus a growing logistics sector, Bolton's business community can benefit enormously from [commercial solar installations](/services/commercial-solar-installations/) with their generous roof space and high daytime energy consumption.
 

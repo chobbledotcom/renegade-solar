@@ -52,7 +52,7 @@ If you get C1 or C2 issues, we'll explain exactly what's wrong and how to fix it
 
 Older houses have their own particular challenges. You're often dealing with old wiring systems like cloth-covered cables or knob and tube wiring that's decades past its best. Inadequate earthing is common because proper earthing wasn't standard when these houses were built. The circuits were designed for gas lighting and a few basic electrical items, not the demands of modern life with washing machines, electric showers, and all the gadgets we use today. Plus those ancient fuse boxes offer no RCD protection whatsoever.
 
-70% of electrical fires happen in buildings built before 1950. That's why a proper inspection matters for these older properties.
+Older buildings are where wiring problems cluster - perished insulation, earthing that predates modern standards, circuits that have been extended piecemeal over decades. That's why a proper inspection matters for these older properties.
 
 ### New Builds (Like Altrincham, Trafford Developments)
 

@@ -31,7 +31,7 @@ The larger properties out towards Bramhall and Cheadle Hulme tend to have had mo
 
 ## For landlords
 
-Every landlord in Stockport has a legal duty to keep an EICR current: one every five years, plus a fresh one at the start of each new tenancy. Let the electrical safety certificate lapse and the fines reach £30,000, with the local authority also able to arrange remedial work itself and send you the bill. Current tenants must receive the report within 28 days, and incoming tenants get theirs before moving day. Where the inspection flags C1, C2 or FI findings, you then have 28 days to put them right. As Ashley is a NAPIT-registered electrician, he can carry out the EICR and any remedial installation work that follows, without a second contractor getting involved.
+Every landlord in Stockport has a [legal duty](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) to keep an EICR current: one every five years, plus a fresh one at the start of each new tenancy. Let the electrical safety certificate lapse and the fines reach £30,000, with the local authority also able to arrange remedial work itself and send you the bill. Current tenants must receive the report within 28 days, and incoming tenants get theirs before moving day. Where the inspection flags C1, C2 or FI findings, you then have 28 days to put them right. As Ashley is a NAPIT-registered electrician, he can carry out the EICR and any remedial installation work that follows, without a second contractor getting involved.
 
 ## For buyers
 

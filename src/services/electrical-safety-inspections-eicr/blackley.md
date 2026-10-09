@@ -31,7 +31,7 @@ The council-built properties vary a fair bit. Some have been properly rewired wi
 
 ## For landlords
 
-Landlord law in Blackley works the same as elsewhere: an EICR every five years plus one for each new tenant - in plain terms, an electrical installation condition report kept current for every letting. Fines for letting it slip reach £30,000, and the local authority can have remedial installation work done and charge it back to you. Existing tenants must be given the report within 28 days, new tenants before they move in, and C1, C2 or FI findings come with 28 days to put them right. Ashley is NAPIT registered, so the EICR and the remedial work it identifies can both come from the same electrician.
+[Landlord law](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance) in Blackley works the same as elsewhere: an EICR every five years plus one for each new tenant - in plain terms, an electrical installation condition report kept current for every letting. Fines for letting it slip reach £30,000, and the local authority can have remedial installation work done and charge it back to you. Existing tenants must be given the report within 28 days, new tenants before they move in, and C1, C2 or FI findings come with 28 days to put them right. Ashley is NAPIT registered, so the EICR and the remedial work it identifies can both come from the same electrician.
 
 ## For buyers
 
