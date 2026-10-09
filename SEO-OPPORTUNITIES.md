@@ -1,6 +1,17 @@
 # Search Content Opportunities
 
-This backlog records search intents that are weak or absent in the current site. It is based on the repository content audit and wider Manchester search results checked in July 2026. Search Console data should decide the final order when available.
+This backlog records search intents that are weak or absent in the current site. It is based on the repository content audit and wider Manchester search results checked in July 2026, refreshed in October 2026 after the site-wide accuracy sweep. Search Console data should decide the final order when available.
+
+## Completed October 2026
+
+Accuracy sweep across every service, location and guide page (commits a94df64..adb2042 on the jscpd branch):
+
+- Regulatory claims now carry their authoritative source where they are made: gov.uk electrical-safety-standards guidance cited on all 15 EICR pages that state the landlord rules (five-year rule, £30,000 penalties, 28-day deadlines), Warm Homes Plan cited for the EPC C 2030 rental deadline, HMRC Notice 708/6 linked from the 0% VAT page, gov.uk announcement linked for the 2030 pure-petrol/diesel phase-out, and bolton.gov.uk linked for the £2.3M/400-chargepoint programme.
+- EV chargepoint grant corrected site-wide: 75% up to £500 and only for renters and flat owners (was "up to £350" with no eligibility, and Radcliffe had eligibility backwards). Verified against the gov.uk page, updated 2026.
+- Unsupported figures removed rather than cited: Bolton average prices (£168k/£282k), Chadderton £215k, Lees £240k, Royton "40% growth" twice, "adds 4% to property value" four times, "£350-570 a year" savings ranges three times, Saddleworth "£3,000-5,000 rewires", the untraceable "70% of electrical fires pre-1950" and "one in five new builds" statistics, and Bolton's "fewer than 80 public charge points". Replaced with modelled-on-your-actual-bills wording; word counts held.
+- Deduplication: 48 jscpd clones (33 markdown) rewritten so sibling pages no longer share paragraphs; keyword counts and word counts verified at or above the originals against the branch parent on every changed page. jscpd now gates at min-tokens 38 with a ratchet and a hardening rule that the scan must actually complete.
+- Fire-statistics and housing-percentage claims (Bolton "70% terraced/semi", "over 200 cotton mills") softened to qualitative wording because no primary source was findable.
+- Property-price figures in Saddleworth's and Royton's EICR page headings/intros removed (the August sweep had caught the location hubs; this pass caught the service pages).
 
 ## Completed August 2026
 
@@ -143,6 +154,18 @@ Recommended page: a case-study-led guide using the rooflight, flat-roof and diff
 - solar panel cost Manchester and home battery cost Manchester: needs current quote data and explicit assumptions, not old social-media package prices.
 - G98, G99 and DNO application guidance: useful informational intent that can support the main solar and commercial pages.
 - where can a home battery be installed: a safety-led guide should cite current manufacturer and industry guidance.
+
+## Accuracy Watchlist
+
+Date-sensitive claims that will need refreshing, and evidence gaps found during the October sweep:
+
+- **0% VAT ends 31 March 2027.** The VAT page already explains the return to 5%; when the date approaches, check the are-solar-panels-worth-it page, the index money section, the solar-and-battery costs section and every solar location page's 0% VAT section, which repeat the date.
+- **ECO4 / Oldham LA Flex ends December 2026.** `/lees/` states the £31,000 LA Flex threshold and the December 2026 end date; verified against current sources in October 2026, but the page will be stale from January 2027.
+- **EV chargepoint grant amount and eligibility.** Corrected to "75% up to £500, renters and flat owners" in October 2026 after the April 2026 rise; the amount has changed before, so re-check the gov.uk page when writing new EV copy.
+- **EPC C for privately rented homes, 1 October 2030.** Confirmed in the January 2026 Warm Homes Plan response; four EICR pages cite it. Watch for implementing regulations.
+- **"OZEV-approved" installer status** is claimed on several EV pages but is not in the credentials list or verifiable from the repository. Confirm with Ashley that the OZEV installer authorisation is current before it is cited anywhere new; otherwise reword to the chargepoint models' approval.
+- **Pre-existing "we've installed" claims** on the Blackley, Middleton and Bury solar pages (and Bury commercial) assert completed local jobs without repository evidence. They predate the October sweep and were left alone; apply the same suitability-knowledge treatment as the Bolton and Stockport fixes when the pages are next edited.
+- **"Same day certificates"** appears on every EICR page and is a service commitment, not a verified fact. Confirm the turnaround is still true before it is used in paid copy.
 
 ## Do Not Target Without Evidence
 

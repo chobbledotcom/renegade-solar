@@ -28,7 +28,7 @@ Older stone cottages and converted farm buildings in particular can harbour surp
 
 ## For landlords
 
-**EICR every 5 years plus one for each new tenant.** Fines up to £30,000 for non-compliance. If you're also considering [solar panels](/saddleworth/solar-and-battery-installations/) to meet the [2030 EPC C deadline](https://www.gov.uk/government/publications/warm-homes-plan), start with an EICR - it identifies whether consumer unit or wiring upgrades are needed before a solar system can be connected.
+**[EICR every 5 years plus one for each new tenant](https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-and-social-rented-sectors-guidance).** Fines up to £30,000 for non-compliance. If you're also considering [solar panels](/saddleworth/solar-and-battery-installations/) to meet the [2030 EPC C deadline](https://www.gov.uk/government/publications/warm-homes-plan), start with an EICR - it identifies whether consumer unit or wiring upgrades are needed before a solar system can be connected.
 
 ## What's included
 
