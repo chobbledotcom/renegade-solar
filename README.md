@@ -2,6 +2,16 @@
 
 The website for Renegade Solar - solar panel installers in Manchester
 
+## Development
+
+The dev environment is managed with [devenv](https://devenv.sh). The shell
+activates when you cd into the repo (trust it once with `devenv allow`), or
+run one-off commands through `devenv shell`.
+
+- `npm run serve`, or `devenv up` - start the development server
+- `npm run build` - build the site in the `_site` directory
+- `lint` - lint all files using Biome
+
 **Important Files:**
 
 - ["To Do" list](TODO.md)
