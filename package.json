@@ -10,9 +10,9 @@
 		"fetch-facebook-posts": "node scripts/fetch-facebook-posts.js",
 		"fetch-instagram-posts": "node scripts/fetch-instagram-posts.js",
 		"update-reviews": "node scripts/merge-reviews.js",
-		"grade-pages": "node scripts/grade-pages.js",
-		"serpdino": "node scripts/serpdino.js",
-		"correlate-search": "node scripts/correlate-search.js",
+		"grade-pages": "node scripts/grade-pages.mjs",
+		"serpdino": "node scripts/serpdino.mjs",
+		"correlate-search": "node scripts/correlate-search.mjs",
 		"optimise-photos": "node scripts/optimise-photos.mjs",
 		"cpd": "node scripts/cpd.mjs --min-tokens 38",
 		"cpd:ratchet": "node scripts/cpd-ratchet.mjs"

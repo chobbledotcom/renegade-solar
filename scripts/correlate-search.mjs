@@ -1,13 +1,13 @@
 #!/usr/bin/env node
 
 /**
- * correlate-search.js — joins the page grades from grade-pages.js to the
+ * correlate-search.mjs — joins the page grades from grade-pages.mjs to the
  * SerpDino SERP tracking for renegade-solar.co.uk, so each graded page
  * carries the keywords it ranks for (or should rank for) and each tracked
  * keyword points at the page that owns it.
  *
  * Inputs:
- *   grades/page-grades.csv      written by: node scripts/grade-pages.js --csv grades/page-grades.csv
+ *   grades/page-grades.csv      written by: node scripts/grade-pages.mjs --csv grades/page-grades.csv
  *   SerpDino API                key from /run/secrets/serpdino_api_key
  *
  * Outputs:
@@ -20,13 +20,13 @@
  *                                   page's grade.
  *
  * Usage:
- *   node scripts/correlate-search.js [grades/page-grades.csv]
+ *   node scripts/correlate-search.mjs [grades/page-grades.csv]
  */
 
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join, resolve } from "node:path";
 import { pathToFileURL } from "node:url";
-import { fetchKeywordRows } from "./serpdino.js";
+import { fetchKeywordRows } from "./serpdino.mjs";
 
 const ROOT = resolve(import.meta.dirname, "..");
 const GRADES_DIR = join(ROOT, "grades");
@@ -168,7 +168,7 @@ const intendedUrl = (keyword) => {
 // Keywords whose best page is a specific guide, brand or accreditation page
 // rather than a service x location page. Checked before the generic mapping.
 const SPECIAL_TARGETS = [
-  { re: /worth it|payback|how much do solar panels save|how long do solar panels last/i, url: "/are-solar-panels-worth-it-manchester/" },
+  { re: /worth it|payback|solar panel cost|how much do solar panels cost|cost of solar panels|how much do solar panels save|how long do solar panels last/i, url: "/are-solar-panels-worth-it-manchester/" },
   { re: /off peak electricity/i, url: "/octopus-go-battery-installer-manchester/" },
   { re: /off grid|off-grid/i, url: "/off-grid-solar-installations-manchester/" },
   { re: /\btrina\b/i, url: "/trina-vertex-solar-panel-installer-manchester/" },
@@ -204,7 +204,7 @@ const main = async () => {
   const argCsv = process.argv.slice(2).find((a) => a.endsWith(".csv"));
 const gradesFile = resolve(ROOT, argCsv ?? "grades/page-grades.csv");
   if (!existsSync(gradesFile)) {
-    console.error(`missing ${gradesFile} - run node scripts/grade-pages.js --csv grades/page-grades.csv first`);
+    console.error(`missing ${gradesFile} - run node scripts/grade-pages.mjs --csv grades/page-grades.csv first`);
     return 1;
   }
   const pages = parseCsvFile(gradesFile).map((r) => ({

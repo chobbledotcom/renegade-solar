@@ -21,13 +21,13 @@ faqs:
   - q: "Do I need planning permission for solar panels in Manchester?"
     a: "Many homes fall under permitted development and need no application. Conservation areas, listed buildings, some flat roofs and unusual mounting positions can need extra checks, and those rules are set locally. We will tell you where your property stands before you commit to anything, but where a council needs consulting we cannot promise the outcome in advance."
   - q: "Can I have a home battery without solar panels?"
-    a: "Yes. A standalone battery charges at off-peak rates on a time-of-use tariff and runs the house through the expensive hours, which works even where the roof is shaded, not yours to alter, or you would rather keep it panel-free. Our home battery installation page has the detail."
+    a: "Yes. A standalone battery charges at off-peak rates on a time-of-use tariff and runs the house through the expensive hours, which works even where the roof is shaded, not yours to alter, or you would rather keep it panel-free. Our [home battery installation](/services/home-battery-installations/) page has the detail."
 hero_sub: "MCS-certified solar panel and battery installation across Greater Manchester, designed by a qualified electrician for pitched, flat and awkward roofs."
 ---
 
 # Solar and Battery Installations in Manchester
 
-We design and install solar and battery systems for homes across Greater Manchester. The work involves the roof, the wiring, the consumer unit and - with a battery - careful sizing to match how the household uses electricity. That's why it matters that an electrician designs the system and oversees the install, rather than a salesperson with a script.
+We design and install solar and battery systems for homes across Greater Manchester. The work involves the roof, the wiring, the consumer unit and - with a [battery](/services/home-battery-installations/) - careful sizing to match how the household uses electricity. That's why it matters that an electrician designs the system and oversees the install, rather than a salesperson with a script.
 
 Ashley's the person you'll be dealing with from start to finish. He'll do the survey, design the system, oversee the install, and be the one you ring afterwards if there's a question.
 
@@ -94,7 +94,7 @@ We don't publish package prices, because an honest number depends on the roof, t
 - **0% VAT applies to domestic solar panel and battery installations until 31 March 2027**, including standalone batteries. Nothing to claim - the rate is applied to the installation itself. See [0% VAT on solar panels and batteries](/0-vat-solar-panels-batteries-manchester/) for what qualifies.
 - **Surplus electricity can be exported for payment** under the Smart Export Guarantee. Because we're MCS-certified, your system qualifies, and we handle the documentation your supplier needs.
 - **Warm Homes: Local Grant** - a government scheme for lower-income households in England whose homes carry an EPC rating of D to G. It is means-tested and delivered through local authorities, and what it covers changes, so check current eligibility at [gov.uk](https://www.gov.uk/apply-warm-homes-local-grant) rather than taking anyone's word for it, ours included.
-- **A battery pairs with a time-of-use tariff** - charging overnight at off-peak rates, running the house through the expensive hours, and storing solar surplus when the panels are making more than the house is using. We set the tariff integration up as part of the install; the [Octopus Go battery installer](/octopus-go-battery-installer-manchester/) page explains how that works in practice.
+- **A [battery](/services/home-battery-installations/) pairs with a time-of-use tariff** - charging overnight at off-peak rates, running the house through the expensive hours, and storing solar surplus when the panels are making more than the house is using. We set the tariff integration up as part of the install; the [Octopus Go battery installer](/octopus-go-battery-installer-manchester/) page explains how that works in practice.
 - **Every quote shows its assumptions** - the generation model, the usage it's based on, and the tariff logic behind the payback figures. If you're weighing the whole thing up, our [are solar panels worth it in Manchester](/are-solar-panels-worth-it-manchester/) page sets out how we work the numbers honestly.
 
 ## Aftercare

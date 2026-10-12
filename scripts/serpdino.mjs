@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * serpdino.js — SerpDino (serpdino.com) SERP tracker API client for Renegade
+ * serpdino.mjs — SerpDino (serpdino.com) SERP tracker API client for Renegade
  * Solar.
  *
  * This repo is Renegade Solar's. The script therefore targets the Renegade
@@ -16,14 +16,14 @@
  * Docs: https://serpdino.com/api-docs
  *
  * Examples (project id optional — defaults to Renegade Solar):
- *   node scripts/serpdino.js projects
- *   node scripts/serpdino.js keywords
- *   node scripts/serpdino.js keywords --match "solar"
- *   node scripts/serpdino.js refresh --match "solar"
- *   node scripts/serpdino.js refresh --all --dry-run
- *   node scripts/serpdino.js positions --match "solar"
+ *   node scripts/serpdino.mjs projects
+ *   node scripts/serpdino.mjs keywords
+ *   node scripts/serpdino.mjs keywords --match "solar"
+ *   node scripts/serpdino.mjs refresh --match "solar"
+ *   node scripts/serpdino.mjs refresh --all --dry-run
+ *   node scripts/serpdino.mjs positions --match "solar"
  *   # other projects are read-only-blocked unless you opt in:
- *   node scripts/serpdino.js positions <other-project-id> --any-project
+ *   node scripts/serpdino.mjs positions <other-project-id> --any-project
  */
 
 import { readFileSync } from "node:fs";
@@ -244,7 +244,7 @@ const parseArgv = (argv) => {
 };
 
 /** Every tracked keyword for the Renegade Solar project, best-first:
- * { keyword, position, url }. Shared with correlate-search.js. */
+ * { keyword, position, url }. Shared with correlate-search.mjs. */
 export const fetchKeywordRows = async () => {
   const key = loadKey();
   const proj = await resolveProject(key, {});
@@ -262,7 +262,7 @@ export const fetchKeywordRows = async () => {
 };
 
 const usage = () =>
-  console.log(`Usage: node scripts/serpdino.js <command> [options]
+  console.log(`Usage: node scripts/serpdino.mjs <command> [options]
 
 Commands:
   projects                list all SerpDino projects

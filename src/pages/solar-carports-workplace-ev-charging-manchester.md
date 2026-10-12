@@ -83,6 +83,14 @@ Renegade Solar is run by Ashley Merritt, a qualified NAPIT-registered electricia
 
 That commercial background matters when the chargers have to connect to an existing distribution system without disrupting normal operations. Installation can be planned around shifts, deliveries and customer access at offices, factories, warehouses and retail sites, with testing and certification completed as part of the work.
 
+## What our customers say
+
+Home EV charger installations get the same survey-first treatment as the commercial jobs, and this Trustpilot review covers one end to end:
+
+> "Ashley fitted solar panels, battery, inverter, and EV charger at our house, as well as some assorted electrical jobs at the same time. Ashley came round to our house for an assessment beforehand and talked us through everything and what to expect beforehand, and once we had agreed everything, the install was arranged in about a month, taking a week to complete. Him and Connor were both really friendly to have around and even managed to get an extra panel on the roof than the initial design. We are very happy with the install and will be using them again next time we need anything electrical in the house looked at. Can't recommend them enough!"
+>
+> Tim Volker, Trustpilot
+
 ## Credentials and coverage
 
 - [NAPIT registered](/accreditations/napit/) electrician (66870)

@@ -29,6 +29,12 @@ Surplus generation can be exported for payment under the Smart Export Guarantee.
 
 Domestic solar panel and battery installations carry 0% VAT until 31 March 2027, when the rate is due to return to 5%. There's nothing to claim - the rate applies to the installation when one contractor supplies and fits it. We've written the detail up on our [0% VAT on solar panels and batteries](/0-vat-solar-panels-batteries-manchester/) page, including how standalone batteries qualify.
 
+## Payback period, savings and panel lifespan
+
+The questions that decide the sums: how much do solar panels save, how long they take to pay back, and how long the panels last. The honest answers connect. How much they save depends on your roof, your usage pattern and your tariff, which is why we model the payback period for your property with the assumptions shown rather than quoting a national average. For a well-sized system with sensible daytime use, payback lands over a number of years rather than decades - and once the system has paid for itself, the same generation carries on at no fuel cost.
+
+Panel lifespan is the easy part. The [DMEGC](/dmegc-solar-panel-installer-manchester/) and [Trina Vertex](/trina-vertex-solar-panel-installer-manchester/) panels we fit carry manufacturer performance warranties of 25 to 30 years, and both have long track records on Manchester roofs. Batteries are warranted separately - at least 5 years on everything we install - and two years of routine maintenance is included as standard.
+
 ## What we won't tell you
 
 We don't quote "save 70% on your bills" or "payback in five years guaranteed", because those numbers depend on the roof and the household, and nobody honest can know them in advance. What we do is model the system against your actual usage and tariff, show you the assumptions, and leave the decision with you. If the numbers don't work for your property, we'll say so - a system that doesn't pay for itself isn't a bargain at any price.

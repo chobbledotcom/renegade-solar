@@ -11,23 +11,23 @@ tags: [hale]
 gallery_tags: [solar-panels]
 ---
 
-We provide [solar panel and battery installations](/services/solar-and-battery-installations/) throughout Hale. We're an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, and we're familiar with the area's substantial properties and conservation area considerations around South Hale.
+We fit [solar panel and battery installations](/services/solar-and-battery-installations/) across Hale. We're an [MCS-certified installer](/accreditations/mcs-certified/) based in North Manchester, and we're familiar with the area's substantial properties and conservation area considerations around South Hale.
 
 Every installation is personally overseen by [Ashley Merritt](/about/), a fully qualified electrician with over 20 years of experience. When you enquire with us, an electrician surveys your property and designs your system - we don't employ salespeople. The same in-house team installs everything, and your installer commissions the system before handover.
 
 ## Hale properties and solar suitability
 
-Hale's housing stock is predominantly larger detached properties with generous roof space - ideal for solar installations. Many homes here have higher energy consumption than the Manchester average, which means solar and battery systems can make a significant difference to energy bills.
+Hale's housing stock is predominantly larger detached properties with generous roof space, which gives a solar array room to work. Many homes here use more electricity than the Manchester average, which is exactly where solar and battery systems earn their keep on the bills.
 
 [Period properties](/solar-panels-conservation-areas-period-properties/) are common throughout Hale, including Victorian and Edwardian homes with slate roofs. These often have good south-facing aspects and solid roof structures. We're experienced with these property types and can advise on what's realistic for your specific situation.
 
-Parts of Hale fall within conservation areas, including South Hale and the area around Hale Station. This doesn't mean you can't have solar panels, but it does mean we need to consider visibility and may need to discuss planning with the local authority. As part of our MCS accreditation, we're trained on working with conservation requirements and can advise on what's achievable.
+Parts of Hale fall within conservation areas, including South Hale and the area around Hale Station. This doesn't mean you can't have solar panels, but it does mean we need to consider visibility and may need to discuss planning with the local authority. We'll walk you through what's achievable on your specific property before anything is quoted, so there are no surprises later.
 
 ## System sizing for larger properties
 
-Hale properties typically suit larger systems than average. A 3-bed semi might take a 4kW system; many Hale homes are better served by 6-10kW or more (15-25 panels) to match their higher energy consumption. We size around your usage and roof rather than a headline panel count - a custom assessment for every property, weighing roof orientation, shading, and your energy consumption patterns.
+Hale properties typically suit larger systems than average. A 3-bed semi might take a 4kW system; many Hale homes are better served by 6-10kW or more (15-25 panels) to match their higher energy consumption. We size around your usage and roof rather than a headline panel count - the survey settles it: usage, roof orientation, shading, and what the roof will actually take, worked out on the property rather than off a package list.
 
-We've recently completed a 110-panel commercial solar installation and we're quoting on a 600-panel one, so bigger domestic installations are well within our experience - three-phase supplies and larger inverters included.
+We've recently completed a 110-panel [commercial solar installation](/services/commercial-solar-installations/) and we're quoting on a 600-panel one, so bigger domestic installations are well within our experience - three-phase supplies and larger inverters included.
 
 ## Equipment we install
 
@@ -45,15 +45,23 @@ With us, whoever surveys your property knows the technical requirements inside o
 
 ## Battery storage and time-of-use tariffs
 
-Plenty of Hale customers pair solar panels with battery storage. The battery charges from the panels during the day and from cheap overnight electricity on tariffs like Octopus Intelligent or Octopus Go, then covers the expensive morning and evening peaks.
+Plenty of Hale customers pair solar panels with [battery storage](/services/home-battery-installations/). The battery charges from the panels during the day and from cheap overnight electricity on tariffs like Octopus Intelligent or Octopus Go, then covers the expensive morning and evening peaks.
 
 Where a roof isn't the best home for panels - shading, orientation, or conservation area restrictions can all get in the way - our [battery-only solutions](/services/home-battery-installations/) work well with the same time-of-use tariffs.
 
 We're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), vetted by Octopus for installation quality.
 
+## What our customers say
+
+Hale homes tend to want the bigger installations, and this Checkatrade review describes one from the customer's side:
+
+> "From the start he was extremely friendly, knew what he was talking about and we agreed a price, he came did the job it took longer than he expected but he didn't complain he took his time to finish the job and came back next day to help set it up, I was thoroughly impressed"
+>
+> Jeremy A, Checkatrade, M45
+
 ## EPC ratings and property value
 
-A solar panel installation improves a property's EPC rating by generating renewable energy from your own roof, and a stronger rating can help its value. Any property sold or let needs an EPC these days, and in Hale's part of the market that's worth factoring in alongside the energy savings.
+A solar panel installation lifts a property's EPC rating because the house generates some of its own electricity, and a stronger rating helps when the house is sold or let. In Hale's part of the market that's worth factoring in alongside the energy savings.
 
 ## 0% VAT on solar and battery
 

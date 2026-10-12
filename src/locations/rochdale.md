@@ -19,7 +19,7 @@ faqs:
 
 # Solar and Electrical Services in Rochdale and Heywood
 
-We cover Rochdale, Heywood and the surrounding borough for solar panels, battery storage, EV chargers and general electrical work. Our base is in Prestwich, and the route over runs through [Middleton](/middleton/), where we're already working most weeks, so getting out to a survey in Rochdale or Heywood is a straightforward trip rather than an expedition.
+We cover Rochdale, Heywood and the surrounding borough for solar panels, [battery storage](/services/home-battery-installations/), [EV chargers](/services/electric-vehicle-charger-installations/) and general electrical work. Our base is in Prestwich, and the route over runs through [Middleton](/middleton/), where we're already working most weeks, so getting out to a survey in Rochdale or Heywood is a straightforward trip rather than an expedition.
 
 Ashley does every survey himself and is on site for the install. As an MCS-certified electrician, he'll tell you what'll work on your roof and what won't, and the numbers you get will be modelled on your property and usage rather than read off a brochure.
 
@@ -43,6 +43,6 @@ That project is a fair picture of what an electrician-led outfit brings to a sel
 
 ## Electrical safety in older properties
 
-Plenty of the housing stock across Rochdale and Heywood has been wired and rewired in stages over decades, and the state of the consumer unit and earthing affects what can be added to it. An [EICR electrical safety inspection](/services/electrical-safety-inspections-eicr/) costs £150 plus VAT for any domestic property, with same day certificates - a sensible starting point before adding solar, a battery or a charger to an older installation. We carry out remedial work and consumer unit upgrades too.
+Plenty of the housing stock across Rochdale and Heywood has been wired and rewired in stages over decades, and the state of the consumer unit and earthing affects what can be added to it. An [EICR electrical safety inspection](/services/electrical-safety-inspections-eicr/) costs £150 plus VAT for any domestic property, with same day certificates - a sensible starting point before adding solar, a battery or a charger to an older installation. We carry out the remedial work and consumer unit upgrades those inspections usually call for, in-house.
 
 Whether it's panels on a terrace in Wardle, a battery in a semi in Norden or a whole-house electrical design in Heywood, it's the same in-house team doing the work. [Get in touch](/contact/) and we'll come out and put real numbers in front of you.

@@ -23,16 +23,16 @@ run one-off commands through `devenv shell`.
 
 **Page grading and search tracking:**
 
-- `node scripts/grade-pages.js` grades every page against AGENTS.md - mechanical
+- `node scripts/grade-pages.mjs` grades every page against AGENTS.md - mechanical
   checks in code (meta quality, thin copy, place-name coverage, no-go phrases,
   MCS number accuracy, review-figure drift, broken links) plus Jev fuzzy
   checks (the four EEAT dimensions, searcher intent, quotable answers,
   scaled content, house voice) against Google's quality rater guidance.
   `--csv grades/page-grades.csv` for a sweep, a source path or URL for a
   single page report, `--no-jev` for mechanical only.
-- `node scripts/serpdino.js positions` reads the tracked keyword positions
+- `node scripts/serpdino.mjs positions` reads the tracked keyword positions
   from the Renegade Solar SerpDino project.
-- `node scripts/correlate-search.js` joins the grades CSV to the SERP
+- `node scripts/correlate-search.mjs` joins the grades CSV to the SERP
   tracking and writes `grades/page-grades-search.csv` (per page: grade,
   ranking keywords, best position, keywords it should own but doesn't) and
   `grades/tracked-keywords.csv` (per keyword: position, ranking URL, owning

@@ -20,14 +20,14 @@
  * judged against the page's real family.
  *
  * Usage:
- *   node scripts/grade-pages.js                                 # every gradeable page
- *   node scripts/grade-pages.js src/locations/prestwich.md      # one page, full report
- *   node scripts/grade-pages.js /prestwich/                     # URL shorthand
- *   node scripts/grade-pages.js locations                       # a directory
- *   node scripts/grade-pages.js --type local --limit 10         # sweep one type
- *   node scripts/grade-pages.js --csv renegade-grades.csv       # batch to CSV
- *   node scripts/grade-pages.js <target> --no-jev               # mechanical only
- *   node scripts/grade-pages.js --list-checks
+ *   node scripts/grade-pages.mjs                                 # every gradeable page
+ *   node scripts/grade-pages.mjs src/locations/prestwich.md      # one page, full report
+ *   node scripts/grade-pages.mjs /prestwich/                     # URL shorthand
+ *   node scripts/grade-pages.mjs locations                       # a directory
+ *   node scripts/grade-pages.mjs --type local --limit 10         # sweep one type
+ *   node scripts/grade-pages.mjs --csv renegade-grades.csv       # batch to CSV
+ *   node scripts/grade-pages.mjs <target> --no-jev               # mechanical only
+ *   node scripts/grade-pages.mjs --list-checks
  *
  * The Jev key comes from OPENCODE_API_KEY (or .env) or
  * /run/secrets/opencode_api_key. Grading fails loudly without it; --no-jev
@@ -2105,7 +2105,7 @@ const selectPool = (opts, urlMap) => {
 // ---------------------------------------------------------------------------
 
 const usage = () =>
-  console.log(`Usage: node scripts/grade-pages.js [targets] [options]
+  console.log(`Usage: node scripts/grade-pages.mjs [targets] [options]
 
 Targets (default: every gradeable page):
   src/locations/prestwich.md         a source file

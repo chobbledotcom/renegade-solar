@@ -11,34 +11,37 @@ url: https://www.trustmark.org.uk/firms/Renegade%20Electrical%20Ltd-3127838-M24%
 ---
 # TrustMark Accredited Solar Installer
 
-TrustMark is the UK Government's only endorsed quality scheme for tradespeople working on your home, providing robust consumer protection and quality assurance.
+TrustMark is the UK Government's only endorsed quality scheme for tradespeople working in and around your home. We're a North Manchester firm, registered under Renegade Electrical Ltd, firm reference 3127838, and you can check that listing on the [TrustMark website](https://www.trustmark.org.uk/firms/Renegade%20Electrical%20Ltd-3127838-M24%202SY?id=d1ab999e-e5ee-4710-a5d0-5629c24a2034) yourself before you commit to anything.
 
-## Why Our TrustMark Accreditation Matters
+## What the registration actually covers
 
-When choosing Renegade Solar as your TrustMark Registered Business, you benefit from:
+TrustMark-registered firms are assessed against government standards for technical competence, customer service and trading practices, not on how well they write a brochure. In practice that means:
 
-### Government-Backed Assurance
+- work completed to TrustMark's quality standards, with the certification to match
+- clear quotes and contracts, with no moving figures halfway through a job
+- proper insurance and financial protection arrangements for the work
+- access to TrustMark's independent dispute resolution service if something ever goes wrong
 
-TrustMark approval means we've been assessed against strict government standards for technical competence, customer service and trading practices.
+The last one matters more than people think. Most solar jobs go smoothly, but when you're letting a firm loose on your roof and your consumer unit, you want to know there's a route that doesn't depend on the installer's goodwill.
 
-### Financial Protection
+## Why an electrician's registration carries weight
 
-TrustMark businesses offer financial protection mechanisms and proper contracts, safeguarding your investment in solar technology.
+Ashley Merritt has been a qualified electrician for over 20 years, including more than ten on commercial projects, and he established Renegade Electrical in 2018 before expanding into [solar panel installation](/services/solar-and-battery-installations/), [battery storage](/services/home-battery-installations/) and [EV chargers](/services/electric-vehicle-charger-installations/). The TrustMark registration covers that electrical foundation. Alongside it sits [MCS certification](/accreditations/mcs-certified/) (NAP-66870), which qualifies your installation for Smart Export Guarantee payments, [NAPIT registration](/accreditations/napit/) (member 66870), and the [HIES Consumer Code](/accreditations/hies-consumer-code/) for consumer protection on the renewable side.
 
-### Dispute Resolution
+The practical upshot: the person who surveys your roof is the qualified electrician who designs the system, oversees the installation and signs off the certification. The work is done by our in-house team, with only the specialist scaffolding subcontracted. Nobody hands your job to a crew you've never spoken to.
 
-In the unlikely event of any issues, TrustMark provides access to an independent dispute resolution service for additional peace of mind.
+## What our customers say
 
-### Quality Workmanship
+> "Ashley did an amazing job for us upgrading our solar panels after 3 had failed. Turned up on time and worked so hard putting right the botch job we had previously. Over the moon with the savings I have already made producing more power and reducing daily usage would highly recommend."
+>
+> Checkatrade review, Manchester M9
 
-Our TrustMark status confirms we follow defined quality standards specifically for renewable energy installations across North Manchester.
+Putting right another firm's work is exactly the sort of job quality schemes like TrustMark exist for. We'd rather not inherit them, but when we do, the customer gets the same quality of workmanship as a fresh installation.
 
-### Ethical Trading
+## Where we work
 
-TrustMark businesses commit to transparent pricing, clear communication and responsible practices throughout your solar installation project.
+We're based in North Manchester, around Prestwich and Middleton, carrying out TrustMark-registered electrical work alongside MCS-certified solar and battery installations across Greater Manchester. That mix matters for older North Manchester housing: consumer units, earthing and wiring from past decades all get checked properly before anything new goes on the wall.
 
-The TrustMark logo represents a significant advantage over non-accredited installers - it's your guarantee that your North Manchester solar installation will be completed professionally, safely and to the highest standards.
+## Talk to us
 
-## Ready for Quality-Assured Solar Installation?
-
-[Contact us today](/contact/) to discuss your solar panel requirements and experience the confidence that comes with choosing a TrustMark accredited installer in North Manchester.
+If you want a solar or battery installation backed by TrustMark, the government-endorsed quality scheme, [get in touch](/contact/) and Ashley will come out, survey the property properly and put real numbers in front of you.
