@@ -1,4 +1,4 @@
-#!/usr/bin/env bun
+#!/usr/bin/env node
 
 /**
  * correlate-search.js — joins the page grades from grade-pages.js to the
@@ -7,7 +7,7 @@
  * keyword points at the page that owns it.
  *
  * Inputs:
- *   grades/page-grades.csv      written by: bun scripts/grade-pages.js --csv grades/page-grades.csv
+ *   grades/page-grades.csv      written by: node scripts/grade-pages.js --csv grades/page-grades.csv
  *   SerpDino API                key from /run/secrets/serpdino_api_key
  *
  * Outputs:
@@ -20,14 +20,15 @@
  *                                   page's grade.
  *
  * Usage:
- *   bun scripts/correlate-search.js [grades/page-grades.csv]
+ *   node scripts/correlate-search.js [grades/page-grades.csv]
  */
 
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join, resolve } from "node:path";
+import { pathToFileURL } from "node:url";
 import { fetchKeywordRows } from "./serpdino.js";
 
-const ROOT = resolve(import.meta.dir, "..");
+const ROOT = resolve(import.meta.dirname, "..");
 const GRADES_DIR = join(ROOT, "grades");
 
 const stripSite = (url) =>
@@ -203,7 +204,7 @@ const main = async () => {
   const argCsv = process.argv.slice(2).find((a) => a.endsWith(".csv"));
 const gradesFile = resolve(ROOT, argCsv ?? "grades/page-grades.csv");
   if (!existsSync(gradesFile)) {
-    console.error(`missing ${gradesFile} - run bun scripts/grade-pages.js --csv grades/page-grades.csv first`);
+    console.error(`missing ${gradesFile} - run node scripts/grade-pages.js --csv grades/page-grades.csv first`);
     return 1;
   }
   const pages = parseCsvFile(gradesFile).map((r) => ({
@@ -347,6 +348,6 @@ const gradesFile = resolve(ROOT, argCsv ?? "grades/page-grades.csv");
  * without spawning a process. */
 export const runCorrelation = main;
 
-if (import.meta.main) {
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   process.exit(await main());
 }

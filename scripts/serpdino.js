@@ -1,4 +1,4 @@
-#!/usr/bin/env bun
+#!/usr/bin/env node
 
 /**
  * serpdino.js — SerpDino (serpdino.com) SERP tracker API client for Renegade
@@ -16,19 +16,20 @@
  * Docs: https://serpdino.com/api-docs
  *
  * Examples (project id optional — defaults to Renegade Solar):
- *   bun scripts/serpdino.js projects
- *   bun scripts/serpdino.js keywords
- *   bun scripts/serpdino.js keywords --match "solar"
- *   bun scripts/serpdino.js refresh --match "solar"
- *   bun scripts/serpdino.js refresh --all --dry-run
- *   bun scripts/serpdino.js positions --match "solar"
+ *   node scripts/serpdino.js projects
+ *   node scripts/serpdino.js keywords
+ *   node scripts/serpdino.js keywords --match "solar"
+ *   node scripts/serpdino.js refresh --match "solar"
+ *   node scripts/serpdino.js refresh --all --dry-run
+ *   node scripts/serpdino.js positions --match "solar"
  *   # other projects are read-only-blocked unless you opt in:
- *   bun scripts/serpdino.js positions <other-project-id> --any-project
+ *   node scripts/serpdino.js positions <other-project-id> --any-project
  */
 
 import { readFileSync } from "node:fs";
 import process from "node:process";
 import { parseArgs } from "node:util";
+import { pathToFileURL } from "node:url";
 
 const BASE = "https://serpdino.com";
 const KEY_FILE = "/run/secrets/serpdino_api_key";
@@ -261,7 +262,7 @@ export const fetchKeywordRows = async () => {
 };
 
 const usage = () =>
-  console.log(`Usage: bun scripts/serpdino.js <command> [options]
+  console.log(`Usage: node scripts/serpdino.js <command> [options]
 
 Commands:
   projects                list all SerpDino projects
@@ -303,6 +304,6 @@ const main = async () => {
   }
 };
 
-if (import.meta.main) {
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   process.exit(await main());
 }

@@ -1,4 +1,4 @@
-#!/usr/bin/env bun
+#!/usr/bin/env node
 
 /**
  * Grades every Renegade Solar page against the house rules in AGENTS.md.
@@ -20,14 +20,14 @@
  * judged against the page's real family.
  *
  * Usage:
- *   bun scripts/grade-pages.js                                 # every gradeable page
- *   bun scripts/grade-pages.js src/locations/prestwich.md      # one page, full report
- *   bun scripts/grade-pages.js /prestwich/                     # URL shorthand
- *   bun scripts/grade-pages.js locations                       # a directory
- *   bun scripts/grade-pages.js --type local --limit 10         # sweep one type
- *   bun scripts/grade-pages.js --csv renegade-grades.csv       # batch to CSV
- *   bun scripts/grade-pages.js <target> --no-jev               # mechanical only
- *   bun scripts/grade-pages.js --list-checks
+ *   node scripts/grade-pages.js                                 # every gradeable page
+ *   node scripts/grade-pages.js src/locations/prestwich.md      # one page, full report
+ *   node scripts/grade-pages.js /prestwich/                     # URL shorthand
+ *   node scripts/grade-pages.js locations                       # a directory
+ *   node scripts/grade-pages.js --type local --limit 10         # sweep one type
+ *   node scripts/grade-pages.js --csv renegade-grades.csv       # batch to CSV
+ *   node scripts/grade-pages.js <target> --no-jev               # mechanical only
+ *   node scripts/grade-pages.js --list-checks
  *
  * The Jev key comes from OPENCODE_API_KEY (or .env) or
  * /run/secrets/opencode_api_key. Grading fails loudly without it; --no-jev
@@ -37,8 +37,10 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join, relative, resolve } from "node:path";
 import process from "node:process";
+import { pathToFileURL } from "node:url";
+import { parse as parseYaml } from "yaml";
 
-const ROOT = resolve(import.meta.dir, "..");
+const ROOT = resolve(import.meta.dirname, "..");
 const SITE_URL = "https://www.renegade-solar.co.uk";
 const ZEN_SYSTEMONE_URL = "https://opencode.ai/zen/v1/systemone";
 const DEFAULT_MODEL = "jev-1.13";
@@ -137,7 +139,7 @@ const allContentFiles = () =>
 const splitFrontmatter = (text) => {
   const m = text.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?/);
   if (!m) return { data: {}, body: text };
-  return { data: Bun.YAML.parse(m[1]) ?? {}, body: text.slice(m[0].length) };
+  return { data: parseYaml(m[1]) ?? {}, body: text.slice(m[0].length) };
 };
 
 const readPage = (file) => splitFrontmatter(readFileSync(file, "utf8"));
@@ -2103,7 +2105,7 @@ const selectPool = (opts, urlMap) => {
 // ---------------------------------------------------------------------------
 
 const usage = () =>
-  console.log(`Usage: bun scripts/grade-pages.js [targets] [options]
+  console.log(`Usage: node scripts/grade-pages.js [targets] [options]
 
 Targets (default: every gradeable page):
   src/locations/prestwich.md         a source file
@@ -2235,6 +2237,6 @@ export const runGrader = async (argv = []) => {
 
 export { extractPage };
 
-if (import.meta.main) {
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   process.exit(await runGrader(process.argv.slice(2)));
 }
