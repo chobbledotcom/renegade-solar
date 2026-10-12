@@ -29,7 +29,7 @@
 import { readFileSync } from "node:fs";
 import process from "node:process";
 import { parseArgs } from "node:util";
-import { pathToFileURL } from "node:url";
+import { runIfMain } from "./run-if-main.mjs";
 
 const BASE = "https://serpdino.com";
 const KEY_FILE = "/run/secrets/serpdino_api_key";
@@ -152,6 +152,28 @@ const filterKeywords = (keywords, match) => {
   );
 };
 
+/** Resolve the target project and return its keywords, optionally filtered
+ * by --match. Shared by the keywords and positions commands. */
+const loadFilteredKeywords = async (key, opts) => {
+  const proj = await resolveProject(key, opts);
+  return filterKeywords(await getKeywords(key, proj._id), opts.match);
+};
+
+/** Best position per keyword, sorted best-first. Shared by the positions
+ * command and fetchKeywordRows. */
+const positionRows = (keywords) => {
+  const rows = Object.entries(keywords).map(([, entry]) => ({
+    ...latestPosition(entry),
+    value: keywordValue(entry),
+  }));
+  rows.sort(
+    (a, b) =>
+      (a.position === null) - (b.position === null) ||
+      (a.position ?? 0) - (b.position ?? 0),
+  );
+  return rows;
+};
+
 const cmdProjects = async (key) => {
   for (const p of await getProjects(key)) {
     const mark = p._id === PROJECT_ID ? " <- Renegade" : "";
@@ -163,8 +185,7 @@ const cmdProjects = async (key) => {
 };
 
 const cmdKeywords = async (key, opts) => {
-  const proj = await resolveProject(key, opts);
-  const keywords = filterKeywords(await getKeywords(key, proj._id), opts.match);
+  const keywords = await loadFilteredKeywords(key, opts);
   const entries = Object.entries(keywords).sort((a, b) =>
     keywordValue(a[1]).localeCompare(keywordValue(b[1])),
   );
@@ -207,17 +228,7 @@ const cmdRefresh = async (key, opts) => {
 };
 
 const cmdPositions = async (key, opts) => {
-  const proj = await resolveProject(key, opts);
-  const keywords = filterKeywords(await getKeywords(key, proj._id), opts.match);
-  const rows = Object.entries(keywords).map(([, entry]) => ({
-    ...latestPosition(entry),
-    value: keywordValue(entry),
-  }));
-  rows.sort(
-    (a, b) =>
-      (a.position === null) - (b.position === null) ||
-      (a.position ?? 0) - (b.position ?? 0),
-  );
+  const rows = positionRows(await loadFilteredKeywords(key, opts));
   for (const row of rows) {
     const posText = row.position === null ? "not in top" : `#${row.position}`;
     const url = row.url
@@ -248,17 +259,7 @@ const parseArgv = (argv) => {
 export const fetchKeywordRows = async () => {
   const key = loadKey();
   const proj = await resolveProject(key, {});
-  const keywords = await getKeywords(key, proj._id);
-  const rows = Object.entries(keywords).map(([, entry]) => ({
-    ...latestPosition(entry),
-    value: keywordValue(entry),
-  }));
-  rows.sort(
-    (a, b) =>
-      (a.position === null) - (b.position === null) ||
-      (a.position ?? 0) - (b.position ?? 0),
-  );
-  return rows;
+  return positionRows(await getKeywords(key, proj._id));
 };
 
 const usage = () =>
@@ -304,6 +305,4 @@ const main = async () => {
   }
 };
 
-if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
-  process.exit(await main());
-}
+await runIfMain(main, import.meta.url);

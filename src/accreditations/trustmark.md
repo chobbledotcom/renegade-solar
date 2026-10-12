@@ -32,11 +32,13 @@ The practical upshot: the person who surveys your roof is the qualified electric
 
 ## What our customers say
 
-> "Ashley did an amazing job for us upgrading our solar panels after 3 had failed. Turned up on time and worked so hard putting right the botch job we had previously. Over the moon with the savings I have already made producing more power and reducing daily usage would highly recommend."
+> "If you want a small company you can trust to give good advice and do a quality job look no further.
 >
-> Checkatrade review, Manchester M9
+> We were recommended by a friend and were not disappointed with this small but efficient company. They gave good advice carried out superb work and charged a reasonable price. Our daughter was so impressed they are having the same system installed."
+>
+> Trustpilot review, June 2026
 
-Putting right another firm's work is exactly the sort of job quality schemes like TrustMark exist for. We'd rather not inherit them, but when we do, the customer gets the same quality of workmanship as a fresh installation.
+Reviews like that are earned job by job. TrustMark is the outside check that the same standards - technical competence, customer service and fair trading - are applied to every job, not just the ones a customer writes in about.
 
 ## Where we work
 

@@ -25,7 +25,7 @@
 
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join, resolve } from "node:path";
-import { pathToFileURL } from "node:url";
+import { runIfMain } from "./run-if-main.mjs";
 import { fetchKeywordRows } from "./serpdino.mjs";
 
 const ROOT = resolve(import.meta.dirname, "..");
@@ -348,6 +348,4 @@ const gradesFile = resolve(ROOT, argCsv ?? "grades/page-grades.csv");
  * without spawning a process. */
 export const runCorrelation = main;
 
-if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
-  process.exit(await main());
-}
+await runIfMain(main, import.meta.url);
