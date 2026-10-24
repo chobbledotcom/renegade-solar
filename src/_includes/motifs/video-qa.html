@@ -16,14 +16,20 @@ Set these immediately before including, they are cleared again at the end:
   vq_embed_only - true to render only the 16:9 player frame with no band, for
                   dropping the video inside page prose (used by the video page)
 
+The iframe is deliberately click-to-play: Bunny's embed player autoplays by
+default (autoplay=true), so autoplay=false and preload=false are set to keep
+it silent until the viewer presses play. Don't remove them unless Ashley asks
+for autoplay back; `autoplay` is also left out of the allow attribute so the
+browser blocks it as well.
+
   {% assign vq_variant = "dark" %}
   {% include "motifs/video-qa.html" %}
 {%- endcomment -%}
 {%- capture vq_frame -%}
 <div class="video-frame">
-  <iframe src="https://player.mediadelivery.net/embed/417100/025ca079-fc4e-439c-8621-c1526465c3c5?preload=true&amp;responsive=true"
+  <iframe src="https://player.mediadelivery.net/embed/417100/025ca079-fc4e-439c-8621-c1526465c3c5?autoplay=false&amp;preload=false"
     title="Video: Ashley from Renegade Solar answers the five questions customers ask about solar panels, batteries and EV chargers"
-    loading="lazy" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;"
+    loading="lazy" allow="encrypted-media; picture-in-picture; fullscreen;"
     allowfullscreen="true"></iframe>
 </div>
 {%- endcapture -%}

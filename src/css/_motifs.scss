@@ -1392,7 +1392,7 @@ footer a:focus-visible {
   position: relative;
   max-width: 860px;
   margin: 0 auto;
-  padding-top: 56.25%;
+  aspect-ratio: 16 / 9;
   border-radius: var(--radius);
   overflow: hidden;
   background: var(--ink-900);
