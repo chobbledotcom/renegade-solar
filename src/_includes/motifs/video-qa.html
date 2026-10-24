@@ -1,0 +1,75 @@
+{%- comment -%}
+Ashley's own-house walkthrough video, hosted on Bunny Stream. He answers the
+five questions customers ask most - cost, how it works, savings, where the kit
+goes, how long it takes - with warranty and the free quote at the end. Source
+record: research/ashley-house-walkthrough-video.md.
+
+Set these immediately before including, they are cleared again at the end:
+  vq_eyebrow    - eyebrow pill text (optional, defaults to "On camera")
+  vq_title      - section heading (optional, default set below)
+  vq_sub        - standfirst under the heading (optional, default set below)
+  vq_variant    - "white" | "tint" | "dark" band behind it (optional, default tint)
+  vq_link_url   - where the button points (optional, defaults to the full page)
+  vq_link_text  - button label (optional, default set below)
+  vq_no_link    - true to drop the button (optional)
+  vq_no_chips   - true to drop the five-question chip run (optional)
+  vq_embed_only - true to render only the 16:9 player frame with no band, for
+                  dropping the video inside page prose (used by the video page)
+
+  {% assign vq_variant = "dark" %}
+  {% include "motifs/video-qa.html" %}
+{%- endcomment -%}
+{%- capture vq_frame -%}
+<div class="video-frame">
+  <iframe src="https://player.mediadelivery.net/embed/417100/025ca079-fc4e-439c-8621-c1526465c3c5?preload=true&amp;responsive=true"
+    title="Video: Ashley from Renegade Solar answers the five questions customers ask about solar panels, batteries and EV chargers"
+    loading="lazy" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;"
+    allowfullscreen="true"></iframe>
+</div>
+{%- endcapture -%}
+{%- if vq_embed_only -%}
+{{ vq_frame }}
+{%- else -%}
+{%- case vq_variant -%}
+  {%- when "dark" -%}{%- assign vq_band = "band band--dark" -%}
+  {%- when "white" -%}{%- assign vq_band = "band band--white" -%}
+  {%- when "green" -%}{%- assign vq_band = "band band--green" -%}
+  {%- else -%}{%- assign vq_band = "band band--green-tint" -%}
+{%- endcase -%}
+<section class="{{ vq_band }}">
+  <div class="band__inner">
+    {% assign sh_eyebrow = vq_eyebrow | default: "On camera" %}
+    {% assign sh_title = vq_title | default: "The five questions every solar customer asks" %}
+    {% assign sh_sub = vq_sub | default: "Ashley answers them in four minutes, walking round his own setup - the panels, the batteries, the inverter and the EV charger on his own house. No script, and the questions come from Conor, another electrician here." %}
+    {% include "motifs/section-head.html" %}
+    <div class="video-qa">
+      {{ vq_frame }}
+      {%- unless vq_no_chips -%}
+      <ul class="chip-list" role="list">
+        <li><span class="chip-plain">1. What does it actually cost?</span></li>
+        <li><span class="chip-plain">2. How does it all work?</span></li>
+        <li><span class="chip-plain">3. How much will I save?</span></li>
+        <li><span class="chip-plain">4. Where does the kit go?</span></li>
+        <li><span class="chip-plain">5. How long does it take?</span></li>
+      </ul>
+      {%- endunless -%}
+      {%- unless vq_no_link -%}
+      <p class="video-qa__cta">
+        <a class="btn primary-btn" href="{{ vq_link_url | default: '/solar-questions-answered-manchester/' }}">{{ vq_link_text | default: "Read the answers written down" }}</a>
+      </p>
+      {%- endunless -%}
+    </div>
+  </div>
+</section>
+{%- endif -%}
+{%- assign vq_eyebrow = nil -%}
+{%- assign vq_title = nil -%}
+{%- assign vq_sub = nil -%}
+{%- assign vq_variant = nil -%}
+{%- assign vq_band = nil -%}
+{%- assign vq_link_url = nil -%}
+{%- assign vq_link_text = nil -%}
+{%- assign vq_no_link = nil -%}
+{%- assign vq_no_chips = nil -%}
+{%- assign vq_embed_only = nil -%}
+{%- assign vq_frame = nil -%}

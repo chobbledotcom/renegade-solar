@@ -40,6 +40,8 @@ Battery sizes range from 6kWh upwards depending on your home's energy use. Durin
 
 Recent solar and battery customers mention the same things in reviews: the system being sized around the actual house, the battery and inverter being explained clearly, and the work being finished within the agreed timescale. On one awkward 1930s bungalow, Ashley designed a ten-panel system where other quotes only managed six or eight panels from satellite images, then worked with AlphaESS technical support during commissioning to resolve setup issues before handover.
 
+Ashley runs the same idea at his own house: two batteries giving 10kWh of storage with the inverter outside on the gable end, keeping the indoors for living in. He walks round it and answers the common questions in [his video walkthrough](/solar-questions-answered-manchester/).
+
 ## Smart features and integration
 
 ### Home automation compatibility

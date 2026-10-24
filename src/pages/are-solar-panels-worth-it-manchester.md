@@ -33,7 +33,7 @@ Domestic solar panel and battery installations carry 0% VAT until 31 March 2027,
 
 The questions that decide the sums: how much do solar panels save, how long they take to pay back, and how long the panels last. The honest answers connect. How much they save depends on your roof, your usage pattern and your tariff, which is why we model the payback period for your property with the assumptions shown rather than quoting a national average. For a well-sized system with sensible daytime use, payback lands over a number of years rather than decades - and once the system has paid for itself, the same generation carries on at no fuel cost.
 
-Panel lifespan is the easy part. The [DMEGC](/dmegc-solar-panel-installer-manchester/) and [Trina Vertex](/trina-vertex-solar-panel-installer-manchester/) panels we fit carry manufacturer performance warranties of 25 to 30 years, and both have long track records on Manchester roofs. Batteries are warranted separately - at least 5 years on everything we install - and two years of routine maintenance is included as standard.
+Panel lifespan is the easy part. The [DMEGC](/dmegc-solar-panel-installer-manchester/) and [Trina Vertex](/trina-vertex-solar-panel-installer-manchester/) panels we fit carry manufacturer performance warranties of 25 to 30 years, and both have long track records on Manchester roofs. Batteries are warranted separately - at least 5 years on everything we install - and two years of routine maintenance is included as standard. Ashley has also answered the five questions customers ask most on camera, walking round [his own solar and battery setup](/solar-questions-answered-manchester/).
 
 ## What we won't tell you
 

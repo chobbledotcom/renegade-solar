@@ -12,4 +12,4 @@ noindex: false
 
 # Our Services
 
-We work across Greater Manchester and the wider North West. The main services we offer are below.
+We work across Greater Manchester and the wider North West. The main services we offer are below. If you would rather see the work than read about it, Ashley answers the five questions customers ask most - cost, savings, where the kit goes - in a [walkthrough of his own solar, battery and EV charger setup](/solar-questions-answered-manchester/).

@@ -20,6 +20,8 @@ That covers the case for hiring Ashley specifically rather than a generic GivEne
 
 A 20+ year electrician fits your kit, not just a solar installer, which matters because the cabling, earthing and protection underneath the system is what determines whether it runs safely for the next 15 years. Ashley is the named director of Renegade Solar and surveys, designs, installs and commissions every job himself, so there's no salesperson involvement and no install crew you've never met. When something needs adjusting five years from now, you'll get the person who installed it. And if GivEnergy isn't the best fit for your property compared to a different brand or configuration, he'll say so up front.
 
+If you want to see the approach rather than read about it, [Ashley answers the five questions customers ask most on video](/solar-questions-answered-manchester/), walking round his own solar, battery and EV charger setup.
+
 ## What GivEnergy makes
 
 GivEnergy is a UK-based home energy company. Their product range covers:

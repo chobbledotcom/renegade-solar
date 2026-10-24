@@ -24,7 +24,7 @@ That covers the year-round case for a Solax battery: solar surplus stored in sum
 
 ## Why hire Ashley for a Solax install
 
-The wiring back into your consumer unit determines whether the system works safely for the next 15 years, and Ashley has been on the electrical side for two decades. He surveys, designs, installs, commissions and handles aftercare himself, so the same person who quotes you is the person fitting the kit and the person you ring if something needs sorting later. Battery sizing comes from your actual usage rather than a sales target, and his experience with [GivEnergy](/givenergy-installer-manchester/), [Octopus chargers](/octopus-go-battery-installer-manchester/) and other ecosystems means proper integration with your existing kit.
+The wiring back into your consumer unit determines whether the system works safely for the next 15 years, and Ashley has been on the electrical side for two decades. He surveys, designs, installs, commissions and handles aftercare himself, so the same person who quotes you is the person fitting the kit and the person you ring if something needs sorting later. Battery sizing comes from your actual usage rather than a sales target, and his experience with [GivEnergy](/givenergy-installer-manchester/), [Octopus chargers](/octopus-go-battery-installer-manchester/) and other ecosystems means proper integration with your existing kit. To see how one of these systems sits on a real house, [watch Ashley walk round his own setup](/solar-questions-answered-manchester/) and answer the questions customers ask most.
 
 ## What Solax makes
 

@@ -83,6 +83,8 @@ The M9 job above was a repair we inherited. This one is the difficult-roof story
 
 Installs are carried out with minimal disruption to your home or business by the in-house Renegade Solar team. We only subcontract the specialist scaffolding, and Ashley coordinates that around the roof and electrical work rather than leaving the customer to organise separate contractors.
 
+Ashley's own house runs the full setup - black panels with bird mesh underneath, two batteries totalling 10kWh, the inverter outside on the gable end and the EV charger - and he answers the five questions customers ask most on camera in [his walkthrough of his own home](/solar-questions-answered-manchester/).
+
 ## Commissioning
 
 The system gets tested and commissioned to the relevant safety and regulatory standards, and you'll receive the full electrical certification. The grid connection paperwork is part of the handover too - small systems are notified to the network operator under G98 and larger ones need a G99 application first, which we prepare and manage. We've written up [how G98 and G99 applications work](/g98-g99-dno-applications-solar-manchester/) if you want the detail.

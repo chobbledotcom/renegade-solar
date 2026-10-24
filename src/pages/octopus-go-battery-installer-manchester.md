@@ -38,6 +38,8 @@ Off-peak electricity prices can be as little as **one third** the price of peak 
 
 The exact savings depend on your usage pattern, your battery size and the tariff rates at the time, but the principle is simple: **the bigger the gap between off-peak and peak prices, the more a battery saves you**. With the way energy prices have moved over recent years, that gap has been substantial.
 
+Ashley's own house is the worked example: batteries charging overnight, an electric van on the same cheap rate, and a bill of about £40 a month - all in [his four-minute walkthrough](/solar-questions-answered-manchester/).
+
 ## Real customer feedback
 
 One of Ashley's [Prestwich](/prestwich/solar-and-battery-installations/) customers running a 6kWh Solax battery system put it like this:

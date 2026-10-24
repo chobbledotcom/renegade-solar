@@ -20,6 +20,8 @@ The cabling, earthing and protection that the battery sits behind is what determ
 
 That manufacturer support has mattered on real jobs. A recent AlphaESS customer had an awkward 1930s bungalow roof with obstructions, and previous quotes had only managed six or eight panels from satellite images. Ashley visited, measured properly, designed a ten-panel system across the usable roof sections, then worked through commissioning issues with AlphaESS technical support before handing over the app, certification and Octopus export paperwork.
 
+He runs the kit at home as well: solar panels, battery storage and an AlphaESS EV charger, all of it walked round and explained in [his video walkthrough of his own setup](/solar-questions-answered-manchester/).
+
 ## What AlphaESS makes
 
 AlphaESS is a global energy storage provider with installations in 140+ countries, with a UK office in Dursley, Gloucestershire. Their residential range includes:

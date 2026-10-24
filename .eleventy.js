@@ -15,6 +15,11 @@ module.exports = async (eleventyConfig) => {
 
 	// Ignore SCSS partials (files starting with underscore)
 	eleventyConfig.ignores.add("src/**/_*.scss");
+
+	// Internal research notes (research/*.md) are knowledgebase material for
+	// AGENTS.md, never site pages. They sit outside the src input dir today;
+	// this keeps them out of the pipeline even if that ever changes.
+	eleventyConfig.ignores.add("research/**");
 	eleventyConfig.addPassthroughCopy({
 		"src/assets/favicon.ico": "/favicon.ico",
 	});

@@ -30,6 +30,8 @@ Customers deal directly with me, and the installation work is completed by our i
 
 The team fits solar panels around rooflights, on slate roofs and across flat roofs broken up by roof lanterns and parapets. Those awkward layouts need careful measuring, sensible access and a panel arrangement designed for the actual Manchester property rather than an empty rectangle on a screen.
 
+If you would rather watch than read, Ashley answers the questions customers ask most - cost, savings, where the batteries go - in a four-minute walk round [his own solar and battery setup](/solar-questions-answered-manchester/).
+
 <div class="center">
   <img src="/assets/photos/residential-solar-installation-wide-view.jpg" alt="Residential solar panel installation on a traditional brick property with Renegade Solar scaffolding" eleventy:ignore />
 </div>

@@ -151,6 +151,28 @@ The post describes a completed combined ground-mounted and roof-mounted solar in
 
 Do not repeat the claim that the customer will pay nothing for electricity for 20 years. That is a promotional prediction, not measured evidence.
 
+### Ashley's Own House Walkthrough Video
+
+Source: `research/ashley-house-walkthrough-video.md`. Video hosted by Ashley on Bunny Stream (library `417100`, id `025ca079-fc4e-439c-8621-c1526465c3c5`, 4m20s), embedded site-wide via `src/_includes/motifs/video-qa.html` and written up at `/solar-questions-answered-manchester/`.
+
+Ashley walks round his own house with electrician Conor answering the five questions customers ask most. Supported claims, all first-hand about his own property and bills:
+
+- Ashley's own home runs the setup Renegade sells: all-black on-roof panels with bird mesh protection underneath, two batteries giving 10kWh of battery storage, inverter and batteries mounted on the outside gable end, and an Alpha ESS EV charger used with the electric van.
+- Daily pattern: the batteries charge from the panels while the house is out during the day, run the house in the evening, and can charge overnight from the grid at off-peak rates.
+- Equipment does not have to go indoors. Batteries are no longer fitted in lofts because of lithium battery safety guidance; outside on a gable end is the safest and best place.
+- His own bill is around £40 a month including the standing charge, with the electric van charging overnight. The diesel van it replaced cost about £250 a month in fuel.
+- Warranty terms as he states them on camera: 10 years on batteries, 10 years on inverters, 30 years on panels, and a 5 year workmanship warranty from Renegade.
+- Cost range he gives customers: £6,000 to £12,000 depending on panel count and battery capacity. The design and quote are free.
+- Install timing as described on camera: typically done within a week, starting Monday and finishing by Friday, sometimes earlier, weather permitting.
+- The company is not affiliated to any manufacturer, the team are electricians rather than just solar installers, and they are local - Middleton, Moston, Chadderton and Blackley.
+
+Limits:
+
+- The transcript is auto-generated with mis-transcriptions. "£350 to charge it overnight" is almost certainly £3.50; do not publish that figure until Ashley confirms it. The standing charge checks out: his "£15 a month" sits just under the Ofgem price-cap GB average electricity standing charge of 54.83p a day (about £17 a month, Direct Debit, 1 October to 31 December 2026, checked 2026-10-24), so "about £15 a month" is publishable as his figure with the Ofgem page linked for context. The garbled "£150 a day" (probably "about 50p a day") stays unpublished. Full flags are in the source record.
+- The 60-80% bill-saving range is Ashley's doorstep answer with the system-size dependency attached. Quote it attributed to him and his own house, as the video page does; it must not become a site-wide savings promise, and it sits alongside the "what we won't tell you" wording on the are-solar-panels-worth-it page.
+- The house's town is never stated in the video. Do not name it.
+- "30 years on panels" is his on-camera summary; elsewhere the site says manufacturer warranties of 25 to 30 years. Keep the video version attributed.
+
 ### Local Community Support
 
 Sources:
@@ -222,6 +244,7 @@ Use modelled estimates for the customer's actual property and tariff where possi
 - A qualified electrician leading solar, battery, EV charger, inspection, and broader electrical work.
 - Experience with standard pitched roofs, flat roofs, rooflights, irregular layouts, mixed roof sections, ground arrays, new builds, renovations, and traditional Greater Manchester properties.
 - Clear design, monitoring, commissioning, and aftercare.
+- Ashley's own house runs the same setup he installs - panels, 10kWh of battery storage and an EV charger - and he uses it to show customers real bills and real kit.
 - Local presence and community activity rather than a national lead-generation operation.
 - Current reviews from Checkatrade, Google, Facebook, and Trustpilot, attributed to their real source.
 

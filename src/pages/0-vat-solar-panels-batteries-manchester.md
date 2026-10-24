@@ -23,6 +23,8 @@ There's no form to fill in and nothing to claim back. The installer applies the 
 
 0% VAT is a straight saving against what the same installation would cost at 20%. On a £7,000 solar and battery installation, the difference between the two rates is £1,400. Against the 5% reduced rate that follows the relief, it's £350. Those are tax sums, not performance claims - what your installation actually costs and saves depends on the system and the property, and we model that from your usage as part of the quote.
 
+Wondering what the bills look like afterwards? Ashley shows his own - about £40 a month with the standing charge included - in [his video walkthrough](/solar-questions-answered-manchester/).
+
 ## What happens in 2027
 
 The zero rate runs until 31 March 2027. From 1 April 2027, qualifying installations are due to return to the 5% reduced rate rather than 20%. Nothing is being claimed back from anyone and existing installations aren't affected - it's the rate charged on new installations that changes. If you're planning solar or a battery anyway, the calendar is worth knowing about.
