@@ -12,6 +12,8 @@ The same handful of questions come up on almost every [solar panel installation]
 {% assign vq_embed_only = true %}
 {% include "motifs/video-qa.html" %}
 
+<script type="application/ld+json">{{ page.url | videoJsonLd: site.url }}</script>
+
 ## What does a solar panel installation actually cost?
 
 Between £6,000 and £12,000 covers most homes, depending on how many panels the roof takes and how many batteries you want installed. It depends on your particular home as well - which way the roof faces, what else is on it, how the cable run goes. The honest number comes from the survey, not a price list. Ashley designs the system and sends the quote for free; you only need to send your name, address and email. Domestic solar panel and battery installations also carry [0% VAT](/0-vat-solar-panels-batteries-manchester/) until 31 March 2027, applied on the invoice rather than claimed back, so the total on the quote is the total you pay. What drives the cost is covered on the [solar and battery installation](/services/solar-and-battery-installations/) page.
@@ -22,7 +24,7 @@ There are no moving parts. The panels generate renewable energy from daylight, c
 
 ## How much will you save?
 
-Ashley's answer on camera is between 60 and 80% of the electricity bill written off, depending on how many panels and batteries you go for. Then he does what he would rather do anyway and shows his own bills. His house runs at about £40 a month with the standing charge in it, and that includes charging the electric van. The diesel van it replaced was costing about £250 a month in fuel, and the van now charges overnight when electricity is cheap.
+Ashley's answer on camera is between 60 and 80% of the electricity bill written off, depending on how many panels and batteries you go for. Then he says the bills themselves are going up on the site so you can see the savings for yourself. His house runs at about £40 a month with the standing charge in it, and that includes charging the electric van. The diesel van it replaced was costing about £250 a month in fuel, and the van now charges overnight when electricity is cheap.
 
 Here are two of them - his actual Octopus statements, with the account number and address blanked out. The summer bill shows £52.23 of electricity for the month, standing charge included, plus £20.63 of gas. The statement after it carries a £94.15 credit for the electricity the roof sent back to the grid between July and October. Net the export off the import and add the gas, and you land close to the "about £40 a month" he mentions on camera.
 

@@ -148,6 +148,38 @@ module.exports = async (eleventyConfig) => {
 		});
 	});
 
+	// VideoObject JSON-LD for Ashley's house walkthrough video. Emitted from
+	// the video page only - the motif also renders on the homepage and every
+	// location page, and each of those claiming the video would dilute it.
+	// uploadDate is the day the video page went live (commit 1377932);
+	// duration is the 4m20s runtime recorded in
+	// research/ashley-house-walkthrough-video.md.
+	eleventyConfig.addFilter("videoJsonLd", (pageUrl, siteUrl) => {
+		const base = `${siteUrl || ""}${pageUrl || ""}`;
+		if (!base || base === "/") return "";
+
+		return JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "VideoObject",
+			name: "Solar and Battery Questions Answered",
+			description:
+				"Ashley Merritt from Renegade Solar walks round his own house answering the five questions solar customers ask most: what an installation costs, how the panels, batteries and EV charger work together, what the bills look like afterwards, where the kit goes, and how long it takes.",
+			thumbnailUrl: [
+				`${siteUrl || ""}/assets/photos/ashley-house-walkthrough-video.jpg`,
+			],
+			uploadDate: "2026-10-24",
+			duration: "PT4M20S",
+			embedUrl:
+				"https://player.mediadelivery.net/embed/417100/025ca079-fc4e-439c-8621-c1526465c3c5",
+			url: base,
+			publisher: {
+				"@type": "Organization",
+				name: "Renegade Solar",
+				url: "https://www.renegade-solar.co.uk",
+			},
+		});
+	});
+
 	// LocalBusiness JSON-LD, emitted from the base layout on every page.
 	// Ratings and counts come from src/_data/reviews.json rather than being
 	// hardcoded, so the monthly review update flows through on its own.

@@ -23,7 +23,7 @@ There's no form to fill in and nothing to claim back. The installer applies the 
 
 0% VAT is a straight saving against what the same installation would cost at 20%. On a £7,000 solar and battery installation, the difference between the two rates is £1,400. Against the 5% reduced rate that follows the relief, it's £350. Those are tax sums, not performance claims - what your installation actually costs and saves depends on the system and the property, and we model that from your usage as part of the quote.
 
-Wondering what the bills look like afterwards? Ashley shows his own - about £40 a month with the standing charge included - in [his video walkthrough](/solar-questions-answered-manchester/).
+Wondering what the bills look like afterwards? Ashley's own comes to about £40 a month with the standing charge included - he talks through it in [his video walkthrough](/solar-questions-answered-manchester/), and the actual Octopus bills are on that page.
 
 ## What happens in 2027
 
