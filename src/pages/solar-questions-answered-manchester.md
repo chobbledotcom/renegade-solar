@@ -24,6 +24,16 @@ There are no moving parts. The panels generate renewable energy from daylight, c
 
 Ashley's answer on camera is between 60 and 80% of the electricity bill written off, depending on how many panels and batteries you go for. Then he does what he would rather do anyway and shows his own bills. His house runs at about £40 a month with the standing charge in it, and that includes charging the electric van. The diesel van it replaced was costing about £250 a month in fuel, and the van now charges overnight when electricity is cheap.
 
+Here are two of them - his actual Octopus statements, with the account number and address blanked out. The summer bill shows £52.23 of electricity for the month, standing charge included, plus £20.63 of gas. The statement after it carries a £94.15 credit for the electricity the roof sent back to the grid between July and October. Net the export off the import and add the gas, and you land close to the "about £40 a month" he mentions on camera.
+
+<div class="center">
+  <a href="/assets/photos/bills/bill-sept-2026-grass.jpg"><img src="/assets/photos/bills/bill-sept-2026-grass.jpg" alt="Ashley's Octopus Energy bill showing £52.23 of electricity and £20.63 of gas for the month, lying on trimmed grass" eleventy:ignore /></a>
+</div>
+
+<div class="center">
+  <a href="/assets/photos/bills/bill-oct-2026-grass.jpg"><img src="/assets/photos/bills/bill-oct-2026-grass.jpg" alt="Ashley's Octopus Energy statement showing a £94.15 export credit for electricity sent to the grid between July and October 2026, lying on trimmed grass" eleventy:ignore /></a>
+</div>
+
 One part of the bill the panels do not touch is the standing charge - the fixed daily amount every household pays before a single unit is used. Ashley's runs about £15 a month, which lands close to the national average: the [Ofgem price cap](https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-unit-rates-and-standing-charges) puts the average electricity standing charge at 54.83p a day for 1 October to 31 December 2026, roughly £17 a month depending on region and supplier. That part of the bill stays whether the roof has panels on it or not.
 
 That is one house with one usage pattern, not a promise about yours. The survey models the numbers for your actual roof, tariff and usage, and [are solar panels worth it in Manchester?](/are-solar-panels-worth-it-manchester/) covers the honest maths behind the percentages.
