@@ -14,7 +14,7 @@ faqs:
   - q: Do you offer EICR inspections for Trafford landlords?
     a: Yes. It's £150 plus VAT with same day certificates. The inspection works out whether the consumer unit, earthing and bonding have kept pace with any renovation work the property has been through, which matters on the older housing stock round here.
   - q: Will I be dealing with a call centre?
-    a: No. Customers deal directly with Ashley rather than a call centre or commissioned sales team, and he does every survey himself. The installation is carried out by the in-house team, with only the specialist scaffolding subcontracted.
+    a: No. Customers deal directly with Ashley rather than a call centre or commissioned sales team, and he does every survey himself. The installation is carried out by the in-house team, with only the scaffolding and roofing outsourced and the roofing done by the same firm for years.
 ---
 
 # Trafford

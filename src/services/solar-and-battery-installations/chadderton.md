@@ -13,7 +13,7 @@ gallery_tags: [solar-panels, failsworth]
 
 We're Renegade Solar, based in Prestwich and already installing solar in neighbouring [Failsworth](/failsworth/solar-and-battery-installations/). Chadderton's next door - we know the area and the housing stock.
 
-Ashley, a qualified electrician, handles your survey and installation personally. No sales team, no subcontractors.
+Ashley, a qualified electrician, handles your survey and installation personally. There's no sales team, and the electrical work is never subcontracted.
 
 ## Chadderton properties
 

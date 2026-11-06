@@ -34,7 +34,7 @@ For Bolton properties where a conventional solar installation isn't practical - 
 
 ## Local Knowledge & Personal Service
 
-The difference between us and the national outfits is simple: Ashley oversees your installation from first survey through design, installation, and commissioning. He's the person you deal with throughout - no salesperson, no call centre. Your installer is also the same person from day one: only the scaffolding is subcontracted, and everything else is done by our own team.
+The difference between us and the national outfits is simple: Ashley oversees your installation from first survey through design, installation, and commissioning. He's the person you deal with throughout - no salesperson, no call centre. Your installer is also the same person from day one: scaffolding and roofing are the only parts outsourced, and everything else is done by our own team.
 
 We know Bolton's planning requirements and the borough's mix of terraces, semis, and larger detached homes, from Farnworth to Bromley Cross, and which installation approach suits each. Most installations are finished within a week, with minimal disruption.
 

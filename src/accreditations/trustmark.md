@@ -28,7 +28,7 @@ The last one matters more than people think. Most solar jobs go smoothly, but wh
 
 Ashley Merritt has been a qualified electrician for over 20 years, including more than ten on commercial projects, and he established Renegade Electrical in 2018 before expanding into [solar panel installation](/services/solar-and-battery-installations/), [battery storage](/services/home-battery-installations/) and [EV chargers](/services/electric-vehicle-charger-installations/). The TrustMark registration covers that electrical foundation. Alongside it sits [MCS certification](/accreditations/mcs-certified/) (NAP-66870), which qualifies your installation for Smart Export Guarantee payments, [NAPIT registration](/accreditations/napit/) (member 66870), and the [HIES Consumer Code](/accreditations/hies-consumer-code/) for consumer protection on the renewable side.
 
-The practical upshot: the person who surveys your roof is the qualified electrician who designs the system, oversees the installation and signs off the certification. The work is done by our in-house team, with only the specialist scaffolding subcontracted. Nobody hands your job to a crew you've never spoken to.
+The practical upshot: the person who surveys your roof is the qualified electrician who designs the system, oversees the installation and signs off the certification. The work is done by our in-house team. Scaffolding and roofing are the only parts we outsource, with the roofing done by the same firm for years, and nobody hands your job to a crew you've never spoken to.
 
 ## What our customers say
 

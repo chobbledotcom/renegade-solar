@@ -14,7 +14,7 @@ faqs:
   - q: Our garden has mature trees. Will they ruin solar generation?
     a: They change the maths rather than ending it. What matters is where shade actually falls across the year, so we measure it, and sometimes the answer is splitting the array across two roof faces or choosing the face with the honest generation rather than the biggest one.
   - q: Do you subcontract installations in Bramhall?
-    a: Only the scaffolding, which is specialist work. Ashley does the survey and the in-house team carries out the electrical installation, so the person who looked at your roof is the person overseeing the job.
+    a: Only the scaffolding and roofing, and the roofing firm has worked with us for years. Ashley does the survey and the in-house team carries out the electrical installation, so the person who looked at your roof is the person overseeing the job.
 ---
 
 # Bramhall

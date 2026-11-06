@@ -14,7 +14,7 @@ faqs:
   - q: We keep two or more cars on the drive. Can you charge them all?
     a: Yes. EV charger installation is often part of the same job as the solar and battery work on bigger drives round Hale Barns, set up so the cars charge on the cheap overnight window and, where the equipment supports it, on surplus solar.
   - q: Are you a local company or a national firm?
-    a: We're local. Renegade Solar is based in Prestwich, across the M60 from Hale Barns, and Ashley does every survey himself. The installation team is in-house, with specialist scaffolding the only part that gets subcontracted.
+    a: We're local. Renegade Solar is based in Prestwich, across the M60 from Hale Barns, and Ashley does every survey himself. The installation team is in-house, with scaffolding and roofing the only parts that get outsourced and the roofing done by the same firm for years.
 ---
 
 # Hale Barns

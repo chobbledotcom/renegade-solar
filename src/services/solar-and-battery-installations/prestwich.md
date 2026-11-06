@@ -47,7 +47,7 @@ We fitted [solar panels and a battery](/services/solar-and-battery-installations
 
 ## A Trustworthy Local Electricity Expert
 
-When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved. Ashley personally oversees every installation with no subcontractors.
+When you enquire with us, a qualified electrician surveys your property and designs your system - not a salesperson. This means you get honest, technically informed advice from someone who understands the work involved. Ashley personally oversees every installation, and the only outside trades are the scaffolders and the roofing firm we've used for years.
 
 Our years of experience working in Prestwich mean we:
 

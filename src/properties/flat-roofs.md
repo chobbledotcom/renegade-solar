@@ -81,6 +81,6 @@ For larger warehouses, factories, hotels and retail units, see the dedicated [fl
 - Experience with domestic solar, battery storage, off-grid systems and commercial solar
 - Two years routine maintenance included on every installation
 
-Installation is completed by the in-house Renegade Solar team. Specialist scaffolding is the only subcontracted element when a flat roof cannot be accessed safely without it.
+Installation is completed by the in-house Renegade Solar team. Scaffolding and roofing are the only parts we outsource, and the roofing has been done by the same firm for years.
 
 [Get in touch](/contact/) if you have a flat roof, garage roof, extension or outbuilding and want to know whether solar is worth fitting.

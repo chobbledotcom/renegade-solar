@@ -38,7 +38,7 @@ That future planning is still relevant. Bringing an electrician in early allows 
 
 ## Who carried out the work
 
-Customers deal directly with Ashley, who remains involved in survey, design, electrical installation, commissioning and aftercare. Installation work is handled by the in-house Renegade team; only specialist scaffolding is subcontracted where a project requires it.
+Customers deal directly with Ashley, who remains involved in survey, design, electrical installation, commissioning and aftercare. Installation work is handled by the in-house Renegade team; only scaffolding and roofing are outsourced, and the roofing has been done by the same firm for years.
 
 For the customer, having the electrical installation designed as one job meant the lighting, sockets, controls and future low-carbon equipment could be planned together before the house was finished. It also left one direct contact for the design, installation, commissioning and later questions.
 

@@ -34,6 +34,6 @@ Bolton has plenty of roofs already carrying panels fitted by other firms. A retr
 
 ## Why use a local Bolton battery installer
 
-You deal with Ashley from the first survey to commissioning and aftercare. The installation is done by our in-house team; only the scaffolding is ever subcontracted, and a battery-only job usually doesn't need any. We hold MCS certification (number [NAP-66870](https://mcscertified.com/find-an-installer/)), [NAPIT registration](/accreditations/napit/) and [HIES consumer protection](/accreditations/hies-consumer-code/), and we're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/).
+You deal with Ashley from the first survey to commissioning and aftercare. The installation is done by our in-house team; scaffolding and roofing are the only parts ever outsourced, and a battery-only job usually doesn't need either. We hold MCS certification (number [NAP-66870](https://mcscertified.com/find-an-installer/)), [NAPIT registration](/accreditations/napit/) and [HIES consumer protection](/accreditations/hies-consumer-code/), and we're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/).
 
 [Contact us](/contact/) for a free, no-obligation survey - we'll look at your bills, your consumer unit and where a battery could sensibly live, and put real numbers in front of you.

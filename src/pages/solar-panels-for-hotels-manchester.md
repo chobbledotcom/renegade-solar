@@ -20,7 +20,7 @@ Dealing directly with Ashley helps with the scheduling. He coordinates the timin
 
 Ashley Merritt is the named director of Renegade Solar. He's been an electrician for 20+ years, ten of those on commercial projects. He's [MCS-certified](/accreditations/mcs-certified/) ([NAP-66870](https://mcscertified.com/find-an-installer/)) and an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/).
 
-For a hospitality business, the practical implication is that Ashley is your direct contact throughout. He walks the building, designs the system, schedules the install around bookings and rooms in service, and is on site for the work itself. If the numbers don't work for your specific property, he'll say so rather than oversell. The trades he works with are local roofers and scaffolders, which keeps timelines tight and money in the Manchester economy.
+For a hospitality business, the practical implication is that Ashley is your direct contact throughout. He walks the building, designs the system, schedules the install around bookings and rooms in service, and is on site for the work itself. If the numbers don't work for your specific property, he'll say so rather than oversell. The only trades he brings in are the scaffolders and the roofing firm, which keeps timelines tight and money in the Manchester economy.
 
 ## Why hospitality businesses benefit
 

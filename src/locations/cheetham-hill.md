@@ -12,7 +12,7 @@ faqs:
   - q: "How many solar panels fit on a Cheetham Hill terrace?"
     a: "The terraced streets here are compact two and three bedroom houses with chimney-heavy roofs, so it's usually about placing six to ten panels well rather than fitting as many as possible. Done right, that sized system still covers a serious share of a typical household's electricity."
   - q: "Do you use subcontractors for the installation?"
-    a: "The installation is carried out by the in-house team. Specialist scaffolding is the only part we subcontract, and Ashley oversees every job from the survey onwards."
+    a: "The installation is carried out by the in-house team. Scaffolding and roofing are the only parts we outsource, with the roofing done by the same firm for years, and Ashley oversees every job from the survey onwards."
   - q: "Do you take on commercial premises in Cheetham Hill?"
     a: "Yes. The commercial buildings along the main roads out of the city are a different job again, and we take them on. Our <a href=\"/services/commercial-solar-installations/\">commercial solar</a> page covers how the bigger systems are designed and connected."
 ---

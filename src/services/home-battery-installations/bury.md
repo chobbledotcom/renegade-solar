@@ -34,6 +34,6 @@ Plenty of Bury homes already have panels on the roof from another installer. A r
 
 ## Why use a local Bury battery installer
 
-You deal with Ashley from the first survey through commissioning and aftercare, and the installation is done by our in-house team - only the scaffolding is ever subcontracted, and a battery-only job rarely needs it. We hold MCS certification (number [NAP-66870](https://mcscertified.com/find-an-installer/)), [NAPIT registration](/accreditations/napit/) and [HIES consumer protection](/accreditations/hies-consumer-code/), and we're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/).
+You deal with Ashley from the first survey through commissioning and aftercare, and the installation is done by our in-house team - scaffolding and roofing are the only parts ever outsourced, and a battery-only job rarely needs either. We hold MCS certification (number [NAP-66870](https://mcscertified.com/find-an-installer/)), [NAPIT registration](/accreditations/napit/) and [HIES consumer protection](/accreditations/hies-consumer-code/), and we're an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/).
 
 [Contact us](/contact/) for a free, no-obligation survey. We'll look at your bills, your consumer unit and where a battery could sensibly live, and put real numbers in front of you - whether you're in the town centre, Ramsbottom, Tottington or out towards Summerseat.

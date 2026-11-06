@@ -31,7 +31,7 @@ We design and install solar and battery systems for homes across Greater Manches
 
 Ashley's the person you'll be dealing with from start to finish. He'll do the survey, design the system, oversee the install, and be the one you ring afterwards if there's a question.
 
-The installation work is carried out by our in-house Renegade Solar team, with specialist scaffolding the only part we subcontract. Ashley remains involved through the survey, solar panel and battery design, electrical installation, commissioning and aftercare, so there is no handover from a salesperson to a crew you have never met.
+The installation work is carried out by our in-house Renegade Solar team, with scaffolding and roofing the only parts we outsource, and the roofing has been done by the same firm for years. Ashley remains involved through the survey, solar panel and battery design, electrical installation, commissioning and aftercare, so there is no handover from a salesperson to a crew you have never met.
 
 ## Design and Planning
 
@@ -81,7 +81,7 @@ The M9 job above was a repair we inherited. This one is the difficult-roof story
 
 ## Installation
 
-Installs are carried out with minimal disruption to your home or business by the in-house Renegade Solar team. We only subcontract the specialist scaffolding, and Ashley coordinates that around the roof and electrical work rather than leaving the customer to organise separate contractors.
+Installs are carried out with minimal disruption to your home or business by the in-house Renegade Solar team. Ashley coordinates the scaffolders and the roofing firm around the electrical work rather than leaving the customer to organise separate contractors.
 
 Ashley's own house runs the full setup - black panels with bird mesh underneath, two batteries totalling 10kWh, the inverter outside on the gable end and the EV charger - and he answers the five questions customers ask most on camera in [his walkthrough of his own home](/solar-questions-answered-manchester/).
 

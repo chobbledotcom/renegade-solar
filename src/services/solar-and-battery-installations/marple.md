@@ -36,7 +36,7 @@ Listed buildings need Listed Building Consent on top of planning permission, whi
 
 ## Local Service
 
-Ashley personally oversees everything - initial survey, system design, installation, and final testing. No salespeople, no call centres, no subcontractors turning up on the day. He's your point of contact from start to finish.
+Ashley personally oversees everything - initial survey, system design, installation, and final testing. There are no salespeople or call centres, and the only outside trades are the scaffolders and the roofing firm we've used for years. He's your point of contact from start to finish.
 
 We understand Marple's property types and can typically complete installations within a week with minimal disruption. Cable runs are planned to be as neat as possible, and we clean up properly when we're done.
 

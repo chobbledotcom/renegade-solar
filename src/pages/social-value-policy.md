@@ -22,7 +22,7 @@ Every installation we carry out is an opportunity to reduce carbon emissions and
 
 We are committed to giving back to the communities we serve in North Manchester and beyond.
 
-We prioritise working with local roofers, scaffolders, and tradespeople on every job. Keeping work local means the money spent on your installation supports families and businesses right here in Greater Manchester.
+We use local scaffolding and roofing firms for the only parts of a job we don't do in-house. Keeping work local means the money spent on your installation supports families and businesses right here in Greater Manchester.
 
 We are currently working with the [University of Manchester](https://www.manchester.ac.uk/research/beacons/energy/) to design a mobile education unit that will travel around Greater Manchester teaching the public how solar energy works. We also offer advice and educational sessions on solar energy to homeowners and businesses who want to understand their options before committing.
 
@@ -38,7 +38,7 @@ We maintain fair working conditions across all of our projects. Our suppliers ar
 
 ## How We Deliver Social Value
 
-We sub-contract local roofers and scaffolders to keep investment in the Greater Manchester economy. Materials are sourced from responsible suppliers where possible, and we reduce our own travel emissions by carrying out consultations remotely over WhatsApp and video calls wherever we can.
+We sub-contract local scaffolding and roofing firms to keep investment in the Greater Manchester economy. Materials are sourced from responsible suppliers where possible, and we reduce our own travel emissions by carrying out consultations remotely over WhatsApp and video calls wherever we can.
 
 We provide solar education resources to local homeowners and businesses, and we track the environmental benefits of every installation so we can measure the real-world impact of our work.
 

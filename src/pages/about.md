@@ -26,7 +26,7 @@ You don't have to be worried about climate change to want solar, though plenty o
 
 ## Working Locally
 
-Customers deal directly with me, and the installation work is completed by our in-house Renegade Solar team. I stay involved in the survey, design, electrical installation, commissioning and aftercare. Specialist scaffolding is the only part we subcontract.
+Customers deal directly with me, and the installation work is completed by our in-house Renegade Solar team. I stay involved in the survey, design, electrical installation, commissioning and aftercare. Scaffolding and roofing are the only parts we outsource, and the roofing has been done by the same firm for years.
 
 The team fits solar panels around rooflights, on slate roofs and across flat roofs broken up by roof lanterns and parapets. Those awkward layouts need careful measuring, sensible access and a panel arrangement designed for the actual Manchester property rather than an empty rectangle on a screen.
 

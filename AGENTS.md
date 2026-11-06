@@ -41,7 +41,7 @@ Target terms include, but are not limited to:
 - The company is based in North Manchester, around Prestwich and Middleton, and serves Greater Manchester with a focus on North Manchester.
 - MCS certification number: `NAP-66870`, listed at https://mcscertified.com/find-an-installer/renegade-electrical-ltd/. The `NAP` prefix means it is administered through NAPIT, where Ashley is member `66870`. It is the same number under both schemes, not two registrations - both `NAPIT registered (66870)` and `MCS-certified (NAP-66870)` are correct.
 - Customers deal directly with Ashley rather than a call centre or commissioned sales team.
-- Installation work is handled in-house. Specialist scaffolding is the only subcontracted part of the installation process.
+- Installation work is handled in-house. Scaffolding and roofing are the only outsourced parts of the installation process. The roofing has been done by the same firm for years. Electrical work is never subcontracted.
 - Ashley remains personally involved in surveys, design, electrical installation, commissioning, and aftercare, while working with the in-house Renegade Solar team.
 
 ## Credentials
@@ -239,7 +239,7 @@ Use modelled estimates for the customer's actual property and tariff where possi
 ## Key Selling Points
 
 - Direct contact with Ashley and no commissioned salespeople or call centres.
-- Installation completed by the in-house team, with only specialist scaffolding subcontracted.
+- Installation completed by the in-house team, with only scaffolding and roofing outsourced, with the roofing done by the same long-standing firm.
 - MCS, NAPIT, TrustMark, HIES, and Octopus Energy Trusted Partner credentials.
 - A qualified electrician leading solar, battery, EV charger, inspection, and broader electrical work.
 - Experience with standard pitched roofs, flat roofs, rooflights, irregular layouts, mixed roof sections, ground arrays, new builds, renovations, and traditional Greater Manchester properties.
@@ -296,7 +296,7 @@ Only state property-market figures or planning constraints when a current reliab
 ### Why Use A Local Installer
 
 - Explain that customers deal with Ashley and the in-house team.
-- State accurately that only specialist scaffolding is subcontracted.
+- State accurately that only scaffolding and roofing are outsourced, with the roofing done by the same long-standing firm.
 - Mention practical response times without making an unqualified guarantee.
 - Include a genuine attributed review from the data rather than a sample quotation.
 - Discuss local planning or property knowledge only where it is specific and supportable.

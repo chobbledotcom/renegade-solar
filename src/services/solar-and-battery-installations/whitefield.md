@@ -44,7 +44,7 @@ Ashley has 20+ years on the tools as an electrician, including time spent workin
 
 ## Local install
 
-Being based so close to Whitefield means we know plenty of other tradespeople in the area we've worked with for years - the same scaffolding firm goes up every time we need roof access, for instance. We're regularly passing through, so booking a survey is usually straightforward.
+Being based so close to Whitefield means we know plenty of the other tradespeople in the area, and the roofing firm we use has been doing our roofs for years. The scaffolders are local too, so access gets sorted before install day rather than during it. We're regularly passing through, so booking a survey is usually straightforward.
 
 ## Coverage
 

@@ -8,7 +8,7 @@ permalink: /prestwich/
 tags: location
 faqs:
   - q: "Are you actually based in Prestwich, or do you just cover it?"
-    a: "Based here, which is why most of our work sits within ten or fifteen minutes of the front door. Ashley runs the company himself, and the in-house team does the installing with only specialist scaffolding subcontracted. Whitefield, Crumpsall and Cheetham Hill are all a few minutes out."
+    a: "Based here, which is why most of our work sits within ten or fifteen minutes of the front door. Ashley runs the company himself, and the in-house team does the installing with only scaffolding and roofing outsourced. Whitefield, Crumpsall and Cheetham Hill are all a few minutes out."
   - q: "What sort of Prestwich houses suit solar panels?"
     a: "Semis, detached homes and bungalows all take solar here, and the Victorian terraces near St Mary's Park too. The usual design questions are orientation and chimneys, and the mature trees on several streets make a shade check worth the time."
   - q: "Have you fitted solar on a house like mine in Prestwich?"

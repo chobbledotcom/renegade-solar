@@ -73,6 +73,6 @@ Based in Prestwich, we work with businesses across Greater Manchester and the wi
 
 As [MCS-certified](/accreditations/mcs-certified/) installers and an [Octopus Energy Trusted Partner](/accreditations/octopus-trusted-partner/), we'll give you an honest answer about whether solar makes financial sense for your business. If the numbers don't stack up for you, we'll say so - we'd rather pass on a job than fit something that won't deliver the returns. We handle the work end-to-end: initial design, install, commissioning and aftercare.
 
-Where we can, we work with local roofers, scaffolders and contractors on every project. Our [Social Value Policy](/social-value-policy/) goes into more detail on this.
+Scaffolding and roofing are the only parts we outsource, and where we can we use local firms for both. Our [Social Value Policy](/social-value-policy/) goes into more detail on this.
 
 **[Get in touch](/contact/) for a free site survey and a financial breakdown for your business.**
