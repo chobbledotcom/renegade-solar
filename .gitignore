@@ -1,5 +1,6 @@
 .claude*
 .devenv/
+.direnv/
 .env
 .nix-gems
 .sass-cache
