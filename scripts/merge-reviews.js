@@ -176,6 +176,29 @@ function writeReviewFiles(reviews) {
 // Reviews below this rating (out of 10) are hidden from the site.
 const MIN_DISPLAY_RATING = 8;
 
+// The reviews page metadata quotes the current figures in plain text, so keep
+// it in step with reviews.json rather than letting the numbers drift.
+function updateReviewsPage(summary) {
+  const pagePath = path.join(ROOT, "src", "pages", "reviews.md");
+  if (!fs.existsSync(pagePath)) return false;
+
+  const rating = String(Math.round(summary.averageRating * 100) / 100);
+  const before = fs.readFileSync(pagePath, "utf8");
+  const after = before
+    .replace(
+      /^title: Reviews - [\d.]+\/10 from \d+ Verified Reviews$/m,
+      `title: Reviews - ${rating}/10 from ${summary.total} Verified Reviews`,
+    )
+    .replace(
+      /^description: "Rated [\d.]+\/10 by \d+ customers/m,
+      `description: "Rated ${rating}/10 by ${summary.total} customers`,
+    );
+
+  if (after === before) return false;
+  fs.writeFileSync(pagePath, after, "utf8");
+  return true;
+}
+
 function generateSummary(reviews) {
   const filtered = reviews.filter((r) => r.rating.rating >= MIN_DISPLAY_RATING);
 
@@ -224,6 +247,10 @@ function main() {
     fs.writeFileSync(REVIEWS_JSON, JSON.stringify(summary, null, 2), "utf8");
     console.log(`Written reviews.json with ${summary.total} reviews, avg rating ${summary.averageRating}/10`);
 
+    if (updateReviewsPage(summary)) {
+      console.log("Updated the reviews page title and description to match");
+    }
+
     cleanup();
     console.log("Done!");
   } catch (e) {
@@ -237,4 +264,4 @@ if (require.main === module) {
   main();
 }
 
-module.exports = { main };
+module.exports = { main, updateReviewsPage };

@@ -776,8 +776,8 @@ const checkCredentials = (x) => {
   return ["WARN", 0, "no MCS/TrustMark/NAPIT/HIES/Octopus/Checkatrade mention"];
 };
 
-// Review figures drift (reviews.json is the source of truth: 168 reviews,
-// 9.96/10). A page quoting old numbers undermines the trust signal.
+// Review figures drift (reviews.json is the source of truth). A page quoting
+// old numbers undermines the trust signal.
 let reviewsData = null;
 const reviewsFacts = () => {
   if (!reviewsData) {
@@ -1371,8 +1371,8 @@ const JEV_CHECKS = [
       "installer in Manchester'), or whole-house power-cut protection implied for every " +
       "battery? Google's helpful-content self-check also asks whether the main heading or " +
       "title 'avoids exaggerating or being shocking in nature' - judge `page.title` and " +
-      "`page.heading` here too. Specific checkable facts ('MCS NAP-66870', '9.96/10 from 168 " +
-      "reviews', '£150 plus VAT') are not overclaims.",
+      "`page.heading` here too. Specific checkable facts ('MCS NAP-66870', the current " +
+      "review average and count, '£150 plus VAT') are not overclaims.",
     {
       true: "At least one unsupported guarantee, absolute or unverifiable ranking",
       false: "Claims are specific and checkable, with no guarantees or rankings",
@@ -1496,8 +1496,9 @@ const buildJevState = (x, siblings) => ({
     name: "Renegade Solar (Renegade Electrical Ltd)",
     who: "solar panel, battery storage and EV charger installer in North Manchester, run by Ashley Merritt, a qualified electrician with over twenty years' experience including ten on commercial projects, trading since 2018",
     context:
-      "MCS-certified, certification number NAP-66870 (administered through NAPIT, member 66870); TrustMark, HIES consumer protection and Octopus Energy Trusted Partner; 9.96/10 from 168 verified Checkatrade reviews; " +
-      "based in Prestwich, serving North Manchester and Greater Manchester; in-house installation team, only specialist scaffolding subcontracted; customers deal directly with Ashley, no call centre or commissioned sales team",
+      "MCS-certified, certification number NAP-66870 (administered through NAPIT, member 66870); TrustMark, HIES consumer protection and Octopus Energy Trusted Partner; " +
+      `${reviewsFacts().averageRating}/10 from ${reviewsFacts().total} verified reviews; ` +
+      "based in Prestwich, serving North Manchester and Greater Manchester; in-house installation team, with scaffolding and roofing the only parts outsourced and the electrical work never subcontracted; customers deal directly with Ashley, no call centre or commissioned sales team",
   },
 });
 
