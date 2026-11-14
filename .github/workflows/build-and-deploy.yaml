@@ -59,7 +59,10 @@ jobs:
     name: Deploy to Bunny
     needs: build
     runs-on: ubuntu-latest
-    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    permissions:
+      contents: read
+      deployments: write
     steps:
       - name: Download built site
         uses: actions/download-artifact@v4
@@ -67,19 +70,14 @@ jobs:
           name: built-site
           path: _site
 
-      - name: Deploy to Bunny
-        uses: R-J-dev/bunny-deploy@v2.0.6
+      - name: Deploy to Bunny CDN
+        uses: BunnyWay/actions/deploy-site@deploy-site_0.1.1
         with:
-          access-key: ${{ secrets.BUNNY_ACCESS_KEY }}
-          directory-to-upload: _site
-          storage-endpoint: "https://storage.bunnycdn.com"
-          storage-zone-name: "renegadesolar"
-          storage-zone-password: ${{ secrets.BUNNY_STORAGE_ZONE_PASSWORD }}
-          concurrency: "5"
-          enable-delete-action: true
-          enable-purge-pull-zone: true
-          pull-zone-id: "4574623"
-          replication-timeout: "15000"
+          site: renegadesolar
+          directory: _site
+          api_key: ${{ secrets.BUNNY_ACCESS_KEY }}
+          cli_version: "0.19"
+          deployments: true
 
   notify-failure:
     name: Notify on Failure
