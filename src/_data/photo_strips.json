@@ -1,0 +1,52 @@
+{
+	"home": [
+		"solar-panels-2.jpg",
+		"battery.jpg",
+		"commercial-solar-ev-fleet-2.jpg",
+		"flat-roof-rusholme-4.jpg",
+		"solar-panels-black-roof.jpg",
+		"failsworth-scaffolding.jpg",
+		"hyde-job-finish-with-panels.jpg",
+		"commercial-solar-panels.jpg"
+	],
+	"location": [
+		"solar-panels-2.jpg",
+		"battery.jpg",
+		"flat-roof-rusholme-4.jpg",
+		"hyde-job-finish-with-panels.jpg",
+		"new-build-hyde.jpg",
+		"failsworth-scaffolding.jpg"
+	],
+	"solar": [
+		"solar-panels-2.jpg",
+		"flat-solar-panels.jpg",
+		"flat-roof-rusholme-4.jpg",
+		"hyde-job-finish-with-panels.jpg",
+		"new-build-hyde.jpg",
+		"failsworth-solar-job-complete.jpg",
+		"rusholme-6-complete.jpg",
+		"failsworth-scaffolding.jpg"
+	],
+	"battery": [
+		"battery.jpg",
+		"barnsley-job-inverter-battery-finish-ash.jpg",
+		"solax-inverter-and-batteries.jpg"
+	],
+	"commercial": [
+		"commercial-solar-ev-fleet-2.jpg",
+		"commercial-solar-panels.jpg",
+		"commercial-solar-box.jpg",
+		"commercial-solar-ev-fleet-1.jpg"
+	],
+	"ev": [
+		"commercial-solar-ev-fleet-2.jpg",
+		"commercial-solar-ev-fleet-1.jpg",
+		"solax-inverter-and-batteries.jpg"
+	],
+	"removal": [
+		"panels-roof-in-progress.jpg",
+		"failsworth-scaffolding.jpg",
+		"new-build-hyde-start-1.jpg",
+		"hyde-job-finish-with-panels.jpg"
+	]
+}

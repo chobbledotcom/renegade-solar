@@ -6,6 +6,7 @@ permalink: /
 tags: top_link
 link_title: Home
 order: 0
+photo_strip: home
 heading: Solar panels in Manchester, installed by a local electrician
 faqs:
   - q: How much do solar panels cost in Manchester?

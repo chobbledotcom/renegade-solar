@@ -1,0 +1,7 @@
+<li>
+  <a href="/assets/photos/{{ strip_item.filename }}" target="_blank" rel="noopener">
+    <img src="/assets/photos/{{ strip_item.filename }}" alt="{{ strip_item.alt }}"
+      sizes="(max-width: 768px) 80vw, 320px"
+      eleventy:widths="640,400" loading="lazy" decoding="async">
+  </a>
+</li>

@@ -11,6 +11,7 @@ location_pages: true
 process_set: consumer_unit
 faq_set: consumer_unit
 hero_sub: "Consumer unit and fuse board replacement by a NAPIT-registered electrician, with the earthing, circuits and certification done properly."
+photo_strip: none
 ---
 
 # Consumer Unit & Fuse Board Upgrades in Manchester

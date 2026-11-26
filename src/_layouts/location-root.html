@@ -50,7 +50,7 @@ layout: base.html
 
   {% include "motifs/process.html" %}
 
-  {% assign strip_tags = "solar-panels,battery" %}
+  {% assign photo_strip = photo_strip | default: "location" %}
   {% include "motifs/photo-strip.html" %}
 
   {% include "motifs/stat-strip.html" %}

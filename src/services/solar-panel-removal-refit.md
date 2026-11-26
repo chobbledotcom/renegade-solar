@@ -11,6 +11,7 @@ location_pages: true
 process_set: removal_refit
 faq_set: removal_refit
 gallery_tags: [solar-panels]
+photo_strip: removal
 hero_sub: "Solar panels removed for roofing work and refitted properly, with the array tested and documented afterwards."
 ---
 

@@ -7,6 +7,7 @@ icon: /assets/icons/battery.svg
 heading: Home Battery Installation in Bolton
 tags: [bolton]
 gallery_tags: [battery]
+photo_sub: "Real battery jobs, photographed on the day. Scroll sideways for more."
 faq_set: battery
 ---
 

@@ -1,10 +1,15 @@
 {%- comment -%}
-A horizontal run of real job photographs that scrolls sideways. Uses the same
-src/_data/gallery.json as the full gallery, filtered by the page's
-`gallery_tags` front matter where it has any.
+A horizontal run of real job photographs that scrolls sideways.
 
-  {% assign strip_tags = "solar-panels,battery" %}   override the filter
-  {% assign strip_limit = 8 %}                       how many (default 8)
+By default it filters src/_data/gallery.json by the page's `gallery_tags`
+front matter (or a `strip_tags` string override). Pages can also name a
+curated list in src/_data/photo_strips.json with `photo_strip`, which is the
+better choice when a service needs a specific mix of jobs rather than every
+photo with a tag. Set `photo_strip: none` to suppress the band.
+
+  photo_strip: solar                                  curated list by name
+  {% assign strip_tags = "solar-panels,battery" %}    tag filter
+  {% assign strip_limit = 8 %}                        how many (default 8)
   {% include "motifs/photo-strip.html" %}
 {%- endcomment -%}
 {%- assign strip_limit = strip_limit | default: 8 -%}
@@ -13,35 +18,60 @@ src/_data/gallery.json as the full gallery, filtered by the page's
 {%- else -%}
   {%- assign strip_tag_list = gallery_tags -%}
 {%- endif -%}
+{%- assign strip_key = photo_strip -%}
+{%- if strip_key == "none" -%}
+  {%- assign strip_key = nil -%}
+  {%- assign strip_tag_list = nil -%}
+{%- endif -%}
+{%- if strip_key == nil and strip_tag_list -%}
+  {%- if strip_tag_list contains "solar-panels" -%}
+    {%- assign strip_key = "solar" -%}
+  {%- elsif strip_tag_list contains "battery" -%}
+    {%- assign strip_key = "battery" -%}
+  {%- elsif strip_tag_list contains "commercial" -%}
+    {%- assign strip_key = "commercial" -%}
+  {%- elsif strip_tag_list contains "electric-vehicle" -%}
+    {%- assign strip_key = "ev" -%}
+  {%- endif -%}
+{%- endif -%}
+{%- assign strip_files = photo_strips[strip_key] -%}
 {%- assign sorted_photos = gallery | sort: "order" -%}
-{%- comment -%} First pass: how many photos match, so we can skip the whole band if barely any do. {%- endcomment -%}
-{%- assign strip_match_count = 0 -%}
-{%- for item in sorted_photos -%}
-  {%- include "motifs/photo-strip-match.html" -%}
-  {%- if keep -%}{%- assign strip_match_count = strip_match_count | plus: 1 -%}{%- endif -%}
-{%- endfor -%}
+{%- if strip_files -%}
+  {%- assign strip_match_count = strip_files.size -%}
+{%- elsif strip_tag_list -%}
+  {%- comment -%} Count tag matches first, so a barely-matching filter can be skipped entirely. {%- endcomment -%}
+  {%- assign strip_match_count = 0 -%}
+  {%- for item in sorted_photos -%}
+    {%- include "motifs/photo-strip-match.html" -%}
+    {%- if keep -%}{%- assign strip_match_count = strip_match_count | plus: 1 -%}{%- endif -%}
+  {%- endfor -%}
+{%- else -%}
+  {%- assign strip_match_count = 0 -%}
+{%- endif -%}
 {%- if strip_match_count > 2 -%}
 <section class="band band--dark">
   <div class="band__inner">
     {%- assign sh_eyebrow = photo_eyebrow | default: "Recent work" -%}
     {%- assign sh_title = photo_title | default: "Jobs we have actually done" -%}
-    {%- assign sh_sub = photo_sub | default: "Real roofs in Greater Manchester, photographed on the day. Scroll sideways for more." -%}
+    {%- assign sh_sub = photo_sub | default: "Real jobs in Greater Manchester, photographed on the day. Scroll sideways for more." -%}
     {% include "motifs/section-head.html" %}
     <ul class="photo-strip">
-      {%- assign strip_shown = 0 -%}
-      {%- for item in sorted_photos -%}
-        {%- include "motifs/photo-strip-match.html" -%}
-        {%- if keep and strip_shown < strip_limit -%}
-          {%- assign strip_shown = strip_shown | plus: 1 %}
-      <li>
-        <a href="/assets/photos/{{ item.filename }}" target="_blank" rel="noopener">
-          <img src="/assets/photos/{{ item.filename }}" alt="{{ item.alt }}"
-            sizes="(max-width: 768px) 80vw, 320px"
-            eleventy:widths="640,400" loading="lazy" decoding="async">
-        </a>
-      </li>
-        {%- endif -%}
-      {%- endfor %}
+      {%- if strip_files -%}
+        {%- for filename in strip_files limit: strip_limit -%}
+          {%- assign strip_item = gallery | where: "filename", filename | first -%}
+          {%- if strip_item -%}{%- include "motifs/photo-strip-item.html" -%}{%- endif -%}
+        {%- endfor -%}
+      {%- else -%}
+        {%- assign strip_shown = 0 -%}
+        {%- for item in sorted_photos -%}
+          {%- include "motifs/photo-strip-match.html" -%}
+          {%- if keep and strip_shown < strip_limit -%}
+            {%- assign strip_shown = strip_shown | plus: 1 -%}
+            {%- assign strip_item = item -%}
+            {%- include "motifs/photo-strip-item.html" -%}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endif -%}
     </ul>
     <p class="motif-actions">
       <a class="btn ghost-btn" href="/gallery/">See the full gallery</a>
@@ -51,6 +81,11 @@ src/_data/gallery.json as the full gallery, filtered by the page's
 {%- endif -%}
 {%- assign strip_tags = nil -%}
 {%- assign strip_limit = nil -%}
+{%- assign strip_key = nil -%}
+{%- assign strip_files = nil -%}
+{%- assign strip_tag_list = nil -%}
+{%- assign strip_item = nil -%}
+{%- assign photo_strip = nil -%}
 {%- assign photo_eyebrow = nil -%}
 {%- assign photo_title = nil -%}
 {%- assign photo_sub = nil -%}

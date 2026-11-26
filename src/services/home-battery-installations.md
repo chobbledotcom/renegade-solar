@@ -11,6 +11,7 @@ gallery_tags:
 process_set: battery
 faq_set: battery
 hero_sub: "Home battery storage sized around how you actually use electricity, with or without solar panels, so you can charge at off-peak rates."
+photo_sub: "Real battery jobs, photographed on the day. Scroll sideways for more."
 ---
 
 # Home Battery Installations in Manchester
