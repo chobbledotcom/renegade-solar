@@ -13,7 +13,7 @@ faqs:
   - q: What size solar system does my house need?
     a: The honest answer comes from your usage and your roof, not from a sales package. Systems are sized from what your household actually consumes and the roof space available, and typical domestic batteries run from about 5kWh to 15kWh.
   - q: How long does the installation take?
-    a: A standard residential installation is commonly completed in one to two days, depending on the roof, the scaffolding, the electrical work and the weather. The installation itself is done by the in-house team. Scaffolding and roofing are the only parts we outsource.
+    a: A standard residential installation is commonly completed in one to two days on the roof, with the electrical work and commissioning filling out the rest, weather permitting. Larger systems with two batteries, an EV charger or awkward access can take most of a week. The installation itself is done by the in-house team. Scaffolding and roofing are the only parts we outsource.
   - q: What is included in a solar and battery installation?
     a: Every installation includes MCS certification, BS 7671 electrical certification and monitoring where the equipment supports it, plus two years of routine maintenance. Commissioning, handover and guidance on getting the most from the system are part of the job, not extras.
   - q: Which areas do you cover?

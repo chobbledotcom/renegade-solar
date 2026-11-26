@@ -36,7 +36,7 @@ We mainly fit batteries from:
 - [**Solax**](/solax-battery-installer-manchester/) - reliable systems with good smart integration
 - [**AlphaESS**](/alphaess-battery-installer-manchester/) - solid performance and decent monitoring
 
-Battery sizes range from 6kWh upwards depending on your home's energy use. During the free consultation we'll look at your electricity bills and recommend a battery that fits your usage.
+Battery sizes range from 6kWh upwards depending on your home's energy use. During the free consultation we'll look at your electricity bills and recommend a battery that fits your usage. Recent installations have included a 19.2kWh battery system alongside an 8kW hybrid inverter.
 
 Recent solar and battery customers mention the same things in reviews: the system being sized around the actual house, the battery and inverter being explained clearly, and the work being finished within the agreed timescale. On one awkward 1930s bungalow, Ashley designed a ten-panel system where other quotes only managed six or eight panels from satellite images, then worked with AlphaESS technical support during commissioning to resolve setup issues before handover.
 

@@ -20,7 +20,13 @@ In practice that means Ashley walks the site himself, looks at the actual loads,
 
 ## Where off-grid solar makes sense
 
-The use cases we see most often are mobile catering operations that want to lose the diesel generator, agricultural buildings and equipment where running mains in would be uneconomic, and remote offices on sites where the grid connection cost would dwarf the running cost of a properly sized solar and battery system. The equation is the same in each case: how much you currently spend on generator fuel - or how much a grid connection would cost - against a one-time install of a system that runs for decades.
+The use cases we see most often are mobile catering operations that want to lose the diesel generator, agricultural buildings and equipment where running mains in would be uneconomic, allotment sites and outbuildings where a grid connection is impractical, and remote offices on sites where the grid connection cost would dwarf the running cost of a properly sized solar and battery system. The equation is the same in each case: how much you currently spend on generator fuel - or how much a grid connection would cost - against a one-time install of a system that runs for decades.
+
+## A five-kilowatt off-grid system in Stockport
+
+In summer 2025 we installed a 5kW off-grid solar and battery system at Green Lane Allotments in Stockport. The site has no mains supply, so the array and battery have to carry the whole load rather than topping up a grid connection, and the design had to suit an allotment site rather than a house roof or a factory unit.
+
+A year later Ashley went back to Green Lane for a community day, talking to plot holders and visitors about how the system had performed and what an off-grid setup can and cannot do. That return visit matters with this kind of work: an off-grid system is only proved by running it through a full year of weather and use. The customer's own words at the design stage were: "Ashley did a site inspection and we tweaked the initial design to better suit our location."
 
 ## Why it stacks up financially
 

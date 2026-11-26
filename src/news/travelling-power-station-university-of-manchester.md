@@ -28,11 +28,11 @@ The first proper test was at PeopleFest, the anthropology festival in Edinburgh,
 
 That matters with a mobile project like this. A house roof does not get dragged up the motorway and parked outside a festival. Anything on a trailer has to handle movement, weather, setup time and people using it in places that were not designed around it.
 
-## Where it is going next
+## Where it has been
 
-The next public stop we have been told about is Liverpool, where the Travelling Power Station is due to spend a few weeks. It starts with the Summer Street Party at TwoUpTwoDown, the Liverpool community organisation formerly known as Homebaked, on Saturday 11 July 2026 at 77 Grasmere Street, L5 6RH.
+The 2026 programme took the trailer to Liverpool for a few weeks from July, starting with the Summer Street Party at TwoUpTwoDown, the Liverpool community organisation formerly known as Homebaked, at 77 Grasmere Street, L5 6RH, on Saturday 11 July 2026.
 
-Ashley has also said Renegade will be attending some of the community days while the trailer is stationed around different places, including a Middleton stop when that part of the programme is confirmed.
+The local stop came on Saturday 14 November 2026, when the Travelling Power Station was at Middleton Gardens. Renegade was there from 2pm to 4pm talking to people about solar, battery storage and EV charging, with the trailer's interactive exhibits running on its own solar and storage.
 
 The project has its own [Travelling Power Station Instagram](https://www.instagram.com/travellingpowerstation/) if you want to see more of it in use.
 

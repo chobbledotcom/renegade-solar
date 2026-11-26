@@ -24,7 +24,7 @@ We are committed to giving back to the communities we serve in North Manchester 
 
 We use local scaffolding and roofing firms for the only parts of a job we don't do in-house. Keeping work local means the money spent on your installation supports families and businesses right here in Greater Manchester.
 
-We are currently working with the [University of Manchester](https://www.manchester.ac.uk/research/beacons/energy/) to design a mobile education unit that will travel around Greater Manchester teaching the public how solar energy works. We also offer advice and educational sessions on solar energy to homeowners and businesses who want to understand their options before committing.
+We worked with the [University of Manchester](https://www.manchester.ac.uk/research/beacons/energy/) on the [Travelling Power Station](/news/travelling-power-station-university-of-manchester/), a mobile solar education unit that has since travelled to events in Edinburgh, Liverpool and Middleton. We also offer advice and educational sessions on solar energy to homeowners and businesses who want to understand their options before committing.
 
 Every Christmas we donate new toys and clothes to [The Lighthouse Project](https://www.lighthouseproject.org.uk/), a local charity based in Middleton that supports families across North Manchester. We also proudly sponsor [Blackley Lions FC](https://www.facebook.com/p/Blackley-Lions-Jfc-100012519990378/), a grassroots football team in our local community.
 
