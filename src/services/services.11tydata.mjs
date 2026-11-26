@@ -1,10 +1,12 @@
 const processSets = {
 	"commercial-solar-installations": "commercial",
+	"consumer-unit-upgrades": "consumer_unit",
 	"electric-vehicle-charger-installations": "ev",
 	"electrical-safety-inspections-eicr": "inspection",
 	"electrical-testing": "inspection",
 	"home-battery-installations": "battery",
 	"solar-and-battery-installations": "solar",
+	"solar-panel-removal-refit": "removal_refit",
 };
 
 export default {

@@ -35,6 +35,6 @@ Solar was planned for a later phase. By completing the whole-house electrical de
 
 ## Practical support in M24
 
-At Christmas 2025, Renegade offered help to M24 residents dealing with fuse-board tripping and power cuts, with no call-out fee for pensioners. It was the third year we had run the Christmas offer for people around Middleton and Alkrington.
+At Christmas 2025, Renegade offered help to M24 residents dealing with fuse-board tripping and power cuts, with no call-out fee for pensioners. It was the third year we had run the Christmas offer for people around Middleton and Alkrington. The same electrical work covers [consumer unit upgrades in Middleton](/middleton/consumer-unit-upgrades/) when an old board needs replacing.
 
 We also write up the community projects that pass through this part of Greater Manchester. One recent example is the [Travelling Power Station](/news/travelling-power-station-university-of-manchester/), a University of Manchester mobile energy project where Renegade helped with the design and installed the solar. The Middleton stop came on Saturday 14 November 2026, when the trailer was at Middleton Gardens and Renegade was there to talk solar, batteries and EV charging.

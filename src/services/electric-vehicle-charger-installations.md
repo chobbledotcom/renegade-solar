@@ -51,7 +51,7 @@ If you've already got solar panels, or you're thinking about getting them, we ca
 
 ## Installation process
 
-A qualified electrician will come out, look at your property's electrical setup, talk through what you want and recommend suitable options - you won't get a salesperson. That means the advice is honest and technically informed by someone who actually understands the work. We'll give you a quote with no hidden costs. The install itself is typically a day's work with minimal disruption, and afterwards you'll get all the certification and a walkthrough of how to use the new charger. Our NAPIT registration means you'll get the proper electrical certification that may be needed by your insurance or when selling the property. Same approach as we apply with our [electrical testing](/services/electrical-testing/) work.
+A qualified electrician will come out, look at your property's electrical setup, talk through what you want and recommend suitable options - you won't get a salesperson. That means the advice is honest and technically informed by someone who actually understands the work. We'll give you a quote with no hidden costs. The install itself is typically a day's work with minimal disruption, and afterwards you'll get all the certification and a walkthrough of how to use the new charger. Our NAPIT registration means you'll get the proper electrical certification that may be needed by your insurance or when selling the property. Same approach as we apply with our [electrical testing](/services/electrical-testing/) work. If the consumer unit needs work to take the charger circuit, that is quoted as part of the job - see [consumer unit upgrades](/services/consumer-unit-upgrades/).
 
 ## Charger options
 

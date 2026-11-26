@@ -31,6 +31,6 @@ Our [solar panel installations in Bury](/bury/solar-and-battery-installations/) 
 
 ## Electrics first on older houses
 
-Plenty of Bury's housing stock has been rewired in stages over decades, and the state of the consumer unit, earthing and wiring affects what can hang off it - solar, [battery storage](/services/home-battery-installations/) and an [EV charger](/bury/electric-vehicle-charger-installations/) all depend on a supply that's up to it. An [EICR in Bury](/bury/electrical-safety-inspections-eicr/) costs £150 plus VAT with same day certificates, and it tells you where you stand before you spend money on top of it.
+Plenty of Bury's housing stock has been rewired in stages over decades, and the state of the consumer unit, earthing and wiring affects what can hang off it - solar, [battery storage](/services/home-battery-installations/) and an [EV charger](/bury/electric-vehicle-charger-installations/) all depend on a supply that's up to it. An [EICR in Bury](/bury/electrical-safety-inspections-eicr/) costs £150 plus VAT with same day certificates, and it tells you where you stand before you spend money on top of it. If the roof is being re-covered, we also handle [solar panel removal and refit in Bury](/bury/solar-panel-removal-refit/).
 
 The Bury end of the Metrolink also means a fair few households here run a car as well as a tram card, so home charging on an off-peak tariff is worth setting up properly. [Get in touch](/contact/) and we'll take a look at what you've got.

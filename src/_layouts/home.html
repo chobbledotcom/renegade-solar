@@ -4,9 +4,15 @@ layout: base.html
 
 <div class="hero">
   <div class="hero__media">
+    {% if photo %}
+    <img eleventy:widths="1600,1200,900,600,400" src="/assets/photos/{{ photo }}"
+      alt="{{ hero_alt | default: heading }}"
+      sizes="100vw" loading="eager" fetchpriority="high" />
+    {% else %}
     <img eleventy:widths="1600,1200,900,600,400" src="/assets/photos/renegade-solar-panel-installation-banner.jpg"
       alt="Solar panels on a tiled residential roof during an installation by Manchester installer Renegade Solar"
       sizes="100vw" loading="eager" fetchpriority="high" />
+    {% endif %}
   </div>
   <div class="hero__inner">
     <p class="hero__eyebrow">
@@ -21,10 +27,14 @@ layout: base.html
     {% else %}
     <h1>Solar panel installations in Manchester</h1>
     {% endif %}
+    {% if hero_sub %}
+    <p class="hero__sub">{{ hero_sub }}</p>
+    {% else %}
     <p class="hero__sub">
       MCS-certified solar panel and battery storage installation across North Manchester,
       designed and fitted by a qualified electrician rather than a salesperson.
     </p>
+    {% endif %}
     {% assign trust_short = true %}
     {% assign trust_variant = "bare" %}
     {% include "motifs/trust-bar.html" %}
@@ -82,7 +92,9 @@ layout: base.html
 
   {% include "homepage-reviews.html" %}
 
+  {% unless hide_video %}
   {% include "motifs/video-qa.html" %}
+  {% endunless %}
 
   {% include "motifs/faq.html" %}
 

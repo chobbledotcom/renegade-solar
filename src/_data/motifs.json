@@ -195,6 +195,66 @@
           "body": "Anything that needs doing is priced separately and you are free to take it elsewhere. There is no hard sell attached to the report."
         }
       ]
+    },
+    "consumer_unit": {
+      "title": "How a consumer unit replacement runs",
+      "sub": "A survey first, because not every old fuse box needs replacing.",
+      "steps": [
+        {
+          "title": "Survey",
+          "body": "Ashley looks at the incoming supply, the earthing and bonding, the circuits already in the board and what you want to add. That is what decides whether a replacement is the right answer or whether a smaller repair will do."
+        },
+        {
+          "title": "Written quote",
+          "body": "The board, the protective devices, any earthing or bonding work and the testing are set out in writing. If the survey turns up a circuit that needs remedial work, it goes in the quote rather than appearing as a surprise on the day."
+        },
+        {
+          "title": "Isolation and removal",
+          "body": "The supply is isolated, the circuits are labelled and the old board comes out safely. If the existing arrangement is unusual or has been added to badly, that gets sorted as part of the job rather than hidden behind a new lid."
+        },
+        {
+          "title": "New consumer unit",
+          "body": "A modern board goes in with individual circuit protection, the earthing and bonding brought up to standard, and surge protection where the regulations require it. Spare ways are left where solar, a battery or an EV charger is planned."
+        },
+        {
+          "title": "Testing",
+          "body": "Continuity, insulation resistance, polarity, earth fault loop impedance and RCD or RCBO operation are tested circuit by circuit before anything is signed off."
+        },
+        {
+          "title": "Certificate and handover",
+          "body": "You get an Electrical Installation Certificate, a circuit chart and labels that match the board. Ashley explains what changed and what the new protection does, and the work is certified through our NAPIT registration."
+        }
+      ]
+    },
+    "removal_refit": {
+      "title": "How a solar panel removal and refit runs",
+      "sub": "The panels come off for the roof, then go back on and get tested.",
+      "steps": [
+        {
+          "title": "Survey",
+          "body": "Ashley looks at the array, the mounting system, the roof covering, the cabling and isolators, and the roofer's programme. Scaffolding and access are agreed before anyone starts taking panels off."
+        },
+        {
+          "title": "Plan the sequence",
+          "body": "What comes off, what can be reused, which fixings and flashings need replacing, how the panels are stored and when the roofers need the roof clear. The sequence is agreed with you and the roofing team."
+        },
+        {
+          "title": "Safe isolation and removal",
+          "body": "The DC and AC sides are isolated and labelled before the panels and rails come off. The roof is left protected and the array is stored safely while the roofing work happens."
+        },
+        {
+          "title": "Roof work",
+          "body": "Your roofers carry out the re-roof or repair. Ashley works around their programme and checks the mounting points, flashings and cable route while the roof is open."
+        },
+        {
+          "title": "Refit",
+          "body": "The array goes back on with new fixings or flashings where they are needed, the cabling is reconnected and the earthing is checked. If a panel was damaged, it gets replaced rather than put back."
+        },
+        {
+          "title": "Test and recommission",
+          "body": "String tests, insulation resistance and earth continuity are checked, the inverter is restarted, monitoring is confirmed and the paperwork is updated before handover."
+        }
+      ]
     }
   },
   "faq_sets": {
@@ -322,6 +382,66 @@
       {
         "q": "Can you move an EV charger to a new house?",
         "a": "Yes. The charger comes off the old property and goes back on the wall at the new one, which one of our customers did recently after moving house. The supply and earthing at the new place still get checked first, and our /ev-charger-relocation-manchester/ page covers how it runs."
+      }
+    ],
+    "consumer_unit": [
+      {
+        "q": "How do I know if I need a new consumer unit?",
+        "a": "The usual signs are an old board with rewireable fuses, no RCD protection, scorch marks or a burning smell, or no spare ways left for an extension, electric shower, solar, battery or EV charger. An EICR is the proper way to find out, but a survey will tell you whether a replacement is needed or whether a smaller repair will do."
+      },
+      {
+        "q": "Is a fuse box the same as a consumer unit?",
+        "a": "Yes, in normal use the names mean the same thing. Older houses often still have the original fuse box with rewireable fuses; a modern consumer unit does the same job with safer protective devices and room for more circuits."
+      },
+      {
+        "q": "How long does a consumer unit replacement take?",
+        "a": "Usually a day for a straightforward domestic board. The power is off for most of that time, and it can run longer if the earthing and bonding need work or a circuit has a fault that has to be traced first."
+      },
+      {
+        "q": "Will I get a certificate for the new consumer unit?",
+        "a": "Yes. A consumer unit replacement is certified with an Electrical Installation Certificate, and the work is carried out and certified through our NAPIT registration. You get a circuit chart and labels that match the new board."
+      },
+      {
+        "q": "Do I need a new consumer unit before solar, a battery or an EV charger?",
+        "a": "Not automatically. The existing board, earthing and supply get checked first, and plenty of properties have enough capacity and protection already. Where there are no spare ways or the protection is outdated, replacing the board is usually the sensible way to make room."
+      },
+      {
+        "q": "Can you replace the board without rewiring the whole house?",
+        "a": "Often, yes. Plenty of houses need a new board rather than a full rewire, and we will tell you which situation you are in. Testing after the board goes in may turn up a circuit that needs remedial work, and that gets quoted separately before anything is done."
+      },
+      {
+        "q": "What does a consumer unit replacement cost?",
+        "a": "There is no fixed price because the number of circuits, the state of the earthing and bonding, access and any remedial work all change the job. Ashley surveys the property first and gives you a written quote with the scope set out."
+      }
+    ],
+    "removal_refit": [
+      {
+        "q": "Why would solar panels need removing?",
+        "a": "Usually because the roof underneath needs work: a re-roof, a roof repair, a dormer, a chimney, a flat roof replacement or storm damage. Sometimes an extension or loft conversion changes the roof layout and the array has to come off to suit."
+      },
+      {
+        "q": "Can the existing panels be reused?",
+        "a": "Usually, if they are undamaged and still within their working life. Each panel is checked before it goes back on, and any that are cracked, delaminated or failing get replaced rather than refitted. We will tell you before the job what can be reused and what cannot."
+      },
+      {
+        "q": "How long are the panels off the roof?",
+        "a": "Removal and refit are usually a day or two each, but the gap between them is set by the roofing programme. The roofers need the roof clear while they work, so the panels stay off until the covering is ready to take them again."
+      },
+      {
+        "q": "Do you work with my roofer?",
+        "a": "Yes. We have worked with the same roofing firm for years, and we have also worked alongside roofing teams we had not met before. The sequence, scaffolding and access get agreed before the panels come off so nobody is waiting on the other trade."
+      },
+      {
+        "q": "Will the system still be certified after a refit?",
+        "a": "The refit is tested and documented, including the array, the cabling and the earthing. Where the original system was MCS-certified, we keep the paperwork in order and provide the test results. If you claim export payments, check with your supplier that they have the updated details."
+      },
+      {
+        "q": "Do you need scaffolding to remove and refit panels?",
+        "a": "Usually, yes. If your roofer already has scaffolding up for the roof work, that is often the sensible time to do the removal and refit. Where there is no scaffold, we arrange access as part of the job."
+      },
+      {
+        "q": "Can you replace failed panels at the same time?",
+        "a": "Yes, if the replacement panel matches or is compatible with the rest of the array. If a panel has failed, we will check whether a like-for-like replacement is available before recommending a bigger change."
       }
     ]
   },

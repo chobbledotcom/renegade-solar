@@ -68,7 +68,7 @@ A qualified electrician comes out to look at your property's electrical setup an
 
 ### 2. Flexible Installation
 
-Batteries can go in a range of locations - we've fitted them next to driveways, in garages, and other suitable spaces with minimal disruption.
+Batteries can go in a range of locations - we've fitted them next to driveways, in garages, and other suitable spaces with minimal disruption. If the consumer unit needs work to take the battery circuit, that is part of the same job - see [consumer unit upgrades](/services/consumer-unit-upgrades/).
 
 ### 3. Professional Commissioning
 

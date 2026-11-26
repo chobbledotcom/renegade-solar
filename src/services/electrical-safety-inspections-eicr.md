@@ -78,7 +78,7 @@ If you'd like to combine compliance with renewable upgrades for your portfolio, 
 
 ## What Happens If We Find Problems?
 
-If we spot issues, we'll explain everything clearly - what's wrong, why it matters, and what needs doing. You'll get fair quotes for any remedial work with no hidden costs or inflated prices. We can sort what we find too, so there's no need to get a separate electrician involved. Remedial work usually gets scheduled within a month, which gives you time to plan around it.
+If we spot issues, we'll explain everything clearly - what's wrong, why it matters, and what needs doing. You'll get fair quotes for any remedial work with no hidden costs or inflated prices. We can sort what we find too, so there's no need to get a separate electrician involved. If the answer is a new consumer unit or fuse board, that is a separate quote and you can see how we handle it on the [consumer unit and fuse board upgrades](/services/consumer-unit-upgrades/) page. Remedial work usually gets scheduled within a month, which gives you time to plan around it.
 
 Where a customer can't be present for the visit, Ashley has walked them through the findings on video instead. One Google reviewer described him sending "a clear video demonstrating why the fuse box had failed the test and advised about the repair", before any replacement part was agreed.
 

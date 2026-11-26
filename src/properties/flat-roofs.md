@@ -33,7 +33,7 @@ On a pitched roof, the roof decides the angle and direction of the panels. On a 
 - Installation can be simpler where scaffolding is not needed, though that depends on access and roof height
 - Maintenance access is often easier than it is on a steep pitched roof
 
-It still has to be designed properly. The roof structure, waterproofing, wind loading, shading and cable route all matter, and the mounting system has to suit the roof rather than just sit on top of it and hope for the best.
+It still has to be designed properly. The roof structure, waterproofing, wind loading, shading and cable route all matter, and the mounting system has to suit the roof rather than just sit on top of it and hope for the best. If the covering is being replaced, the array has to come off first - see [solar panel removal and refit](/services/solar-panel-removal-refit/).
 
 ## A flat roof around a roof lantern
 

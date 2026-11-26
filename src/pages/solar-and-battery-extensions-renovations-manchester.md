@@ -20,7 +20,7 @@ A renovation involves multiple trades arriving in the right order, the consumer 
 
 ## When during the build to bring Ashley in
 
-The earlier the better. A lot of decisions that affect a solar or battery install need to be made before second fix - cable routes for panels, inverter and battery; consumer unit position and capacity (does it need uprating?); where the battery is going and whether the building work allows that route; whether there's an EV charger feed to run while walls are open; and the order of operations on the roof if scaffolding is up for roofing or rendering anyway.
+The earlier the better. A lot of decisions that affect a solar or battery install need to be made before second fix - cable routes for panels, inverter and battery; consumer unit position and capacity (does it need uprating?); where the battery is going and whether the building work allows that route; whether there's an EV charger feed to run while walls are open; and the order of operations on the roof if scaffolding is up for roofing or rendering anyway. If panels are already on the roof, that may mean [removing and refitting them](/services/solar-panel-removal-refit/) around the building work.
 
 One thing worth flagging: we still see other installers recommending unsuitable or dangerous setups - batteries in lofts, for example, which goes against NAPIT safety guidance. When sales-trained installers spec jobs without an electrician on the survey, corners get cut. With Ashley, the person walking the property is the person installing it, and he won't recommend something inappropriate just to land a sale.
 

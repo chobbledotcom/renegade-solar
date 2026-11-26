@@ -33,4 +33,4 @@ The usual design questions round here are orientation and chimneys, and the matu
 
 ## Everything else electrical
 
-Being local means the smaller jobs happen too - [EICR inspections in Prestwich](/prestwich/electrical-safety-inspections-eicr/) at £150 plus VAT, [EV charger installations](/prestwich/electric-vehicle-charger-installations/), consumer unit upgrades, outdoor power. One electrician, one number, no call centre. [Get in touch](/contact/) about whatever you've got.
+Being local means the smaller jobs happen too - [EICR inspections in Prestwich](/prestwich/electrical-safety-inspections-eicr/) at £150 plus VAT, [EV charger installations](/prestwich/electric-vehicle-charger-installations/), [consumer unit upgrades in Prestwich](/prestwich/consumer-unit-upgrades/), outdoor power. One electrician, one number, no call centre. [Get in touch](/contact/) about whatever you've got.

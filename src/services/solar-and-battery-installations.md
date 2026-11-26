@@ -81,7 +81,7 @@ The M9 job above was a repair we inherited. This one is the difficult-roof story
 
 ## Installation
 
-Installs are carried out with minimal disruption to your home or business by the in-house Renegade Solar team. Ashley coordinates the scaffolders and the roofing firm around the electrical work rather than leaving the customer to organise separate contractors.
+Installs are carried out with minimal disruption to your home or business by the in-house Renegade Solar team. Ashley coordinates the scaffolders and the roofing firm around the electrical work rather than leaving the customer to organise separate contractors. If the roof is being replaced or repaired, the array may need to come off and go back on - see [solar panel removal and refit](/services/solar-panel-removal-refit/).
 
 Ashley's own house runs the full setup - black panels with bird mesh underneath, two batteries totalling 10kWh, the inverter outside on the gable end and the EV charger - and he answers the five questions customers ask most on camera in [his walkthrough of his own home](/solar-questions-answered-manchester/).
 

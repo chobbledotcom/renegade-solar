@@ -28,7 +28,7 @@ The testing process includes:
 
 ## Testing as part of solar, battery and EV work
 
-A fair share of our testing work supports the installations we're known for. Before [solar panels](/services/solar-and-battery-installations/), a [home battery](/services/home-battery-installations/) or an [EV charger](/services/electric-vehicle-charger-installations/) go in, the existing installation has to be up to taking them - the consumer unit, the earthing and the circuits all get checked first, and anything that needs sorting goes into the quote up front. After installation, the new system is tested and commissioned to the applicable BS 7671 requirements and certified, and that certification is what your insurer, your buyer's solicitor or the DNO paperwork will ask to see.
+A fair share of our testing work supports the installations we're known for. Before [solar panels](/services/solar-and-battery-installations/), a [home battery](/services/home-battery-installations/) or an [EV charger](/services/electric-vehicle-charger-installations/) go in, the existing installation has to be up to taking them - the [consumer unit](/services/consumer-unit-upgrades/), the earthing and the circuits all get checked first, and anything that needs sorting goes into the quote up front. After installation, the new system is tested and commissioned to the applicable BS 7671 requirements and certified, and that certification is what your insurer, your buyer's solicitor or the DNO paperwork will ask to see.
 
 We also test and commission work installed by others where it needs a qualified electrician's sign-off, and we carry out the inspection and testing stages on new-build and renovation projects as part of the electrical installation work.
 
