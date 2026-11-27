@@ -1,131 +1,135 @@
 // Masonry layout for the reviews grid.
 //
-// Adapted from the chobble-template masonry layout. Uses uWrap to predict each
-// card's height from computed font metrics, so cards can be positioned in a
-// single pass with no reflow / flash of mis-positioned content.
+// CSS cannot flow cards into the shortest of several columns without reordering
+// them (column-count fills down a column, not across), so the placement is done
+// in JS. Card heights are predicted with pretext rather than read back from the
+// DOM: getBoundingClientRect/offsetHeight force a reflow, while pretext
+// segments each text block and measures it on a canvas with the browser's own
+// font engine, so the line count matches what the browser paints.
 //
-// This is bundled (with uWrap inlined) into ../src/assets/masonry.js via
-// `npm run build:js`. Edit THIS file, never the bundled output.
+// That accuracy depends on the CSS agreeing with pretext's model, which assumes
+// `overflow-wrap: break-word` (set on .review-title and .review) and a plain
+// font shorthand. The predictable pieces of a card - padding, the gap between
+// its blocks, the review body's max-height - are mirrored from
+// src/css/_customer-reviews.scss below.
 //
-// The numeric constants below are tuned to renegade-solar's review-card CSS in
-// src/css/_customer-reviews.scss. If you change the card padding, gaps, border
-// or column sizing there, update the matching constant here.
+// Column widths are the only thing a resize changes; prepared text is
+// width-independent, so a resize re-runs arithmetic only. Webfonts do change
+// the metrics, so both caches are dropped once they have loaded.
+//
+// This is bundled into ../src/assets/masonry.js via `npm run build:js`. Edit
+// THIS file, never the bundled output.
 
-import { varPreLine } from "uwrap";
+import { clearCache, layout, prepare } from "@chenglou/pretext";
 
 // --- Measurements (must match _customer-reviews.scss) -----------------------
 const CARD_GAP = 32; // gap between cards, both axes (2rem)
-const SECTION_GAP = 16; // gap between sections inside a card (1rem)
+const SECTION_GAP = 16; // gap between blocks inside a card (1rem)
 const CARD_PADDING = 24; // card padding, all sides (1.5rem)
-const CARD_BORDER = 0; // cards use box-shadow, no border
 const MIN_COL_WIDTH = 300; // narrowest a column may get before dropping one
 const MOBILE_BREAKPOINT = 768; // single column at or below this width
 
-// --- uWrap line-counting, cached per font -----------------------------------
-const counterCache = new Map();
+// Prepared text per card, kept across resizes and dropped when fonts change.
+let preparedCards = new WeakMap();
 
-const getCounter = (font) => {
-	if (counterCache.has(font)) return counterCache.get(font);
-	const ctx = document.createElement("canvas").getContext("2d");
-	ctx.font = font;
-	const counter = varPreLine(ctx).count;
-	counterCache.set(font, counter);
-	return counter;
+// Prepare one text block: its text, the font it paints in, its line height and
+// the max-height its card shares (only the review body has one).
+const prepareBlock = (el) => {
+	if (!el) return null;
+	const style = getComputedStyle(el);
+	const cap = Number.parseFloat(style.maxHeight);
+	return {
+		text: prepare(
+			el.textContent || "",
+			`${style.fontWeight} ${style.fontSize} ${style.fontFamily}`,
+		),
+		lineHeight: Number.parseFloat(style.lineHeight),
+		maxHeight: Number.isFinite(cap) ? cap : Number.POSITIVE_INFINITY,
+		el,
+	};
 };
 
-const getFont = (el) => {
-	const s = getComputedStyle(el);
-	return `${s.fontWeight} ${s.fontSize} ${s.fontFamily}`;
+// The blocks that make up a card, in the order the flex column lays them out.
+const prepareCard = (card) => {
+	const headerLineHeights = [".rating", ".date"]
+		.map((selector) => card.querySelector(selector))
+		.filter(Boolean)
+		.map((el) => Number.parseFloat(getComputedStyle(el).lineHeight));
+	return {
+		// Rating and date share one flex row, so the taller line box wins.
+		header: headerLineHeights.length ? Math.max(...headerLineHeights) : null,
+		title: prepareBlock(card.querySelector(".review-title")),
+		review: prepareBlock(card.querySelector(".review")),
+		meta: prepareBlock(card.querySelector(".review-meta")),
+	};
 };
 
-const getLineHeight = (el) => Number.parseFloat(getComputedStyle(el).lineHeight);
+// Rendered height of one block at the given content width. The review body
+// scrolls past its CSS max-height, so a long one must not stretch the card.
+const blockHeight = (block, contentWidth) =>
+	Math.min(
+		layout(block.text, contentWidth, block.lineHeight).height,
+		block.maxHeight,
+	);
 
-// The element's CSS max-height in px, or Infinity when unset ("none").
-const capHeight = (el) => {
-	const max = Number.parseFloat(getComputedStyle(el).maxHeight);
-	return Number.isFinite(max) ? max : Number.POSITIVE_INFINITY;
-};
-
-const textHeight = (text, font, lineHeight, width) =>
-	getCounter(font)(text, width) * lineHeight;
-
-// Predicted rendered height of an element's text content at a given width.
-const elTextHeight = (el, width) => {
-	const text = (el.textContent || "").trim().replace(/\s+/g, " ");
-	return textHeight(text, getFont(el), getLineHeight(el), width);
-};
-
-// Measure an element matched by selector, or null when it is absent.
-const measureOrNull = (card, selector, width) => {
-	const el = card.querySelector(selector);
-	return el ? elTextHeight(el, width) : null;
-};
-
-// Sum a list of section heights with inter-section gaps and the card padding.
-const sumSections = (heights) => {
-	const valid = heights.filter((h) => h !== null);
-	const gaps = valid.length > 1 ? SECTION_GAP * (valid.length - 1) : 0;
-	const padding = CARD_PADDING * 2;
-	const border = CARD_BORDER * 2;
-	return valid.reduce((sum, h) => sum + h, 0) + gaps + padding + border;
-};
-
-// Predict the full height of one review card at the given inner column width.
-const measureReviewCard = (card, contentWidth) => {
-	// Header: rating (left) and date (right) share one row, each single-line.
-	const ratingEl = card.querySelector(".rating");
-	const dateEl = card.querySelector(".date");
-	const headerEls = [ratingEl, dateEl].filter(Boolean);
-	const headerHeight = headerEls.length
-		? Math.max(...headerEls.map((el) => getLineHeight(el)))
-		: null;
-
-	const titleHeight = measureOrNull(card, ".review-title", contentWidth);
-
-	// The review body scrolls past a CSS max-height, so cap the predicted height
-	// there — otherwise a long review over-reserves space and leaves a big gap.
-	const reviewEl = card.querySelector(".review");
-	const reviewText = measureOrNull(card, ".review", contentWidth);
-	let reviewHeight = null;
-	if (reviewText !== null) {
-		const cap = capHeight(reviewEl);
-		reviewHeight = Math.min(reviewText, cap);
-		// Flag reviews tall enough to scroll so CSS can fade the clipped edge.
-		reviewEl.classList.toggle("is-clamped", reviewText > cap);
+// Rendered height of one card, from its prepared blocks. Callers prepare every
+// card before touching the DOM, so the style reads in prepareCard share a
+// single style pass.
+const cardHeight = (blocks, contentWidth) => {
+	const heights = [blocks.header];
+	if (blocks.title) heights.push(blockHeight(blocks.title, contentWidth));
+	if (blocks.review) {
+		const { el, text, lineHeight, maxHeight } = blocks.review;
+		const height = layout(text, contentWidth, lineHeight).height;
+		// Fade the bottom edge of a review long enough to scroll.
+		const clamped = height > maxHeight;
+		if (clamped !== el.classList.contains("is-clamped")) {
+			el.classList.toggle("is-clamped", clamped);
+		}
+		heights.push(Math.min(height, maxHeight));
 	}
-
-	const metaHeight = measureOrNull(card, ".review-meta", contentWidth);
-
-	return sumSections([headerHeight, titleHeight, reviewHeight, metaHeight]);
+	if (blocks.meta) heights.push(blockHeight(blocks.meta, contentWidth));
+	// Every block is a flex child, so an empty one still adds a gap.
+	const present = heights.filter((height) => height !== null);
+	const gaps = present.length > 1 ? SECTION_GAP * (present.length - 1) : 0;
+	return present.reduce((sum, height) => sum + height, 0) + gaps + CARD_PADDING * 2;
 };
 
 const placeCards = (container) => {
 	const cards = [...container.querySelectorAll(":scope > li")];
-	if (cards.length === 0) return;
-
 	const width = container.offsetWidth;
+	// Width is 0 when the container is hidden (display:none ancestor, an
+	// unrendered preview). Leave the CSS grid fallback alone and try again on
+	// the next resize.
+	if (cards.length === 0 || width === 0) return;
+
 	const colCount =
 		width < MOBILE_BREAKPOINT
 			? 1
-			: Math.max(
-					2,
-					Math.floor((width + CARD_GAP) / (MIN_COL_WIDTH + CARD_GAP)),
-				);
+			: Math.max(2, Math.floor((width + CARD_GAP) / (MIN_COL_WIDTH + CARD_GAP)));
 	const colWidth = (width - CARD_GAP * (colCount - 1)) / colCount;
-	const contentWidth = colWidth - CARD_PADDING * 2 - CARD_BORDER * 2;
-	const colHeights = new Float64Array(colCount);
+	const contentWidth = colWidth - CARD_PADDING * 2;
 
+	// Style reads (and nothing else) for cards not prepared yet, then measure,
+	// then write. Keeps one style pass before the placement writes.
 	for (const card of cards) {
-		const cardHeight = measureReviewCard(card, contentWidth);
+		if (!preparedCards.has(card)) preparedCards.set(card, prepareCard(card));
+	}
+	const cardsWithHeights = cards.map((card) => ({
+		card,
+		height: cardHeight(preparedCards.get(card), contentWidth),
+	}));
+
+	container.classList.add("masonry-ready");
+	const colHeights = new Float64Array(colCount);
+	for (const { card, height } of cardsWithHeights) {
 		const col = colHeights.indexOf(Math.min(...colHeights));
 		card.style.width = `${colWidth}px`;
 		card.style.transform = `translate(${col * (colWidth + CARD_GAP)}px, ${colHeights[col]}px)`;
-		colHeights[col] += cardHeight + CARD_GAP;
+		colHeights[col] += height + CARD_GAP;
 	}
 
-	const maxHeight = Math.max(...colHeights);
-	container.style.height = `${maxHeight - CARD_GAP}px`;
-	container.classList.add("masonry-ready");
+	container.style.height = `${Math.max(0, Math.max(...colHeights) - CARD_GAP)}px`;
 };
 
 const debounce = (fn, delay) => {
@@ -141,9 +145,30 @@ const layoutAll = () => {
 	for (const container of containers) placeCards(container);
 };
 
+// Drop the prepared text and lay out again: webfont metrics differ from the
+// fallback's, so heights measured before a face lands are stale.
+let relayoutQueued = false;
+const relayoutForFonts = () => {
+	// `loadingdone` and `fonts.ready` both report the same batch; coalesce.
+	if (relayoutQueued) return;
+	relayoutQueued = true;
+	setTimeout(() => {
+		relayoutQueued = false;
+		preparedCards = new WeakMap();
+		clearCache();
+		layoutAll();
+	}, 0);
+};
+
 const init = () => {
-	if (!document.querySelector("ul.reviews-grid.masonry")) return;
 	layoutAll();
+	const fonts = document.fonts;
+	if (!fonts) return;
+	// A face that lands later (a second weight, an icon font) changes metrics.
+	fonts.addEventListener("loadingdone", relayoutForFonts);
+	// A face already in flight when this ran will fire `loadingdone` too, but
+	// only if it finishes after this listener attached, so also wait on ready.
+	if (fonts.status === "loading") fonts.ready.then(relayoutForFonts);
 };
 
 // Run on page load; relayout on resize.

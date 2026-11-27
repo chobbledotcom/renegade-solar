@@ -1,6 +1,6 @@
-// Bundles assets-src/masonry.js (and its uWrap dependency) into a single
-// self-contained file at src/assets/masonry.js, which Eleventy then copies
-// through to the built site. Run with `npm run build:js`.
+// Bundles assets-src/masonry.js into a single self-contained file at
+// src/assets/masonry.js, which Eleventy then copies through to the built site.
+// Run with `npm run build:js`.
 //
 // The output is committed to the repo (like the other prebuilt assets in
 // src/assets) so the Eleventy deploy build does not need a bundling step.

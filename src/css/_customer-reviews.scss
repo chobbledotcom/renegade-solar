@@ -33,11 +33,14 @@
 // Reviews grid
 //
 // Default layout is a plain CSS grid, which works without JavaScript. When
-// masonry.js runs it measures each card, positions it with an inline transform
-// and adds the `masonry-ready` class, which switches the grid to the
-// JS-positioned (absolute) layout. The numeric values below (padding, gap,
-// border, min column width) must stay in sync with the constants in
-// assets-src/masonry.js.
+// masonry.js runs it adds the `masonry-ready` class, which switches the grid
+// to the JS-positioned (absolute) layout: each card is given its column width
+// and positioned with an inline transform. Card heights are predicted from
+// pretext's text measurements rather than read back from the DOM, so the
+// pieces that feed that prediction must stay in sync with
+// assets-src/masonry.js: the column gap, the minimum column width, the mobile
+// breakpoint, the card padding, the gap between a card's blocks and the review
+// body's max-height. The text it measures must keep `overflow-wrap: break-word`.
 .reviews-grid {
   list-style: none;
   padding: 0;
@@ -99,12 +102,17 @@
     margin: 0;
     font-weight: 600;
     font-size: 1.125rem;
+    // Long unbroken runs (URLs, pasted reference numbers) must wrap rather
+    // than overflow the card. pretext's line model assumes break-word too, so
+    // the predicted height matches what the browser paints.
+    overflow-wrap: break-word;
   }
 
   .review {
     color: #4b5563;
     max-height: 11rem; // long reviews scroll instead of stretching the card
     overflow-y: auto;
+    overflow-wrap: break-word;
 
     p {
       margin: 0;

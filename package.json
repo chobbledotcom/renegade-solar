@@ -28,8 +28,8 @@
 		"yaml": "^2.9.1"
 	},
 	"devDependencies": {
+		"@chenglou/pretext": "^1.0.0",
 		"esbuild": "^0.25.0",
-		"jscpd": "^4.0.9",
-		"uwrap": "^0.1.2"
+		"jscpd": "^4.0.9"
 	}
 }

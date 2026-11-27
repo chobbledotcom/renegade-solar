@@ -28,7 +28,11 @@
     src="https://analytics.renegade-solar.co.uk/count.js"></script>
   <script src="/assets/botpoison.js" async></script>
   <script src="/assets/scripts.js" async></script>
+  {%- comment -%} Only pages rendering a reviews grid need the masonry
+  layout; the script is ~40KB gzipped. {%- endcomment -%}
+  {%- if content contains "reviews-grid" %}
   <script src="/assets/masonry.js" async></script>
+  {%- endif %}
   <link rel="shortcut icon" href="/favicon.ico">
 </head>
 
